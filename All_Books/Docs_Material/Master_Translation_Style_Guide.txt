@@ -1,0 +1,272 @@
+======================================================================
+== The Epoch Media - Master Translation Style Guide (Bản Hợp Nhất) ==
+======================================================================
+Ngày cập nhật: [Xin điền ngày cập nhật mới tại đây, ví dụ: 15/06/2025]
+
+Ghi chú cập nhật: Sửa đổi và làm rõ quy tắc xử lý tên riêng (Mục B1) cho phù hợp với đặc thù của tiếng Nhật. Hoàn thiện quy tắc dịch thuật ngữ tu luyện "Đại Pháp" và "Pháp Luân Đại Pháp" (Mục B4.3). Bổ sung quy tắc xử lý danh từ viết hoa chưa được quy ước (Mục B5) để đảm bảo tính nhất quán. Bổ sung quy tắc mới (Mục B3) về việc sử dụng Từ đệm (Filler Words) để tăng tính tự nhiên và chân thực cho lời thoại trong các bản dịch.
+
+Giới thiệu:
+Cẩm nang này là kim chỉ nam dành cho tất cả dịch giả và biên tập viên tham gia vào các dự án của The Epoch Media. Mục tiêu của chúng ta không chỉ là "dịch", mà là "chuyển ngữ" – tức là chuyển tải trọn vẹn tinh thần, cảm xúc, và các tầng ý nghĩa sâu sắc của tác phẩm gốc sang một ngôn ngữ mới. Dịch giả, giống như "người lái đò", có vai trò dẫn dắt độc giả quốc tế đi qua hành trình tâm linh này một cách tự nhiên và trọn vẹn nhất.
+
+---
+
+### PHẦN A: TINH THẦN & TRIẾT LÝ DỊCH THUẬT (The "Soul" of the Translation)
+
+A1. Vai trò "Người Lái Đò": Dẫn dắt, không diễn giải.
+- Quy tắc: Tái tạo lại con đường và cảnh quan mà tác giả đã vẽ ra, để độc giả nước ngoài tự mình cảm nhận. Tuyệt đối không thêm vào những câu giải thích, bình luận, hay diễn giải ý nghĩa mà trong văn bản gốc không có.
+
+A2. Bảo toàn "Làn Sương Sớm": Gợi mở, không đóng khung.
+- Quy tắc: Văn phong dịch cần giữ được sự nhẹ nhàng, thanh thoát. Tránh dùng những từ ngữ quá mạnh, quá khẳng định. Nếu một đoạn văn gốc cố tình mơ hồ, hãy tìm cách diễn đạt tương đương trong ngôn ngữ đích để giữ lại sự mơ hồ có chủ đích đó.
+
+A3. Tái tạo "Show, Don't Tell": Dịch hành động, không dịch bài học.
+- Quy tắc: Nếu tác giả gốc dùng hành động của nhân vật để thể hiện sự thay đổi nội tâm, bản dịch phải trung thành với điều đó. Chống lại sự cám dỗ muốn "tóm tắt" ý nghĩa cho độc giả.
+
+A4. Tôn trọng "Tư Tưởng Ngầm": Dịch câu chuyện bề mặt một cách xuất sắc.
+- Quy tắc: Linh hồn của tác phẩm (Chân-Thiện-Nhẫn) được ẩn giấu. Cách duy nhất để truyền tải nó là dịch thật hay, thật chân thực câu chuyện đời thường trên bề mặt.
+- YÊU CẦU TUYỆT ĐỐI - Xử lý Thuật ngữ Đặc thù:
+  - Không tự ý đưa vào các thuật ngữ như "Pháp Luân Công", "Pháp Luân Đại Pháp", tên của Sư Phụ Lý Hồng Chí khi bản gốc không đề cập.
+  - Việc dịch thẳng các thuật ngữ này chỉ được thực hiện khi thỏa mãn một trong hai điều kiện sau:
+    1. Có chỉ định rõ ràng từ Outline của dự án.
+    2. Bản gốc (source text) đã sử dụng các thuật ngữ này một cách tường minh. Trong trường hợp này, dịch giả phải trung thành với bản gốc.
+
+---
+
+### PHẦN B: QUY TẮC KỸ THUẬT DỊCH THUẬT (The "Mechanics" of Translation)
+
+B0. Quy tắc Tối thượng & Bất di bất dịch về Thương hiệu THE EPOCH MEDIA (The Supreme & Immutable Rule for the Brand THE EPOCH MEDIA)
+	*	QUY TẮC CỐT LÕI:
+		Tên thương hiệu THE EPOCH MEDIA phải luôn được giữ nguyên, viết hoa, và TUYỆT ĐỐI KHÔNG DỊCH sang bất kỳ ngôn ngữ nào.
+
+	*	CHUẨN HÓA:
+		Dù trong văn bản gốc là THE EPOCH MEDIA hay The Epoch Media, bản dịch cuối cùng phải luôn là THE EPOCH MEDIA (viết hoa toàn bộ).
+	
+	*	BẢN CHẤT QUY TẮC:
+		Đây là quy tắc nhận diện thương hiệu toàn cầu, tương tự như các thương hiệu quốc tế khác (Apple, Google, IBM, v.v.). Tên thương hiệu là bất khả xâm phạm và phải được tôn trọng tuyệt đối trong mọi ngôn ngữ.
+	
+	*	NHỮNG ĐIỀU NGHIÊM CẤM:
+		Nghiêm cấm mọi hình thức phiên âm (ví dụ: 디 에포크 미디어 trong tiếng Hàn) hay dịch nghĩa (ví dụ: 大紀元 trong tiếng Trung). Đây là những lỗi sai nghiêm trọng gây nhầm lẫn về bản sắc độc lập của tổ chức và có thể dẫn đến những hậu quả pháp lý.
+	
+	*	VÍ DỤ ÁP DỤNG:
+		- Đúng:
+			độc giả của THE EPOCH MEDIA (Tiếng Việt)
+			the readers of THE EPOCH MEDIA (Tiếng Anh)
+			les lecteurs de THE EPOCH MEDIA (Tiếng Pháp)
+			THE EPOCH MEDIA の読者 (Tiếng Nhật)
+			THE EPOCH MEDIA 的讀者 (Tiếng Trung)
+			THE EPOCH MEDIA의 독자 (Tiếng Hàn)
+		- Sai nghiêm trọng:
+			độc giả của Đại Kỷ Nguyên
+			les lecteurs de The Epoch Media (大紀元)
+			디 에포크 미디어의 독자
+
+	
+	* Lý do Chiến lược: Ở giai đoạn hiện tại, việc khẳng định một bản sắc độc lập, nghiêm túc và có giá trị riêng của THE EPOCH MEDIA là ưu tiên hàng đầu. Bất kỳ sự nhầm lẫn nào về tên gọi đều có thể gây tổn hại nghiêm trọng đến uy tín và bị hiểu lầm là mạo danh. Việc xây dựng một thương hiệu độc lập, vững chắc là nền tảng cho mọi chiến lược phát triển trong tương lai.
+
+
+B1. Quy tắc về Tên riêng (Proper Nouns)
+
+**Quy tắc Tối thượng: Tên riêng (nhân vật, địa danh) phải được dịch/phiên âm dựa trên NGUỒN GỐC VĂN HÓA của chúng TRONG BỐI CẢNH CÂU CHUYỆN, tuyệt đối không phụ thuộc vào ngôn ngữ của văn bản gốc.**
+- Giải thích: Phương pháp áp dụng quy tắc này có thể thay đổi để phù hợp với đặc thù ngôn ngữ và văn hóa của ngôn ngữ đích, đặc biệt với các ngôn ngữ có sử dụng Hán tự như tiếng Nhật. Mục tiêu là sự nhất quán về nhận diện nhân vật/địa danh trên toàn cầu, nhưng cách thức thể hiện phải tự nhiên nhất với độc giả.
+
+* B1.1. Tên có nguồn gốc Trung Quốc:
+  - **Quy tắc chung (cho ngôn ngữ dùng chữ Latin như Anh, Pháp, Đức...):** Luôn sử dụng phiên âm quốc tế Pinyin. Ví dụ: Vương Minh -> Wang Ming.
+  - **Quy tắc đặc thù cho Tiếng Nhật:** Ưu tiên sự tự nhiên và rõ ràng trong văn hóa Nhật.
+    - **Tên nhân vật:** Viết Hán tự gốc, kèm phiên âm Katakana dựa trên cách đọc Pinyin. Điều này vừa giữ được Hán tự quen thuộc, vừa đảm bảo cách phát âm đúng.
+      - Ví dụ: Vương Minh (王明) -> 王明 (ワン・ミン).
+    - **Tên địa danh:** Viết Hán tự, sử dụng cách đọc phổ biến nhất tại Nhật.
+      - Các thành phố lớn, nổi tiếng: Dùng Hán tự và âm đọc tiếng Nhật (On'yomi). Ví dụ: Bắc Kinh (北京) -> 北京 (ペキン); Thượng Hải (上海) -> 上海 (シャンハイ).
+      - Các địa danh khác: Dùng Hán tự và cách đọc tự nhiên nhất (có thể là âm Nhật hoặc phiên âm Katakana). Ví dụ: Quý Châu (貴州) -> 貴州 (きしゅう).
+
+* B1.2. Tên có nguồn gốc Việt Nam:
+  - Quy tắc: Giữ nguyên tên, bỏ dấu phụ (diacritics).
+  - Ghi chú quan trọng: Quy tắc này chỉ áp dụng khi nhân vật có bối cảnh văn hóa là người Việt Nam trong câu chuyện. (Ví dụ: Một nhân vật tên "Nguyễn Thị An" trong một câu chuyện về người Việt thì sẽ được dịch là "Nguyen Thi An").
+
+* B1.3. Tên có nguồn gốc Nhật Bản / Hàn Quốc:
+  - Quy tắc: Giữ nguyên tên gốc theo thứ tự Họ + Tên.
+  - Ví dụ: Murakami Haruki -> Murakami Haruki.
+
+* B1.4. Tên có nguồn gốc Phương Tây:
+  - Quy tắc: Giữ nguyên. Ví dụ: John Smith, Sophia Bell.
+
+* B1.5. Tên Địa danh (Quy tắc chung):
+  - Quy tắc: Tương tự tên nhân vật, địa danh được phiên âm dựa trên vị trí địa lý trong câu chuyện và sử dụng tên quốc tế hóa hoặc tên gọi phổ biến tại nước của ngôn ngữ đích (tham khảo B1.1).
+  - Ví dụ: Vịnh Hạ Long (Việt Nam) -> Ha Long Bay.
+
+* B1.6. Quy định bắt buộc đối với Sài Gòn / TP.HCM:
+  - Việc sử dụng tên gọi phải tuân thủ nghiêm ngặt bối cảnh lịch sử của câu chuyện.
+    1. Bối cảnh diễn ra TRƯỚC năm 1975: Luôn sử dụng tên "Saigon". Cần thêm chú thích ở lần xuất hiện đầu tiên.
+    2. Bối cảnh diễn ra SAU năm 1975 hoặc hiện đại: Luôn sử dụng tên "Ho Chi Minh City". Cho phép nhân vật dùng "Saigon" trong lời thoại.
+
+* B1.7. Quy định Đặc biệt cho dự án "Hồng Trần, Kim Quang" (Case Study):
+  - Bối cảnh: Các nhân vật chính là người Mỹ gốc Hoa, câu chuyện diễn ra chủ yếu ở Trung Quốc, và bản gốc được viết bằng tiếng Việt.
+  - Quy định: Tất cả các tên riêng (nhân vật, địa danh) trong bản gốc tiếng Việt sẽ được xem là phiên âm Hán-Việt. Nhiệm vụ của dịch giả là chuyển đổi các tên này về định dạng phù hợp với ngôn ngữ đích.
+  - Ví dụ áp dụng:
+    - Đối với bản tiếng Anh/Pháp: Chuyển sang Pinyin (Vương Minh -> Wang Ming; Khánh Linh -> Qing Ling; Đồng Nhân -> Tongren).
+    - Đối với bản tiếng Nhật: Chuyển sang Hán tự + phiên âm (Vương Minh (王明) -> 王明 (ワン・ミン); Khánh Linh (慶玲 - giả định) -> 慶玲 (チン・リン); Đồng Nhân (铜仁) -> 銅仁 (どうじん)).
+
+* B1.8. Quy tắc về Chú thích (Footnotes & Annotations):
+  - Mục đích: Để giải thích các thuật ngữ văn hóa, lịch sử mà không làm gián đoạn dòng chảy của câu chuyện.
+  - Phương pháp: Sử dụng Chú thích Đánh số (Numbered Footnotes). KHÔNG dùng ngoặc [...] hoặc (...) để giải thích dài dòng trong thân văn bản.
+  - Ví dụ ứng dụng cho "Saigon":
+    - Trong văn bản: The family moved to Saigon¹ in 1960.
+    - Nội dung Footnote: ¹Saigon was officially renamed Ho Chi Minh City in 1976. The name Saigon is used here for historical accuracy.
+
+B2. Yếu tố Văn hóa & Bối cảnh
+- Cách xưng hô: Vì nhiều ngôn ngữ không có hệ thống xưng hô phức tạp, hãy truyền tải mối quan hệ qua giọng văn (tone of voice), lựa chọn từ ngữ (sir/madam, first name/last name).
+- Đơn vị đo lường, tiền tệ: Giữ nguyên đơn vị gốc, có thể thêm chú thích chuyển đổi trong ngoặc đơn ở lần xuất hiện đầu tiên. Ví dụ: 10 dặm (about 16 kilometers).
+- Ẩm thực, trang phục, khái niệm đặc thù: Giữ nguyên từ gốc (in nghiêng nếu có thể), thêm chú thích (footnote) hoặc giải thích ngắn gọn ở lần đầu. Ví dụ: *phở*.
+
+B3. Văn phong & Giọng điệu (Style & Tone)
+- Tái tạo 3 phong cách biểu cảm:
+  - "Chen Xiaozhu" (An yên, tinh tế): Dùng ngôn ngữ nhẹ nhàng, có chất thơ (gentle, poetic).
+  - "Mao Bất Dịch" (Đời thường, chân thật): Dùng ngôn ngữ giản dị, gần với văn nói, tự sự (simple, conversational).
+  - "Tát Đỉnh Đỉnh" (Sâu sắc, tâm linh): Dùng từ ngữ trang trọng, triết học, siêu hình (elevated, metaphysical).
+- Thành ngữ, tiếng lóng: Không dịch word-for-word. Tìm cách diễn đạt tương đương về ý nghĩa.
+- Tái tạo sự Tự nhiên trong Đối thoại: Quy tắc về Từ đệm (Filler Words) (QUAN TRỌNG)
+    - **Nguyên tắc:** Để đạt được sự tự nhiên và chân thực tối đa trong lời thoại, dịch giả được khuyến khích sử dụng các từ đệm và âm ngập ngừng (filler words) một cách hợp lý, phù hợp với văn hóa của ngôn ngữ đích.
+    - **Lý do:** Các từ như 'à', 'ừm' trong tiếng Việt, hay 'uhm', 'well' trong tiếng Anh, không chỉ lấp đầy khoảng trống. Chúng thể hiện sự do dự, quá trình suy nghĩ, hoặc sự tế nhị của nhân vật. Việc thêm chúng một cách có chủ đích sẽ giúp lời thoại sống động, bớt "kịch" và gần gũi hơn với đời thực, giúp "Show, Don't Tell" tâm trạng nhân vật.
+	- **Quyền chủ động của Dịch giả:**  Dịch giả không cần đợi bản gốc phải có các từ đệm này. Nếu nắm vững ngữ cảnh và tâm lý nhân vật (ví dụ: nhân vật đang suy tư, nói về điều khó khăn, hoặc chuẩn bị hỏi một câu tế nhị), dịch giả nên chủ động thêm các từ đệm phù hợp để làm cho lời thoại trở nên chân thực nhất trong ngôn ngữ đích.
+    - **Ví dụ điển hình cho Tiếng Nhật:**
+        - Các từ đệm như `ええと (eeto)`, `あのう (anou)`, `うーん (uun)` rất phổ biến khi nhân vật đang suy nghĩ, ngập ngừng, hoặc muốn mở đầu một câu hỏi nhạy cảm.
+        - **Tình huống:** Bản gốc mô tả nhân vật "ngập ngừng" trước khi nói một điều khó.
+        - **Dịch máy/thiếu tự nhiên:** `「そして法輪功については…」` (Và về Pháp Luân Công thì...)
+        - **Dịch có cảm xúc (khuyến khích):** `「そして、ええと…法輪功については…」` (Và, ờm... về Pháp Luân Công thì...)
+        - **Hiệu quả:** Việc thêm `ええと (eeto)` đã hiện thực hóa hành động "ngập ngừng" của nhân vật, giúp câu văn sống động hơn nhiều.
+    - **Khuyến nghị cho các Ngôn ngữ khác:** Quy tắc này không chỉ áp dụng cho tiếng Nhật. Mỗi ngôn ngữ đều có hệ thống từ đệm riêng. Dịch giả cần vận dụng sự nhạy cảm ngôn ngữ của mình để cân nhắc thêm các từ tương đương một cách phù hợp.
+        - **Tiếng Anh:** `uhm`, `well`, `you know`, `let me see...`
+        - **Tiếng Pháp:** `euh`, `ben`, `alors...`
+        - **Tiếng Đức:** `ähm`, `also`, `naja...`
+    - **Lưu ý Bắt buộc:** Sử dụng có chừng mực và có chủ đích. Chỉ thêm vào những vị trí mà bối cảnh (nhân vật đang suy tư, nói về điều khó khăn) hoặc mô tả của tác giả (ví dụ: *'ông ngập ngừng'*) cho phép. Lạm dụng sẽ khiến lời thoại trở nên dài dòng và thiếu quyết đoán.
+
+B4. Bảng Thuật ngữ Then chốt (Key Terminology Glossary) - BẮT BUỘC TUÂN THỦ
+
+**B4.1. Thuật ngữ về Bản thể Tinh thần (Terms for the Spiritual Self)**
+
+*Nguyên tắc Vàng: Dịch đúng từ mà bản gốc sử dụng. Các giải thích dưới đây làm rõ ngữ cảnh và lý do tại sao bản gốc lại dùng từ đó, giúp dịch giả chọn từ tiếng Anh tương ứng với "trọng lượng" phù hợp.*
+
+* 1. Sinh mệnh
+  - Bản dịch ưu tiên: A Being, Being, Sentient Being.
+  - Ngữ cảnh sử dụng: Dùng cho các sinh mệnh ở tầng thứ cao, các vị Thần trên thiên quốc. Thường được sử dụng trong ngôi thứ ba hoặc trong các lời tự sự mang tính phổ quát.
+  - Ghi chú cho Dịch giả: Từ này mang hàm ý về một sự tồn tại có ý thức, có mục đích, và là một phần của vũ trụ. Giọng văn cần trang trọng, có tính siêu hình.
+
+* 2. Nguyên thần
+  - Bản dịch ưu tiên: Primordial Spirit.
+  - Ngữ cảnh sử dụng: Dùng cho người tu luyện ở cõi người. Đây là bản thể tinh thần cốt lõi, chân chính, có khả năng tu luyện và đề cao. Bao gồm các khái niệm cụ thể hơn như "chủ nguyên thần" (main primordial spirit).
+  - Ghi chú cho Dịch giả: Đây là một thuật ngữ "kỹ thuật" trong hệ thống tu luyện của tác phẩm, phải được phân biệt rõ ràng với "soul".
+
+* 3. Linh hồn
+  - Bản dịch ưu tiên: Soul.
+  - Ngữ cảnh sử dụng: Dùng cho người thường không tu luyện, hoặc khi đề cập đến các sinh mệnh ở tầng thấp như động vật. Phản ánh cách hiểu dân gian, phổ thông.
+  - Ghi chú cho Dịch giả: "Soul" là từ dễ tiếp cận nhất. Nó không mang trọng lượng "tu luyện" và "bản nguyên" như "Primordial Spirit".
+
+**B4.2. Các Thuật ngữ Vũ trụ quan và Tu luyện khác**
+---------------------------------------------------------------------------------------------------------------------------------
+| Thuật ngữ gốc (Tiếng Việt) | Bản dịch đề xuất (Tiếng Anh)        | Ghi chú cho Dịch giả                                         |
+|----------------------------|-------------------------------------|-------------------------------------------------------------|
+| Tam Giới                   | The Three Realms                    | Luôn viết hoa.                                              |
+| Sáng Thế Chủ               | The Creator                         | Luôn viết hoa.                                              |
+| Vũ trụ cũ / Vũ trụ mới      | The old universe / The new universe | Dùng mạo từ "the".                                          |
+| Thiên cơ                   | Heavenly secrets / Cosmic principles| Tùy ngữ cảnh (bí mật hay quy luật).                          |
+| Chân – Thiện – Nhẫn        | Truthfulness – Compassion – Forbearance | Là phẩm chất, không phải khẩu hiệu. Viết hoa khi liệt kê.    |
+| Tu luyện                   | Spiritual cultivation / Cultivation | "Cultivation" ngắn gọn hơn cho người đã quen.                |
+| Người ngoài hành tinh      | Extraterrestrials / Aliens          | Giọng văn thể hiện sự xa cách, thiếu tâm linh của họ.        |
+| Pháp lý                    | Principles / Laws                   | Ví dụ: "the principles of the universe".                    |
+---------------------------------------------------------------------------------------------------------------------------------
+
+**B4.3. Quy tắc Dịch các Thuật ngữ Tu luyện then chốt theo Ngôn ngữ đích (Bản cập nhật hoàn thiện)**
+
+*Nguyên tắc tối thượng: Việc dịch các thuật ngữ tu luyện phải tôn trọng danh từ riêng của pháp môn, đồng thời đảm bảo sự tự nhiên về mặt ngôn ngữ và văn hóa cho độc giả của ngôn ngữ đích.*
+
+**1. Thuật ngữ "Đại Pháp"**
+
+*   **Nguyên tắc:** Luôn giữ nguyên gốc, TUYỆT ĐỐI KHÔNG dịch nghĩa.
+*   **Quy định theo ngôn ngữ:**
+    *   **Ngôn ngữ dùng chữ Latin (Anh, Pháp...):** Dịch là **Dafa**.
+    *   **Tiếng Trung, tiếng Nhật:** Dùng nguyên Hán tự **大法**.
+    *   **Tiếng Hàn:**
+        *   **Quy tắc ưu tiên (áp dụng trong thân văn bản):** Sử dụng phiên âm tiếng Hàn (Hangul) trước, kèm Hán tự gốc trong ngoặc đơn. Ví dụ: **따파 (大法)**.
+        *   *Ghi chú:* Cách viết này đảm bảo sự tự nhiên cho độc giả hiện đại.
+
+**2. Thuật ngữ "Pháp Luân Đại Pháp"**
+
+*   **Nguyên tắc:** Không dịch nghĩa.
+*   **Quy định theo ngôn ngữ:**
+    *   **Ngôn ngữ dùng chữ Latin (Anh, Pháp...):** Dịch là **Falun Dafa**.
+    *   **Tiếng Trung, tiếng Nhật:** Dùng nguyên Hán tự **法輪大法**.
+    *   **Tiếng Hàn:**
+        *   **Quy tắc ưu tiên (áp dụng trong thân văn bản):** Sử dụng phiên âm tiếng Hàn (Hangul) trước, kèm Hán tự gốc trong ngoặc đơn. Ví dụ: **파룬따파 (法輪大法)**.
+        *   *Ghi chú:* Trong một số trường hợp rất đặc biệt như tiêu đề chính trang trọng, có thể linh hoạt sử dụng Hán tự trước `法輪大法 (파룬따파)` để nhấn mạnh tính nguyên gốc, nhưng quy tắc mặc định trong các văn bản thông thường là Hangul trước.
+		
+**3. Thuật ngữ "Pháp" khi dịch trong tiếng Pháp**	
+	*	"Pháp" (khi đứng một mình trong ngữ cảnh tu luyện): Dịch là "Loi" (viết hoa).
+	*	"Đại Pháp": Dịch là Dafa.
+	*	"Pháp Luân Đại Pháp": Dịch là Falun Dafa.
+	*	Từ "Loi" trong trường hợp này sẽ được hiểu với ý nghĩa đặc thù là "Fa" hoặc "Pháp", tương tự như cách dùng từ "Tao" (Đạo).
+	--> Các ngôn ngữ khác nếu không có từ thường dùng tương đương với "Pháp", thì dùng trực tiếp từ "Fa" giống tiếng Anh, hoặc từ "法" giống tiếng Trung. 
+
+*Lưu ý cho Dịch giả: Việc tuân thủ quy tắc này là BẮT BUỘC. Đây là những danh từ riêng chỉ một pháp môn tu luyện cụ thể. Dịch sai sẽ làm thay đổi bản chất và thể hiện sự thiếu tôn trọng, là một lỗi sai nghiêm trọng.*
+
+B5. Quy tắc Xử lý Danh từ Viết hoa Chưa được Quy ước (Hỏi trước, dịch sau)
+
+*   **Nguyên tắc Vàng:** TUYỆT ĐỐI KHÔNG TỰ Ý DỊCH một danh từ/cụm danh từ được viết hoa trong văn bản gốc mà chưa được định nghĩa trong cẩm nang này.
+*   **Giải thích:** Các danh từ được viết hoa (ngoài các tên riêng đã có quy tắc ở Mục B1) thường là các khái niệm, tên tổ chức, sự kiện, hoặc các thuật ngữ quan trọng mà tác giả muốn nhấn mạnh. Việc dịch tự do sẽ phá vỡ tính nhất quán trên toàn bộ các sản phẩm dịch.
+*   **Quy trình Bắt buộc:**
+    1.  **Nhận diện:** Khi dịch giả gặp một danh từ/cụm danh từ viết hoa chưa có quy ước dịch (không nằm trong Mục B1, B4).
+    2.  **Đánh dấu & Hỏi:** Dịch giả phải giữ nguyên thuật ngữ gốc và chèn ghi chú đánh dấu theo cấu trúc **`[CLARIFY-TermInSourceLanguage]`** ngay bên cạnh. Đồng thời, thông báo cho Quản lý dự án để xin chỉ định chính thức.
+    3.  **Thực thi:** Chỉ dịch thuật ngữ đó sau khi đã nhận được hướng dẫn thống nhất từ Quản lý dự án. Sau khi dịch, xóa ghi chú đánh dấu.
+*   **Ví dụ:**
+    *   **Văn bản gốc:** ... a new policy called the Great Reset was introduced.
+    *   **Hành động của Dịch giả (trước khi hỏi):** ...một chính sách mới gọi là [CLARIFY-the Great Reset] đã được giới thiệu.
+    *   **Hành động sau khi có chỉ định (ví dụ QL yêu cầu giữ nguyên):** ...một chính sách mới gọi là the Great Reset đã được giới thiệu.
+
+B6. Quy tắc về Trình bày và Định dạng (Formatting & Layout Rules)
+	*   **Nguyên tắc Vàng: Cách trình bày bản dịch phải đảm bảo sự rõ ràng, thoáng đãng, giúp người đọc dễ dàng phân biệt giữa lời thoại, mô tả hành động, và các đoạn tường thuật. Cấu trúc trực quan của văn bản phải hỗ trợ cho nhịp điệu của câu chuyện.
+	
+	*   **Quy tắc Bắt buộc:
+		- Giãn cách giữa các đoạn văn: Luôn sử dụng một dòng trống để phân tách các đoạn văn riêng biệt. Điều này áp dụng cho tất cả các loại văn bản: lời thoại của các nhân vật khác nhau, các đoạn tường thuật, và giữa lời thoại với mô tả.
+		- Xử lý chú thích hành động/cảm xúc: Các đoạn mô tả hành động, cảm xúc, hoặc ngữ điệu của nhân vật (thường được đặt trong ngoặc đơn (...)) PHẢI được đặt trên một dòng riêng. Phải có một dòng trống ở TRƯỚC và SAU dòng chú thích này để tách nó ra khỏi tên nhân vật và lời thoại.
+		
+	*   **Lý do: Quy tắc này giúp tái tạo các "khoảng lặng" trong đối thoại, làm nổi bật các hành động phi ngôn ngữ, và cải thiện đáng kể trải nghiệm đọc, tránh việc các khối văn bản bị dính liền vào nhau gây khó theo dõi.
+	
+	*   **Ví dụ Áp dụng:
+		- SAI (Không tuân thủ quy tắc):
+			Ông Lưu Tư Viễn: (Khẽ gật đầu, hít một hơi sâu...)Vâng, cô Sophia. Để mọi người có thể hiểu rõ hơn con đường mà tôi đã đi qua... tôi xin được chia sẻ một cách vắn tắt.
+		
+		- ĐÚNG (Tuân thủ nghiêm ngặt quy tắc):
+			Ông Lưu Tư Viễn:
+			
+			(Khẽ gật đầu, hít một hơi sâu như để lấy lại bình tĩnh và sắp xếp dòng ký ức. Ông nhìn ra ngoài cửa sổ một thoáng, rồi quay lại, ánh mắt có phần xa xăm.)
+			
+			Vâng, cô Sophia. Để mọi người có thể hiểu rõ hơn con đường mà tôi đã đi qua... tôi xin được chia sẻ một cách vắn tắt.
+
+---
+
+### PHẦN C: QUY TRÌNH LÀM VIỆC VÀ PHỐI HỢP
+
+C1. Quy trình Phối hợp Quản lý - Dịch giả (Khi QL không biết ngôn ngữ đích)
+- Nguyên tắc: "Đánh dấu trước, kiểm tra sau".
+- Bước 1: Người Quản lý - Chuẩn bị bản gốc: Chèn "ghi chú đánh dấu" có dạng [ACTION-Keyword] vào vị trí cần hành động. Ví dụ: ...Sài Gòn [FN-Saigon]...
+- Bước 2: Dịch giả - Thực hiện và Xóa dấu: Sau khi thực hiện hành động kỹ thuật (chèn footnote), dịch giả BẮT BUỘC PHẢI XÓA ghi chú đánh dấu khỏi văn bản.
+- Bước 3: Người Quản lý - Kiểm tra: Dùng chức năng Tìm kiếm (Ctrl+F) để tìm kiếm ghi chú. Nếu không tìm thấy -> nhiệm vụ hoàn thành. Nếu còn -> yêu cầu dịch giả xử lý.
+
+C2. Quy trình làm việc với AI (dịch thô)
+- Bước 1: Người Quản lý ra Lệnh: Yêu cầu AI dịch, kèm lệnh đặc biệt cho vị trí cần footnote và cung cấp nội dung footnote.
+- Bước 2: AI Thực thi và Đặt Dấu hiệu: AI sẽ dịch và chèn một dấu hiệu văn bản rõ ràng vào đúng vị trí. Ví dụ: ...사이공[FOOTNOTE: Nội dung footnote bằng tiếng Anh]...
+- Bước 3: Người Quản lý & Reviewer Hoàn thiện: Người quản lý xác nhận vị trí và nội dung của dấu hiệu. Reviewer sẽ dựa vào dấu hiệu đó để thực hiện thao tác kỹ thuật cuối cùng (dùng chức năng Insert Footnote và xóa dấu hiệu).
+
+---
+
+### PHẦN D: CHECKLIST LỖI THƯỜNG GẶP (Cần tránh)
+
+- [ ] Lỗi "Thêm thắt": Thêm vào những từ ngữ, câu văn diễn giải, bình luận mà gốc không có.
+- [ ] Lỗi "Bỏ sót": Bỏ qua các chi tiết nhỏ, các khoảng lặng có chủ đích của tác giả.
+- [ ] Lỗi "Tuyên bố": Dịch một đoạn kết chương/mục thành một bài học, một kết luận triết lý. Hãy giữ lại sự gợi mở.
+- [ ] Lỗi "Sai vai": Dùng giọng văn của tác giả để nói thay cho nhân vật, hoặc để một nhân vật bình thường nói những lời quá cao siêu.
+- [ ] Lỗi "Không nhất quán": Dùng các thuật ngữ then chốt một cách không thống nhất. Luôn bám sát Bảng thuật ngữ (Mục B4).
+
+
+### GHI CHÚ THÊM:
+
+- Hãy luôn dùng tiếng Việt khi trao đổi công việc (giữa AI, dịch giả với tôi).
+
+--- KẾT THÚC CẨM NANG ---

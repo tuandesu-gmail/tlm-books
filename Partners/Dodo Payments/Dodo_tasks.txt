@@ -1,0 +1,109 @@
+Tuyệt. Giờ mình đi tiếp theo một lộ trình rõ ràng để bạn chạy end-to-end:
+
+Bước 3 — Cấu hình môi trường & bảo mật
+
+	DODO_API_KEY (Worker → Settings → Variables)
+
+	Thêm biến DODO_API_KEY (giá trị lấy trong Dodo dashboard).
+
+	Redeploy Worker.
+
+	CORS đúng domain Shopify
+
+	Trong hàm corsHeaders, đảm bảo Access-Control-Allow-Origin là domain store của bạn (ví dụ https://books.theepochmedia.com).
+
+	Nếu có nhiều domain (preview theme), thêm tạm * rồi siết lại sau khi test xong.
+
+	Affonso pixel
+
+	Pixel đã dán ở <head> (có data-affonso="...", data-cookie_duration="30").
+
+	Mở site ở ẩn danh, click 1 link affiliate mẫu → vào console gõ window.affonso_referral kiểm tra có ID.
+
+Bước 4 — Kết nối Dodo ↔ Affonso (webhook)
+
+	Affonso → Connect Dodo
+
+	Bạn đã thấy “Dodo Webhook Secret is configured” ✅
+
+	Nếu có hiện Webhook URL, copy URL đó.
+
+	Dodo → Webhooks
+
+	Vào Dodo dashboard, tạo webhook (nếu chưa auto): paste Webhook URL của Affonso, set secret trùng bên Affonso.
+
+	Bật các event thanh toán thành công/thất bại (e.g. payment.succeeded, payment.refunded).
+
+Bước 5 — Mapping sản phẩm
+
+	Bạn đã set data-sku="{{ product.metafields.custom.dodo_id | default: product.handle }}".
+
+	Nếu metafield có sẵn → dùng luôn.
+
+	Nếu trống → Worker sẽ nhận sku = product.handle. Bạn có thể:
+
+	(A) Đặt quy ước để handle == product_id bên Dodo.
+
+	(B) Dùng SKU_MAP hoặc KV để map (dễ quản lý 81 sản phẩm).
+
+Bước 6 — Test checkout E2E
+
+	Trang sản phẩm → BUY NOW
+
+	Mở tab ẩn danh từ link affiliate test (để có cookie Affonso).
+
+	Click BUY NOW → request POST tới /dodo/create-checkout.
+
+	Worker trả checkout_url → được redirect sang Dodo.
+
+	Thanh toán test
+
+	Thanh toán (nếu có test mode/thẻ test).
+
+	Sau khi thành công, kiểm tra:
+
+	Dodo → Payments: payment có metadata.affonso_referral.
+
+	Affonso → Referrals/Payments: thấy sale gán đúng affiliate & commission.
+
+	Negative case
+
+	Thử mua không qua link affiliate → affonso_referral = null → Affonso không ghi affiliate (đúng mong muốn).
+
+	Thử refund: xem Affonso có cập nhật lại commission.
+
+Bước 7 — (Tuỳ chọn) Ghi log & cấp download riêng
+
+	Nếu bạn muốn chủ động hơn:
+
+	Thêm route /webhooks/dodo để bắt webhook từ Dodo vào Worker của bạn (ghi log DB/KV).
+
+	Từ webhook payment.succeeded, bạn có thể:
+
+	Lưu orderId + email + skus vào KV riêng.
+
+	Gửi email hoặc redirect khách về /thankyou?order=... của bạn (nếu bạn làm flow download riêng).
+
+Bước 8 — Nâng cấp nút BUY NOW (sau)
+
+	Quantity/variant: đọc variant/quantity trên trang, truyền thêm quantity vào body fetch.
+
+	Email capture: nếu khách chưa login, có thể hiện mini-form lấy email trước khi gọi Worker (Dodo vẫn có thể thu email bên checkout, nhưng có email sớm giúp remarketing).
+
+	Đa ngôn ngữ: nếu product có language, đảm bảo dodo_id hoặc handle phản ánh ngôn ngữ để không sai file.
+
+Bước 9 — Checklist trước khi mở bán
+
+	 Pixel Affonso hoạt động (window.affonso_referral hiển thị ID khi click từ link affiliate).
+
+	 Worker /dodo/create-checkout hoạt động, trả về checkout_url.
+
+	 Dodo nhận metadata.affonso_referral.
+
+	 Affonso ghi nhận sale & commission.
+
+	 (Nếu dùng) /thankyou + /issue + /download hoạt động, file trên R2 đúng tên.
+
+	 Trang sản phẩm nào chưa set metafield thì fallback bằng handle đúng quy ước.
+
+Nếu bạn muốn, mình có thể viết sẵn route /webhooks/dodo mẫu để bạn paste vào Worker (kèm verify HMAC/secret, log metadata, và tự cấp link download khi cần). Chỉ cần nói “ok viết giúp”, mình đưa code hoàn chỉnh.

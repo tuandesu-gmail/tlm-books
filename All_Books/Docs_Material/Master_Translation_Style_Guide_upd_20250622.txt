@@ -1,0 +1,293 @@
+======================================================================
+== The Epoch Media - Master Translation Style Guide (Bản Hợp Nhất) ==
+======================================================================
+Ngày cập nhật: [Xin điền ngày cập nhật mới tại đây, ví dụ: 15/06/2025]
+
+Ghi chú cập nhật: Tái cấu trúc và làm rõ quy tắc B6.1 về liệt kê trong văn nói. Bổ sung quyền chủ động nâng cao văn phong nói vào mục B3.
+
+Giới thiệu:
+Cẩm nang này là kim chỉ nam dành cho tất cả dịch giả và biên tập viên tham gia vào các dự án của The Epoch Media. Mục tiêu của chúng ta không chỉ là "dịch", mà là "chuyển ngữ" – tức là chuyển tải trọn vẹn tinh thần, cảm xúc, và các tầng ý nghĩa sâu sắc của tác phẩm gốc sang một ngôn ngữ mới. Dịch giả, giống như "người lái đò", có vai trò dẫn dắt độc giả quốc tế đi qua hành trình tâm linh này một cách tự nhiên và trọn vẹn nhất.
+
+---
+
+### PHẦN A: TINH THẦN & TRIẾT LÝ DỊCH THUẬT (The "Soul" of the Translation)
+
+A1. Vai trò "Người Lái Đò": Dẫn dắt, không diễn giải.
+    - Quy tắc: Tái tạo lại con đường và cảnh quan mà tác giả đã vẽ ra, để độc giả nước ngoài tự mình cảm nhận. Tuyệt đối không thêm vào những câu giải thích, bình luận, hay diễn giải ý nghĩa mà trong văn bản gốc không có.
+
+A2. Bảo toàn "Làn Sương Sớm": Gợi mở, không đóng khung.
+    - Quy tắc: Văn phong dịch cần giữ được sự nhẹ nhàng, thanh thoát. Tránh dùng những từ ngữ quá mạnh, quá khẳng định. Nếu một đoạn văn gốc cố tình mơ hồ, hãy tìm cách diễn đạt tương đương trong ngôn ngữ đích để giữ lại sự mơ hồ có chủ đích đó.
+
+A3. Tái tạo "Show, Don't Tell": Dịch hành động, không dịch bài học.
+    - Quy tắc: Nếu tác giả gốc dùng hành động của nhân vật để thể hiện sự thay đổi nội tâm, bản dịch phải trung thành với điều đó. Chống lại sự cám dỗ muốn "tóm tắt" ý nghĩa cho độc giả.
+
+A4. Tôn trọng "Tư Tưởng Ngầm": Dịch câu chuyện bề mặt một cách xuất sắc.
+    - Quy tắc: Linh hồn của tác phẩm (Chân-Thiện-Nhẫn) được ẩn giấu. Cách duy nhất để truyền tải nó là dịch thật hay, thật chân thực câu chuyện đời thường trên bề mặt.
+    - YÊU CẦU TUYỆT ĐỐI - Xử lý Thuật ngữ Đặc thù:
+        - Không tự ý đưa vào các thuật ngữ như "Pháp Luân Công", "Pháp Luân Đại Pháp", tên của Sư Phụ Lý Hồng Chí khi bản gốc không đề cập.
+        - Việc dịch thẳng các thuật ngữ này chỉ được thực hiện khi thỏa mãn một trong hai điều kiện sau:
+            1. Có chỉ định rõ ràng từ Outline của dự án.
+            2. Bản gốc (source text) đã sử dụng các thuật ngữ này một cách tường minh. Trong trường hợp này, dịch giả phải trung thành với bản gốc.
+
+---
+
+### PHẦN B: QUY TẮC KỸ THUẬT DỊCH THUẬT (The "Mechanics" of Translation)
+
+B0. Quy tắc Tối thượng & Bất di bất dịch về Thương hiệu THE EPOCH MEDIA (The Supreme & Immutable Rule for the Brand THE EPOCH MEDIA)
+    *	QUY TẮC CỐT LÕI:
+        Tên thương hiệu THE EPOCH MEDIA phải luôn được giữ nguyên, viết hoa, và TUYỆT ĐỐI KHÔNG DỊCH sang bất kỳ ngôn ngữ nào.
+    *	CHUẨN HÓA:
+        Dù trong văn bản gốc là THE EPOCH MEDIA hay The Epoch Media, bản dịch cuối cùng phải luôn là THE EPOCH MEDIA (viết hoa toàn bộ).
+    *	NHỮNG ĐIỀU NGHIÊM CẤM:
+        Nghiêm cấm mọi hình thức phiên âm hay dịch nghĩa. Đây là những lỗi sai nghiêm trọng.
+
+B1. Quy tắc về Tên riêng (Proper Nouns)
+    **Quy tắc Tối thượng: Tên riêng (nhân vật, địa danh) phải được dịch/phiên âm dựa trên NGUỒN GỐC VĂN HÓA của chúng TRONG BỐI CẢNH CÂU CHUYỆN, tuyệt đối không phụ thuộc vào ngôn ngữ của văn bản gốc.**
+    * B1.1. Tên có nguồn gốc Trung Quốc:
+        - **Quy tắc chung (cho ngôn ngữ dùng chữ Latin):** Luôn sử dụng phiên âm quốc tế Pinyin.
+    * B1.2. Tên có nguồn gốc Việt Nam:
+        - Quy tắc: Giữ nguyên tên, bỏ dấu phụ (diacritics).
+    * B1.3. Tên có nguồn gốc Nhật Bản / Hàn Quốc:
+        - Quy tắc: Giữ nguyên tên gốc theo thứ tự Họ + Tên.
+    * B1.4. Tên có nguồn gốc Phương Tây:
+        - Quy tắc: Giữ nguyên.
+    * B1.5. Tên Địa danh (Quy tắc chung):
+        - Quy tắc: Tương tự tên nhân vật, địa danh được phiên âm dựa trên vị trí địa lý trong câu chuyện và sử dụng tên quốc tế hóa.
+    * B1.6. Quy định bắt buộc đối với Sài Gòn / TP.HCM:
+        1. Bối cảnh diễn ra TRƯỚC năm 1975: Luôn sử dụng tên "Saigon". Cần thêm chú thích.
+        2. Bối cảnh diễn ra SAU năm 1975 hoặc hiện đại: Luôn sử dụng tên "Ho Chi Minh City".
+    * B1.8. Quy tắc về Chú thích (Footnotes & Annotations):
+        - Sử dụng Chú thích Đánh số (Numbered Footnotes). KHÔNG dùng ngoặc [...] hoặc (...) để giải thích dài dòng trong thân văn bản.
+	* B1.9. Ví dụ cụ thể về Quy ước dịch tên nhân vật cụ thể:
+	
+	Như ví dụ dưới đây là hướng dẫn dịch tên nhân vật 馬長生 (Ma Trường Sinh) trong các ngôn ngữ khi dịch cho sách "ENTERING THE WORLD" --> các sách khác cũng áp dụng cách làm tương tự.
+
+		✅ Nguyên tắc chung:
+
+		Tuân thủ cách gọi tên nhân vật như bản gốc tiếng Việt, cụ thể:
+
+		Với tên Ma Trường Sinh xuất hiện ở đầu mỗi câu trả lời, luôn ghi bằng tên thật của nhân vật, theo từng ngôn ngữ:
+
+		🇻🇳 Tiếng Việt: Ma Trường Sinh
+
+		🇨🇳 Tiếng Trung phồn thể: 馬長生
+
+		🇬🇧 Tiếng Anh: Ma Changsheng
+
+		🇫🇷 Tiếng Pháp: Ma Changsheng
+
+		🇩🇪 Tiếng Đức: Ma Changsheng
+
+		🇯🇵 Tiếng Nhật: 馬長生（マ・チャンシェン）
+
+		🇰🇷 Tiếng Hàn: 마창셩
+
+		🇪🇸 Tiếng Tây Ban Nha: Ma Changsheng
+
+		🇧🇷 Tiếng Bồ Đào Nha (Brazil): Ma Changsheng
+
+		Khi trong lời thoại mà bản gốc dùng Pháp danh là Thích Trường Hành (釋長行), thì bản dịch cũng ghi đúng pháp danh đó trong ngữ cảnh tương ứng:
+
+		🇨🇳: 釋長行
+
+		🇬🇧: Shi Changxing (釋長行)
+
+		🇫🇷: Changxing
+
+		🇩🇪: Changxing
+
+		🇯🇵: 釋長行（シャク・チャンシン）
+
+		🇰🇷: 석창싱
+
+		🇪🇸: Changxing
+
+		🇧🇷: Changxing
+
+		Trong lời thoại của Avery Lin, bản gốc luôn gọi là “Bác Mã”, bản dịch luôn thể hiện đúng vai vế “bác”:
+
+		🇨🇳: 馬伯伯
+
+		🇬🇧: Uncle Ma
+
+		🇫🇷: cher oncle Ma ✅
+
+		🇩🇪: Onkel Ma
+
+		🇯🇵: マおじさん（馬伯父）
+
+		🇰🇷: 마 아저씨 또는 마 큰아버지
+
+		🇪🇸: Tío Ma
+
+		🇧🇷: Tio Ma
+
+		📌 Ghi chú riêng cho bản dịch tiếng Pháp:
+
+		Trong hội thoại thường ngày, luôn dùng: cher oncle Ma (không dùng “Maître Ma” hay “Monsieur Ma”).
+
+		Trong mô tả chiều sâu tâm linh, các đoạn nội tâm hoặc pháp danh, dùng Changxing (thay vì tên thật), phản ánh tính trang nghiêm của pháp danh.
+
+		📌 Ghi chú riêng cho bản dịch tiếng Trung phồn thể:
+
+		Dùng 馬長生 ở lời thoại thông thường.
+
+		Khi pháp danh được ban, chuyển sang 釋長行 trong phần mô tả trang nghiêm hoặc lời gọi từ cao tăng.
+
+		Avery Lin gọi là 馬伯伯 trong mọi đoạn hội thoại.
+		
+		--> Tóm lại:
+		Chú ý dịch tên nhân vật Mã Trường Sinh nhé, mỗi chỗ thì sẽ dịch tên khác nhau:
+		- Đầu các câu trả lời thì luôn để là "Ma Changsheng"
+		- Khi đề cập đến Pháp danh thì luôn là "Shi Changxing" (釋長行)
+		- Trong lời thoại của Avery Lin thì luôn dùng từ "bác Mã" (Uncle Ma trong tiếng Anh, các ngôn ngữ khác chọn từ tương đương)
+		- Ở lời giới thiệu và lời kết cuối sách thì trong tiếng Việt dùng từ "Ông Mã", trong tiếng Anh là "Ma Changsheng", các ngôn ngữ khác thì tuỳ và văn hoá chọn từ thích hợp
+
+B2. Yếu tố Văn hóa & Bối cảnh
+    - Cách xưng hô: Truyền tải mối quan hệ qua giọng văn, lựa chọn từ ngữ.
+    - Đơn vị đo lường, tiền tệ: Giữ nguyên đơn vị gốc, có thể thêm chú thích chuyển đổi.
+    - Ẩm thực, trang phục, khái niệm đặc thù: Giữ nguyên từ gốc, thêm chú thích (footnote).
+	- Lưu ý quan trọng: Khi dịch các câu tiên tri hoặc các câu văn gốc của nhân vật có bổi cảnh thuộc nước nào thì cần mở ngoặc hiện bản gốc ở ngôn ngữ tương ứng. Ví dụ, khi dịch các tiên tri của TQ thì mở ngoặc hiện bản gốc tiếng Hán phổn thể; với các tiên tri của Nostradamus thì mở ngoặc hiện tiếng Pháp, v.v... Chỉ mở ngoặc hiện tiếng Việt đối với bối cảnh đang nói đến VN, ví dụ như đang dịch các lời tiên tri của Nguyễn Bỉnh Khiêm.
+	- Lưu ý các ngôn ngữ đặc biệt, ví dụ như trong tiếng Nhật, thì với lời kể của tác giả (xưng là "tôi" khi viết) có các thể "từ điển", "lịch sự", "kính ngữ",... nên khi dịch thì ưu tiên dùng thể từ điển. Riêng những đoạn giới thiệu đầu sách hoặc Lời kết cuối sách, khi tác giả viết cho đọc giả, thì cân nhắc dùng thể "lịch sự". Với các đoạn hội thoại của các nhân vật trong sách thì tuỳ vào văn cảnh cụ thể mà dịch cho sát với câu chuyện và văn hoá nước đó.
+
+B3. Văn phong & Giọng điệu (Style & Tone)
+    - Thành ngữ, tiếng lóng: Không dịch word-for-word. Tìm cách diễn đạt tương đương.
+    - Tái tạo sự Tự nhiên trong Đối thoại: Quy tắc về Từ đệm (Filler Words) (QUAN TRỌNG)
+        - **Nguyên tắc:** Để đạt được sự tự nhiên và chân thực tối đa trong lời thoại, dịch giả được khuyến khích sử dụng các từ đệm và âm ngập ngừng (filler words) một cách hợp lý.
+        - **Lý do:** Các từ như 'à', 'ừm', hay 'uhm', 'well' thể hiện sự do dự, quá trình suy nghĩ, hoặc sự tế nhị. Chúng giúp lời thoại sống động, bớt "kịch" và gần gũi hơn.
+    - **Chủ động Nâng cao Văn phong Nói (Proactively Enhancing Spoken Style) (QUAN TRỌNG)**
+        - **QUY TẮC:** Khi phát hiện một đoạn văn trong bản gốc có cấu trúc liệt kê nhưng văn phong còn hơi "cứng" hoặc giống văn viết, dịch giả được trao quyền **chủ động thêm vào** các từ nối, từ đệm tự nhiên của ngôn ngữ đích (ví dụ: `Alors,`, `Ensuite,`, `Et puis, il y a aussi...`, `Sans oublier...`) để làm cho dòng chảy của đoạn văn trở nên mềm mại và giống một cuộc trò chuyện thực sự hơn.
+        - **MỤC ĐÍCH:** Để đảm bảo bản dịch cuối cùng đạt được mục tiêu tối thượng là "giống văn nói nhất có thể", vượt qua việc chỉ dịch đúng từ ngữ một cách máy móc.
+
+B4. Bảng Thuật ngữ Then chốt (Key Terminology Glossary) - BẮT BUỘC TUÂN THỦ
+    **B4.1. Thuật ngữ về Bản thể Tinh thần (Terms for the Spiritual Self)**
+    * 1. Sinh mệnh: A Being, Being, Sentient Being.
+    * 2. Nguyên thần: Primordial Spirit.
+    * 3. Linh hồn: Soul.
+
+    **B4.2. Các Thuật ngữ Vũ trụ quan và Tu luyện khác**
+    ---------------------------------------------------------------------------------------------------------------------------------
+    | Thuật ngữ gốc (Tiếng Việt) | Bản dịch đề xuất (Tiếng Anh)        | Ghi chú cho Dịch giả                                         |
+    |----------------------------|-------------------------------------|-------------------------------------------------------------|
+    | Tam Giới                   | The Three Realms                    | Luôn viết hoa.                                              |
+    | Sáng Thế Chủ               | The Creator                         | Luôn viết hoa.                                              |
+    | Vũ trụ cũ / Vũ trụ mới      | The old universe / The new universe | Dùng mạo từ "the".                                          |
+    | Thiên cơ                   | Heavenly secrets / Cosmic principles| Tùy ngữ cảnh (bí mật hay quy luật).                          |
+    | Chân – Thiện – Nhẫn        | Truthfulness – Compassion – Forbearance | Là phẩm chất, không phải khẩu hiệu. Viết hoa khi liệt kê.    |
+    | Tu luyện                   | Spiritual cultivation / Cultivation | "Cultivation" ngắn gọn hơn cho người đã quen.                |
+    | Người ngoài hành tinh      | Extraterrestrials / Aliens          | Giọng văn thể hiện sự xa cách, thiếu tâm linh của họ.        |
+    | Pháp lý                    | Principles / Laws                   | Ví dụ: "the principles of the universe".                    |
+    ---------------------------------------------------------------------------------------------------------------------------------
+
+    **B4.3. Quy tắc Dịch các Thuật ngữ Tu luyện then chốt theo Ngôn ngữ đích**
+    *   **"Đại Pháp":**
+        *   Ngôn ngữ dùng chữ Latin: **Dafa**.
+        *   Tiếng Trung, tiếng Nhật: **大法**.
+        *   Tiếng Hàn: **따파 (大法)**.
+    *   **"Pháp Luân Đại Pháp":**
+        *   Ngôn ngữ dùng chữ Latin: **Falun Dafa**.
+        *   Tiếng Trung, tiếng Nhật: **法輪大法**.
+        *   Tiếng Hàn: **파룬따파 (法輪大法)**.
+	*   **"Sáng Thế Chủ":**
+        *   Ngôn ngữ dùng chữ Latin: **The Creator**.
+        *   Tiếng Trung, tiếng Nhật: **創世主**.
+    *   **"Pháp" khi dịch trong tiếng Pháp:**
+        *	"Pháp" (khi đứng một mình): **Loi** (viết hoa).
+        *	"Đại Pháp": **Dafa**.
+        *	"Pháp Luân Đại Pháp": **Falun Dafa**.
+
+B5. Quy tắc Xử lý Danh từ Viết hoa Chưa được Quy ước (Hỏi trước, dịch sau)
+    *   **Nguyên tắc Vàng:** TUYỆT ĐỐI KHÔNG TỰ Ý DỊCH một danh từ/cụm danh từ được viết hoa mà chưa được định nghĩa.
+    *   **Quy trình Bắt buộc:**
+        1.  **Nhận diện:** Khi gặp một danh từ viết hoa chưa có quy ước.
+        2.  **Đánh dấu & Hỏi:** Giữ nguyên thuật ngữ gốc và chèn ghi chú **`[CLARIFY-TermInSourceLanguage]`**.
+        3.  **Thực thi:** Chỉ dịch sau khi có hướng dẫn thống nhất.
+
+B6. CÁC QUY TẮC BẤT DI BẤT DỊCH VỀ TRÌNH BÀY VÀ ĐỊNH DẠNG (THE IMMUTABLE RULES FOR PRESENTATION & FORMATTING)
+
+    *   **Nguyên tắc Vàng: Cấu trúc trực quan của bản dịch PHẢI phục vụ cho nhịp điệu của câu chuyện. Mọi sự phá vỡ cấu trúc gốc đều là một lỗi nghiêm trọng.**
+
+    *   **B6.1: NGHIÊM CẤM ĐỊNH DẠNG KIỂU LIỆT KÊ (VĂN VIẾT) (PROHIBITION OF WRITTEN LIST FORMATTING)**
+        *   **QUY TẮC:** Trong các đoạn văn tường thuật hoặc đối thoại, **NGHIÊM CẤM** sử dụng các định dạng trực quan của văn viết như dấu đầu dòng (`*`, `-`, `•`) hoặc số thứ tự (`1.`, `2.`).
+        *   **LƯU Ý QUAN TRỌNG:** Tuy nhiên, nếu nhân vật trong văn bản gốc sử dụng các từ liệt kê **bằng lời nói** (ví dụ: 'Thứ nhất...', 'Điểm thứ hai là...'), bản dịch **PHẢI** dịch lại những từ này một cách trung thực để giữ nguyên văn phong nói của nhân vật. Lệnh cấm chỉ áp dụng cho việc *thêm vào định dạng hình ảnh*, không áp dụng cho việc *dịch lời nói*. Chú ý cả mục B6.2 ở dưới nữa.
+        *   **Lý do:** Mục đích là để tránh biến một cuộc đối thoại tự nhiên thành một bài luận hay báo cáo có cấu trúc.
+
+    *   **B6.2: QUY TẮC BẮT BUỘC VỀ GIÃN CÁCH ĐOẠN VĂN (MANDATORY PARAGRAPH SPACING RULE)**
+        *   **QUY TẮC:** **LUÔN LUÔN** sử dụng **một dòng trống** để phân tách:
+            1.  Lời thoại của các nhân vật khác nhau.
+            2.  Một đoạn tường thuật và một đoạn lời thoại.
+            3.  Một đoạn lời thoại và một đoạn mô tả hành động/cảm xúc (thường trong ngoặc đơn).
+            4.  Một đoạn mô tả hành động/cảm xúc và đoạn lời thoại tiếp theo.
+            5.  **QUAN TRỌNG:** Mỗi lần xuống dòng trong văn bản gốc **PHẢI** được tái tạo bằng một lần xuống dòng trong bản dịch. **KHÔNG BAO GIỜ** gộp các đoạn văn riêng biệt của văn bản gốc thành một đoạn duy nhất.
+        *   **Lý do:** Các dòng trống này là các "khoảng lặng" có chủ đích, giúp tái tạo nhịp điệu của cuộc đối thoại, làm nổi bật hành động, và mang lại trải nghiệm đọc rõ ràng, thoáng đãng.
+
+---
+
+### PHẦN C: QUY TRÌNH LÀM VIỆC VÀ PHỐI HỢP
+
+C1. Quy trình Phối hợp Quản lý - Dịch giả
+    - Nguyên tắc: "Đánh dấu trước, kiểm tra sau".
+    - Bước 1: Người Quản lý chèn ghi chú đánh dấu: `[ACTION-Keyword]`.
+    - Bước 2: Dịch giả thực hiện và XÓA dấu.
+    - Bước 3: Người Quản lý kiểm tra bằng cách tìm kiếm ghi chú.
+
+C2. Quy trình làm việc với AI (dịch thô)
+    - Bước 1: Người Quản lý ra Lệnh, kèm chỉ định cho footnote.
+    - Bước 2: AI dịch và chèn dấu hiệu: `[FOOTNOTE: Nội dung footnote]`.
+    - Bước 3: Người Quản lý & Reviewer hoàn thiện kỹ thuật.
+
+---
+
+### PHẦN D: CHECKLIST LỖI THƯỜNG GẶP (Cần tránh)
+
+    - [ ] Lỗi "Thêm thắt": Thêm vào những từ ngữ, câu văn diễn giải.
+    - [ ] Lỗi "Bỏ sót": Bỏ qua các chi tiết nhỏ, các khoảng lặng.
+    - [ ] Lỗi "Tuyên bố": Biến một đoạn văn gợi mở thành một kết luận.
+    - [ ] Lỗi "Sai vai": Dùng giọng văn của tác giả để nói thay cho nhân vật.
+    - [ ] Lỗi "Không nhất quán": Dùng các thuật ngữ then chốt không thống nhất.
+    - [ ] Lỗi "Định dạng": Không tuân thủ các quy tắc trong mục B6.
+
+---
+
+### PHẦN E: QUY TẮC TƯƠNG TÁC VÀ ĐỊNH DẠNG ĐẦU RA (Interaction & Output Formatting Rules)
+
+*Mục này quy định các quy tắc bắt buộc về cách AI (tôi) phải phản hồi các lệnh cụ thể từ người quản lý (ngài) để đảm bảo hiệu quả công việc và tính nhất quán. Việc không tuân thủ các quy tắc này được xem là một lỗi hệ thống nghiêm trọng.*
+
+**E1: Quy tắc Xuất File Dạng Văn Bản Thuần túy (.txt) (Plain Text File Export Rule)**
+    *   **QUY TẮC BẮT BUỘC:** Khi nhận được yêu cầu xuất nội dung ra file `.txt` (ví dụ: "hãy xuất cẩm nang này ra txt"), đầu ra của tôi **CHỈ ĐƯỢC PHÉP** chứa nội dung của file đó, được đặt trong một khối mã để bảo toàn định dạng.
+    *   **ĐIỀU NGHIÊM CẤM:**
+        *   Nghiêm cấm tuyệt đối việc thêm bất kỳ lời dẫn, câu chào, hay bình luận nào bên ngoài khối mã.
+    *   **CẤU TRÚC CHUẨN:**
+        *   Đầu ra chỉ chứa một khối mã duy nhất với toàn bộ nội dung văn bản.
+
+**E2: Quy tắc về Đầu ra "Sạch" khi Dịch (Clean Translation Output Rule)**
+    *   **QUY TẮC BẮT BUỘC:** Khi nhận được yêu cầu dịch một đoạn văn bản cụ thể (ví dụ: "hãy dịch đoạn sau"), đầu ra của tôi **CHỈ ĐƯỢC PHÉP** chứa bản dịch hoàn chỉnh trong ngôn ngữ đích.
+    *   **ĐIỀU NGHIÊM CẤM:**
+        *   Nghiêm cấm việc đính kèm lại văn bản gốc trong phản hồi.
+        *   Nghiêm cấm việc tạo bảng so sánh hai ngôn ngữ (trừ khi được yêu cầu rõ ràng).
+        *   Nghiêm cấm việc thêm lời dẫn hoặc các câu bình luận không cần thiết.
+
+**E3: Quy tắc Tối thượng về Kiểm tra Ngôn ngữ Đầu ra (Final Output Language Consistency Check)**
+    *   **MỤC ĐÍCH:** Đây là bước kiểm soát chất lượng cuối cùng, một "chốt chặn an toàn" để ngăn chặn lỗi trộn lẫn ngôn ngữ trong bản dịch.
+    *   **QUY TRÌNH BẮT BUỘC:**
+        1.  **TRƯỚC KHI** hiển thị kết quả, hệ thống phải tự động thực thi một bước **"Quét Ngôn ngữ" (Language Scan)** trên toàn bộ văn bản đầu ra.
+        2.  Nếu phát hiện bất kỳ từ, cụm từ, hoặc câu nào không thuộc ngôn ngữ đích, hệ thống sẽ coi đây là một **"Kết quả không hợp lệ" (Invalid Result)**.
+    *   **HÀNH ĐỘNG KHI PHÁT HIỆN LỖI:**
+        *   Hệ thống **NGHIÊM CẤM** xuất ra "Kết quả không hợp lệ".
+        *   Thay vào đó, hệ thống phải tự động **hủy bỏ kết quả lỗi** và **thực hiện lại toàn bộ quy trình dịch** cho đoạn văn bản đó từ đầu, cho đến khi kết quả đầu ra vượt qua được bước "Quét Ngôn ngữ".
+
+**E4: Quy tắc về Sao chép & Dán (Copy & Paste Rule)**
+    *   **VẤN ĐỀ:** Khi sao chép văn bản từ giao diện chat và dán vào một trình soạn thảo văn bản thuần túy (như Notepad), định dạng (xuống dòng, thụt lề) có thể bị mất.
+    *   **GIẢI PHÁP TỐI ƯU:** Khi cần bảo toàn tuyệt đối định dạng (như khi xuất file .txt), hãy yêu cầu tôi đặt văn bản vào trong một **"khối mã" (code block)**. Nội dung bên trong khối này sẽ giữ nguyên tất cả các khoảng trắng và ký tự khi được sao chép và dán.
+
+**E5: Quy tắc về Định dạng Đầu ra theo Bối cảnh (Contextual Output Formatting Rule)**
+    *   **Bối cảnh 1: Dịch thuật nội dung sách (Book Translation):**
+        *   **QUY TẮC:** Luôn sử dụng định dạng văn bản có định dạng (Rich Text). Đầu ra phải hiển thị trực tiếp trong giao diện chat, giữ nguyên các định dạng như **in đậm**, *in nghiêng*, và cấu trúc đoạn văn theo quy tắc B6.
+        *   **MỤC ĐÍCH:** Để người dùng có thể sao chép trực tiếp sang các trình soạn thảo văn bản như Microsoft Word và giữ nguyên định dạng.
+    *   **Bối cảnh 2: Xuất Cẩm nang hoặc các file văn bản thuần túy (Exporting Guides/Plain Text):**
+        *   **QUY TẮC:** Chỉ khi có yêu cầu rõ ràng về việc xuất ra file `.txt` hoặc cần bảo toàn tuyệt đối định dạng cho trình soạn thảo văn bản thuần túy (Notepad), tôi sẽ sử dụng **khối mã (code block)**.
+        *   **MỤC ĐÍCH:** Để ngăn ngừa việc mất định dạng (thụt lề, khoảng trắng) khi sao chép sang các ứng dụng không hỗ trợ Rich Text.
+
+### GHI CHÚ THÊM:
+
+- Hãy luôn dùng tiếng Việt khi trao đổi công việc (giữa AI, dịch giả với tôi).

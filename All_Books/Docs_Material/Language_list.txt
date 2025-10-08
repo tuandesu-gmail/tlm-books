@@ -1,0 +1,15 @@
+
+Các ngôn ngữ:
+
+
+1) Hiện tại đang có 9 ngôn ngữ: English, French, Spanish, Portuguese, German, Japanese, Việt, Trung phổn thể, Hàn
+
+2) Kế hoạch bổ sung giai đoạn sau: Italian, Trung giản thể (miễn phí), Dutch, Bahasa Indonesia, Turkish, Swedish, Thai, Ukrainian, Arabic
+
+
+---> Chốt lại sẽ dịch đủ 18 ngôn ngữ sau trước khi chuyển sang giai đoạn PR/Marketing:
+
+	+ English, French, Spanish, Portuguese, German, Japanese, Việt, Trung phổn thể, Hàn --> done
+	 
+--> Bổ sung: 
+	+ Trung giản thể (miễn phí), Italian, Bahasa Indonesia, Hindi (600), Arabic (400), Bengali (270), Ukrainian (40, free), Turkish,  Thai (70),

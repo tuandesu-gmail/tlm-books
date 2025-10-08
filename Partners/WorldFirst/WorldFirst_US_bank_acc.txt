@@ -1,0 +1,9 @@
+Tiền tệ: USD
+Tên chủ tài khoản: Anh Tuan Nguyen
+số tài khoản: 20000043553335
+Số định tuyến ACH: 028000024
+Số tuyến chuyển tiền: 021000021
+SWIFT/BIC: CHASUS33
+tên ngân hàng: JP MORGAN CHASE BANK, N.A. 
+Địa chỉ ngân hàng: 383 MADISON AVENUE, NEW YORK, NY10179
+Quốc gia/khu vực nơi đặt ngân hàng: US

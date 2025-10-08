@@ -1,0 +1,71 @@
+### THE LAST BELLS - MASTER GUIDE
+*(Phiên bản "Người Hát Rong Chiêm Niệm")*
+
+=====================================================
+
+### PHẦN I: LINH HỒN & TRIẾT LÝ (THE SOUL & PHILOSOPHY)
+*(Kim chỉ nam cho TẦM NHÌN và CẢM XÚC của tác phẩm.)*
+--------------------------------------------------------------------------
+
+**1. TẦM NHÌN:**
+> “Thông tin thì ai cũng tìm được. Điều chạm vào người đọc — là cách ta kể lại nó từ vết nứt riêng trong tâm hồn.”
+
+**2. NHÂN VẬT CHÍNH - TAYLOR REED: "NGƯỜI HÁT RONG CHIÊM NIỆM"**
+*   **Người Hát Rong:** Trung thành kể lại "lời ca" (sự kiện, tiên tri).
+*   **Người Chiêm Niệm:** Dùng "giọng hát" (rung động của con tim) để thổi hồn vào lời ca.
+
+**3. TÂM CẢNH CHỦ ĐẠO: "NỖI XÓT THƯƠNG MINH TRIẾT"**
+Taylor đứng *trong* dòng chảy của nhân loại, không phán xét. Giọng văn luôn ấm áp, trắc ẩn.
+
+**4. SỨ MỆNH CỦA CUỐN SÁCH:**
+**Đánh thức** sự rung cảm, không phải để chứng minh.
+
+---
+
+### PHẦN II: PHONG CÁCH & CÔNG CỤ SÁNG TÁC (THE STYLE & TOOLKIT)
+*(Phần "HOW-TO", bao gồm các NGUYÊN TẮC và CHIẾN LƯỢC cụ thể khi viết.)*
+--------------------------------------------------------------------------------------
+
+**A. NGUYÊN TẮC NHỊP ĐIỆU CỐT LÕI:**
+*   **NGUYÊN TẮC VÀNG: CẢM XÚC ĐỊNH HÌNH PHONG CÁCH.**
+    *   **1. DÒNG CHẢY CỦA LÝ TRÍ (Giai điệu Tiểu thuyết):** Khi Taylor phân tích, kể chuyện. Dùng văn xuôi, câu dài, mạch lạc.
+    *   **2. SỰ NGẮT QUÃNG CỦA CON TIM (Giai điệu Thơ ca):** Khi Taylor vỡ lẽ, xót thương. Dùng câu ngắn, súc tích, nhiều khoảng trắng.
+
+**B. BỘ CÔNG CỤ CỦA NGƯỜI HÁT RONG (13 CÔNG CỤ):**
+1.  **Từ "Họ" đến "Chúng Ta":** Luôn đặt Taylor vào vị thế người trong cuộc.
+2.  **Gợi, Không Phải Giải:** Tin tưởng độc giả, dùng hình ảnh, ẩn dụ, câu hỏi.
+3.  **Hành Trình, Không Phải Báo Cáo:** Viết như một cuốn nhật ký tâm thức.
+4.  **Cảm Xúc Là La Bàn:** Mỗi phân đoạn phải được dẫn dắt bởi một cảm xúc chủ đạo.
+5.  **Tĩnh Lặng Là Nốt Nhạc:** Dùng khoảng trắng và câu ngắn để tạo điểm nhấn.
+6.  **Đoạn Văn Chuyển Tiếp (Điệp khúc):** Dùng thay thế đề mục, dẫn dắt ý tưởng.
+7.  **Giọng Điệu Của Sấm (Lời ca gốc):** Dùng định dạng khác biệt khi trích dẫn nguyên văn tiên tri.
+8.  **Dòng Nhớ Vụt Qua:** Các đoạn hồi tưởng ngắn, mơ hồ.
+9.  **Khoảnh Khắc Thiêng Liêng Đời Thường:** Truyền tải thông điệp qua sự kiện đời thường.
+10. **Đối Âm Nội Tâm:** Taylor tự đối thoại với chính mình.
+11. **Cắt Rời Nhịp Lý Trí Như Một Nghệ Thuật:** Dừng mạch phân tích bằng một dòng cảm xúc.
+12. **Mắt Xích Cảm Xúc Giữa Các Chương:** Đầu chương mới nối tiếp cảm xúc của chương cũ.
+13. **Góc Nghiêng Của Ánh Sáng:** Tiếp cận vấn đề từ những hướng phi logic thông thường.
+
+**C. CHIẾN LƯỢC XỬ LÝ NỘI DUNG NHẠY CẢM (Ghi chú đặc biệt):**
+Khi đề cập đến những nhân vật biểu tượng gây tranh cãi (ví dụ: Van Gogh, Picasso, Michael Jackson), tuân thủ nghiêm ngặt nguyên tắc **phân tích "TRƯỜNG NĂNG LƯỢNG" và "THÔNG ĐIỆP ẨN"** trong tác phẩm của họ, thay vì đưa ra các tuyên bố về số phận linh hồn hay bản chất cá nhân.
+
+*   **Lợi ích:**
+    1.  Tập trung vào tác phẩm, không phán xét cá nhân.
+    2.  Khẳng định trí huệ, khả năng cảm thụ tinh tế của Taylor.
+    3.  Thuyết phục độc giả bằng trải nghiệm, không áp đặt.
+    4.  Giữ vững giọng văn "cảm ngộ" của toàn bộ cuốn sách.
+
+---
+
+### PHẦN III: THAM CHIẾU CẤU TRÚC (REFERENCE TO THE BLUEPRINT)
+*(Phần này hướng dẫn cách sử dụng Master Guide cùng với bản Outline chi tiết.)*
+--------------------------------------------------------------------------
+
+*   Toàn bộ cấu trúc chi tiết của 12 "Khúc Sông", các đề mục nhỏ và mô tả nội dung được trình bày trong file riêng biệt:
+    **`THE_LAST_BELLS_Detailed_Outline.txt`**
+
+*   File Outline này đóng vai trò là **"Bản Đồ"** hoặc **"Giàn Giáo"** chi tiết, trả lời câu hỏi **"Viết cái gì?"**. Nó là tài liệu nền tảng để theo dõi tiến độ và đảm bảo tính logic, đầy đủ của câu chuyện.
+
+*   Hãy sử dụng song song hai tài liệu: **Master Guide** để định hướng phong cách và cảm xúc, và **Detailed Outline** để định hướng nội dung và cấu trúc.
+
+=====================================================

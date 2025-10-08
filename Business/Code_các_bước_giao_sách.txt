@@ -1,0 +1,77 @@
+tóm tắt lại toàn bộ Phase I (MVP) theo luồng tự code giao sách + Cloudflare R2 + Shopify và gửi link bằng cả Thank you page + Email Confirmation:
+
+📌 Phase I – MVP Hệ thống giao ebook:
+
+1. Hạ tầng lưu trữ
+
+	Tạo Cloudflare R2 bucket (private).
+
+	Upload ebook theo cấu trúc gọn (vd: /the-last-bells/en/v1.pdf).
+
+	Tạo KV Namespace (vd: TOKENS_PROD) để lưu token download.
+
+2. Worker xử lý
+
+	Cloudflare Worker:
+
+		Nhận webhook từ Shopify (orders/paid).
+
+		Dựa trên SKU sản phẩm, tra catalog.json → xác định file trong R2.
+
+		Tạo token download (có hạn 48h, max 3 lượt tải).
+
+		Lưu token vào KV.
+
+	Endpoint Worker:
+
+		/webhook/shopify → nhận webhook, tạo record.
+
+		/portal → Portal page (KH truy cập từ Thank you page/email).
+
+		/d/<token> → stream file từ R2, giảm lượt tải, kiểm tra TTL.
+
+3. Portal Page
+
+	Trang /portal:
+
+		Nếu KH truy cập kèm ?o={{ order_number }}&e={{ customer.email }} → Worker xác thực trong KV → hiển thị link download.
+
+		Nếu thiếu dữ liệu → hiện form cho KH nhập Email + Order number.
+
+4. Gửi link cho KH theo 2 kênh
+
+	Thank you page:
+
+		Trong Shopify Checkout → Order status page, thêm một nút:
+
+		https://dl.theepochmedia.com/portal?o={{ order_number | url_encode }}&e={{ checkout.email | url_encode }}
+
+
+		KH thanh toán xong → click nút → vào Portal → tải ebook.
+
+	Email Confirmation:
+
+		Trong Shopify Admin → Settings → Notifications → Order confirmation → edit template.
+
+		Thêm đoạn nút/link “Access your downloads” trỏ đến Portal cùng query string.
+
+		KH nhận email → click → vào Portal → tải ebook.
+
+5. Trải nghiệm khách hàng
+
+	Ngay lập tức: KH thấy nút tải trên Thank you page.
+
+	Dự phòng/lâu dài: KH nhận email với nút tải.
+
+	Worker đảm bảo link an toàn (có hạn, giới hạn lượt).
+
+
+👉 Đây là bản tóm tắt Phase I:
+
+	Hạ tầng: R2 + KV.
+
+	Worker: webhook + token + portal + download.
+
+	Portal: hiển thị link tải.
+
+	2 kênh gửi link: Thank you page + Email Confirmation.

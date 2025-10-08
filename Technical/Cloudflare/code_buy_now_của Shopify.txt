@@ -1,0 +1,131 @@
+<div
+  id="dodo-buy-app"
+  data-worker="https://download.thelivesmedia.com/dodo/create-checkout"
+  data-sku="{{ product.selected_or_first_available_variant.sku | default: product.sku | escape }}"
+  data-dodo-product-id="{{ product.metafields.custom.dodo_product_id | escape }}"
+>
+  <button id="buy-dodo" class="dodo-buy-btn">BUY NOW</button>
+</div>
+
+<style>
+  .dodo-buy-btn {
+    background-color:#d9a528;
+    color:#fff;
+    padding:16px 36px;
+    border:none;
+    border-radius:6px;
+    font-size:18px;
+    text-transform:uppercase;
+    letter-spacing:1.5px;
+    cursor:pointer;
+    display:inline-block;
+  }
+  .dodo-buy-btn:hover { background-color:#b78b1f; }
+  .dodo-buy-btn[disabled] { opacity:.6; cursor:not-allowed; }
+</style>
+
+<script>
+(function() {
+  const root = document.getElementById('dodo-buy-app');
+  const btn  = document.getElementById('buy-dodo');
+  if (!root || !btn) return;
+
+  const qp = new URLSearchParams(location.search);
+
+  // --- Helpers ---
+  function getCookie(name){
+    return document.cookie
+      .split('; ')
+      .reduce((acc, cur) => {
+        const [k, v] = cur.split('=');
+        return k === name ? decodeURIComponent(v || '') : acc;
+      }, '');
+  }
+
+  function currentSku(){
+    return (root.dataset.sku || '').trim();
+  }
+  function setSku(val){ root.dataset.sku = (val || '').trim(); }
+
+  // Nhiều theme bắn sự kiện variant:changed khi đổi biến thể
+  document.addEventListener('variant:changed', function(e){
+    const v = e && e.detail && e.detail.variant;
+    if (v && v.sku) setSku(v.sku);
+  }, true);
+
+  // Fallback: lắng nghe <select name="id">
+  document.addEventListener('change', function(e){
+    const el = e.target;
+    if (el && el.name === 'id') {
+      const opt = el.selectedOptions && el.selectedOptions[0];
+      const nextSku =
+        (opt && (opt.dataset.sku || opt.getAttribute('data-sku'))) ||
+        currentSku();
+      if (nextSku) setSku(nextSku);
+    }
+  }, true);
+
+  // affonso_referral từ pixel/cookie/URL (?via / ?aff / ?ref)
+  function getAffonsoReferral(){
+    return (
+      (window.affonso_referral && String(window.affonso_referral)) ||
+      getCookie('affonso_referral') ||
+      qp.get('via') ||
+      qp.get('aff') ||
+      qp.get('ref') ||
+      ''
+    ).trim();
+  }
+
+  // Giữ ref legacy riêng nếu muốn
+  function getLegacyRef(){
+    return (qp.get('ref') || '').trim();
+  }
+
+  const workerEndpoint = root.dataset.worker;
+  const customerEmail  = "{{ customer.email | escape }}"; // nếu KH đã login
+
+  btn.addEventListener('click', async function(e) {
+    e.preventDefault();
+
+    const sku            = currentSku();
+    const dodoProductId  = (root.dataset.dodoProductId || '').trim();
+    const affonsoReferral= getAffonsoReferral();
+    const ref            = getLegacyRef();
+
+    if (!dodoProductId) {
+      alert('Missing Dodo product id (custom.dodo_product_id). Please check product metafield.');
+      return;
+    }
+    if (!sku) {
+      alert('Missing SKU for this product/variant.');
+      return;
+    }
+
+    btn.disabled = true;
+    try {
+      const res = await fetch(workerEndpoint, {
+        method: 'POST',
+        headers: { 'content-type': 'application/json' },
+        body: JSON.stringify({
+          sku,
+          dodo_product_id: dodoProductId,
+          email: customerEmail || '',
+          affonso_referral: affonsoReferral,
+          ref // optional legacy
+        })
+      });
+
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.error || 'Failed to create checkout');
+
+      // Redirect sang trang thanh toán Dodo
+      location.href = data.checkout_url;
+    } catch (err) {
+      alert('Checkout error: ' + err.message);
+    } finally {
+      btn.disabled = false;
+    }
+  });
+})();
+</script>

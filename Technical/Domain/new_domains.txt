@@ -1,0 +1,137 @@
+
+
+
+1) TheEpochMedia.com
+
+1.1) Hosting:
+
+https://103.28.36.65:8443
+hoặc https://theepochmedia.com:8443
+
+Username	nhthetiw
+Password	M^tC?7j8!Zmd1^8
+
+1.2) FPT account:
+FTP Server	103.28.36.65 hoặc ftp.theepochmedia.com
+Username	nhthetiw
+Password	M^tC?7j8!Zmd1^8
+
+1.3) Server email:
+POP Server	mail.theepochmedia.com
+SMTP Server	mail.theepochmedia.com
+
+1.4) Thông tin DNS:
+NS1 IP	103.28.36.65
+NS2 IP	103.28.36.65
+
+Trường hợp sử dụng hệ thống quản lý DNS của nhà đăng ký, bạn chỉ cần trỏ toàn bộ Record về IP 103.28.36.65 :
+theepochmedia.com IN A 103.28.36.65
+www IN CNAME theepochmedia.com
+mail IN CNAME theepochmedia.com
+ftp IN CNAME theepochmedia.com
+
+1.5) Tên miền: theepochmedia.com
+Mật khẩu Domain: Wj0R5HJrf004ijn
+Liên kết đăng nhập: https://zonedns.vn
+
+
+-------------------------------------------------------
+
+
+
+
+Nếu muốn xuất bản đa dạng (sách giấy, ebook, audiobook): EpochPublishing.com
+
+Nếu muốn xây dựng hình ảnh thương hiệu sâu sắc, tinh tế: EpochBooks.com
+
+---------------
+
+1) Đã đăng ký:
+
+TheEpochMedia.com  (đăng ký ở Nhân Hoà) 
+TheEpochVoices.com (đăng ký ở Hostinger) 
+TheEpochMedia.net  (đăng ký ở Hostinger) 
+
+--> Namecheap.com:
+
+TheEpochLight.com  
+TheEpochBooks.com 
+TheEpochPress.com
+
+theepochmedia.org
+theepochjournal.com
+
+epochlightschool.com
+
+theepochschool.com
+theepochschool.org
+theepochschool.net
+
+epoch.university
+epoch.academy 
+epochuniversity.com
+epochuniversity.net
+epochuniversity.org
+
+theepochacademy.com
+theepochuniversity.com
+theepochuniversity.net
+theepochuniversity.org
+
+
+https://www.namecheap.com/
+tuandesu / S)Nq+BD&x4d4&pj
+
+2650 + 1690 + 800 
+
+
+2) New candidates:
+
+EpochTruths.com
+EpochPublishing.com
+EpochBooks.com
+EpochGate.com
+TheEpochGate.com
+EpochWisdom.com
+
+TheEpochThink.com
+TheEpochInsight.com
+TheEpochInsight.org
+TheEpochLibrary.com
+TheEpochAcademy.com
+TheEpochTalks.com
+epochtalks.com
+
+TheEpochPress.net
+TheEpochPress.org
+TheEpochTalks.com
+TheEpochVoices.net
+
+EpochVoices.com
+EpochVoices.net
+EpochVoices.org
+
+TheEpochVoices.org
+TheEpochJournal.net
+TheEpochJournal.org
+
+
+--> Cân nhắc đăng ký theemm domain trên https://www.namecheap.com/ 
+
+Namecheap (Mỹ, có tiếng về tự do Internet)
+
+Gandi.net (Pháp)
+
+Cloudflare Registrar (không thu phí thêm, bảo mật cao)
+
+================================
+
+livespublishing.com
+thelivesmedia.com
+livesbooks.com
+
+
+
+
+	
+	

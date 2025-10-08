@@ -1,0 +1,82 @@
+1. Về Tổng Thể Dự Án và Mối Liên Kết Giữa 9 Cuốn Sách:
+
+Câu hỏi 1: Bộ 9 cuốn sách này có được thiết kế để đọc theo một thứ tự cụ thể không? Hay chúng là những tác phẩm độc lập mà độc giả có thể tiếp cận ngẫu nhiên, và mỗi cuốn đều đóng vai trò như một "cánh cửa" riêng để bước vào thế giới quan của The Epoch Media?
+
+--> Trả lời:
+9 Cuốn sách là độc lập và đề cập đến các chủ đề khác nhau, và chúng có vai trò tương đối độc lập nhau. 
+Tuy nhiên, nội dung của chúng nhắm đến các đối tượng đọc giả có độ nhận thức tâm linh khác nhau từ thấp đến cao theo thứ tự sau:
+1) HỒNG TRẦN, KIM QUANG
+2) HẬU CHÍNH TRƯỜNG: DI SẢN
+3) HOÀNG HÔN VÀ BÌNH MINH CỦA KHOA HỌC
+4) BỨC MÀN ĐỎ
+5) TIẾNG VỌNG TRƯỚC THỜI GIAN
+6) NHẬP THẾ GIAN
+7) HỒI CHUÔNG CUỐI CÙNG
+8) HỌ ĐÃ ĐẾN TRƯỚC
+9) NGÀN KIẾP ĐÃ QUA
+
+Câu hỏi 2: Có sự liên kết ngầm hoặc tham chiếu chéo giữa các nhân vật hoặc các khái niệm trong 9 cuốn sách không? Ví dụ, "người ngoài hành tinh" được đề cập trong sách Hậu Chính Trường và Trước Chúng Ta có phải là cùng một nhóm được mô tả chi tiết trong tài liệu Core_Thought_Guide không?
+
+--> Trả lời:
+Các nhân vật và nội dung trong 9 cuốn sách là độc lập với nhau, với bối cảnh câu chuyện và chủ đề khác nhau. Còn về "người ngoài hành tinh" thì đều dựa vào thông tin nền tảng được mô tả trong file "Base_Info.txt" là gốc, tuy nhiên, trong các cuốn sách khác nhau thì mức độ đề cập đến người ngoài hành tinh sẽ có độ chi tiết khác nhau.
+
+2. Về Độc Giả Mục Tiêu và Tác Động Mong Muốn:
+Bối cảnh: Style Guide có đề cập đến 3 tầng độc giả ("Chen Xiaozhu", "Mao Bất Dịch", "Tát Đỉnh Đỉnh"), từ dễ cảm đến tầng sâu tâm linh.
+
+Câu hỏi 3: Chân dung độc giả chính mà dự án hướng tới là ai? Họ là những người đã có sẵn nền tảng về tâm linh, hay là công chúng phổ thông, những người có thể còn hoài nghi với các chủ đề này?
+
+-- Trả lời:
+Đối tượng đọc giả rất rộng, nhưng 4 cuốn sách sau cùng trong list trên thì sẽ phù hợp hơn với những đọc giả có nền tảng tâm linh.
+
+
+Câu hỏi 4: Ngoài mục tiêu ẩn là "gieo duyên" để độc giả có cơ hội bước sang tân vũ trụ, hành động hoặc sự thay đổi nhận thức cụ thể nhất mà bạn mong muốn ở độc giả sau khi họ đọc xong một cuốn sách là gì? (Ví dụ: họ bắt đầu tự đặt câu hỏi về cuộc sống, họ tìm kiếm thêm thông tin, hay chỉ đơn giản là một sự thay đổi cảm xúc sâu lắng?)
+
+--> Trả lời:
+Tôi muốn đọc giả đọc song các cuốn sách này thì giống như họ mở cánh cửa bước vào một thế giới mới về tư tưởng/nhận thức. Còn hành động cụ thể của mỗi người là gì thì tuỳ họ quyết định.
+
+3. Về Quy Trình Sáng Tác và Các Tác Giả:
+Bối cảnh: Tôi thấy các tác giả như Henry Lowell, Sophia Bell, Jack Voss, v.v., xuất hiện trong nhiều cuốn sách, thường là người "ghi chép" hoặc "chắp bút" dựa trên lời kể của các nhân vật chính.
+
+Câu hỏi 5: Các tên tác giả này (Henry Lowell, Sophia Bell...) là tên thật hay là bút danh của đội ngũ nòng cốt The Epoch Media? Việc sử dụng các tên tác giả khác nhau có chủ đích gì trong việc định hình phong cách cho từng cuốn sách không?
+
+--> Trả lời:
+Tên tác giả đều là bút danh. Mỗi bút danh sẽ đại diện cho phong cách, nhận thức và bối cảnh riêng để viết các cuốn sách phù hợp. Tuy nhiên, nhìn từ góc độ độc giả thì họ sẽ không biết đó là tên thật hay bút danh.
+
+Câu hỏi 6: Các nhân vật chính (Giáo sư Vương Minh, cựu Tổng thống Hoa Kỳ, Giáo sư Adam, ông Lưu Tư Viễn,...) là những nhân vật có thật hay là những hình tượng được xây dựng dựa trên nhiều câu chuyện có thật để truyền tải thông điệp?
+
+--> Trả lời:
+Tên các nhân vật và bối cảnh câu chuyện là hư cấu. Nhưng điều quan trọng là thông điệp mà cuốn sách muốn chuyển tải, còn nhân vật hay bối cảnh thỉ là hình thức giúp nội dung được truyền tải một cách văn học và tinh tế, giúp đọc giả dễ linh hội hơn. 
+
+Ở đầu mỗi cuốn sách đều sẽ có đoạn ghi chú như sau:
+----------
+GHI CHÚ CỦA BAN BIÊN TẬP:
+
+Cuốn sách này được chắp bút dựa trên những câu chuyện, sự kiện và bối cảnh có thật. Tuy nhiên, nhằm tôn trọng quyền riêng tư và tránh gây ảnh hưởng đến một số cá nhân, tên nhân vật cùng một số chi tiết nhận diện đã được thay đổi, giản lược hoặc tái cấu trúc dưới hình thức văn học.
+
+Một số đoạn trong sách được kể lại từ góc nhìn cá nhân của người trong cuộc, phản ánh trải nghiệm và nhận thức của riêng họ tại thời điểm đó. Những quan điểm này không nhất thiết trùng khớp với lập trường của THE EPOCH MEDIA.
+
+Về mặt hành văn, tuy Ban Biên Tập đã có những hiệu chỉnh cần thiết, nhưng để tôn trọng nhân vật gốc và giữ được tinh thần cùng sự sinh động của câu chuyện, chúng tôi đã cố gắng gìn giữ tối đa chất mộc mạc và giọng văn nguyên bản của nhân vật.
+
+Ban biên tập
+----------
+
+4. Về Giới Hạn và Các Vấn Đề Nhạy Cảm
+Bối cảnh: Style Guide có quy định 
+
+TUYỆT ĐỐI không nêu đích danh "Pháp Luân Công". Sách 
+
+Bức Màn Đỏ và Nhập Thế Gian đề cập trực diện đến cuộc bức hại tại Trung Quốc.
+
+--> Trả lời:
+Điều này không nên hiểu cứng nhắc. Dự án này không chủ đích quảng bá hoặc "tô hồng" cho Pháp Luân Công một cách lộ liễu, nhưng từ bối cảnh của nhân vật thì có thể đề cập đến qua lời nói của nhân vật (chứ không phải của THE EPOCH MEDIA).
+
+
+
+Câu hỏi 7: Ngoài quy định về Pháp Luân Công, còn có những thuật ngữ, khái niệm hoặc chủ đề nhạy cảm nào khác mà tôi cần phải hết sức lưu ý để tránh hoặc phải xử lý một cách tinh tế không?
+
+--> Trả lời: Riêng tên Sư phụ Lý thì không nên tuỳ tiện đề cập đến (để tỏ lòng tôn kinh), còn các góc độ khác thì có thể đề cập đến một cách nhẹ nhàng, gợi mở, không áp đặt, cần khách quan.
+
+Câu hỏi 8: Có một nguyên tắc chung nào về mức độ đề cập đến các vấn đề chính trị (ví dụ: Chủ nghĩa Cộng sản) không? Khi nào thì nên nói trực diện như trong Bức Màn Đỏ, và khi nào thì nên nói một cách ẩn dụ hơn (ví dụ: "ác Thần an bài" )?
+
+--> Trả lời:
+Không nên viết với văn phong mang tính "đấu tranh" hoặc hận thù, hoặc phê phán, chụp mũ, mà nên đề cập đến dưới góc độ thiện ác / phải trái. Các bài giới thiệu dạng blog thì cũng nên hạn chế đi sâu quá về tâm linh, nếu đề cập thì cần cân nhắc bối cảnh xem liệu độc giả có thể tiếp thu được không. Ví dụ, nếu đường đột dùng câu "ác Thần an bài" thì sợ rằng đa số đọc giả khó lý giải nến nó không đặt trong một ngữ cảnh phù hợp.

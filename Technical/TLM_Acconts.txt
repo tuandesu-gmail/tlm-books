@@ -1,0 +1,537 @@
+
+
+1) TheEpochMedia.com
+
+1.1) Hosting:  --> Old
+
+https://103.28.36.65:8443
+hoặc https://theepochmedia.com:8443
+
+Username	nhthetiw
+Password	M^tC?7j8!Zmd1^8
+
+1.2) FPT account:
+FTP Server	103.28.36.65 hoặc ftp.theepochmedia.com
+Username	nhthetiw
+Password	M^tC?7j8!Zmd1^8
+
+1.3) Server email:
+POP Server	mail.theepochmedia.com
+SMTP Server	mail.theepochmedia.com
+
+1.4) Thông tin DNS:
+NS1 IP	103.28.36.65
+NS2 IP	103.28.36.65
+
+Trường hợp sử dụng hệ thống quản lý DNS của nhà đăng ký, bạn chỉ cần trỏ toàn bộ Record về IP 103.28.36.65 :
+theepochmedia.com IN A 103.28.36.65
+www IN CNAME theepochmedia.com
+mail IN CNAME theepochmedia.com
+ftp IN CNAME theepochmedia.com
+
+
+1.5) WordPress admin (Nhân Hoà) --> Old:
+
+- Link: 	https://theepochmedia.com/wp-login.php
+- Username: tuandesu_admin
+- Password: l#j%M0i!ks2*z5Bx
+
+- DB: 						nhthetiw_wp_hqxw4
+- Database table prefix: 	irc0qwb_
+- Database user name: 		nhthe_wp_phirb
+- Database user password: 	c$Z0&RXq3TC7VRUj
+
+-------------------------------
+
+2) Domain:
+
+2.1) Tên miền: theepochmedia.com --> thelivesmedia.com (mua trên Cloudflare)
+
+https://www.namecheap.com/
+tuandesu / S)Nq+BD&x4d4&pj
+
+
+
+(cũ đăng ký 1 năm ở Nhân Hoà, giờ đang là Namecheap)
+
+Mật khẩu Domain: Wj0R5HJrf004ijn
+Liên kết đăng nhập: https://zonedns.vn
+
+2.2) theepochvoices.com
+(đăng ký 2 năm trên Hostinger)
+
+Thông tin liên lạc
+Biên tập
+Tên đầu tiên:Henry
+Họ:Lowell
+E-mail:editor@theepochmedia.com
+Số điện thoại:+84 0987525272
+Địa chỉ:285 Fulton St, New York, NY 10007, United States, New York, Hoa Kỳ, 10006
+
+-------------------------------
+
+3)) Hostinger (new):
+
+- WordPress login link: https://thelivesmedia.com/lgs
+
+
+- https://thelivesmedia.com/wp-admin/admin.php
+
+- tài khoản WordPress:
+tuandesu@gmail.com / 8JyWtzh=ka>r
+
+- Hosting:
+https://hpanel.hostinger.com/websites
+
+- DNS:
+ns1.dns-parking.com
+ns2.dns-parking.com
+
+- IP: 31.170.161.45
+
+
+4) Mail: 
+
+- Link: https://mail.hostinger.com/
+
+- Email:	editor@theepochmedia.com
+- Password:	8JyWtzh=ka>r
+
+Aiden Lee (Founder):
+- founder@theepochmedia.com /  Open@*6*0		--> founder@thelivesmedia.com /  Open@*6*0
+- partnerships@theepochmedia.com /  Open@*6*0
+
+
+Cấu hình IMAP/SMTP để nhập vào HubSpot
+
+	Username: địa chỉ email đầy đủ, ví dụ editor@theepochmedia.com
+
+	Password: mật khẩu email bạn đã tạo trong Hostinger
+
+Incoming Mail (IMAP)
+
+	Server: imap.hostinger.com
+
+	Port: 993
+
+	Encryption: SSL
+
+Outgoing Mail (SMTP)
+
+	Server: smtp.hostinger.com
+
+	Port: 465 (SSL)
+	(nếu gặp lỗi với 465 thì thử 587 với TLS, nhưng Hostinger khuyến nghị 465 SSL)
+
+📋 Điền vào HubSpot (theo form bạn gửi trước):
+
+	Username: editor@theepochmedia.com
+
+	Password: (mật khẩu mailbox trong Hostinger)
+
+	Incoming server (IMAP): imap.hostinger.com | Port 993
+
+	Outgoing server (SMTP): smtp.hostinger.com | Port 465
+
+	Security: KHÔNG tick “Trust any certificate” (vì Hostinger đã có SSL hợp lệ).
+
+-------------------------------
+
+4.b) EmailChannels:
+
+https://console.mailchannels.net/dashboard/summary
+
+Account: 
+tuandesu@gmail.com / Open@*6*0
+
+C:\WINDOWS\system32> Get-Content mc_dkim_dns_value.txt
+v=DKIM1; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvk/GJWySp2np+dL8rQdf8eyaWz4IOmxSsrml+HjLiDm2snSgBLRBvs2T8Z9EUEV99PUYEo2IxEP6V+4sc98vavHNzNYOlHkJ8Ta9eX3RalUpsEBc7ZvPmIxS0b2J7Z833KQaJ5G46eMYu/bTpDWsmk6fSTG1fWnP2o+SFeR5K/afXRpxyEmTx15qjpcHiu14EPxSFbhViYyQ7zCu3rAl+xK/qQYHbwdPOuD3weZu/J7Em2P41QnxWFslW8AwLKzNjftI+XsWDM2JM0w62SLLdpM3MAEa+pzUVhh/EVD1ccZyaKsWRXjO/Z+gIyOvCdsksyIVPmjk1RVl1J3GYA+AXwIDAQAB
+
+
+Lưu secrets cho Worker
+
+Trong thư mục project Worker:
+
+wrangler secret put MAIL_DKIM_PRIVATE_KEY
+# dán toàn bộ nội dung file mc_dkim_private.key
+
+wrangler secret put MAIL_DKIM_PRIVATE_KEY --env dev < C:\TLM\TLM_Affiliate\code\docs\DNS_DKIM_key\mc_dkim_private.key
+
+-----BEGIN PRIVATE KEY-----
+MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC+T8YlbJKnaen5
+0vytB1/x7JpbPgg6bFKyuaX4eMuIObaydKAEtEG+zZPxn0RQRX309RgSjYjEQ/pX
+7ixz3y9q8c3M1g6UeQnxNr15fdFqVSmwQFztm8+YjFLRvYntnzfcpBonkbjp4xi7
+9tOkNayaTp9JMbV9ac/aj5IV5Hkr9p9dGnHISZPHXmqOlweK7XgQ/FIVuFWJjJDv
+MK7esCX7Er+pBgdvB0864PfB5m78nsSbY/jVCfFYWyVbwDAsrM2N+0j5exYMzYkz
+TDrZIst2kzcwARr6nNRWGH8RUPVxxnJoqxZFeM79n6AjI68J2ySzIhU+aOTVFWXU
+ncZgD4BfAgMBAAECggEAAkhRiDsKWw9VVRMhO9xkfpp4LH4Qnu0QHtnf6nWLswKM
+X88JF34UNJJQDaRYxomghpO4jw3cJRwpAFnbN+7LIcBNrTsj8VpRX1CIG0GJ6m3a
+WwKDlAWqY/VOpQoYBWmFZsSzNR6Oth7Nh4yuaAPx75m5Ghn613Vj++dd6VYvcwIi
+mTHiP9T1jgNXXjqxsSp/rtTcmV5t6hbV6dieQOPzUKWf2+xsGlivs59OFJvKfT2j
+1IH+6LZ80oOnTOsW6JxpSRLBKY8kUwky14x4AeW9teQ5zvsMl3z5T8Ldup44EL7L
+EUITf/BAm6qddcPrdbOJaVleDMEkRyO1lniTPaOWrQKBgQDklWm2fKNOdtezMrYr
+n5fbuTiOkLCgjbppyvmgElvN6W8jec0Zwxvu7ZE6SzRe809MGKnTcVjQ4wsGa4Zi
+mO5lIoq/9/MDn08TGYKADzMaOv4u+JTAyFSyT6DAlUiASM1u4eygddAu5FEpQUUm
+lH1BnEzSBQsExrupbdp5tdEqbQKBgQDVIzsXLy/g7llFeLTmuPtz44WiGHOP9kqh
+Bl1FCH8hZk34cZeJ5vBHzJTZb/J7yoShI8FgvGIer6KAr+rdKjQntyFsal6xTF/U
+5UtoDU20IDC7eR3XcCRkPz+R8ZS2az9+YAD8Rz/KjKDE9Fb3YHqlAz65+AC2H2tH
+azIM193WewKBgF1OoFhdiEv/Nw1vJe2ot9R5Rxzq8y6WrAGDWWJ+G/txzmwszAw4
+GK7vStkA2d/ocfYeGzS0kAy0oUt9mN2mj6m47+pszEYuQZkKULr1eWa7rgZ+cjo/
+jFM9LeFvDqlPDoy0rGLTtKdvi7HLcu7MrlSZ+MHCTT0l4nTG4ufL0BYBAoGASldm
+hfisf41DUAsBNjSxaEOk2dwjesRSVYYNxEVpanHvokekrrIBf1mpVYpJjsodpsL8
+8UvkAYYLbU1u40OUO4IRw2n6q2bTSkPMIHf7cWeE9+8P7JQt7VVuS+5yi4ou9Fpy
+HYyQgIq6jNgY+WIKhUHzgBQz01J0Lc4DAB3PP78CgYB89ump5pWI85/YBSXqgxs8
+wEXHJTLLCyVLXDKFZ0HcEfOCe5mAqj/tKFI7oHyhDDvMnXZFkfmuASg3WEsnT6Q2
+4/lAGhKpk0VlZeA3pckya7N4vC9VvtMQLZFD8q4H9VXf567iiunQUMhqvCxCwmhS
+sXGEqBWspo7kNVzNLO8SXw==
+-----END PRIVATE KEY-----
+
+
+wrangler secret put MAILCHANNELS_API_KEY
+# dán API key bạn tạo trong MailChannels console
+
+MAILCHANNELS_API_KEY  =   WOisZtwrvKdvfdJ4LuDFnZJx9idNZtBy
+
+
+-------------------------------
+
+5) Social Links:
+
+https://x.com/epochmediabooks
+
+Account: 
+editor@theepochmedia.com / Open@*6*0
+
+-----
+
+https://www.linkedin.com/
+
+X Account: 
+editor@theepochmedia.com / Open@*6*0
+
+-----
+
+
+https://www.facebook.com/theepochmedia.books/
+
+
+-------------------------------------------
+
+6) PayPal account:
+
+https://www.paypal.com/
+tuandesu@gmail.com / Open@*6*0
+
+7) WPML site key:
+
+https://wpml.org/account/sites/
+
+4282f3d024 (for auto-update in WordPress)
+
+
+---------------------------------------
+
+
+8)  Cloudflare: https://dash.cloudflare.com
+
+Login bằng Gmail: tuandesu@gmail.com 
+
+- Cloudflare DNS Records:
+anirban.ns.cloudflare.com
+magali.ns.cloudflare.com
+
+---
+
+KV / TOKENS_PROD:	0b9550f9cbc8443782203f2daa3809ca
+
+---
+Vào Worker → Settings → Variables → Add variable.
+
+Chọn Type = Secret (không phải Plain).
+
+Name: API_KEY
+
+Value: đặt một chuỗi bí mật của bạn (ví dụ: random 32 ký tự, hoặc UUID).
+
+Ví dụ: p9bY2HcLZx8k4Q0mW7rS5tJ2aN9dG3fV
+
+
+----------
+
+User API Tokens:  	xNT0MRQ87U6ZaL_Y2PW5D0L0NQo-v9u0DMADp_Bd
+
+--> Test this token:
+curl "https://api.cloudflare.com/client/v4/user/tokens/verify" \
+     -H "Authorization: Bearer xNT0MRQ87U6ZaL_Y2PW5D0L0NQo-v9u0DMADp_Bd"
+	 
+	 
+
+---
+
+Affiliate Static page: 	aff.thelivesmedia.com
+
+-------------------------------------------
+
+9) Draft2Digital:
+
+https://draft2digital.com/
+
+editor@theepochmedia.com / Open@*6*0
+
+
+
+10) https://kdp.amazon.com/
+
+tuandesu@gmail.com  /  Open@*6*0   (old: close1610 )
+
+
+
+--------------------------------------------------------
+
+
+11) shopify.com 
+
+https://admin.shopify.com/store/rw0cp0-3w
+
+Login by Google Account,
+
+or:
+
+tuandesu@gmail.com / Open@*6*0
+
+Second recover email: founder@theepochmedia.com 
+
+----------
+
+Shopify:
+
+Epoch Download Bridge:
+Admin API access token: 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
+
+
+API key and secret key:
+
+API key:			cc5d7e8adec8a99a16201003d3bec832
+
+API secret key:		06e67e7c58d5679d752f3aaf7829bb60
+
+-------------
+
+Partner link:
+
+founder@theepochmedia.com / Open@*6*0
+
+https://partners.shopify.com/4485321/stores
+
+Epoch Download Bridge
+
+Client ID: 		de092e442cfd0f70fbe73a56d6a68f0e
+Client secret:	910d521563630c9cc828bc4881e8568a
+
+----------------
+
+$env:SHOPIFY_API_KEY=cc5d7e8adec8a99a16201003d3bec832
+$env:SHOPIFY_API_SECRET=06e67e7c58d5679d752f3aaf7829bb60
+$env:SHOPIFY_ADMIN_API_ACCESS_TOKEN=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
+$env:SHOPIFY_API_SCOPES="read_products,write_products"
+$env:SHOPIFY_STORE_DOMAIN="rw0cp0-3w.myshopify.com"
+
+
+[Environment]::SetEnvironmentVariable("SHOPIFY_API_KEY", "cc5d7e8adec8a99a16201003d3bec832", "User")
+[Environment]::SetEnvironmentVariable("SHOPIFY_API_SECRET", "06e67e7c58d5679d752f3aaf7829bb60", "User")
+[Environment]::SetEnvironmentVariable("SHOPIFY_ADMIN_API_ACCESS_TOKEN", "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", "User")
+[Environment]::SetEnvironmentVariable("SHOPIFY_STORE_DOMAIN", "rw0cp0-3w.myshopify.com", "User")
+[Environment]::SetEnvironmentVariable("SHOPIFY_API_SCOPES", "read_orders,write_orders,read_customers,write_customers", "User")
+
+
+
+--------------------------------------------------------
+
+12) GoAffPro link:
+
+Link cho affiliate:
+→ URL hiện tại là:
+https://rw0cp0-3w.goaffpro.com  
+
+-->  https://theepochmedia.goaffpro.com/  --> Đang login bằng Google account tuandesu@gmail.com (có thể mờ từ Shopify)
+
+Affiliate login:
+https://theepochmedia.goaffpro.com/login
+
+(Mỗi cửa hàng sẽ có một subdomain riêng)
+
+Thêm link này vào menu của shop
+→ Nhằm để cộng tác viên (affiliate) dễ tìm thấy nơi đăng ký.
+
+----
+
+Admin cho Seller của GoAffPro:
+
+https://app.goaffpro.com/
+
+https://goaffpro.com/affiliate --> Manage all stores
+
+tuandesu@gmail.com / Open@*6*0
+
+--------------------------------------------------------
+
+13) SendOwl:
+
+sendowl.com
+
+Login with Google Acc: tuandesu@gmail.com 
+
+
+--------------------------------------------------------
+
+
+14) HubSpot CRM:
+
+https://app-na2.hubspot.com/contacts/243652602/objects/0-1/views/all/list
+
+Login with Google Acc: tuandesu@gmail.com 
+
+
+--------------
+
+
+15) Payoneer.com
+
+a) Cá nhân: tuandesu@gmail.com / Open@*6*0 --> Open#*6*0
+Your Customer ID is 20371906.
+Two-step verification turned on: AWQRCQA1
+
+Securities QA:
+
+- Which hight school did your spouse attend?  
+	--> Sang Son
+
+- When is your wedding anniversary day (MM\DD)?
+	--> 01\08
+	
+- What is the name of the hospital you were born in? 
+	--> Phuong Khoan
+	
+---
+
+b) Công ty: 
+INTERNET MARKETING TRAINING SERVICE AND TRADING COMPANY LIMITED
+Customer ID: 98775662
+
+founder@theepochmedia.com /  Open@*6*0
+Two-step verification turned on: QWVTX4RS --> OBCH4IHV
+
+Securities QA:
+
+- How old way your father when you were born?
+	--> 27
+
+- What the name of the college you went to?
+	--> QTKD
+	
+- When is your mother's birthday (MM\DD)?
+	--> 01\01
+	
+	
+-----
+
+Contact Payoneer:
+https://payoneer.custhelp.com/app/ask/l_id/1
+https://payoneer.custhelp.com/app/chat/zowie_chat_launch/?code=9r4Lutbv
+
+	
+------------------
+
+
+16) https://login.paddle.com/
+
+founder@theepochmedia.com /  Open@*6*0
+
+
+17) https://www.2checkout.com/
+
+founder@theepochmedia.com /  Open@*6*0
+
+
+18) https://fastspring.com/
+
+
+founder@theepochmedia.com  / Open@*6*0*198* 
+
+Account ID: theepochmedia
+
+------------------------
+
+
+
+
+------------------------
+
+
+20) Dodo Payments
+
+Công ty ở Mỹ, nhưng có vẻ chủ yếu do người Ấn Độ điều hành.
+
+a) Cá nhân: 
+https://app.dodopayments.com/home 
+--> Login bằng Google account
+
+https://aff-dev.thelivesmedia.com/api/webhooks/dodo
+
+Signing Secret:		whsec_tZcYc7VJHC1ajG/2p7J2tInH4yMFrxK7
+
+
+b) Công ty: 
+https://app.dodopayments.com/home 
+--> Login bằng: founder@theepochmedia.com / Open@*6*0
+
+API Key: 	xfeNsT2SBc-zpsCb.X0URtRUyPrDA-xPjlGxqLZrBppg-InxI5_QEZPB6okCFe2It
+DODO_API_KEY_LIVE		-->	zqkz_t38LMcAD1_9.6FDIZr1I8CsKvUVc_JXe_bJmp_RH_CXL37X6GHzfrQEeBSpO
+
+
+--------------------------
+
+
+
+21) https://affonso.io/
+
+--> Login bằng Google account
+
+Affiliate Portal:
+https://the-epoch-media.affonso.io 				-->		https://thelivesmedia.affonso.io
+
+Affiliate:
+https://thelivesmedia.affonso.io/auth	--> login 
+https://books.thelivesmedia.com/?atp=McEXnA  	--> editor@theepochmedia.com 
+
+https://books.thelivesmedia.com/?atp=ruX9tE		-->	partnerships@theepochmedia.com
+
+
+23) Stripe:
+
+Đang dùng tài khoản thẻ tin dung Sacombank
+
+
+
+24) https://portal.worldfirst.com/dashboard
+
+Login: tuandesu@gmail.com  /  Open@*6*0
+
+
+
+25) https://www.airwallex.com/
+
+--> Login bằng: founder@theepochmedia.com / Open@*6*0
+
+26)https://secure2.ofx.com/
+
+theepochmedia / Open@*6*0
+
+First pet's name --> John
+
+
+27) remote.com:
+founder@theepochmedia.com	/ Open@16101981ok
+
+28) statrys.com:
+founder@theepochmedia.com	/ Open@*6*0*98*

@@ -1,0 +1,22 @@
+Chiến lược tổng thể được đề xuất:
+
+
+1) Xuất bản "Wide":
+
+	- Tải sách trực tiếp lên KDP (nhưng không chọn KDP Select).
+
+	- Dùng D2D để phân phối sách đến tất cả các kênh còn lại (Apple, Kobo, Barnes & Noble...).
+
+2) Xây dựng cửa hàng Shopify:
+
+	- Đây là "trụ sở chính", nơi bạn có lợi nhuận cao nhất và xây dựng cộng đồng.
+
+3) Marketing thông minh:
+
+	- Khi quảng bá, bạn có thể sử dụng một công cụ gọi là "Universal Book Link" (link sách đa năng) - dịch vụ miễn phí Books2Read của chính D2D cung cấp tính năng này.
+
+	- Bạn sẽ có một đường link duy nhất (ví dụ: books2read.com/ten-sach-cua-ban). Khi khách hàng nhấp vào, nó sẽ hiện ra một trang liệt kê tất cả các nơi bán sách của bạn: Cửa hàng Shopify của bạn (ưu tiên hàng đầu), Amazon, Apple Books, Kobo...
+
+	- Điều này cho phép khách hàng được tự do lựa chọn mua sách ở nền tảng họ yêu thích, trong khi bạn vẫn có thể khéo léo ưu tiên cửa hàng của mình.
+
+Bằng cách này, bạn vừa có thể xây dựng thương hiệu riêng và tối đa hóa lợi nhuận trên Shopify, vừa không bỏ lỡ bất kỳ khách hàng nào trên các nền tảng lớn khác. Chúng không xung đột mà bổ trợ cho nhau một cách hoàn hảo.

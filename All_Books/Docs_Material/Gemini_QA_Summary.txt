@@ -1,0 +1,40 @@
+Tổng Hợp & Xác Nhận Về Dự Án The Epoch Media
+1. Về Cấu Trúc và Mối Liên Kết Của Bộ Sách
+
+Độc lập nhưng có định hướng: 9 cuốn sách là các tác phẩm độc lập, mỗi cuốn là một "cánh cửa" riêng. Tuy nhiên, có một 
+
+thứ tự gợi ý cho độc giả, đi từ các chủ đề dễ tiếp cận đến các tầng nhận thức tâm linh sâu sắc hơn.
+
+
+Hệ quy chiếu nhất quán: Mặc dù các câu chuyện và nhân vật là riêng biệt , các khái niệm nền tảng (như "người ngoài hành tinh") đều tuân thủ theo một hệ tư tưởng chung từ 
+
+Base_Info.txt, chỉ khác nhau về mức độ chi tiết được hé lộ trong từng cuốn sách.
+
+2. Về Độc Giả và Tác Động Mong Muốn
+
+Đối tượng rộng, có phân tầng: Dự án hướng đến nhiều đối tượng độc giả, nhưng bốn cuốn sách cuối trong danh sách sẽ phù hợp nhất với những người đã có nền tảng nhất định về tâm linh.
+
+
+Mục tiêu là "Mở Cửa Nhận Thức": Tác động cốt lõi mà dự án mong muốn là giúp độc giả mở ra một thế giới mới về tư tưởng và nhận thức. Những hành động sau đó sẽ tùy thuộc vào quyết định của mỗi người.
+
+
+3. Về Hình Thức Sáng Tác
+
+Bút danh có chủ đích: Tên các tác giả đều là bút danh, mỗi bút danh đại diện cho một phong cách và bối cảnh riêng, phù hợp với từng tác phẩm.
+
+
+Nhân vật và bối cảnh hư cấu: Tên nhân vật và các chi tiết câu chuyện là hư cấu, được tái cấu trúc dưới hình thức văn học để truyền tải thông điệp một cách tinh tế và dễ tiếp nhận hơn. Ghi chú của Ban Biên Tập ở đầu mỗi cuốn sách sẽ làm rõ điều này với độc giả.
+
+
+
+4. Về Xử Lý Các Vấn Đề Nhạy Cảm
+Sự linh hoạt tinh tế: Quy định về "Pháp Luân Công" không phải là một sự cấm đoán cứng nhắc. Có thể đề cập đến một cách tự nhiên qua lời của nhân vật khi phù hợp với bối cảnh, nhưng tránh quảng bá lộ liễu.
+
+
+Tôn kính tối đa: Tên của Sư Phụ Lý Hồng Chí cần được xử lý hết sức cẩn trọng và tôn kính, không nên tùy tiện đề cập đến.
+
+
+Góc nhìn Thiện-Ác: Khi đề cập đến các vấn đề chính trị như Chủ nghĩa Cộng sản, văn phong cần tránh thái độ "đấu tranh" hay thù hận, thay vào đó nên tiếp cận từ góc độ phân định phải trái, thiện ác.
+
+
+Ngữ cảnh là chìa khóa: Các khái niệm tâm linh sâu (như "ác Thần an bài") cần được đặt trong ngữ cảnh phù hợp, đặc biệt là trong các bài viết cho đại chúng như blog, để tránh gây khó hiểu cho độc giả.
