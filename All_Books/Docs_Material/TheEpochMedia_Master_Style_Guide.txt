@@ -1,6 +1,6 @@
-TheEpochMedia_Master_Style_Guide – Bản Hợp Nhất (Cập Nhật)
+THE LIVES MEDIA_Master_Style_Guide – Bản Hợp Nhất (Cập Nhật)
 
-Các cuốn sách thuộc dự án The Epoch Media được viết với một mục tiêu kép: vừa kể một câu chuyện hấp dẫn, lôi cuốn về hành trình khám phá tâm linh và sự thật, vừa chạm đến những tầng sâu cảm xúc và nhận thức của độc giả, gieo mầm cho sự tỉnh thức và chiêm nghiệm. Để đạt được điều đó, chúng ta cần tuân thủ những nguyên tắc sau:
+Các cuốn sách thuộc dự án THE LIVES MEDIA được viết với một mục tiêu kép: vừa kể một câu chuyện hấp dẫn, lôi cuốn về hành trình khám phá tâm linh và sự thật, vừa chạm đến những tầng sâu cảm xúc và nhận thức của độc giả, gieo mầm cho sự tỉnh thức và chiêm nghiệm. Để đạt được điều đó, chúng ta cần tuân thủ những nguyên tắc sau:
 
 PHẦN A: TINH THẦN & TƯ TƯỞNG CHỦ ĐẠO – Linh Hồn Của Tác Phẩm
 
@@ -8,7 +8,7 @@ Phần này đặt nền móng cho cảm xúc và thông điệp mà tác phẩm
 
 I. PHONG CÁCH CHUNG – Ngôn Ngữ Của Sự Tinh Tế
 
-0. 	Hình ảnh "người lái đò" có lẽ là thể hiện rõ nhất phong cách viết nói chung cho tất cả các sách của dự án The Epoch Media. Tức là người đó sẽ đưa hành khách (đọc giả) qua các khúc sông và thác ghềnh (dọc dòng sông), để đọc giả tự cảm nhận những gì quan sát được trên dòng sông đó (chứ không phải là lái đò đưa khách qua sông).
+0. 	Hình ảnh "người lái đò" có lẽ là thể hiện rõ nhất phong cách viết nói chung cho tất cả các sách của dự án THE LIVES MEDIA. Tức là người đó sẽ đưa hành khách (đọc giả) qua các khúc sông và thác ghềnh (dọc dòng sông), để đọc giả tự cảm nhận những gì quan sát được trên dòng sông đó (chứ không phải là lái đò đưa khách qua sông).
 
 1.  Tỉnh thức – Nhẹ nhàng – Gợi mở:
     *   Tinh thần: Văn phong phải như một dòng suối trong trẻo, len lỏi vào tâm hồn người đọc một cách tự nhiên, không gượng ép. Mục tiêu là khơi gợi sự tò mò, sự suy tư chứ không phải đưa ra những "chân lý" đóng khung.
@@ -33,7 +33,7 @@ I. PHONG CÁCH CHUNG – Ngôn Ngữ Của Sự Tinh Tế
 
 	KẾT HỢP BA PHONG CÁCH BIỂU CẢM – TẠO ĐỘ SÂU CHO NHIỀU TẦNG ĐỘC GIẢ:
 
-	The Epoch Media khuyến khích sự kết hợp tinh tế giữa ba phong cách biểu cảm tương ứng với ba kiểu “cảm thụ nghệ thuật”:
+	THE LIVES MEDIA khuyến khích sự kết hợp tinh tế giữa ba phong cách biểu cảm tương ứng với ba kiểu “cảm thụ nghệ thuật”:
 
 	- Phong cách “Chen Xiaozhu” – Dành cho độc giả cần sự an yên, dễ cảm: dùng lời văn nhẹ nhàng, êm dịu, truyền cảm theo phong cách cổ phong hoặc cảm xúc tinh tế, làm đẹp những điều bình dị.
 	
@@ -80,7 +80,7 @@ III. TƯ TƯỞNG NGẦM & GIỚI HẠN BIỂU ĐẠT – Sự Tinh Tế Trong T
         *   Nên viết: "Kể từ khi anh ấy tình cờ đọc được những lời dạy cổ xưa về việc sống chân thật, đối xử từ bi với mọi người và biết nhẫn nhịn trước nghịch cảnh, bạn bè nhận thấy anh ấy ngày một ôn hòa, suy nghĩ tích cực và sẵn lòng giúp đỡ người khác hơn." Hoặc mô tả nhân vật thực hành các bài tập nhẹ nhàng, khoan thai và cảm nhận sự thay đổi trong tâm và thân.
 
 4.  Sử Dụng Thuật Ngữ Tâm Linh Một Cách Cẩn Trọng và Chính Xác:
-    *   Ưu tiên sự dễ hiểu và dễ dịch thuật: Khi đề cập đến các khái niệm tâm linh, ưu tiên sử dụng những thuật ngữ phổ biến, dễ hiểu với độc giả đại chúng và có khả năng dịch thuật chính xác sang các ngôn ngữ khác mà The Epoch Media hỗ trợ (ví dụ: "linh hồn" thay vì các thuật ngữ quá chuyên biệt có thể gây hiểu lầm).
+    *   Ưu tiên sự dễ hiểu và dễ dịch thuật: Khi đề cập đến các khái niệm tâm linh, ưu tiên sử dụng những thuật ngữ phổ biến, dễ hiểu với độc giả đại chúng và có khả năng dịch thuật chính xác sang các ngôn ngữ khác mà THE LIVES MEDIA hỗ trợ (ví dụ: "linh hồn" thay vì các thuật ngữ quá chuyên biệt có thể gây hiểu lầm).
     *   Giải thích khi cần thiết: Nếu sử dụng một thuật ngữ có thể có nhiều lớp nghĩa hoặc cần làm rõ hơn (ví dụ: khi giới thiệu "linh hồn", có thể đề cập thêm các cách gọi khác như "nguyên thần", "thần thức" để độc giả hiểu rằng chúng đều chỉ bản thể tinh thần cốt lõi), cần có sự giải thích rõ ràng từ nhân vật có hiểu biết để định hướng đúng cách hiểu, tránh gây nhầm lẫn.
     *   Tránh chuyên môn hóa không cần thiết: Không sa đà vào việc sử dụng quá nhiều thuật ngữ chuyên biệt của một trường phái tu luyện cụ thể nếu điều đó không thực sự cần thiết cho sự phát triển của câu chuyện và có thể gây khó khăn cho độc giả đại chúng.
 
@@ -151,7 +151,7 @@ IV. THỦ PHÁP MỞ RỘNG CHIỀU SÂU – Làm Dày Thêm Các Lớp Nghĩa
 
 V. CÁC LỖI CẦN TRÁNH – Đảm Bảo Sự Trong Sáng và Tinh Tế Của Văn Phong
 
-*   Từ ngữ vô nghĩa/sáo rỗng: Loại bỏ những từ ngữ như "mãi vét", "gợn gợn", "mười mươi bước", "nơi định tĩnh", "đi lác đác bình thường"... (Cần có danh sách từ cụ thể hơn nếu The Epoch Media cung cấp).
+*   Từ ngữ vô nghĩa/sáo rỗng: Loại bỏ những từ ngữ như "mãi vét", "gợn gợn", "mười mươi bước", "nơi định tĩnh", "đi lác đác bình thường"... (Cần có danh sách từ cụ thể hơn nếu THE LIVES MEDIA cung cấp).
 *   Nhắc lại nội dung đã có ở mục trước.
 *   Đưa triết lý vào miệng nhân vật không phù hợp.
 *   Diễn giải điều độc giả có thể tự cảm nhận.

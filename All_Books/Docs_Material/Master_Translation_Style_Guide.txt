@@ -1,5 +1,5 @@
 ======================================================================
-== The Epoch Media - Master Translation Style Guide (Bản Hợp Nhất) ==
+== THE LIVES MEDIA- Master Translation Style Guide (Bản Hợp Nhất) ==
 ======================================================================
 Ngày cập nhật: [Xin điền ngày cập nhật mới tại đây, ví dụ: 15/06/2025]
 
@@ -33,12 +33,12 @@ A4. Tôn trọng "Tư Tưởng Ngầm": Dịch câu chuyện bề mặt một c�
 
 ### PHẦN B: QUY TẮC KỸ THUẬT DỊCH THUẬT (The "Mechanics" of Translation)
 
-B0. Quy tắc Tối thượng & Bất di bất dịch về Thương hiệu THE EPOCH MEDIA (The Supreme & Immutable Rule for the Brand THE EPOCH MEDIA)
+B0. Quy tắc Tối thượng & Bất di bất dịch về Thương hiệu THE LIVES MEDIA(The Supreme & Immutable Rule for the Brand THE EPOCH MEDIA)
 	*	QUY TẮC CỐT LÕI:
-		Tên thương hiệu THE EPOCH MEDIA phải luôn được giữ nguyên, viết hoa, và TUYỆT ĐỐI KHÔNG DỊCH sang bất kỳ ngôn ngữ nào.
+		Tên thương hiệu THE LIVES MEDIAphải luôn được giữ nguyên, viết hoa, và TUYỆT ĐỐI KHÔNG DỊCH sang bất kỳ ngôn ngữ nào.
 
 	*	CHUẨN HÓA:
-		Dù trong văn bản gốc là THE EPOCH MEDIA hay The Epoch Media, bản dịch cuối cùng phải luôn là THE EPOCH MEDIA (viết hoa toàn bộ).
+		Dù trong văn bản gốc là THE LIVES MEDIAhay The Epoch Media, bản dịch cuối cùng phải luôn là THE LIVES MEDIA(viết hoa toàn bộ).
 	
 	*	BẢN CHẤT QUY TẮC:
 		Đây là quy tắc nhận diện thương hiệu toàn cầu, tương tự như các thương hiệu quốc tế khác (Apple, Google, IBM, v.v.). Tên thương hiệu là bất khả xâm phạm và phải được tôn trọng tuyệt đối trong mọi ngôn ngữ.
@@ -48,19 +48,19 @@ B0. Quy tắc Tối thượng & Bất di bất dịch về Thương hiệu THE E
 	
 	*	VÍ DỤ ÁP DỤNG:
 		- Đúng:
-			độc giả của THE EPOCH MEDIA (Tiếng Việt)
-			the readers of THE EPOCH MEDIA (Tiếng Anh)
-			les lecteurs de THE EPOCH MEDIA (Tiếng Pháp)
-			THE EPOCH MEDIA の読者 (Tiếng Nhật)
-			THE EPOCH MEDIA 的讀者 (Tiếng Trung)
+			độc giả của THE LIVES MEDIA(Tiếng Việt)
+			the readers of THE LIVES MEDIA(Tiếng Anh)
+			les lecteurs de THE LIVES MEDIA(Tiếng Pháp)
+			THE LIVES MEDIAの読者 (Tiếng Nhật)
+			THE LIVES MEDIA的讀者 (Tiếng Trung)
 			THE EPOCH MEDIA의 독자 (Tiếng Hàn)
 		- Sai nghiêm trọng:
 			độc giả của Đại Kỷ Nguyên
-			les lecteurs de The Epoch Media (大紀元)
+			les lecteurs de THE LIVES MEDIA(大紀元)
 			디 에포크 미디어의 독자
 
 	
-	* Lý do Chiến lược: Ở giai đoạn hiện tại, việc khẳng định một bản sắc độc lập, nghiêm túc và có giá trị riêng của THE EPOCH MEDIA là ưu tiên hàng đầu. Bất kỳ sự nhầm lẫn nào về tên gọi đều có thể gây tổn hại nghiêm trọng đến uy tín và bị hiểu lầm là mạo danh. Việc xây dựng một thương hiệu độc lập, vững chắc là nền tảng cho mọi chiến lược phát triển trong tương lai.
+	* Lý do Chiến lược: Ở giai đoạn hiện tại, việc khẳng định một bản sắc độc lập, nghiêm túc và có giá trị riêng của THE LIVES MEDIAlà ưu tiên hàng đầu. Bất kỳ sự nhầm lẫn nào về tên gọi đều có thể gây tổn hại nghiêm trọng đến uy tín và bị hiểu lầm là mạo danh. Việc xây dựng một thương hiệu độc lập, vững chắc là nền tảng cho mọi chiến lược phát triển trong tương lai.
 
 
 B1. Quy tắc về Tên riêng (Proper Nouns)

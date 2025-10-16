@@ -1,12 +1,12 @@
 ======================================================================
-== The Epoch Media - Master Translation Style Guide (Bản Hợp Nhất) ==
+== THE LIVES MEDIA - Master Translation Style Guide (Bản Hợp Nhất) ==
 ======================================================================
 Ngày cập nhật: [Xin điền ngày cập nhật mới tại đây, ví dụ: 15/06/2025]
 
 Ghi chú cập nhật: Tái cấu trúc và làm rõ quy tắc B6.1 về liệt kê trong văn nói. Bổ sung quyền chủ động nâng cao văn phong nói vào mục B3.
 
 Giới thiệu:
-Cẩm nang này là kim chỉ nam dành cho tất cả dịch giả và biên tập viên tham gia vào các dự án của The Epoch Media. Mục tiêu của chúng ta không chỉ là "dịch", mà là "chuyển ngữ" – tức là chuyển tải trọn vẹn tinh thần, cảm xúc, và các tầng ý nghĩa sâu sắc của tác phẩm gốc sang một ngôn ngữ mới. Dịch giả, giống như "người lái đò", có vai trò dẫn dắt độc giả quốc tế đi qua hành trình tâm linh này một cách tự nhiên và trọn vẹn nhất.
+Cẩm nang này là kim chỉ nam dành cho tất cả dịch giả và biên tập viên tham gia vào các dự án của THE LIVES MEDIA. Mục tiêu của chúng ta không chỉ là "dịch", mà là "chuyển ngữ" – tức là chuyển tải trọn vẹn tinh thần, cảm xúc, và các tầng ý nghĩa sâu sắc của tác phẩm gốc sang một ngôn ngữ mới. Dịch giả, giống như "người lái đò", có vai trò dẫn dắt độc giả quốc tế đi qua hành trình tâm linh này một cách tự nhiên và trọn vẹn nhất.
 
 ---
 
@@ -33,11 +33,11 @@ A4. Tôn trọng "Tư Tưởng Ngầm": Dịch câu chuyện bề mặt một c�
 
 ### PHẦN B: QUY TẮC KỸ THUẬT DỊCH THUẬT (The "Mechanics" of Translation)
 
-B0. Quy tắc Tối thượng & Bất di bất dịch về Thương hiệu THE EPOCH MEDIA (The Supreme & Immutable Rule for the Brand THE EPOCH MEDIA)
+B0. Quy tắc Tối thượng & Bất di bất dịch về Thương hiệu THE LIVES MEDIA (The Supreme & Immutable Rule for the Brand THE LIVES MEDIA)
     *	QUY TẮC CỐT LÕI:
-        Tên thương hiệu THE EPOCH MEDIA phải luôn được giữ nguyên, viết hoa, và TUYỆT ĐỐI KHÔNG DỊCH sang bất kỳ ngôn ngữ nào.
+        Tên thương hiệu THE LIVES MEDIA phải luôn được giữ nguyên, viết hoa, và TUYỆT ĐỐI KHÔNG DỊCH sang bất kỳ ngôn ngữ nào.
     *	CHUẨN HÓA:
-        Dù trong văn bản gốc là THE EPOCH MEDIA hay The Epoch Media, bản dịch cuối cùng phải luôn là THE EPOCH MEDIA (viết hoa toàn bộ).
+        Dù trong văn bản gốc là THE LIVES MEDIA hay THE LIVES MEDIA, bản dịch cuối cùng phải luôn là THE LIVES MEDIA (viết hoa toàn bộ).
     *	NHỮNG ĐIỀU NGHIÊM CẤM:
         Nghiêm cấm mọi hình thức phiên âm hay dịch nghĩa. Đây là những lỗi sai nghiêm trọng.
 
