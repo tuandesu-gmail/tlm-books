@@ -139,21 +139,27 @@ Chương V: Thiên Hà Như Một Cơn Lốc Vũ Trụ
 
 Chương VI: Cấu Trúc Vô Tận Của Thực Tại – Từ Vi Mô Đến Hồng Quan
 
-  Sau khi đã nhìn lại Big Bang và Hố Đen dưới một lăng kính mới, chúng ta hãy thử đặt toàn bộ bức tranh đó vào một khung cảnh còn vĩ đại hơn. Hành trình khám phá vũ trụ có hai hướng: đi sâu vào bên trong thế giới vi mô (quy mô siêu nhỏ) và vươn ra bên ngoài thế giới hồng quan (quy mô cực lớn). Cả hai hướng dường như đều dẫn đến sự vô tận, với một trật tự kiến trúc fractal đáng kinh ngạc, nơi cấu trúc tự lặp lại ở mọi quy mô.
-
-  Ở chiều vi mô, khoa học nói vật chất được cấu thành từ nguyên tử. Nhưng đó mới chỉ là điểm khởi đầu. Dưới nguyên tử còn có hạt nhân, rồi proton, neutron, rồi quark. Hành trình này không dừng lại. Có thể tồn tại vô số cấp vi lạp mà con người chưa biết tới, mỗi cấp độ lại là một thế giới riêng. Trong hệ thống phân cấp này, nếu chúng ta quy ước Nguyên tử là Cấp 0, thì các hạt nhỏ hơn sẽ thuộc các cấp âm: Cấp -1, -2, và cứ thế đi xuống.
-
-  Ánh sáng (photon), thứ mà chúng ta dùng để nhìn thấy thế giới, có thể chỉ là một loại vi lạp ở một cấp độ khá nông, có thể là từ Cấp -3 đến -10. Theo góc nhìn này, một ngôi sao như Mặt Trời không trực tiếp tạo ra ánh sáng. Nó hoạt động như một lò phản ứng hạt nhân khổng lồ, cung cấp năng lượng để kích hoạt các hạt vi mô hơn (ví dụ ở Cấp -2), và chính những hạt đó khi được kích hoạt mới thực sự phát ra các hạt ánh sáng. Điều này có nghĩa là toàn bộ thực tại mà con người "nhìn thấy" và đo lường được chỉ là sự tương tác của một loại vi lạp trung gian duy nhất, trong khi chúng ta hoàn toàn "mù" trước sự tồn tại và vận hành của vô số các tầng vi lạp khác.
-
-  Ở chiều hồng quan ngược lại, trật tự này dường như cũng lặp lại một cách tinh vi. Hãy cùng thử xây dựng một mô hình giả định để sắp xếp trật tự vô tận này. Chúng ta có thể phân biệt giữa một “cấp” – tức một hạt cơ bản của vũ trụ ở từng quy mô – và một “cấu trúc trung gian” được tạo thành từ các hạt đó.
-
-    - Cấp 0 là nguyên tử.
-
-    - Cấp +1 là thiên thể – từ những thiên thạch nhỏ bé đến các ngôi sao khổng lồ.
-    Vậy còn con người, động thực vật? Chúng ta là những dạng tồn tại trung gian vô cùng phức tạp, những cơ thể sống được cấu thành từ vô số hạt Cấp 0, tồn tại trên bề mặt của một hạt Cấp +1 là hành tinh này. Các cấu trúc vĩ đại hơn như Hệ Mặt Trời hay thậm chí các thiên hà cũng là những cấu trúc trung gian. Một thiên hà giống như một “cụm tế bào” khổng lồ, là sự quần tụ của hàng tỷ hạt Cấp +1.
-
-
-  Câu hỏi khiến ta choáng ngợp là: vậy hạt ở Cấp +2 là gì? Có lẽ, toàn bộ “vũ trụ quan sát được” mà khoa học hiện nay biết đến cũng chỉ là một hạt như vậy, và nó lại là một phần của một cấu trúc vô tận, lớn hơn nữa. Vũ trụ vi mô và vũ trụ hồng quan chỉ là hai hướng ngược nhau của cùng một trục tồn tại. Cái nhỏ nhất và cái lớn nhất không tách biệt – chúng soi chiếu lẫn nhau như hai mặt của cùng một tấm gương. Nếu đi đủ xa vào một trong hai hướng ấy, có lẽ ta sẽ lại gặp chính mình ở đầu bên kia.
+  Sau khi đã nhìn lại Big Bang và các thiên hà, chúng ta hãy thử lùi lại một bước để chiêm nghiệm về nguyên tắc kiến trúc sâu xa của vũ trụ. Phải chăng có một bản thiết kế chung, một mô thức tự lặp lại ở mọi quy mô, từ cái nhỏ bé nhất đến cái vĩ đại nhất? Nguyên lý đó có thể được tìm thấy trong tự nhiên, qua một khái niệm gọi là fractal (phân dạng).
+  
+  Một fractal là một cấu trúc mà trong đó, một phần nhỏ của nó khi được phóng to lên sẽ trông giống hệt như toàn bộ. Từ một bông tuyết, một cây dương xỉ đến các nhánh sông, tự nhiên dường như là một nghệ sĩ fractal bậc thầy. Khi áp dụng lăng kính này vào vũ trụ, một trật tự đáng kinh ngạc hiện ra.
+  
+  Hãy thử xây dựng một hệ thống phân cấp để hình dung kiến trúc fractal này, phân biệt rõ ràng giữa "Hạt Cơ Bản" (lạp tử hình cầu của một cấp) và "Cấu Trúc Trung Gian" (hệ thống được tạo thành từ các hạt cấp thấp hơn).
+  
+    - Cấp +1: Hạt Cơ Bản là các Thiên thể.
+    
+        + Các ngôi sao, hành tinh, với hình dạng cầu đặc trưng, chính là những "hạt cơ bản" của cấp độ này.
+        
+        + Từ những "hạt" Cấp +1 này, các cấu trúc trung gian phức tạp hơn được hình thành: Hệ Mặt Trời (một hạt trung tâm và các hạt vệ tinh), Thiên Hà (một quần thể của hàng tỷ hạt), Cụm Thiên Hà...
+    
+    - Vậy, đâu là Hạt Cơ Bản Cấp 0?
+    
+        + Hành trình của vật lý hạt chính là hành trình đi tìm câu trả lời này. Chúng ta đã khám phá ra nguyên tử, nhưng với cấu trúc hạt nhân và electron quay quanh, nó rõ ràng là một "cấu trúc trung gian" giống như một Hệ Mặt Trời siêu nhỏ.
+        
+        + Theo logic fractal, một Hạt Cơ Bản Cấp 0 phải được cấu thành từ vô số Hạt Cơ Bản Cấp -1. Nhưng ở đây, chúng ta gặp một mâu thuẫn thú vị với khoa học hiện tại. Vật lý nói rằng một proton (thành phần của hạt nhân) chỉ được tạo thành từ 3 quark. Nếu vậy, cả proton và quark đều không thể là "Hạt Cơ Bản" theo định nghĩa của chúng ta, mà chỉ là những "cấu trúc trung gian" rất nhỏ trên hành trình đi sâu vào thế giới vi mô.
+        
+        + Điều này không có nghĩa là khoa học sai. Nó chỉ gợi ý một khả năng rằng, ngay cả với những máy gia tốc mạnh nhất, chúng ta có lẽ vẫn chưa chạm tới được "Hạt Cơ Bản" thực sự của Cấp 0, và càng chưa thể biết đến các cấp vi mô sâu hơn nữa. Những gì chúng ta biết ngày nay có thể chỉ là những tầng bề mặt của một đại dương vi mô vô tận.
+    
+  Với góc nhìn này, vũ trụ không chỉ là một đường thẳng từ nhỏ đến lớn. Nó là một cấu trúc phân tầng vô tận theo cả hai hướng vi mô và hồng quan. Cái nhỏ nhất và cái lớn nhất không tách biệt – chúng soi chiếu lẫn nhau như hai mặt của cùng một tấm gương. Hiểu được cấu trúc của một Hệ Mặt Trời có thể giúp ta hình dung về cấu trúc của một nguyên tử. Và thừa nhận sự tồn tại của các tầng vi mô vô tận sẽ mở ra một khả năng rằng, chính thế giới hồng quan mà chúng ta quan sát được cũng chỉ là một "hạt" trong một cấu trúc còn vĩ đại hơn nữa.
 
 
 Chương VII: Vượt Lên Lằn Ranh Của Sự Quan Sát
