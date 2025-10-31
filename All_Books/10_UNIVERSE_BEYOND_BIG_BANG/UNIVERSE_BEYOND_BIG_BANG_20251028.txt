@@ -644,19 +644,19 @@ Chương 7: TẤM BẢN ĐỒ ĐA CHIỀU - TỪ THUYẾT DÂY ĐẾN TAM GIÁC 
     
     Trong những năm gần đây, các tài liệu và video được giải mật từ Lầu Năm Góc đã xác nhận sự tồn tại của những vật thể bay thể hiện những đặc tính vận hành thách thức mọi định luật vật lý mà chúng ta biết. Chúng có thể:
     
-    Tăng tốc tức thời đến những tốc độ không tưởng mà không tạo ra sóng xung kích.
-    
-    Thực hiện những cú ngoặt 90 độ ở tốc độ siêu thanh mà không bị lực quán tính phá hủy.
-    
-    Biến mất khỏi một điểm và xuất hiện trở lại ở một điểm khác cách xa hàng chục cây số chỉ trong nháy mắt.
+      Tăng tốc tức thời đến những tốc độ không tưởng mà không tạo ra sóng xung kích.
+      
+      Thực hiện những cú ngoặt 90 độ ở tốc độ siêu thanh mà không bị lực quán tính phá hủy.
+      
+      Biến mất khỏi một điểm và xuất hiện trở lại ở một điểm khác cách xa hàng chục cây số chỉ trong nháy mắt.
     
     Những hành vi này là hoàn toàn phi vật lý nếu chúng ta cho rằng vật thể đó đang di chuyển bên trong không gian ba chiều của chúng ta. Nhưng chúng lại trở nên hoàn toàn hợp lý nếu chúng ta giả định rằng nó có khả năng di chuyển xuyên qua các chiều không gian.
     
-    Sự biến mất đột ngột có thể không phải là khả năng tàng hình, mà là hành động "thoát" ra khỏi chiều không gian của chúng ta.
-    
-    Sự tăng tốc tức thời có thể không phải là một hệ thống đẩy, mà là hành động "tái nhập" vào không gian của chúng ta tại một vị trí khác.
-    
-    Cú ngoặt 90 độ phi vật lý thực chất không phải là một cú ngoặt. Vật thể đó chỉ đơn giản là thoát ra khỏi thực tại của chúng ta tại điểm A và tái nhập tại điểm B với một véc-tơ chuyển động hoàn toàn mới.
+      Sự biến mất đột ngột có thể không phải là khả năng tàng hình, mà là hành động "thoát" ra khỏi chiều không gian của chúng ta.
+      
+      Sự tăng tốc tức thời có thể không phải là một hệ thống đẩy, mà là hành động "tái nhập" vào không gian của chúng ta tại một vị trí khác.
+      
+      Cú ngoặt 90 độ phi vật lý thực chất không phải là một cú ngoặt. Vật thể đó chỉ đơn giản là thoát ra khỏi thực tại của chúng ta tại điểm A và tái nhập tại điểm B với một véc-tơ chuyển động hoàn toàn mới.
     
     Như vậy, chúng ta có thể phân biệt rõ ràng giữa hai loại hiện tượng liên quan đến đa chiều. Một bên là các "cổng không gian" tự nhiên, hỗn loạn và nguy hiểm, giống như những xoáy nước hung dữ trên đại dương. Một bên là công nghệ dịch chuyển có kiểm soát, chủ động và chính xác, giống như một chiếc tàu ngầm hiện đại có thể lặn xuống và trồi lên ở bất kỳ đâu nó muốn. Việc nhận ra sự khác biệt này giúp chúng ta xây dựng một tấm bản đồ đa chiều phức tạp và hợp lý hơn, nơi không chỉ có những tai nạn ngẫu nhiên, mà còn có cả những hành động có chủ đích.
     
@@ -1436,21 +1436,21 @@ Chương 17: KIẾN TRÚC FRACTAL - TỪ VI MÔ ĐẾN HỒNG QUAN
     
     Cấp +1: Hạt Cơ Bản là các Thiên thể.
     
-      - Các ngôi sao, hành tinh, với hình dạng cầu đặc trưng, chính là những "hạt cơ bản" của cấp độ này. Một thiên thể được cấu thành từ vô số các hạt ở cấp độ nhỏ hơn.
+      Các ngôi sao, hành tinh, với hình dạng cầu đặc trưng, chính là những "hạt cơ bản" của cấp độ này. Một thiên thể được cấu thành từ vô số các hạt ở cấp độ nhỏ hơn.
       
-      - Từ những "hạt" này, các cấu trúc trung gian phức tạp hơn được hình thành: Hệ Mặt Trời, Thiên Hà, Cụm Thiên Hà...
+      Từ những "hạt" này, các cấu trúc trung gian phức tạp hơn được hình thành: Hệ Mặt Trời, Thiên Hà, Cụm Thiên Hà...
     
     Vậy, đâu là Hạt Cơ Bản Cấp 0?
     
-      - Hành trình đi tìm Hạt Cơ Bản Cấp 0 chính là hành trình của vật lý hạt. Chúng ta đã khám phá ra nguyên tử, nhưng nó rõ ràng là một "cấu trúc trung gian" giống Hệ Mặt Trời. Chúng ta đi sâu hơn và tìm thấy proton, neutron, electron. Chúng có phải là Hạt Cơ Bản Cấp 0 không?
+      Hành trình đi tìm Hạt Cơ Bản Cấp 0 chính là hành trình của vật lý hạt. Chúng ta đã khám phá ra nguyên tử, nhưng nó rõ ràng là một "cấu trúc trung gian" giống Hệ Mặt Trời. Chúng ta đi sâu hơn và tìm thấy proton, neutron, electron. Chúng có phải là Hạt Cơ Bản Cấp 0 không?
       
-      - Theo logic của chúng ta, nếu một thiên thể (Cấp +1) được tạo từ vô số hạt Cấp 0, thì một hạt Cấp 0 cũng phải được tạo từ vô số hạt Cấp -1.
+      Theo logic của chúng ta, nếu một thiên thể (Cấp +1) được tạo từ vô số hạt Cấp 0, thì một hạt Cấp 0 cũng phải được tạo từ vô số hạt Cấp -1.
       
-      - Nhưng ở đây, chúng ta gặp một mâu thuẫn với khoa học hiện tại. Vật lý nói rằng một proton chỉ được tạo thành từ 3 quark. Nếu vậy, proton không thể là một "Hạt Cơ Bản" theo định nghĩa của chúng ta, mà chỉ là một "cấu trúc trung gian" rất nhỏ. Và quark, vì chỉ có 3 hạt tạo nên một cấu trúc lớn hơn, cũng không thể là "Hạt Cơ Bản" của cấp độ ngay bên dưới.
+      Nhưng ở đây, chúng ta gặp một mâu thuẫn với khoa học hiện tại. Vật lý nói rằng một proton chỉ được tạo thành từ 3 quark. Nếu vậy, proton không thể là một "Hạt Cơ Bản" theo định nghĩa của chúng ta, mà chỉ là một "cấu trúc trung gian" rất nhỏ. Và quark, vì chỉ có 3 hạt tạo nên một cấu trúc lớn hơn, cũng không thể là "Hạt Cơ Bản" của cấp độ ngay bên dưới.
       
-      - Điều này không có nghĩa là mô hình fractal của chúng ta sai. Nó chỉ gợi ý một khả năng đáng kinh ngạc: rằng khoa học hiện đại, ngay cả với những máy gia tốc hạt mạnh nhất, có lẽ vẫn chưa chạm tới được "Hạt Cơ Bản" thực sự của Cấp 0, và càng chưa thể biết đến Hạt Cơ Bản của Cấp -1. Proton, neutron, electron, và cả quark, có thể đều chỉ là những "cấu trúc trung gian" phức tạp trên hành trình đi vào thế giới vi mô.
+      Điều này không có nghĩa là mô hình fractal của chúng ta sai. Nó chỉ gợi ý một khả năng đáng kinh ngạc: rằng khoa học hiện đại, ngay cả với những máy gia tốc hạt mạnh nhất, có lẽ vẫn chưa chạm tới được "Hạt Cơ Bản" thực sự của Cấp 0, và càng chưa thể biết đến Hạt Cơ Bản của Cấp -1. Proton, neutron, electron, và cả quark, có thể đều chỉ là những "cấu trúc trung gian" phức tạp trên hành trình đi vào thế giới vi mô.
       
-      - "Hạt Cơ Bản" thực sự của Cấp 0 và các cấp nhỏ hơn vẫn còn là một ẩn số, những thế giới vi mô mà chúng ta chưa từng biết tới.
+      "Hạt Cơ Bản" thực sự của Cấp 0 và các cấp nhỏ hơn vẫn còn là một ẩn số, những thế giới vi mô mà chúng ta chưa từng biết tới.
       
     Với hệ thống phân cấp đã được làm rõ này, bức tranh trở nên nhất quán. Nó không phủ nhận khoa học, mà đặt khoa học vào đúng vị trí của nó: một hành trình khám phá vẫn còn đang tiếp diễn, và có lẽ mới chỉ đi được những bước đầu tiên trên con đường vô tận vào thế giới vi mô.
     
