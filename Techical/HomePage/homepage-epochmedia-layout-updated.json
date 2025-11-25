@@ -1,0 +1,153 @@
+{
+  "version": 2,
+  "content": [
+    {
+      "blockName": "core/cover",
+      "attrs": {
+        "url": "https://example.com/hero-image.jpg",
+        "minHeight": 50,
+        "customHeight": "50vh",
+        "dimRatio": 30,
+        "align": "full"
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/group",
+          "attrs": {
+            "layout": {
+              "type": "constrained"
+            },
+            "style": {
+              "spacing": {
+                "padding": {
+                  "top": "40px",
+                  "bottom": "40px"
+                }
+              }
+            }
+          },
+          "innerBlocks": [
+            {
+              "blockName": "core/heading",
+              "attrs": {
+                "textAlign": "center",
+                "level": 1
+              },
+              "innerHTML": "THE EPOCH MEDIA"
+            },
+            {
+              "blockName": "core/paragraph",
+              "attrs": {
+                "align": "center"
+              },
+              "innerHTML": "Tủ sách khai sáng – Chọn lọc cho những tâm hồn biết lắng nghe"
+            },
+            {
+              "blockName": "core/buttons",
+              "innerBlocks": [
+                {
+                  "blockName": "core/button",
+                  "attrs": {
+                    "text": "Khám phá ngay"
+                  },
+                  "innerHTML": "<a class='wp-block-button__link'>Khám phá ngay</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockName": "core/heading",
+      "attrs": {
+        "level": 2
+      },
+      "innerHTML": "📰 Bài viết mới nhất"
+    },
+    {
+      "blockName": "core/latest-posts",
+      "attrs": {
+        "postsToShow": 3,
+        "displayPostDate": true
+      }
+    },
+    {
+      "blockName": "core/heading",
+      "attrs": {
+        "level": 2
+      },
+      "innerHTML": "🔥 Bài nổi bật / Hot"
+    },
+    {
+      "blockName": "core/paragraph",
+      "innerHTML": "Hiển thị bài viết có tag 'hot' hoặc được chọn thủ công."
+    },
+    {
+      "blockName": "core/heading",
+      "attrs": {
+        "level": 2
+      },
+      "innerHTML": "🎯 Lựa chọn của Ban Biên Tập"
+    },
+    {
+      "blockName": "core/paragraph",
+      "innerHTML": "Lọc bài viết có tag 'editors-pick' hoặc sticky post."
+    },
+    {
+      "blockName": "core/heading",
+      "attrs": {
+        "level": 2
+      },
+      "innerHTML": "📚 Theo chuyên mục"
+    },
+    {
+      "blockName": "core/paragraph",
+      "innerHTML": "Dùng block Tabs (plugin Spectra) để phân chia theo chuyên mục như 'Tâm linh', 'Lịch sử', v.v."
+    },
+    {
+      "blockName": "core/heading",
+      "attrs": {
+        "level": 2
+      },
+      "innerHTML": "🎙️ Góp bút từ đọc giả"
+    },
+    {
+      "blockName": "core/paragraph",
+      "innerHTML": "Hiển thị bài viết trong category 'The Epoch Voices'."
+    },
+    {
+      "blockName": "core/heading",
+      "attrs": {
+        "level": 2
+      },
+      "innerHTML": "📘 Sách nổi bật"
+    },
+    {
+      "blockName": "core/paragraph",
+      "innerHTML": "Chèn ảnh bìa sách, tiêu đề và nút dẫn đến trang chi tiết."
+    },
+    {
+      "blockName": "core/heading",
+      "attrs": {
+        "level": 2
+      },
+      "innerHTML": "💌 Đăng ký nhận bản tin"
+    },
+    {
+      "blockName": "core/paragraph",
+      "innerHTML": "Form đăng ký từ MailPoet, FluentForm hoặc block tương đương."
+    },
+    {
+      "blockName": "core/heading",
+      "attrs": {
+        "level": 2
+      },
+      "innerHTML": "📎 Footer động"
+    },
+    {
+      "blockName": "core/paragraph",
+      "innerHTML": "Chèn quote, social media, hoặc bài nổi bật tuần."
+    }
+  ]
+}

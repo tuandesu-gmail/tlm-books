@@ -1,0 +1,36 @@
+
+
+Shopify:
+
+Admin API access token: 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
+
+
+API key and secret key:
+
+API key:			cc5d7e8adec8a99a16201003d3bec832
+
+API secret key:		06e67e7c58d5679d752f3aaf7829bb60
+
+-------------
+
+https://partners.shopify.com/4485007/apps/278960701441/overview
+
+Epoch Download Bridge
+
+Client ID: 		de092e442cfd0f70fbe73a56d6a68f0e
+Client secret:	910d521563630c9cc828bc4881e8568a
+
+----------------
+
+$env:SHOPIFY_API_KEY=cc5d7e8adec8a99a16201003d3bec832
+$env:SHOPIFY_API_SECRET=06e67e7c58d5679d752f3aaf7829bb60
+$env:SHOPIFY_ADMIN_API_ACCESS_TOKEN=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
+$env:SHOPIFY_API_SCOPES="read_products,write_products"
+$env:SHOPIFY_STORE_DOMAIN="rw0cp0-3w.myshopify.com"
+
+
+[Environment]::SetEnvironmentVariable("SHOPIFY_API_KEY", "cc5d7e8adec8a99a16201003d3bec832", "User")
+[Environment]::SetEnvironmentVariable("SHOPIFY_API_SECRET", "06e67e7c58d5679d752f3aaf7829bb60", "User")
+[Environment]::SetEnvironmentVariable("SHOPIFY_ADMIN_API_ACCESS_TOKEN", "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", "User")
+[Environment]::SetEnvironmentVariable("SHOPIFY_STORE_DOMAIN", "rw0cp0-3w.myshopify.com", "User")
+[Environment]::SetEnvironmentVariable("SHOPIFY_API_SCOPES", "read_orders,write_orders,read_customers,write_customers", "User")

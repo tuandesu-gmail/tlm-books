@@ -1,0 +1,86 @@
+
+<!-- wp:cover {"url":"https://example.com/hero-image.jpg","dimRatio":30,"minHeight":50,"customHeight":"50vh","align":"full"} -->
+<div class="wp-block-cover alignfull" style="min-height:50vh">
+    <span aria-hidden="true" class="wp-block-cover__background has-background-dim-30 has-background-dim"></span>
+    <img class="wp-block-cover__image-background" alt="" src="https://example.com/hero-image.jpg" data-object-fit="cover"/>
+    <div class="wp-block-cover__inner-container">
+        <!-- wp:heading {"textAlign":"center","level":1} -->
+        <h1 class="wp-block-heading has-text-align-center">THE EPOCH MEDIA</h1>
+        <!-- /wp:heading -->
+
+        <!-- wp:paragraph {"align":"center"} -->
+        <p class="has-text-align-center">Tủ sách khai sáng – Chọn lọc cho những tâm hồn biết lắng nghe</p>
+        <!-- /wp:paragraph -->
+
+        <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+        <div class="wp-block-buttons">
+            <!-- wp:button -->
+            <div class="wp-block-button"><a class="wp-block-button__link">Khám phá ngay</a></div>
+            <!-- /wp:button -->
+        </div>
+        <!-- /wp:buttons -->
+    </div>
+</div>
+<!-- /wp:cover -->
+
+<!-- wp:heading -->
+<h2>📰 Bài viết mới nhất</h2>
+<!-- /wp:heading -->
+
+<!-- wp:latest-posts {"displayPostDate":true,"postsToShow":3} /-->
+
+<!-- wp:heading -->
+<h2>🔥 Bài nổi bật / Hot</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Hiển thị bài viết có tag 'hot' hoặc được chọn thủ công.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>🎯 Lựa chọn của Ban Biên Tập</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Lọc bài viết có tag 'editors-pick' hoặc sticky post.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>📚 Theo chuyên mục</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Dùng block Tabs (plugin Spectra) để phân chia theo chuyên mục như 'Tâm linh', 'Lịch sử', v.v.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>🎙️ Góp bút từ đọc giả</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Hiển thị bài viết trong category 'The Epoch Voices'.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>📘 Sách nổi bật</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Chèn ảnh bìa sách, tiêu đề và nút dẫn đến trang chi tiết.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>💌 Đăng ký nhận bản tin</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Form đăng ký từ MailPoet, FluentForm hoặc block tương đương.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>📎 Footer động</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Chèn quote, social media, hoặc bài nổi bật tuần.</p>
+<!-- /wp:paragraph -->

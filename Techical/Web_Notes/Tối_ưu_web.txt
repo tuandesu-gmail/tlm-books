@@ -1,0 +1,84 @@
+Rất hay 👌, bây giờ bạn đã giải quyết xong bước quan trọng là sitemap & index Google. Tiếp theo, để tối ưu WordPress + Hostinger + Cloudflare, bạn có thể làm theo checklist này:
+
+🟢 Trên WordPress
+
+	SEO plugin (Yoast SEO)
+
+		Hoàn thiện title + meta description cho từng page/post quan trọng.
+
+		Dùng chức năng Focus Keyword của Yoast để kiểm tra.
+
+	Tốc độ web
+
+		Cài plugin caching (nếu Hostinger chưa tích hợp sẵn, có thể dùng LiteSpeed Cache vì Hostinger hỗ trợ LiteSpeed server).
+
+		Nén ảnh bằng Imagify hoặc Smush để giảm dung lượng.
+
+		Bật lazy load cho ảnh và video.
+
+	Bảo mật
+
+		Cài plugin Wordfence Security hoặc iThemes Security.
+
+		Đổi URL login (vd: /wp-login.php → /login-secret).
+
+	Schema & Rich Snippets
+
+		Yoast SEO hỗ trợ cơ bản rồi, nhưng bạn có thể bật Breadcrumbs để Google hiển thị đẹp trên kết quả tìm kiếm.
+
+
+🟡 Trên Hostinger
+
+	HTTPS / SSL
+
+		Đảm bảo website luôn chạy HTTPS (bật Force HTTPS trong Hostinger).
+
+	PHP & Server
+
+		Kiểm tra version PHP → chọn PHP 8.2 hoặc 8.3 để tối ưu tốc độ.
+
+		Bật OPcache (nếu có).
+
+	Backup
+
+		Bật backup tự động hằng ngày trên Hostinger để tránh mất dữ liệu.
+		
+
+🔵 Trên Cloudflare
+
+	DNS
+
+		Chỉ bật proxy (đám mây màu cam ☁️) cho những bản ghi trỏ đến website chính.
+
+		Email (MX record) phải để DNS only để tránh lỗi gửi/nhận mail.
+
+	Speed & Cache
+
+		Bật Auto Minify (HTML, CSS, JS).
+
+		Bật Brotli Compression.
+
+		Bật Caching → Cache Everything (cẩn thận, cần kết hợp với page rules).
+
+	Security
+
+		Bật DDoS Protection (có sẵn ở free plan).
+
+		Thêm Firewall Rule chặn các quốc gia không cần truy cập nếu muốn giảm bot rác.
+
+	SSL/TLS
+
+		Đặt chế độ Full (Strict) để tránh lỗi chứng chỉ.
+	
+
+✅ Thứ tự làm ngay:
+
+	Deactivate & xoá All in One SEO (chỉ giữ Yoast).
+
+	Cài plugin LiteSpeed Cache (tối ưu tốc độ WordPress).
+
+	Kiểm tra Cloudflare → bật Auto Minify + Brotli.
+
+	Kiểm tra Hostinger → bật PHP 8.2/8.3 + HTTPS.
+
+👉 Bạn muốn mình viết hẳn một checklist chi tiết từng bước (Step by Step) để bạn có thể tick khi làm, hay muốn mình ưu tiên SEO trước, tốc độ sau?

@@ -1,0 +1,173 @@
+{
+  "version": 2,
+  "metadata": {
+    "name": "the-epoch-voices-featured",
+    "title": "B\u00e0i ti\u00eau bi\u1ec3u t\u1eeb \u0111\u1ecdc gi\u1ea3",
+    "description": "Hi\u1ec3n th\u1ecb 6 b\u00e0i ti\u00eau bi\u1ec3u t\u1eeb m\u1ee5c The Epoch Voices, chia th\u00e0nh 2 c\u1ed9t.",
+    "keywords": [
+      "epoch voices",
+      "featured",
+      "reader post"
+    ]
+  },
+  "blocks": [
+    {
+      "blockName": "core/columns",
+      "attrs": {
+        "align": "wide"
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/column",
+          "innerBlocks": [
+            {
+              "blockName": "core/query",
+              "attrs": {
+                "query": {
+                  "perPage": 3,
+                  "offset": 0,
+                  "postType": "post",
+                  "category": "the-epoch-voices"
+                },
+                "displayLayout": {
+                  "type": "list"
+                }
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/post-template",
+                  "innerBlocks": [
+                    {
+                      "blockName": "core/group",
+                      "attrs": {
+                        "layout": {
+                          "type": "flex",
+                          "flexWrap": "nowrap",
+                          "orientation": "horizontal",
+                          "justifyContent": "space-between"
+                        },
+                        "className": "readers-voice-post"
+                      },
+                      "innerBlocks": [
+                        {
+                          "blockName": "core/group",
+                          "attrs": {
+                            "className": "text-content"
+                          },
+                          "innerBlocks": [
+                            {
+                              "blockName": "core/post-title",
+                              "attrs": {
+                                "level": 4
+                              }
+                            },
+                            {
+                              "blockName": "core/post-excerpt",
+                              "attrs": {
+                                "excerptLength": 20
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "blockName": "core/group",
+                          "attrs": {
+                            "className": "author-block"
+                          },
+                          "innerBlocks": [
+                            {
+                              "blockName": "core/post-author",
+                              "attrs": {
+                                "showAvatar": true,
+                                "avatarSize": 48
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blockName": "core/column",
+          "innerBlocks": [
+            {
+              "blockName": "core/query",
+              "attrs": {
+                "query": {
+                  "perPage": 3,
+                  "offset": 3,
+                  "postType": "post",
+                  "category": "the-epoch-voices"
+                },
+                "displayLayout": {
+                  "type": "list"
+                }
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/post-template",
+                  "innerBlocks": [
+                    {
+                      "blockName": "core/group",
+                      "attrs": {
+                        "layout": {
+                          "type": "flex",
+                          "flexWrap": "nowrap",
+                          "orientation": "horizontal",
+                          "justifyContent": "space-between"
+                        },
+                        "className": "readers-voice-post"
+                      },
+                      "innerBlocks": [
+                        {
+                          "blockName": "core/group",
+                          "attrs": {
+                            "className": "text-content"
+                          },
+                          "innerBlocks": [
+                            {
+                              "blockName": "core/post-title",
+                              "attrs": {
+                                "level": 4
+                              }
+                            },
+                            {
+                              "blockName": "core/post-excerpt",
+                              "attrs": {
+                                "excerptLength": 20
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "blockName": "core/group",
+                          "attrs": {
+                            "className": "author-block"
+                          },
+                          "innerBlocks": [
+                            {
+                              "blockName": "core/post-author",
+                              "attrs": {
+                                "showAvatar": true,
+                                "avatarSize": 48
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

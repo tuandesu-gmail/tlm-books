@@ -1,0 +1,69 @@
+
+
+
+@media only screen and (min-width: 767px) {
+    .uagb-block-c5e26958 .uagb-ifb-title-prefix {
+		font-size: 66px !important;
+    margin-top: 80px !important;
+  }
+	
+		.uagb-block-c5e26958 .uagb-ifb-title
+	{
+    font-size: 38px !important;
+  }
+	
+}
+	
+@media only screen and (max-width: 767px) {
+    .uagb-block-c5e26958 .uagb-ifb-title-prefix {
+		font-size: 44px !important;
+    letter-spacing: 2px !important;
+    margin-top: 116px !important;
+  }
+	
+	.uagb-block-c5e26958 .uagb-ifb-title
+	{
+    font-size: 22px !important;
+  }
+}
+
+
+
+-------
+
+
+
+@media only screen and (max-width: 976px) {
+  .uagb-block-c5e26958.wp-block-uagb-info-box .uagb-ifb-title {
+      margin-top: 20px !important;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+	.uagb-block-bfde9e54
+    .uagb-ifb-title {
+     font-size: 30px !important;
+    }
+	
+	.uagb-block-304b7ae9
+    .uagb-ifb-title {
+     font-size: 30px !important;
+    }
+    .uagb-ifb-title {
+     font-size: 30px !important;
+    }
+	
+	.uagb-block-4f9d2b4e
+    .uagb-ifb-title {
+     font-size: 30px !important;
+    }
+	
+	.uagb-block-8b5fbd53
+    .uagb-ifb-title {
+     font-size: 35px !important;
+    }
+	
+	.uagb-block-f5c2c5f3 .uagb-cta__title {
+        font-size: 35px !important;
+    }
+}
