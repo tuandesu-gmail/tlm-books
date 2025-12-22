@@ -156,6 +156,7 @@ wrangler secret put MAIL_DKIM_PRIVATE_KEY
 # dán toàn bộ nội dung file mc_dkim_private.key
 
 wrangler secret put MAIL_DKIM_PRIVATE_KEY --env dev < C:\TLM\TLM_Affiliate\code\docs\DNS_DKIM_key\mc_dkim_private.key
+wrangler secret put MAIL_DKIM_PRIVATE_KEY --env dev < C:\TLM\TLM_Affiliate\code\docs\DNS_DKIM_key2\mc_dkim_rsa_pkcs1.key
 
 -----BEGIN PRIVATE KEY-----
 MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC+T8YlbJKnaen5
@@ -535,3 +536,64 @@ founder@theepochmedia.com	/ Open@16101981ok
 
 28) statrys.com:
 founder@theepochmedia.com	/ Open@*6*0*98*
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+THE LIVES MEDIA Affiliate:
+
+https://affiliate.thelivesmedia.com/
+
+admin@thelivesmedia.com
+Open@1610
+
+owner@thelivesmedia.com / support@thelivesmedia.com / alice@example.com
+123456Aa@
+
+------------------------------
+
+1) Cách deploy backend API:
+
+  Dựa trên các hình ảnh bạn cung cấp, dự án của bạn là một Cloudflare Worker (tên: tlm-affiliate), sử dụng TypeScript và trình quản lý gói pnpm.
+  Để deploy lại backend này, bạn thực hiện theo các bước sau:
+  
+  Bước 1: Mở Terminal tại đúng thư mục dự án
+  Đường dẫn của bạn trong ảnh là: C:\TLM\TLM-Affiliate\code\apps\worker.
+  Bạn cần mở Command Prompt (CMD), PowerShell hoặc Terminal trong VS Code tại thư mục worker này (nơi có file wrangler.toml).
+  
+  Bước 2: Đăng nhập vào Cloudflare (Nếu chưa làm)
+  Nếu bạn đã lâu không deploy hoặc đổi máy, hãy chạy lệnh sau để đăng nhập:
+
+    pnpm wrangler login
+  
+  Một trang web sẽ hiện ra, bạn chỉ cần nhấn Allow để cấp quyền.
+  
+  Bước 3: Kiểm tra file cấu hình (Tùy chọn)
+  Trong thư mục của bạn có file wrangler.toml. Hãy đảm bảo tên định danh (name) trong file đó khớp với tên tlm-affiliate trên dashboard Cloudflare của bạn.
+  
+  Bước 4: Chạy lệnh Deploy
+  Vì bạn dùng pnpm, hãy chạy lệnh sau:
+
+    pnpm wrangler deploy
+  
+  (Lưu ý: Nếu bạn đang dùng phiên bản Wrangler cũ, lệnh có thể là pnpm wrangler publish, nhưng hiện tại Cloudflare khuyến khích dùng deploy).
+  Các trường hợp lưu ý khác:
+  Nếu bạn có sử dụng Secret (Biến môi trường bảo mật):
+  Trong ảnh dashboard của bạn có các secret như SESSION_SECRET, DODO_WEBHOOK_SECRET. Nếu bạn thêm code mới cần secret mới, hãy dùng lệnh:
+
+    pnpm wrangler secret put TEN_BIEN_CUA_BAN
+  
+  Nếu bạn muốn xem log trực tiếp để debug:
+  Sau khi deploy, nếu muốn xem lỗi khi gọi API, hãy chạy:
+
+    pnpm wrangler tail
+  
+  Kiểm tra trên GitHub:
+  Tôi thấy bạn vừa merge code trên GitHub 17 phút trước. Đừng quên chạy git pull để lấy code mới nhất về máy local trước khi chạy lệnh pnpm wrangler deploy nhé.
+  Tóm lại: Chỉ cần mở Terminal tại thư mục worker và gõ: pnpm wrangler deploy là xong!
+
+
+
+2) Cách deploy frontend:
+
+  - Đang config để deploy tự động qua GitHub rồi --> chỉ cần merge từ nhánh Dev sang nhánh Main, sau đó vào Cloudflare và chọn mục tlm-affiliate-fe, rồi chọn "Retry Deployment" từ 3 chấm
