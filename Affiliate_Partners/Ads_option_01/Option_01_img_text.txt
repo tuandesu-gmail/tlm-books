@@ -43,12 +43,12 @@ Button: OBTER AGORA
 
 8. Vietnamese
 Headline: NHỮNG SỰ THẬT BỊ LÃNG QUÊN VỀ NHÂN LOẠI & VŨ TRỤ
-Sub-headline: Lịch sử cổ đại, chính trị ngầm và khoa học tâm hồn. Tất cả trong một bộ sưu tập duy nhất.
-Pricing: Chỉ $49.9 cho 10 cuốn ebook
+Sub-headline: Lịch sử cổ đại, chính trị ngầm và khoa học tâm linh. Tất cả trong một bộ sưu tập duy nhất.
+Pricing: Chỉ với $49.9 cho 10 cuốn ebook
 Button: MUA NGAY
 
 9. Traditional Chinese (Taiwan)
-Headline: 關於人類與宇宙，被遺忘的真相。
+Headline: 關於人類與宇宙，被遺忘的真相
 Sub-headline: 古代歷史、秘密政治與靈魂科學。全都在這一個套裝收藏中。
 Pricing: 10 本電子書僅需 $49.9
 Button: 立即獲取
