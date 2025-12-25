@@ -1,0 +1,55 @@
+1. ENGLISH:
+
+  Headline: DISCOVER THE ANSWERS YOUR SOUL HAS BEEN SEEKING
+  Sub-headline: From Nobel-winning physics to the secrets of past lives. A journey to find your true self.
+  Price: Only 49,9 $ for 10 eBooks
+  Button: GET NOW
+
+
+2. GERMAN (DEUTSCH)
+  Headline: ENTDECKEN SIE DIE ANTWORTEN, NACH DENEN IHRE SEELE SUCHT
+  Sub-headline: Von Nobelpreis-Physik bis zu den Geheimnissen früherer Leben. Eine Reise, um Ihr wahres Selbst zu finden.
+  Price: Nur 49,9 $ für 10 E-Books
+  Button: JETZT SICHERN
+  
+3. SPANISH (ESPAÑOL)
+  Headline: DESCUBRA LAS RESPUESTAS QUE SU ALMA HA ESTADO BUSCANDO
+  Sub-headline: De la física ganadora del Nobel a los secretos de vidas pasadas. Un viaje para encontrar tu verdadero yo.
+  Price: Solo $49.9 por 10 ebooks
+  Button: OBTENER AHORA
+
+4. FRENCH (FRANÇAIS)
+  Headline: DÉCOUVREZ LES RÉPONSES QUE VOTRE ÂME RECHERCHE DEPUIS TOUJOURS
+  Sub-headline: De la physique prix Nobel aux secrets des vies antérieures. Un voyage pour trouver votre vrai moi.
+  Price: Seulement 49,9 $ pour 10 ebooks
+  Button: PROFITEZ-EN
+
+5. JAPANESE (日本語)
+  Headline: あなたの魂が探し求めていた「答え」が、ここに。
+  Sub-headline: ノーベル賞物理学から前世の秘密まで。真実の自分を見つける旅へ。
+  Price: 10冊の電子書籍がわずか49.9ドル
+  Button: 今すぐ入手
+
+6. KOREAN (한국어)
+  Headline: 당신의 영혼이 그토록 찾아 헤매던 「답」을 발견하세요
+  Sub-headline: 노벨상 물리학부터 전생의 비밀까지. 진정한 자아를 찾는 여정.
+  Price: 전자책 10권이 단돈 $49.9
+  Button: 지금 구매하기
+
+7. PORTUGUESE (PORTUGUÊS)
+  Headline: DESCUBRA AS RESPOSTAS QUE A SUA ALMA SEMPRE BUSCOU
+  Sub-headline: Da física ganhadora do Nobel aos segredos de vidas passadas. Uma jornada para encontrar seu verdadeiro eu.
+  Price: Apenas $49.9 por 10 ebooks
+  Button: OBTER AGORA
+
+8. VIETNAMESE (TIẾNG VIỆT)
+  Headline: KHÁM PHÁ NHỮNG CÂU TRẢ LỜI MÀ TÂM HỒN BẠN LUÔN TÌM KIẾM
+  Sub-headline: Từ vật lý giải Nobel đến những bí mật của tiền kiếp. Hành trình tìm lại chính mình.
+  Price: Chỉ $49.9 cho 10 cuốn ebook
+  Button: MUA NGAY
+
+9. TRADITIONAL CHINESE (繁體中文)
+  Headline: 探索你的靈魂一直渴望尋求的「答案」
+  Sub-headline: 從諾貝爾獎物理學到前世的秘密。一場尋找真我之旅。
+  Price: 10 本電子書僅需 $49.9
+  Button: 立即獲取
