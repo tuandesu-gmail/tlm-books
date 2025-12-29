@@ -1,0 +1,74 @@
+
+
+0. ENGLISH:
+  Headline: THE BEST GIFT FOR YOUR MIND IN 2026
+  Sub-headline: Give yourself the gift of wisdom, peace, and awakening 
+  Promo Badge: NEW YEAR BUNDLE
+  Price Line: 49,9 $ (50 % RABATT)
+  Description: for 10 ebooks
+  Button: GET NOW
+
+
+1. GERMAN (DEUTSCH)
+  Headline: DAS BESTE GESCHENK FÜR IHREN GEIST IM JAHR 2026
+  Sub-headline: Schenken Sie sich selbst Weisheit, Frieden und Erwachen
+  Promo Badge: NEUJAHRS-PAKET
+  Price Line: 49,9 $ (50 % RABATT)
+  Description: für 10 E-Books
+  Button: JETZT SICHERN
+
+2. SPANISH (ESPAÑOL)
+  Headline: EL MEJOR REGALO PARA SU MENTE EN 2026
+  Sub-headline: Regálese sabiduría, paz y despertar
+  Promo Badge: PAQUETE DE AÑO NUEVO
+  Price Line: $49.9 (50% DE DESCUENTO)
+  Description: por 10 ebooks
+  Button: OBTENER AHORA
+
+3. FRENCH (FRANÇAIS)
+  Headline: LE MEILLEUR CADEAU POUR VOTRE ESPRIT EN 2026
+  Sub-headline: Offrez-vous la sagesse, la paix et l'éveil
+  Promo Badge: PACK NOUVEL AN
+  Price Line: 49,9 $ (-50 %)
+  Description: pour 10 ebooks
+  Button: PROFITEZ-EN
+
+4. JAPANESE (日本語)
+  Headline: 2026年、あなたの心への最高の贈り物
+  Sub-headline: 知恵、平安、そして目覚めを自分自身に贈りましょう
+  Promo Badge: 新年特別セット
+  Price Line: 49.9ドル (50% OFF)
+  Description: 電子書籍10冊セット
+  Button: 今すぐ入手
+
+5. KOREAN (한국어)
+  Headline: 2026년, 당신의 정신을 위한 최고의 선물
+  Sub-headline: 당신 자신에게 지혜와 평온, 그리고 깨달음을 선물하세요
+  Promo Badge: 새해 특별 패키지
+  Price Line: $49.9 (50% 할인)
+  Description: 전자책 10권
+  Button: 지금 구매하기
+
+6. PORTUGUESE (PORTUGUÊS)
+  Headline: O MELHOR PRESENTE PARA A SUA MENTE EM 2026
+  Sub-headline: Dê a si mesmo o presente da sabedoria, paz e despertar
+  Promo Badge: PACOTE DE ANO NOVO
+  Price Line: $49.9 (50% DE DESCONTO)
+  Description: por 10 ebooks
+  Button: OBTER AGORA
+
+7. VIETNAMESE (TIẾNG VIỆT)
+  Headline: MÓN QUÀ TUYỆT VỜI NHẤT CHO TÂM TRÍ BẠN TRONG NĂM 2026
+  Sub-headline: Hãy tặng bản thân món quà của trí tuệ, sự bình yên và thức tỉnh
+  Promo Badge: COMBO NĂM MỚI
+  Price Line: $49.9 (GIẢM 50%)
+  Description: cho 10 cuốn ebook
+  Button: MUA NGAY
+
+8. TRADITIONAL CHINESE (繁體中文)
+  Headline: 2026 年送給心靈最好的禮物
+  Sub-headline: 給自己一份智慧、平靜與覺醒的禮物
+  Promo Badge: 新年套裝
+  Price Line: $49.9 (5折優惠)
+  Description: 共 10 本電子書
+  Button: 立即獲取
