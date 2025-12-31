@@ -1,0 +1,180 @@
+/**
+ * WORKER: ebook-clickbank-worker
+ * Mục tiêu: Xử lý link /thank-you từ ClickBank
+ */
+
+export default {
+  async fetch(req, env) {
+    const url = new URL(req.url);
+
+    // --- CORS preflight ---
+    if (req.method === 'OPTIONS') {
+      return new Response(null, { headers: corsHeaders() });
+    }
+
+    // ===== ROUTES =====
+    // 1. Trang cảm ơn và hiển thị nút download
+    if (url.pathname === "/thank-you") {
+      return thankyouPage(url, env);
+    }
+
+    // 2. API tạo token download bảo mật
+    if (url.pathname === "/issue" && req.method === "POST") {
+      return issueToken(req, env);
+    }
+
+    // 3. Route thực hiện tải file
+    if (url.pathname === "/download") {
+      return downloadFile(url, env);
+    }
+
+    return new Response("Not found", { status: 404 });
+  }
+};
+
+/** ============ CONFIG ============ **/
+const TTL_MINUTES = 60 * 24; // Link download tồn tại 24h
+
+/** ============ HELPERS ============ **/
+function randomId() {
+  return crypto.randomUUID().replace(/-/g, "");
+}
+
+function corsHeaders() {
+  return {
+    'Access-Control-Allow-Origin': '*',
+    'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
+    'Access-Control-Allow-Headers': 'Content-Type',
+    'Access-Control-Max-Age': '86400',
+  };
+}
+
+async function getTitle(env, sku) {
+  if (env.PRODUCT_TITLES) {
+    const t = await env.PRODUCT_TITLES.get(sku);
+    if (t) return t;
+  }
+  return sku.replace(/_/g, " ").replace(/\b\w/g, l => l.toUpperCase());
+}
+
+async function getFilename(env, sku) {
+  if (env.EBOOK_PRODUCTS) {
+    return await env.EBOOK_PRODUCTS.get(sku);
+  }
+  return null;
+}
+
+/** ============ TRANG CẢM ƠN (CLICKBANK) ============ **/
+async function thankyouPage(url, env) {
+  // ClickBank gửi về: cbreceipt (mã đơn), cbemail (email khách)
+  // Ta sẽ đính kèm thêm tham số ?sku=... vào URL trên ClickBank
+  const orderId = url.searchParams.get("cbreceipt") || "ORDER";
+  const emailInput = url.searchParams.get("cbemail") || "";
+  const sku = url.searchParams.get("sku") || "BOOKS_COLLECTION_EN"; // Mặc định nếu thiếu
+
+  const title = await getTitle(env, sku);
+  const logo = env.THANKYOU_LOGO_URL || "https://thelivesmedia.com/wp-content/uploads/2025/09/cropped-TheLivesMedia_logo_540x148-300x82.png";
+
+  const html = `
+  <!doctype html>
+  <html lang="en">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <title>Thank You - THE LIVES MEDIA</title>
+      <style>
+        :root{--brand:#d9a528;--bg:#fafafa}
+        body{margin:0; background:var(--bg); font-family:system-ui, -apple-system, sans-serif; display:flex; justify-content:center; align-items:center; min-height:100vh; color:#111}
+        .card{background:#fff; padding:40px; border-radius:16px; box-shadow:0 10px 30px rgba(0,0,0,0.08); max-width:480px; width:90%; text-align:center}
+        .logo{height:65px; margin-bottom:30px}
+        h1{font-size:24px; margin:10px 0}
+        .order-info{color:#666; font-size:14px; margin-bottom:25px}
+        .product-box{background:#f9f9f9; padding:20px; border-radius:12px; border:1px solid #eee; margin-bottom:25px; text-align:left}
+        .sku-title{font-weight:700; font-size:16px; margin-bottom:12px; display:block}
+        .btn{display:block; width:100%; background:var(--brand); color:#fff; border:0; padding:15px; border-radius:10px; font-weight:600; cursor:pointer; text-decoration:none; font-size:16px}
+        .btn:hover{filter:brightness(0.95)}
+        footer{margin-top:25px; font-size:13px; color:#999}
+      </style>
+    </head>
+    <body>
+      <div class="card">
+        <img src="${logo}" class="logo" alt="The Lives Media">
+        <h1>Payment Successful ✅</h1>
+        <p class="order-info">Receipt: <strong>${orderId}</strong> ${emailInput ? `· ${emailInput}` : ''}</p>
+        
+        <div class="product-box">
+          <span class="sku-title">${title}</span>
+          <button class="btn" id="dl-btn" onclick="startDownload()">Download Now</button>
+        </div>
+
+        <footer>Need help? Contact <a href="mailto:editor@thelivesmedia.com" style="color:var(--brand)">editor@thelivesmedia.com</a></footer>
+      </div>
+
+      <script>
+        async function startDownload(){
+          const btn = document.getElementById('dl-btn');
+          btn.innerText = "Generating link...";
+          btn.disabled = true;
+
+          try {
+            const r = await fetch('/issue', {
+              method: 'POST',
+              headers: {'Content-Type': 'application/json'},
+              body: JSON.stringify({ orderId: "${orderId}", email: "${emailInput}", sku: "${sku}" })
+            });
+            const data = await r.json();
+            if(r.ok) {
+              window.location.href = data.url;
+              btn.innerText = "Downloading...";
+            } else {
+              alert(data.error || "Error");
+              btn.innerText = "Download Now";
+              btn.disabled = false;
+            }
+          } catch(e) {
+            alert("Connection error");
+            btn.disabled = false;
+          }
+        }
+      </script>
+    </body>
+  </html>`;
+
+  return new Response(html, { headers: { "content-type": "text/html; charset=utf-8" } });
+}
+
+/** ============ TOKEN & DOWNLOAD (GIỮ NGUYÊN LOGIC BẢO MẬT) ============ **/
+async function issueToken(req, env) {
+  const { orderId, email, sku } = await req.json();
+  const filename = await getFilename(env, sku);
+  
+  if (!filename) return Response.json({ error: `Product not found (${sku})` }, { status: 400 });
+
+  const token = randomId();
+  const exp = Date.now() + TTL_MINUTES * 60 * 1000;
+  
+  // Lưu token vào KV chung
+  await env.TOKENS.put("t:"+token, JSON.stringify({ orderId, email, sku, filename, exp }), { expirationTtl: TTL_MINUTES*60 });
+
+  const url = new URL("/download", req.url);
+  url.searchParams.set("t", token);
+  return Response.json({ url: url.toString() });
+}
+
+async function downloadFile(url, env) {
+  const t = url.searchParams.get("t");
+  if (!t) return new Response("Missing token", { status: 400 });
+
+  const raw = await env.TOKENS.get("t:"+t);
+  if (!raw) return new Response("Link expired", { status: 410 });
+
+  const meta = JSON.parse(raw);
+  const obj = await env.EBOOKS_BUCKET.get(meta.filename);
+  
+  if (!obj) return new Response("File not found on storage", { status: 404 });
+
+  const headers = new Headers();
+  headers.set("Content-Type", "application/zip");
+  headers.set("Content-Disposition", `attachment; filename="${meta.filename.split('/').pop()}"`);
+  return new Response(obj.body, { headers });
+}

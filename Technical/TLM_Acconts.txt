@@ -78,7 +78,7 @@ Số điện thoại:+84 0987525272
 - https://thelivesmedia.com/wp-admin/admin.php
 
 - tài khoản WordPress:
-tuandesu@gmail.com / 8JyWtzh=ka>r
+	/ 8JyWtzh=ka>r
 
 - Hosting:
 https://hpanel.hostinger.com/websites
@@ -597,3 +597,31 @@ owner@thelivesmedia.com / support@thelivesmedia.com / alice@example.com
 2) Cách deploy frontend:
 
   - Đang config để deploy tự động qua GitHub rồi --> chỉ cần merge từ nhánh Dev sang nhánh Main, sau đó vào Cloudflare và chọn mục tlm-affiliate-fe, rồi chọn "Retry Deployment" từ 3 chấm
+  
+---------------------------------
+
+
+
+- Link download/thank-you qua luôn ClickBank:
+https://download.thelivesmedia.com/thank-you?sku=BOOKS_COLLECTION_EN&cbreceipt=TEST12345&cbemail=khachhang@gmail.com  
+
+
+- Link download/thankyou qua luồng Dodo Payments:
+https://download.thelivesmedia.com/thankyou?skus=AFTER_POWER_EN&&order=DODO-12345&email=test@gmail.com
+
+
+https://thelivesmedia.com/books-collection/
+
+https://download.thelivesmedia.com/thank-you?sku=ALL_BUNDLE&cbreceipt=[[cbreceipt]]&cbemail=[[cbemail]]
+https://download.thelivesmedia.com/thank-you (Link sạch - ClickBank sẽ dùng link này nếu bạn không truyền param).
+https://download.thelivesmedia.com/thank-you?sku=ALL
+https://download.thelivesmedia.com/thank-you?sku=all_bundle
+
+https://thelivesmedia.com/aff-resources/
+
+- ClickBank:
+https://accounts.clickbank.com/login.htm
+founder@thelivesmedia.com	/	OpeN@1610#
+
+- ClickBank paylink:
+https://livesmedia.pay.clickbank.net/?cbitems=1
