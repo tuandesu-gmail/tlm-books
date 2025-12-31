@@ -1,0 +1,108 @@
+Chào bạn, đây là bản dịch nội dung Landing Page sang tiếng Bồ Đào Nha (Português). Tôi đã giữ nguyên các đề mục và dịch nội dung sau dấu hai chấm với văn phong cuốn hút, trang trọng, phù hợp với chủ đề tâm linh và khoa học:
+
+Phần 1: Hero Section (Lấy sự chú ý)
+	Heading: A Coleção Definitiva de 10 Livros para Buscadores
+	Sub-Heading: Desvende conhecimentos suprimidos, mistérios antigos e a profunda ciência da alma. Obtenha acesso instantâneo a esta biblioteca exclusiva de 10 livros — agora com 50% de DESCONTO por tempo limitado.
+
+Phần 2: The Problem & Solution (Tại sao họ cần bộ sách này?)
+	Heading: Revelando a sabedoria esquecida dos antigos
+	Description:
+	Durante décadas, a educação convencional nos forneceu uma narrativa padrão do nosso passado. Foi-nos ensinado que:
+
+	As Grandes Pirâmides eram simplesmente tumbas construídas por milhares de trabalhadores usando ferramentas básicas de cobre.
+
+	A humanidade é provavelmente a única forma de vida inteligente no vasto e silencioso cosmos.
+
+	Embora essas teorias tenham sido a base do nosso aprendizado, muitas perguntas permanecem sem resposta. Por que estruturas antigas em todo o globo se alinham perfeitamente com as estrelas? E por que estamos vendo um ressurgimento global em avistamentos documentados de OVNIs e fenômenos aéreos inexplicáveis?
+
+	Há um sentimento crescente de que uma parte significativa de nossa história e de nossa conexão com o universo foi negligenciada ou deixada de fora dos livros didáticos. Da engenharia avançada dos antigos aos mistérios da vida extraterrestre, estes não são apenas mitos — são peças de um quebra-cabeça muito maior.
+
+	É por isso que curamos a 'Coleção Definitiva de Segredos Antigos e Sabedoria Cósmica'.
+
+	Esta coleção serve como uma ponte entre o conhecimento convencional e os mistérios profundos da nossa existência. Entre muitos outros tópicos de mergulho profundo, estes 10 livros exploram:
+
+	Maravilhas Antigas: Além da teoria da 'tumba' — entendendo as Pirâmides como prodígios de energia e alinhamento cósmico.
+
+	Origens Cósmicas: Investigando as evidências de OVNIs e nossa história potencial com civilizações que viajam pelas estrelas.
+
+	História Oculta: Redescobrindo 200 milhões de anos de história esquecida da humanidade e da Terra.
+
+	Despertar Pessoal: Usando esta sabedoria perdida para entender seu próprio lugar e poder no universo.
+
+	Não se trata de desaprender tudo; trata-se de abrir sua mente para as possibilidades de que a história é muito mais grandiosa do que jamais imaginamos.
+
+Phần 3: Trưng bày sản phẩm (Showcase)
+	Heading: Descubra Nossa Coleção de E-books
+	Sub-Heading: Das profundezas das ruínas antigas às fronteiras do universo quântico — descubra a coleção de 10 livros que redefinirá sua realidade.
+
+	Book 01 Heading: POEIRA VERMELHA, LUZ DOURADA (RED DUST, GOLDEN LIGHT)
+	Book 01 Sub-Heading: Uma Odisseia Espiritual Através de Paisagens e Vidas.
+	Book 01 Description: Siga a jornada extraordinária do Professor Wang Ming enquanto ele descobre verdades antigas e sabedoria resiliente escondida sob a "poeira vermelha" do mundo secular. Uma profunda meditação sobre a busca da alma pela luz.
+
+	Book 02 Heading: DEPOIS DO PODER: O LEGADO (AFTER POWER – THE LEGACY)
+	Book 02 Sub-Heading: Revelações Chocantes do Pináculo do Poder Global.
+	Book 02 Description: Um ex-presidente dos EUA quebra o silêncio sobre programas ultra-secretos de OVNIs e "conselhos das sombras", revelando por que a maior crise da humanidade não é política, mas uma necessidade profunda de despertar espiritual.
+
+	Book 03 Heading: O OCASO E A AURORA DA CIÊNCIA (SUNSET AND SUNRISE OF SCIENCE)
+	Book 03 Sub-Heading: Onde a Física Quântica Encontra o Reino Sagrado Espiritual.
+	Book 03 Description: Um ganhador do Prêmio Nobel de física confronta uma realidade além das equações. Descubra como as leis da física, espaços multidimensionais e vida extraterrestre convergem com as verdades eternas do espírito.
+
+	Book 04 Heading: O VÉU VERMELHO (THE RED VEIL)
+	Book 04 Sub-Heading: O Despertar Doloroso de um Pai Por Trás do Sistema.
+	Book 04 Description: Um ex-oficial de alto escalão revela a verdade dilacerante de um regime construído sobre mentiras. Nascido de uma tragédia pessoal, este é um testemunho poderoso de encontrar fé e consciência contra todas as probabilidades.
+
+	Book 05 Heading: ECOS DE ANTES DO TEMPO (ECHOES BEFORE TIME)
+	Book 05 Sub-Heading: Redescobrindo os Capítulos Esquecidos da Humanidade.
+	Book 05 Description: A civilização realmente começou há 5.000 anos? Um arqueólogo veterano descobre artefatos anômalos e ruínas megalíticas que desafiam a teoria darwiniana e revelam nossa história cíclica e esquecida.
+
+	Book 06 Heading: A ENTRADA NO MUNDO (ENTERING THE WORLD)
+	Book 06 Sub-Heading: A Jornada Épica de um Guarda Vermelho que se Tornou Monge Errante.
+	Book 06 Description: Da destruição de templos à descoberta do Verdadeiro Dharma, a busca de 30 anos de Ma Changsheng pela Ásia é um testemunho vívido do poder da fé e dos princípios de Verdade, Compaixão e Tolerância.
+
+	Book 07 Heading: OS ÚLTIMOS SINOS (THE LAST BELLS)
+	Book 07 Sub-Heading: Um Chamado Solene para Despertar Antes da Tempestade Final.
+	Book 07 Description: Investigando estátuas que choram e profecias antigas, o jornalista Taylor Reed diagnostica a decadência moral da sociedade moderna e emite um chamado de alerta à consciência humana em uma era de estranhos presságios.
+
+	Book 08 Heading: ANTES DE NÓS (BEFORE US)
+	Book 08 Sub-Heading: Testemunhando 200 Milhões de Anos de História Proibida.
+	Book 08 Description: Olhe através do "terceiro olho" para um passado magnífico onde a Lua foi criada como uma nave espacial e gigantes vagavam por uma Terra muito mais antiga e misteriosa do que os livros didáticos ousam admitir.
+
+	Book 09 Heading: MIL VIDAS (THOUSAND LIVES)
+	Book 09 Sub-Heading: Uma Alma, Mil Reencarnações, Um Destino Divino.
+	Book 09 Description: Um menino de 10 anos recorda centenas de vidas passadas — de guardar as Pirâmides à vida na Dinastia Tang — revelando uma jornada divinamente arranjada que explica por que estamos aqui nesta era.
+
+	Book 10 Heading: O UNIVERSO ALÉM DO BIG BANG (THE UNIVERSE BEYOND THE BIG BANG)
+	Book 10 Sub-Heading: Decifrando os Mistérios Além da Fronteira da Ciência.
+	Book 10 Description: Transcendendo os limites da teoria do Big Bang, esta obra conecta a física quântica pioneira com a sabedoria antiga para revelar um universo onde a consciência e a matéria são fundamentalmente uma só.
+
+Phần 4: Slogan:
+	“Nós não vendemos contagem de palavras; oferecemos a sabedoria eterna que molda o destino humano.”
+	--- THE LIVES MEDIA
+
+Phần 5: Giá trị và Ưu đãi (Price Anchoring)
+	Heading-1: EXCLUSIVO DE ANO NOVO
+	Heading-2: Garanta a Biblioteca Completa de 10 Livros Hoje
+	Description: Não perca esta chance de possuir a coleção definitiva de segredos antigos, verdades cósmicas e sabedoria espiritual. Normalmente avaliada em quase $100, agora você pode baixar todos os 10 volumes instantaneamente por uma fração do custo. Comece sua jornada para o desconhecido hoje.
+
+	Nút bấm mua hàng (CTA): COMPRAR AGORA
+
+	Card-1:
+	Title: Valor de Varejo
+	Description: Se você fosse comprar esses 10 livros separadamente em nossa loja, pagaria $9,99 por cada volume. Isso representa um investimento total de $99,90.
+
+	Card-2: A Oferta do Combo (Bundle Deal)
+	Description: Ao adquirir a Coleção Definitiva hoje, você recebe todos os 10 ebooks instantaneamente em sua caixa de entrada por apenas $49,90. Sem espera, sem taxas extras.
+
+	Card-3: Sua Economia de 50%
+	Description: Esta é uma oferta por tempo limitado para ajudar a despertar o mundo. Você economiza exatamente 50% do preço de varejo. É como ganhar 5 de nossos livros mais poderosos de graça.
+
+Phần 6: Bảo hiểm rủi ro (Risk Reversal)
+	Title: Nossa Garantia de "Sabedoria" de 60 Dias
+	Description: Explore a coleção no seu próprio ritmo. Se dentro de 60 dias você não sentir que esses livros expandiram sua consciência ou forneceram os insights profundos que você estava procurando, reembolsaremos 100% da sua compra. Sem perguntas, sem complicações. Sua jornada de descoberta é totalmente livre de riscos.
+
+Phần 7: Footer tuân thủ pháp lý (Legal Footer)
+	A ClickBank é a varejista dos produtos neste site. CLICKBANK® é uma marca registrada da Click Sales, Inc., uma corporação de Delaware localizada em 1444 S. Entertainment Ave., Suite 410 Boise, ID 83709, USA e usada com permissão. O papel da ClickBank como varejista não constitui um endosso, aprovação ou revisão desses produtos ou de qualquer reivindicação, declaração ou opinião usada na promoção desses produtos.
+
+	Isenção de responsabilidade: As informações fornecidas neste site e nos produtos são apenas para fins educacionais e de entretenimento. Todos os esforços foram feitos para representar com precisão esses materiais, mas não há garantia de que você alcançará resultados específicos. Quaisquer alegações feitas de insights espirituais ou cósmicos são baseadas em pesquisas e relatos pessoais.
+
+	Para suporte, entre em contato conosco em editor@thelivesmedia.com.

@@ -1,0 +1,108 @@
+Chào bạn, đây là bản dịch nội dung Landing Page sang tiếng Đức (Deutsch). Tôi đã giữ nguyên các đề mục và dịch nội dung sau dấu hai chấm với văn phong trang trọng, lôi cuốn, phù hợp với thị trường Đức:
+
+Phần 1: Hero Section (Lấy sự chú ý)
+	Heading: Die ultimative 10-Bücher-Sammlung für Suchende
+	Sub-Heading: Entdecken Sie unterdrücktes Wissen, antike Geheimnisse und die tiefgründige Wissenschaft der Seele. Erhalten Sie sofortigen Zugang zu dieser exklusiven 10-Bücher-Bibliothek – jetzt für begrenzte Zeit mit 50 % Rabatt.
+
+Phần 2: The Problem & Solution (Tại sao họ cần bộ sách này?)
+	Heading: Die vergessene Weisheit der Ahnen enthüllen
+	Description:
+	Seit Jahrzehnten liefert uns die Mainstream-Bildung ein Standard-Narrativ unserer Vergangenheit. Uns wurde beigebracht:
+
+	Die Großen Pyramiden waren lediglich Grabstätten, erbaut von Tausenden von Arbeitern mit einfachen Kupferwerkzeugen.
+
+	Die Menschheit ist wahrscheinlich die einzige intelligente Lebensform im riesigen, stillen Kosmos.
+
+	Während diese Theorien das Fundament unseres Lernens bildeten, bleiben viele Fragen unbeantwortet. Warum sind antike Bauwerke auf der ganzen Welt perfekt nach den Sternen ausgerichtet? Und warum erleben wir eine weltweite Zunahme dokumentierter UFO-Sichtungen und ungeklärter Luftphänomene?
+
+	Es wächst das Gefühl, dass ein bedeutender Teil unserer Geschichte und unserer Verbindung zum Universum übersehen oder aus den Lehrbüchern weggelassen wurde. Von der fortgeschrittenen Ingenieurskunst der Antike bis hin zu den Geheimnissen außerirdischen Lebens – dies sind nicht nur Mythen, sondern Teile eines viel größeren Puzzles.
+
+	Aus diesem Grund haben wir die „Ultimative Sammlung Antiker Geheimnisse & Kosmischer Weisheit“ zusammengestellt.
+
+	Diese Sammlung dient als Brücke zwischen konventionellem Wissen und den tiefgründigen Mysterien unserer Existenz. Neben vielen anderen vertiefenden Themen untersuchen diese 10 Bücher:
+
+	Antike Wunder: Jenseits der „Grab“-Theorie – die Pyramiden als Wunderwerke der Energie und kosmischen Ausrichtung verstehen.
+
+	Kosmische Ursprünge: Untersuchung der Beweise für UFOs und unsere potenzielle Geschichte mit sternenreisenden Zivilisationen.
+
+	Verborgene Geschichte: Wiederentdeckung von 200 Millionen Jahren vergessener Menschheits- und Erdgeschichte.
+
+	Persönliches Erwachen: Nutzen Sie diese verlorene Weisheit, um Ihren eigenen Platz und Ihre Kraft im Universum zu verstehen.
+
+	Es geht nicht darum, alles Gelernte zu verlernen; es geht darum, Ihren Geist für die Möglichkeiten zu öffnen, dass die Geschichte viel grandioser ist, als wir es uns je vorgestellt haben.
+
+Phần 3: Trưng bày sản phẩm (Showcase)
+	Heading: Entdecken Sie unsere E-Book-Sammlung
+	Sub-Heading: Von den Tiefen antiker Ruinen bis zu den Grenzen des Quantenuniversums – entdecken Sie die 10-Bücher-Sammlung, die Ihre Realität neu definieren wird.
+
+	Book 01 Heading: ROTER STAUB, GOLDENES LICHT (RED DUST, GOLDEN LIGHT)
+	Book 01 Sub-Heading: Eine spirituelle Odyssee durch Landschaften und Lebenszeiten.
+	Book 01 Description: Folgen Sie der außergewöhnlichen Reise von Professor Wang Ming, während er antike Wahrheiten und widerstandsfähige Weisheit aufdeckt, die unter dem „roten Staub“ der weltlichen Gesellschaft verborgen liegen. Eine tiefgründige Meditation über die Suche der Seele nach Licht.
+
+	Book 02 Heading: NACH DER MACHT: DAS VERMÄCHTNIS (AFTER POWER – THE LEGACY)
+	Book 02 Sub-Heading: Schockierende Enthüllungen vom Gipfel der globalen Macht.
+	Book 02 Description: Ein ehemaliger US-Präsident bricht sein Schweigen über streng geheime UFO-Programme und „Schattenräte“ und enthüllt, warum die größte Krise der Menschheit nicht politisch ist, sondern ein tiefsitzendes Bedürfnis nach spirituellem Erwachen.
+
+	Book 03 Heading: DÄMMERUNG UND MORGENRÖTE DER WISSENSCHAFT (SUNSET AND SUNRISE OF SCIENCE)
+	Book 03 Sub-Heading: Wo Quantenphysik auf das heilige spirituelle Reich trifft.
+	Book 03 Description: Ein Nobelpreisträger für Physik wird mit einer Realität jenseits von Gleichungen konfrontiert. Entdecken Sie, wie physikalische Gesetze, mehrdimensionale Räume und außerirdisches Leben mit den ewigen Wahrheiten des Geistes verschmelzen.
+
+	Book 04 Heading: DER ROTE SCHLEIER (THE RED VEIL)
+	Book 04 Sub-Heading: Das herzzerreißende Erwachen eines Vaters hinter dem System.
+	Book 04 Description: Ein ehemaliger hochrangiger Funktionär enthüllt die erschütternde Wahrheit über ein Regime, das auf Lügen aufgebaut ist. Aus einer persönlichen Tragödie entstanden, ist dies ein kraftvolles Zeugnis für den Weg zu Glauben und Gewissen gegen alle Widerstände.
+
+	Book 05 Heading: ECHOS VOR DER ZEIT (ECHOES BEFORE TIME)
+	Book 05 Sub-Heading: Die vergessenen Kapitel der Menschheit wiederentdecken.
+	Book 05 Description: Begann die Zivilisation wirklich erst vor 5.000 Jahren? Ein erfahrener Archäologe entdeckt anomale Artefakte und megalithische Ruinen, die die Darwin’sche Theorie infrage stellen und unsere zyklische, vergessene Geschichte enthüllen.
+
+	Book 06 Heading: DER EINTRITT IN DIE WELT (ENTERING THE WORLD)
+	Book 06 Sub-Heading: Die epische Reise eines Rotgardisten, der zum wandernden Mönch wurde.
+	Book 06 Description: Von der Zerstörung von Tempeln bis zum Finden des Wahren Dharma – Ma Changshengs 30-jährige Suche durch Asien ist ein lebendiges Zeugnis für die Kraft des Glaubens und die Prinzipien von Wahrhaftigkeit, Barmherzigkeit und Nachsicht.
+
+	Book 07 Heading: DIE LETZTEN GLOCKEN (THE LAST BELLS)
+	Book 07 Sub-Heading: Ein feierlicher Aufruf zum Erwachen vor dem finalen Sturm.
+	Book 07 Description: Durch die Untersuchung weinender Statuen und antiker Prophezeiungen diagnostiziert der Journalist Taylor Reed den moralischen Verfall der modernen Gesellschaft und sendet einen Weckruf an das menschliche Gewissen in einer Ära seltsamer Omen.
+
+	Book 08 Heading: VOR UNS (BEFORE US)
+	Book 08 Sub-Heading: Zeuge von 200 Millionen Jahren verbotener Geschichte.
+	Book 08 Description: Blicken Sie durch das „dritte Auge“ in eine prächtige Vergangenheit, in der der Mond als Raumschiff erschaffen wurde und Riesen eine Erde durchstreiften, die weit älter und geheimnisvoller ist, als es die Lehrbücher zuzugeben wagen.
+
+	Book 09 Heading: TAUSEND LEBEN (THOUSAND LIVES)
+	Book 09 Sub-Heading: Eine Seele, tausend Reinkarnationen, ein göttliches Schicksal.
+	Book 09 Description: Ein 10-jähriger Junge erinnert sich an Hunderte vergangener Leben – von der Bewachung der Pyramiden bis hin zum Leben in der Tang-Dynastie – und enthüllt eine göttlich arrangierte Reise, die erklärt, warum wir in dieser Ära hier sind.
+
+	Book 10 Heading: DAS UNIVERSUM JENSEITS DES URKNALLS (THE UNIVERSE BEYOND THE BIG BANG)
+	Book 10 Sub-Heading: Die Rätsel jenseits der Grenzen der Wissenschaft entschlüsseln.
+	Book 10 Description: Dieses Werk überschreitet die Grenzen der Urknalltheorie und verbindet bahnbrechende Quantenphysik mit antiker Weisheit, um ein Universum zu enthüllen, in dem Bewusstsein und Materie im Grunde eins sind.
+
+Phần 4: Slogan:
+	„Wir verkaufen keine Wortzahlen; wir bieten zeitlose Weisheit, die das menschliche Schicksal formt.“
+	--- THE LIVES MEDIA
+
+Phần 5: Giá trị và Ưu đãi (Price Anchoring)
+	Heading-1: NEUJAHRS-EXKLUSIVANGEBOT
+	Heading-2: Sichern Sie sich noch heute die komplette 10-Bücher-Bibliothek
+	Description: Verpassen Sie nicht die Chance, die ultimative Sammlung antiker Geheimnisse, kosmischer Wahrheiten und spiritueller Weisheit zu besitzen. Normalerweise fast 100 $ wert, können Sie jetzt alle 10 Bände sofort für einen Bruchteil der Kosten herunterladen. Beginnen Sie noch heute Ihre Reise ins Ungewisse.
+
+	Nút bấm mua hàng (CTA): JETZT KAUFEN
+
+	Card-1:
+	Title: Einzelverkaufswert
+	Description: Wenn Sie diese 10 Bücher einzeln in unserem Shop kaufen würden, würden Sie 9,99 $ pro Band bezahlen. Das entspricht einer Gesamtinvestition von 99,90 $.
+
+	Card-2: Das Paket-Angebot
+	Description: Wenn Sie die Ultimative Sammlung heute kaufen, erhalten Sie alle 10 E-Books sofort für nur 49,90 $ in Ihren Posteingang geliefert. Keine Wartezeit, keine zusätzlichen Gebühren.
+
+	Card-3: Ihre Ersparnis von 50 %
+	Description: Dies ist ein zeitlich begrenztes Angebot, um die Welt wachzurütteln. Sie sparen genau 50 % gegenüber dem Einzelverkaufspreis. Es ist, als ob Sie 5 unserer kraftvollsten Bücher kostenlos dazu bekämen.
+
+Phần 6: Bảo hiểm rủi ro (Risk Reversal)
+	Title: Unsere 60-Tage-„Weisheits“-Garantie
+	Description: Erkunden Sie die Sammlung in Ihrem eigenen Tempo. Wenn Sie innerhalb von 60 Tagen das Gefühl haben, dass diese Bücher Ihr Bewusstsein nicht erweitert oder nicht die tiefen Einblicke geliefert haben, nach denen Sie gesucht haben, erstatten wir Ihnen 100 % Ihres Kaufpreises zurück. Keine Fragen gestellt, kein bürokratischer Aufwand. Ihre Entdeckungsreise ist völlig risikofrei.
+
+Phần 7: Footer tuân thủ pháp lý (Legal Footer)
+	ClickBank ist der Einzelhändler der Produkte auf dieser Website. CLICKBANK® ist eine eingetragene Marke von Click Sales, Inc., einem Unternehmen aus Delaware mit Sitz in 1444 S. Entertainment Ave., Suite 410 Boise, ID 83709, USA, und wird mit Genehmigung verwendet. Die Rolle von ClickBank als Einzelhändler stellt keine Befürwortung, Genehmigung oder Prüfung dieser Produkte oder der in der Werbung für diese Produkte verwendeten Behauptungen, Aussagen oder Meinungen dar.
+
+	Haftungsausschluss: Die auf dieser Website und in den Produkten bereitgestellten Informationen dienen ausschließlich Bildungs- und Unterhaltungszwecken. Es wurden alle Anstrengungen unternommen, um diese Materialien korrekt darzustellen, aber es gibt keine Garantie dafür, dass Sie spezifische Ergebnisse erzielen werden. Jegliche Behauptungen über spirituelle oder kosmische Erkenntnisse basieren auf Forschung und persönlichen Berichten.
+
+	Für Support kontaktieren Sie uns bitte unter editor@thelivesmedia.com.

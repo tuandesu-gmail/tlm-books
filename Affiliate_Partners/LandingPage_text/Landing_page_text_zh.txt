@@ -1,0 +1,99 @@
+Phần 1: Hero Section (Lấy sự chú ý)
+	Heading: 探索者的終極十本藏書系列
+	Sub-Heading: 揭開被隱藏的知識、遠古之謎以及靈魂的深奧科學。立即獲取這套獨家十本藏書——限時 50% 折扣。
+
+Phần 2: The Problem & Solution (Tại sao họ cần bộ sách này?)
+	Heading: 揭開被遺忘的遠古智慧
+	Description:
+	數十年來，主流教育為我們提供了關於過去的標準敘述。我們被教導：
+	
+	胡夫大金字塔只是由數千名工人在使用基本青銅工具的情況下建造的墳墓。
+	人類很可能是這廣闊、寂靜的宇宙中唯一的智慧生命形式。
+	
+	雖然這些理論是我們學習的基礎，但許多問題仍未得到解答。為什麼全球各地的遠古建築能與星辰完美契合？為什麼我們在全球範圍內看到越來越多有記載的 UFO 目擊事件和不明空中現象？
+	人們越來越感覺到，我們歷史的重要部分以及我們與宇宙的聯繫被忽視或遺漏在教科書之外。從遠古的高度工程學到地外生命的奧秘，這些不僅僅是神話——它們是一個更宏大拼圖的碎片。
+	
+	這就是為什麼我們策劃了《終極遠古奧秘與宇宙智慧全集》。
+	
+	本系列書籍是傳統知識與生命深層奧秘之間的橋樑。在眾多深入探討的主題中，這 10 本書探索了：
+	
+	遠古奇蹟：超越「墳墓」理論——將金字塔理解為能量與宇宙對齊的奇蹟。
+	宇宙起源：調查 UFO 的證據以及我們與星際文明的潛在歷史。
+	隱藏的歷史：重新發現 2 億年被遺忘的人類與地球歷史。
+	個人覺醒：利用這些失傳的智慧來理解你在宇宙中的位置與力量。
+	
+	這並非要你否定所有學過的知識；而是要你打開心扉，去探索歷史比我們想像中更為宏大的可能性。
+
+Phần 3: Trưng bày sản phẩm (Showcase)
+	Heading: 探索我們的電子書全集
+	Sub-Heading: 從遠古遺跡的深處到量子宇宙的邊緣——探索這套將重新定義你現實的十本藏書。
+	Book 01 Heading: 紅塵金光 (RED DUST, GOLDEN LIGHT)
+	Book 01 Sub-Heading: 跨越時空與景觀的靈魂奧德賽。
+	Book 01 Description: 跟隨王明教授的非凡旅程，揭開隱藏在世俗「紅塵」之下的遠古真相與堅韌智慧。這是一場關於靈魂尋求光明的深刻沉思。
+	
+	Book 02 Heading: 權後．遺響《AFTER POWER: THE LEGACY》
+	Book 02 Sub-Heading: 來自全球權力巔峰的震撼啟示。
+	Book 02 Description: 一位前美國總統打破沉默，揭露絕密的 UFO 計劃與「影子議會」，揭示為何人類最大的危機並非政治，而是內心深處對靈魂覺醒的渴望。
+	
+	Book 03 Heading: 科學的黃昏與黎明 《SUNSET AND SUNRISE OF SCIENCE》
+	Book 03 Sub-Heading: 當量子物理遇見神聖的靈性領域。
+	Book 03 Description: 一位諾貝爾物理學獎得主面對超越方程式的現實。探索物理定律、多維空間和地外生命如何與靈魂的永恆真相交匯。
+	
+	Book 04 Heading: 紅色的帷幕《THE RED VEIL》
+	Book 04 Sub-Heading: 一位父親在體制背後的痛心覺醒。
+	Book 04 Description: 一位前高官揭露了一個建立在謊言之上的政權背後令人揪心的真相。這部作品源於個人悲劇，是一個在重重困境中尋找信仰與良知的強大見證。
+	
+	Book 05 Heading: 時間之前的迴響《ECHOES BEFORE TIME》
+	Book 05 Sub-Heading: 重新發現人類被遺忘的篇章。
+	Book 05 Description: 文明真的始於 5,000 年前嗎？一位資深考古學家發現了挑戰達爾文進化論的異常文物和巨石遺址，揭示了我們循環往復、被遺忘的歷史。
+	
+	Book 06 Heading: 入世間《ENTERING THE WORLD》
+	Book 06 Sub-Heading: 從紅衛兵到遊方僧的史詩旅程。
+	Book 06 Description: 從破壞寺廟到尋找真法，馬常勝跨越亞洲的 30 年追尋是對信仰力量以及「真、善、忍」原則的生動見證。
+	
+	Book 07 Heading: 最後的鐘聲《THE LAST BELLS》
+	Book 07 Sub-Heading: 在最後風暴來臨前的莊嚴覺醒號角。
+	Book 07 Description: 記者泰勒·里德通過調查流淚的雕像和古老預言，診斷了現代社會的道德淪喪，並在奇異徵兆頻現的時代發出了對人類良知的警示。
+	
+	Book 08 Heading: 我們之前 《BEFORE US》
+	Book 08 Sub-Heading: 目睹 2 億年被禁止的歷史。
+	Book 08 Description: 透過「第三隻眼」窺視壯麗的過去——那時月亮被打造為宇宙飛船，巨人在地球上漫遊。這是一個比教科書敢於承認的更加古老且神祕的地球。
+	
+	Book 09 Heading: 千劫輪迴《THOUSAND LIVES》
+	Book 09 Sub-Heading: 一個靈魂，千次轉生，一個神聖使命。
+	Book 09 Description: 一名 10 歲男孩回憶起數百次的前世——從守衛金字塔到唐朝的生活——揭示了一個神聖安排的旅程，解釋了我們為何在這個時代轉生於此。
+	
+	Book 10 Heading: 大霹靂之外的宇宙 (THE UNIVERSE BEYOND THE BIG BANG)
+	Book 10 Sub-Heading: 破譯超越科學邊緣的奧秘。
+	Book 10 Description: 這部作品超越了大爆炸理論的局限，將前沿量子物理與古老智慧相結合，揭示了一個意識與物質從根本上合而為一的宇宙。
+
+Phần 4: Slogan:
+	“我們不販賣字數；我們提供塑造人類命運的永恆智慧。”
+	--- THE LIVES MEDIA
+
+Phần 5: Giá trị và Ưu đãi (Price Anchoring)
+	Heading-1: 新年獨家優惠
+	Heading-2: 即刻獲取完整的十本藏書系列
+	Description: 不要錯過擁有這套集遠古秘密、宇宙真相與靈性智慧於一體的終極系列的機會。總價值近 100 美元，現在您可以極低價格立即下載全部 10 卷。今天就開啟您的未知之旅。
+	Nút bấm mua hàng (CTA): 立即購買
+
+	Card-1:
+	Title: 零售價值
+	Description: 如果您在我們的商店單獨購買這 10 本書，每卷需支付 9.99 美元。總投資為 99.90 美元。
+	
+	Card-2: 組合優惠
+	Description: 今天購買終極全集，您將只需支付 49.90 美元，即可在收件箱中立即收到全部 10 本電子書。無需等待，無額外費用。
+	
+	Card-3: 節省 50%
+	Description: 這是為了幫助覺醒世界而推出的限時優惠。您將節省零售價的整整 50%。這就像免費獲得了我們 5 本最強大的著作。
+
+Phần 6: Bảo hiểm rủi ro (Risk Reversal)
+	Title: 我們的 60 天「智慧」保證
+	Description: 按照您自己的節奏探索這套系列。如果在 60 天內，您覺得這些書沒有擴展您的意識或提供您所尋求的深刻見解，我們將 100% 退還您的購買費用。無需任何理由，無需繁瑣步驟。您的探索之旅完全零風險。
+
+Phần 7: Footer tuân thủ pháp lý (Legal Footer)
+	ClickBank 是本網站產品的零售商。CLICKBANK® 是 Click Sales, Inc. 的註冊商標，該公司是一家位於 1444 S. Entertainment Ave., Suite 410 Boise, ID 83709, USA 的特拉華州公司，經許可後使用。ClickBank 作為零售商的角色並不構成對這些產品或促銷這些產品時所使用的任何主張、聲明或意見的認可、批准或審核。
+	
+	免責聲明：本網站及產品中提供的信息僅供教育和娛樂之用。我們已盡一切努力準確地呈現這些材料，但不保證您將獲得特定結果。任何關於靈性或宇宙洞察的主張均基於研究和個人敘述。
+	
+	如需支持，請通過 editor@thelivesmedia.com 與我們聯繫。

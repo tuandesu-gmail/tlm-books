@@ -1,0 +1,108 @@
+Chào bạn, đây là bản dịch nội dung Landing Page sang tiếng Việt. Tôi đã giữ nguyên các đề mục và dịch sát nghĩa, phù hợp với văn phong sách tâm linh và khám phá:
+
+Phần 1: Hero Section (Lấy sự chú ý)
+	Heading: Bộ sưu tập 10 cuốn sách tối thượng dành cho những người tìm kiếm chân lý
+	Sub-Heading: Khám phá những kiến thức bị vùi lấp, những bí ẩn cổ xưa và khoa học tâm linh sâu sắc. Truy cập ngay thư viện 10 cuốn sách độc quyền này — hiện đang GIẢM GIÁ 50% trong thời gian giới hạn.
+
+Phần 2: The Problem & Solution (Tại sao họ cần bộ sách này?)
+	Heading: Hé mở trí tuệ bị lãng quên của các bậc tiền nhân
+	Description:
+	Trong nhiều thập kỷ, giáo dục chính thống đã cung cấp cho chúng ta một lời giải thích tiêu chuẩn về quá khứ. Chúng ta được dạy rằng:
+
+	Đại Kim tự tháp chỉ đơn giản là những lăng mộ được xây dựng bởi hàng ngàn công nhân sử dụng các công cụ bằng đồng thô sơ.
+
+	Nhân loại có thể là dạng sống thông minh duy nhất trong vũ trụ bao la và tĩnh lặng này.
+
+	Mặc dù những lý thuyết này là nền tảng cho việc học tập của chúng ta, nhưng nhiều câu hỏi vẫn chưa có lời giải. Tại sao các cấu trúc cổ đại trên khắp thế giới lại sắp xếp thẳng hàng một cách hoàn hảo với các vì sao? Và tại sao chúng ta đang thấy sự gia tăng toàn cầu về các báo cáo nhìn thấy UFO và các hiện tượng trên không không xác định?
+
+	Có một cảm giác ngày càng lớn rằng một phần quan trọng trong lịch sử và mối liên kết của chúng ta với vũ trụ đã bị bỏ qua hoặc bị đưa ra khỏi sách giáo khoa. Từ kỹ thuật tiên tiến của người xưa đến những bí ẩn về sự sống ngoài Trái Đất, đây không chỉ là những huyền thoại — chúng là những mảnh ghép của một bức tranh lớn hơn nhiều.
+
+	Đó là lý do tại sao chúng tôi tuyển chọn bộ "Bí ẩn Cổ xưa & Trí tuệ Vũ trụ Tối thượng".
+
+	Bộ sưu tập này đóng vai trò như một chiếc cầu nối giữa kiến thức thông thường và những bí ẩn sâu thẳm về sự tồn tại của chúng ta. Trong số nhiều chủ đề chuyên sâu khác, 10 cuốn sách này khám phá:
+
+	Kỳ quan cổ đại: Vượt xa lý thuyết "lăng mộ" — hiểu về Kim tự tháp như những kỳ quan của năng lượng và sự sắp đặt theo vũ trụ.
+
+	Nguồn gốc Vũ trụ: Điều tra các bằng chứng về UFO và lịch sử tiềm tàng của chúng ta với các nền văn minh du hành giữa các vì sao.
+
+	Lịch sử bị che giấu: Khám phá lại 200 triệu năm lịch sử nhân loại và Trái Đất đã bị lãng quên.
+
+	Thức tỉnh cá nhân: Sử dụng trí tuệ đã thất lạc này để hiểu về vị thế và sức mạnh của chính bạn trong vũ trụ.
+
+	Đây không phải là việc phủ nhận những gì bạn đã học; mà là mở rộng tâm trí trước khả năng rằng lịch sử vĩ đại hơn nhiều so với những gì chúng ta từng tưởng tượng.
+
+Phần 3: Trưng bày sản phẩm (Showcase)
+	Heading: Khám phá Bộ sưu tập Ebook của chúng tôi
+	Sub-Heading: Từ những tàn tích cổ xưa sâu thẳm đến những rìa của vũ trụ lượng tử — hãy khám phá bộ sưu tập 10 cuốn sách sẽ định nghĩa lại thực tại của bạn.
+
+	Book 01 Heading: HỒNG TRẦN KIM QUANG (RED DUST, GOLDEN LIGHT)
+	Book 01 Sub-Heading: Một hành trình tâm linh xuyên qua những vùng đất và các kiếp sống.
+	Book 01 Description: Theo chân cuộc hành trình phi thường của Giáo sư Vương Minh khi ông hé mở những sự thật cổ xưa và trí tuệ kiên cường ẩn giấu dưới lớp "bụi hồng" của thế giới trần tục. Một bài thiền định sâu sắc về việc linh hồn tìm kiếm ánh sáng.
+
+	Book 02 Heading: HẬU CHÍNH TRƯỜNG: DI SẢN (AFTER POWER – THE LEGACY)
+	Book 02 Sub-Heading: Những tiết lộ chấn động từ đỉnh cao quyền lực toàn cầu.
+	Book 02 Description: Một cựu Tổng thống Hoa Kỳ phá vỡ sự im lặng về các chương trình UFO tối mật và các "hội đồng bóng tối", tiết lộ lý do tại sao cuộc khủng hoảng lớn nhất của nhân loại không phải là chính trị, mà là nhu cầu sâu thẳm về sự thức tỉnh tâm linh.
+
+	Book 03 Heading: HOÀNG HÔN VÀ BÌNH MINH CỦA KHOA HỌC (SUNSET AND SUNRISE OF SCIENCE)
+	Book 03 Sub-Heading: Nơi Vật lý Lượng tử gặp gỡ cõi tâm linh thiêng liêng.
+	Book 03 Description: Một nhà khoa học đoạt giải Nobel vật lý đối mặt với một thực tại vượt ra ngoài các phương trình. Khám phá cách các định luật vật lý, không gian đa chiều và sự sống ngoài Trái Đất hội tụ với những chân lý vĩnh cửu của tâm hồn.
+
+	Book 04 Heading: BỨC MÀN ĐỎ (THE RED VEIL)
+	Book 04 Sub-Heading: Sự thức tỉnh đau đớn của một người cha đằng sau hệ thống.
+	Book 04 Description: Một cựu quan chức cấp cao tiết lộ sự thật đau lòng về một thể chế được xây dựng trên những lời dối trá. Ra đời từ bi kịch cá nhân, đây là lời chứng mạnh mẽ về việc tìm lại đức tin và lương tri bất chấp mọi nghịch cảnh.
+
+	Book 05 Heading: TIẾNG VỌNG TRƯỚC THỜI GIAN (ECHOES BEFORE TIME)
+	Book 05 Sub-Heading: Khám phá lại những chương bị lãng quên của loài người.
+	Book 05 Description: Phải chăng nền văn minh thực sự chỉ bắt đầu từ 5.000 năm trước? Một nhà khảo cổ học kỳ cựu hé lộ những cổ vật bất thường và các di tích cự thạch thách thức thuyết Darwin, đồng thời tiết lộ lịch sử tuần hoàn đã bị lãng quên của chúng ta.
+
+	Book 06 Heading: NHẬP THẾ GIAN (ENTERING THE WORLD)
+	Book 06 Sub-Heading: Hành trình sử thi của một Hồng vệ binh trở thành nhà sư lang thang.
+	Book 06 Description: Từ việc phá hủy đền chùa đến việc tìm thấy Chính Pháp, hành trình 30 năm của Mã Xương Sinh khắp châu Á là một minh chứng sống động cho sức mạnh của đức tin và các nguyên lý Chân - Thiện - Nhẫn.
+
+	Book 07 Heading: TIẾNG CHUÔNG CUỐI CÙNG (THE LAST BELLS)
+	Book 07 Sub-Heading: Lời kêu gọi thức tỉnh trang nghiêm trước cơn bão cuối cùng.
+	Book 07 Description: Điều tra về những bức tượng than khóc và các lời tiên tri cổ xưa, nhà báo Taylor Reed chẩn đoán sự suy đồi đạo đức của xã hội hiện đại và đưa ra lời kêu gọi lương tri con người trong một kỷ nguyên của những điềm báo kỳ lạ.
+
+	Book 08 Heading: HỌ ĐÃ ĐẾN TRƯỚC (BEFORE US)
+	Book 08 Sub-Heading: Chứng kiến 200 triệu năm lịch sử bị cấm đoán.
+	Book 08 Description: Nhìn qua "con mắt thứ ba" vào một quá khứ huy hoàng nơi Mặt Trăng được chế tạo như một con tàu vũ trụ và những người khổng lồ lang thang trên một Trái Đất cổ xưa và bí ẩn hơn nhiều so với những gì sách giáo khoa dám thừa nhận.
+
+	Book 09 Heading: NGÀN KIẾP ĐÃ QUA (THOUSAND LIVES)
+	Book 09 Sub-Heading: Một linh hồn, một ngàn lần tái sinh, một định mệnh thần thánh.
+	Book 09 Description: Một cậu bé 10 tuổi nhớ lại hàng trăm kiếp sống trước — từ việc canh giữ Kim tự tháp đến cuộc sống ở triều đại nhà Đường — tiết lộ một hành trình được sắp đặt thần thánh, giải thích lý do tại sao chúng ta có mặt ở đây trong kỷ nguyên này.
+
+	Book 10 Heading: VŨ TRỤ VƯỢT RA NGOÀI BIG BANG (THE UNIVERSE BEYOND THE BIG BANG)
+	Book 10 Sub-Heading: Giải mã những bí ẩn vượt ra ngoài biên giới của khoa học.
+	Book 10 Description: Vượt lên trên những giới hạn của thuyết Big Bang, tác phẩm này kết nối vật lý lượng tử tiên phong với trí tuệ cổ xưa để hé lộ một vũ trụ nơi ý thức và vật chất về cơ bản là một.
+
+Phần 4: Slogan:
+	“Chúng tôi không bán số lượng chữ; chúng tôi trao đi trí tuệ vượt thời gian định hình vận mệnh con người.”
+	--- THE LIVES MEDIA
+
+Phần 5: Giá trị và Ưu đãi (Price Anchoring)
+	Heading-1: ĐỘC QUYỀN NĂM MỚI
+	Heading-2: Sở hữu ngay trọn bộ thư viện 10 cuốn sách
+	Description: Đừng bỏ lỡ cơ hội sở hữu bộ sưu tập tối thượng về các bí mật cổ xưa, sự thật vũ trụ và trí tuệ tâm linh. Thông thường có giá trị gần 100 USD, giờ đây bạn có thể tải xuống toàn bộ 10 cuốn sách ngay lập tức với một phần nhỏ chi phí. Hãy bắt đầu hành trình vào cõi vô định của bạn ngay hôm nay.
+
+	Nút bấm mua hàng (CTA): MUA NGAY
+
+	Card-1:
+	Title: Giá bán lẻ
+	Description: Nếu bạn mua riêng lẻ 10 cuốn sách này trên cửa hàng của chúng tôi, bạn sẽ phải trả 9,99 USD cho mỗi cuốn. Tổng mức đầu tư là 99,90 USD.
+
+	Card-2: Gói ưu đãi (Bundle Deal)
+	Description: Bằng cách mua trọn bộ Bộ sưu tập Tối thượng ngay hôm nay, bạn sẽ nhận được tất cả 10 ebook được gửi ngay vào hộp thư đến của mình chỉ với 49,90 USD. Không chờ đợi, không phí phụ thu.
+
+	Card-3: Tiết kiệm 50%
+	Description: Đây là ưu đãi có hạn nhằm giúp đánh thức thế giới. Bạn tiết kiệm chính xác 50% so với giá bán lẻ. Điều này giống như việc bạn được tặng miễn phí 5 cuốn sách mạnh mẽ nhất của chúng tôi.
+
+Phần 6: Bảo hiểm rủi ro (Risk Reversal)
+	Title: Bảo đảm "Trí tuệ" trong 60 ngày
+	Description: Hãy khám phá bộ sưu tập theo tốc độ của riêng bạn. Nếu trong vòng 60 ngày bạn cảm thấy những cuốn sách này không mở rộng nhận thức của mình hoặc không cung cấp những hiểu biết sâu sắc mà bạn đang tìm kiếm, chúng tôi sẽ hoàn lại 100% số tiền bạn đã mua. Không cần giải thích, không thủ tục rườm rà. Hành trình khám phá của bạn là hoàn toàn không có rủi ro.
+
+Phần 7: Footer tuân thủ pháp lý (Legal Footer)
+	ClickBank là đơn vị bán lẻ các sản phẩm trên trang web này. CLICKBANK® là nhãn hiệu đã đăng ký của Click Sales, Inc., một tập đoàn Delaware có trụ sở tại 1444 S. Entertainment Ave., Suite 410 Boise, ID 83709, USA và được sử dụng theo sự cho phép. Vai trò của ClickBank với tư cách là nhà bán lẻ không cấu thành một sự xác nhận, phê duyệt hoặc đánh giá đối với các sản phẩm này hoặc bất kỳ khiếu nại, tuyên bố hoặc ý kiến nào được sử dụng trong việc quảng bá các sản phẩm này.
+
+	Miễn trừ trách nhiệm: Thông tin được cung cấp trên trang web này và trong các sản phẩm chỉ dành cho mục đích giáo dục và giải trí. Mọi nỗ lực đã được thực hiện để trình bày chính xác các tài liệu này, nhưng không có đảm bảo rằng bạn sẽ đạt được các kết quả cụ thể. Bất kỳ tuyên bố nào về những hiểu biết tâm linh hoặc vũ trụ đều dựa trên nghiên cứu và lời kể cá nhân.
+
+	Để được hỗ trợ, vui lòng liên hệ với chúng tôi tại editor@thelivesmedia.com.
