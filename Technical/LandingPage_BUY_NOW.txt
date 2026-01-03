@@ -1,0 +1,86 @@
+<script>
+(function() {
+    const CONFIG = {
+        ds24_link: "https://www.checkout-ds24.com/product/658756",
+        cb_link: "https://livesmedia.pay.clickbank.net/?cbitems=1", 
+        dodo_worker: "https://download.thelivesmedia.com/dodo/create-checkout",
+        dodo_product_id: "pdp_01JHMRM59W1Q2J9S6X2Z8QG4A5", 
+        bundle_sku: "BOOKS_COLLECTION_ALL",
+        ds24_badge_url: "https://www.digistore24.com/trusted-badge/43187/WFJ04GSnvqXthEg/salespage"
+    };
+
+    const urlParams = new URLSearchParams(window.location.search);
+    const isDs24 = urlParams.has('aff') || urlParams.has('ds24');
+    const isCb = urlParams.has('hop');
+
+    function updatePageContent() {
+        // 1. Xử lý Nút BUY NOW
+        const containers = document.querySelectorAll('.dynamic-buy-button');
+        containers.forEach(function(container) {
+            const btnLink = container.tagName === 'A' ? container : container.querySelector('a');
+            if (!btnLink) return;
+
+            if (isCb) {
+                btnLink.href = CONFIG.cb_link;
+            } else if (isDs24) {
+                btnLink.href = CONFIG.ds24_link;
+            } else {
+                if (!btnLink.dataset.dodoBound) {
+                    btnLink.href = "javascript:void(0)";
+                    btnLink.dataset.dodoBound = "true";
+                    btnLink.addEventListener('click', async function(e) {
+                        e.preventDefault();
+                        const originalText = btnLink.innerText;
+                        btnLink.innerText = "Processing...";
+                        try {
+                            const res = await fetch(CONFIG.dodo_worker, {
+                                method: 'POST',
+                                headers: { 'Content-Type': 'application/json' },
+                                body: JSON.stringify({
+                                    sku: CONFIG.bundle_sku,
+                                    dodo_product_id: CONFIG.dodo_product_id,
+                                    ref: (urlParams.get('ref') || '').toUpperCase()
+                                })
+                            });
+                            const data = await res.json();
+                            if (data.checkout_url) window.location.href = data.checkout_url;
+                        } catch (err) { alert(err.message); btnLink.innerText = originalText; }
+                    });
+                }
+            }
+        });
+
+        // 2. Ẩn ClickBank Disclaimer nếu không phải luồng ClickBank
+        const cbDisclaimer = document.querySelector('.clickbank-disclaimer');
+        if (cbDisclaimer) {
+            cbDisclaimer.style.display = isCb ? 'block' : 'none';
+        }
+    }
+
+    // --- CHỈ XỬ LÝ CSS & BADGE CHO DS24 ---
+    if (isDs24) {
+        // Gọi Badge
+        const badgeScript = document.createElement('script');
+        badgeScript.type = "text/javascript";
+        badgeScript.src = CONFIG.ds24_badge_url;
+        document.body.appendChild(badgeScript);
+
+        // Chỉ Fix Line-height để hiển thị trọn vẹn Badge
+        const style = document.createElement('style');
+        style.innerHTML = `
+            #ds24_trusted_badge, #ds24_trusted_badge * {
+                line-height: normal !important;
+                box-sizing: border-box !important;
+            }
+            #ds24_trusted_badge {
+                z-index: 2147483647 !important;
+            }
+        `;
+        document.head.appendChild(style);
+    }
+
+    updatePageContent();
+    setTimeout(updatePageContent, 1000);
+    window.addEventListener('load', updatePageContent);
+})();
+</script>

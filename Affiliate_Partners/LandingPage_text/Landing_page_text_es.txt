@@ -55,7 +55,7 @@ Phần 3: Trưng bày sản phẩm (Showcase)
 	Book 05 Sub-Heading: Redescubriendo los capítulos olvidados de la humanidad.
 	Book 05 Description: ¿Realmente la civilización comenzó hace 5.000 años? Un arqueólogo veterano descubre artefactos anómalos y ruinas megalíticas que desafían la teoría darwiniana y revelan nuestra historia cíclica y olvidada.
 
-	Book 06 Heading: ENTRANDO EN EL MUNDO (ENTERING THE WORLD)
+	Book 06 Heading: ENTRADA AL MUNDO (ENTERING THE WORLD)
 	Book 06 Sub-Heading: El viaje épico de un Guardia Rojo convertido en monje errante.
 	Book 06 Description: Desde la destrucción de templos hasta el hallazgo del Verdadero Dharma, la búsqueda de 30 años de Ma Changsheng a través de Asia es un vívido testimonio del poder de la fe y los principios de Verdad, Benevolencia y Tolerancia.
 
@@ -71,7 +71,7 @@ Phần 3: Trưng bày sản phẩm (Showcase)
 	Book 09 Sub-Heading: Un alma, mil reencarnaciones, un destino divino.
 	Book 09 Description: Un niño de 10 años recuerda cientos de vidas pasadas, desde vigilar las pirámides hasta la vida en la dinastía Tang, revelando un viaje divinamente organizado que explica por qué estamos aquí en esta era.
 
-	Book 10 Heading: EL UNIVERSO MÁS ÁLLÁ DEL BIG BANG (THE UNIVERSE BEYOND THE BIG BANG)
+	Book 10 Heading: EL UNIVERSO MÁS ALLÁ DEL BIG BANG (THE UNIVERSE BEYOND THE BIG BANG)
 	Book 10 Sub-Heading: Descifrando los misterios más allá del límite de la ciencia.
 	Book 10 Description: Trascendiendo los límites de la teoría del Big Bang, esta obra conecta la física cuántica pionera con la sabiduría antigua para revelar un universo donde la conciencia y la materia son fundamentalmente una sola.
 

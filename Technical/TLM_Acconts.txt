@@ -625,3 +625,48 @@ founder@thelivesmedia.com	/	OpeN@1610#
 
 - ClickBank paylink:
 https://livesmedia.pay.clickbank.net/?cbitems=1
+
+
+---------------------------------------
+
+local PostgreSQL:
+
+localhost
+user: 	postgres
+pwd: 	123456Aa@
+port: 	5432
+
+--------------------
+
+Zoho Email:
+
+https://mail.zoho.com/zm
+
+founder@thelivesmedia.com	/	Open#*6*0
+editor@thelivesmedia.com 	/	Ymrfb$6o
+support@thelivesmedia.com 	/	bv7tHf*b
+partnerships@thelivesmedia	/	Ymrfb$6o
+
+
+---------------------
+
+https://www.digistore24.com/
+
+founder@thelivesmedia.com	/	Open#*6*0
+
+----------------
+
+Tham số URL:
+Nếu bạn gửi link: thelivesmedia.com/books-collection/ -> Nó sẽ chạy qua Dodo (Phí rẻ nhất, bạn ăn trọn).
+Nếu bạn gửi link: thelivesmedia.com/books-collection/?aff=ds24 -> Nó sẽ nhảy qua Digistore24 (Để nhân viên họ duyệt).
+Nếu link có ?hop=... -> Nó sẽ nhảy qua ClickBank.
+
+
+Digistore24:
+https://download.thelivesmedia.com/thank-you-ds
+
+Clickbank:
+https://download.thelivesmedia.com/thank-you
+
+Dodo:
+https://download.thelivesmedia.com/thankyou
