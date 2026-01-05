@@ -33,9 +33,11 @@
 
     function updateAllContent() {
         const path = window.location.pathname;
+        
+        // KIỂM TRA XEM CÓ PHẢI LÀ TRANG LANDING PAGE KHÔNG
+        const isLandingPage = path.includes('/books-collection/');
+        
         let dsLang = 'en';
-
-        // Nhận diện ngôn ngữ từ đường dẫn URL
         if (path.includes('/zh-hant/')) dsLang = 'zh';
         else if (path.includes('/pt-br/')) dsLang = 'pt';
         else if (path.includes('/fr/')) dsLang = 'fr';
@@ -48,13 +50,9 @@
         const source = localStorage.getItem('aff_source');
         const savedAff = localStorage.getItem('ds24_aff');
         const savedHop = localStorage.getItem('cb_hop');
-        
         const isCb = (source === 'cb');
-        const isDs24 = (source === 'ds24' || !isCb);
-
-        console.log("DS24_DEBUG: Global Update | Lang:", dsLang, "| Aff:", savedAff);
-
-        // Cập nhật tất cả nút có class .dynamic-buy-button
+        
+        // Cập nhật nút bấm (Chỉ chạy nếu tìm thấy nút trên trang)
         const buttons = document.querySelectorAll('.dynamic-buy-button a, a.dynamic-buy-button');
         buttons.forEach(function(btn) {
             if (isCb) {
@@ -70,27 +68,30 @@
 
         // Ẩn hiện ClickBank Disclaimer
         const cbDisclaimer = document.querySelector('.clickbank-disclaimer');
-        if (cbDisclaimer) {
-            cbDisclaimer.style.setProperty("display", (isCb ? 'block' : 'none'), "important");
+        if (cbDisclaimer) { 
+            cbDisclaimer.style.setProperty("display", (isCb ? 'block' : 'none'), "important"); 
         }
 
-        // Chèn Badge DS24
-        if (isDs24 && !document.getElementById('ds24_badge_script')) {
-            const badgeScript = document.createElement('script');
-            badgeScript.id = 'ds24_badge_script';
-            badgeScript.src = CONFIG.ds24_badge_url;
-            document.body.appendChild(badgeScript);
+        // 5. CHỈ HIỆN BADGE NẾU LÀ TRANG LANDING PAGE VÀ LÀ TRAFFIC DS24/ORGANIC
+        const isDs24Traffic = (source === 'ds24' || !isCb);
+        
+        if (isLandingPage && isDs24Traffic) {
+            if (!document.getElementById('ds24_badge_script')) {
+                const badgeScript = document.createElement('script');
+                badgeScript.id = 'ds24_badge_script';
+                badgeScript.src = CONFIG.ds24_badge_url;
+                document.body.appendChild(badgeScript);
+            }
+        } else {
+            // Nếu không phải landing page, đảm bảo badge không hiển thị (nếu lỡ nạp)
+            const existingBadge = document.getElementById('ds24_trusted_badge');
+            if (existingBadge) existingBadge.style.display = 'none';
         }
     }
 
-    // Chạy ngay lập tức và lặp lại để "khóa" link
     updateAllContent();
     window.addEventListener('load', updateAllContent);
-    let c = 0;
-    const i = setInterval(function() {
-        updateAllContent();
-        if (++c > 10) clearInterval(i);
-    }, 1000);
+    let c = 0; const i = setInterval(function() { updateAllContent(); if (++c > 5) clearInterval(i); }, 1000);
 })();
 </script>
 

@@ -1,6 +1,6 @@
 /**
  * WORKER: thelivesmedia-thankyou-manager
- * Xử lý luồng ClickBank & Digistore24 cho Bundle (9 ngôn ngữ)
+ * Xử lý luồng ClickBank, Digistore24 & Hotmart cho Bundle (9 ngôn ngữ)
  */
 
 export default {
@@ -14,14 +14,19 @@ export default {
 
     // ===== ROUTES =====
     
-    // Luồng ClickBank (Giữ nguyên cho cũ)
+    // Luồng ClickBank
     if (url.pathname === "/thank-you") {
       return thankyouPage(url, env, "CLICKBANK");
     }
 
-    // Luồng Digistore24 (Mới - Dùng cho trang /thank-you-ds/)
+    // Luồng Digistore24
     if (url.pathname === "/thank-you-ds") {
       return thankyouPage(url, env, "DIGISTORE24");
+    }
+
+    // Luồng Hotmart (MỚI)
+    if (url.pathname === "/thank-you-ht") {
+      return thankyouPage(url, env, "HOTMART");
     }
 
     if (url.pathname === "/issue" && req.method === "POST") {
@@ -67,20 +72,23 @@ async function getFilename(env, sku) {
   return null;
 }
 
-/** ============ TRANG CẢM ƠN (DÙNG CHUNG CHO CB & DS24) ============ **/
+/** ============ TRANG CẢM ƠN (DÙNG CHUNG CHO CB, DS24 & HT) ============ **/
 async function thankyouPage(url, env, provider) {
-  // 1. Nhận diện tham số theo từng sàn
   let orderId = "ORDER";
   let emailInput = "";
   let complianceText = "";
   let accessText = "Instant access granted. Please download your files below.";
 
   const isDS24 = (provider === "DIGISTORE24");
+  const isHT = (provider === "HOTMART");
   
-  // TẠO BIẾN CSS RIÊNG BIỆT
-  const dynamicStyle = isDS24 ? `
-    /* PHONG CÁCH PHẲNG CHO DIGISTORE24 */
-    body { background: #ffffff; padding: 0; padding-top: 60px !important; padding-bottom: 120px; }
+  // TẠO BIẾN CSS RIÊNG BIỆT (Hotmart dùng chung phong cách Phẳng với DS24)
+  
+  const paddingTopValue = isHT ? "10px" : "60px";
+
+  const dynamicStyle = (isDS24 || isHT) ? `
+    /* PHONG CÁCH PHẲNG CHO DS24 & HOTMART */
+    body { background: #ffffff; padding: 0; padding-top: ${paddingTopValue} !important; padding-bottom: 120px; }
     .card { 
       border-radius: 0; 
       box-shadow: none; 
@@ -89,7 +97,7 @@ async function thankyouPage(url, env, provider) {
       max-width: 800px;
     }
   ` : `
-    /* PHONG CÁCH THẺ CHO CLICKBANK & DODO */
+    /* PHONG CÁCH THẺ CHO CLICKBANK */
     body { background: #f4f7f6; padding: 40px 15px; }
     .card { 
       border-radius: 20px; 
@@ -114,29 +122,36 @@ async function thankyouPage(url, env, provider) {
       background:var(--brand); color:#fff; border:0; padding:12px; border-radius:8px; 
       font-weight:600; cursor:pointer; font-size:15px; width:100%;
     }
-    ${dynamicStyle} /* DÁN CSS ĐIỀU KIỆN VÀO ĐÂY */
+    footer { margin-top: 40px; font-size: 13px; color: #a0aec0; }
+    ${dynamicStyle}
   `;
 
-  // TẠO BIẾN CHỨA SCRIPT BADGE
-  const dsBadgeScript = (provider === "DIGISTORE24") 
+  const dsBadgeScript = (isDS24) 
     ? `<script type="text/javascript" src="https://www.digistore24.com/trusted-badge/43188/4oYnVkcoYW2NRaP/thankyoupage"></script>` 
     : '';
 
-  if (provider === "DIGISTORE24") {
-    // Digistore24 tham số là order_id và email
+  if (isDS24) {
     orderId = url.searchParams.get("order_id") || "ORDER";
     emailInput = url.searchParams.get("email") || "";
-    // Dòng chữ bắt buộc của Digistore24
     complianceText = `
       <div style="margin-top:20px; font-size:11px; color:#718096; line-height:1.5; padding:10px; background:#f8fafc; border-radius:8px;">
         Thank you for your purchase! Your order will appear on your card statement as 'Digistore24'. 
         The debit will be performed by Digistore24.com
       </div>`;
-    // Sửa lại câu 24h thành chuyên nghiệp hơn để auditor DS24 thích
     accessText = "Access is valid. Please select your language to download below.";
     
+  } else if (isHT) {
+    // Hotmart tham số mặc định cho External Page là transaction và email
+    orderId = url.searchParams.get("transaction") || "ORDER";
+    emailInput = url.searchParams.get("email") || "";
+    complianceText = `
+      <div style="margin-top:20px; font-size:11px; color:#718096; line-height:1.5; padding:10px; background:#f8fafc; border-radius:8px;">
+        Secure payment processed by <strong>Hotmart</strong>. 
+        This transaction will appear on your statement as 'HOTMART' or 'HT* THE LIVES MEDIA'.
+      </div>`;
+    accessText = "Thank you for your trust. Your 10-book collection is ready for download in 9 languages.";
+
   } else {
-    // ClickBank tham số là cbreceipt và cbemail
     orderId = url.searchParams.get("cbreceipt") || "ORDER";
     emailInput = url.searchParams.get("cbemail") || "";
     accessText = "Please select your language to download. Access is valid for 24 hours.";
@@ -146,8 +161,7 @@ async function thankyouPage(url, env, provider) {
   let skuParam = url.searchParams.get("sku") || "";
   const ALL_SKUS = "BOOKS_COLLECTION_EN,BOOKS_COLLECTION_ES,BOOKS_COLLECTION_FR,BOOKS_COLLECTION_DE,BOOKS_COLLECTION_JA,BOOKS_COLLECTION_KO,BOOKS_COLLECTION_PT,BOOKS_COLLECTION_VI,BOOKS_COLLECTION_ZH";
 
-  const upperSku = skuParam.toUpperCase();
-  if (!skuParam || upperSku === "ALL" || upperSku === "ALL_BUNDLE") {
+  if (!skuParam || skuParam.toUpperCase() === "ALL") {
     skuParam = ALL_SKUS;
   }
 
@@ -217,7 +231,7 @@ async function thankyouPage(url, env, provider) {
   return new Response(html, { headers: { "content-type": "text/html; charset=utf-8" } });
 }
 
-/** ============ TOKEN & DOWNLOAD LOGIC (DÙNG CHUNG) ============ **/
+/** ============ TOKEN & DOWNLOAD LOGIC ============ **/
 async function issueToken(req, env) {
   const { orderId, email, sku } = await req.json();
   const filename = await getFilename(env, sku);
