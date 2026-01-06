@@ -2,27 +2,31 @@
 Market Partmers list
 
 
-2. Digistore24 --> đã đăng ký tài khoản --> đã up sản phẩm và các setting khác
+1. Digistore24 --> đã đăng ký tài khoản --> đã up sản phẩm và các setting khác --> đang chờ duyệt sản phẩm
 
-3. Hotmart (Đối thủ đáng gờm nhất của DS24) --> đã đăng ký tài khoản --> đã up sản phẩm và các setting khác
-	Nếu bạn có thế mạnh về đa ngôn ngữ, Hotmart là lựa chọn số 1. Đây là nền tảng bán sản phẩm số đứng đầu tại Mỹ Latinh và Châu Âu.
-	Ưu điểm: Hệ thống đa ngôn ngữ cực kỳ thông minh, giao diện trang thanh toán (checkout) rất đẹp và tối ưu chuyển đổi.
-	Thị trường mạnh: Tây Ban Nha, Bồ Đào Nha, Pháp, Brazil (rất khớp với bộ sách 9 ngôn ngữ của bạn).
-	Thanh toán: Hỗ trợ trả tiền qua Payoneer hoặc chuyển khoản ngân hàng quốc tế (rất uy tín).
+2. Hotmart --> đã đăng ký tài khoản --> đã up sản phẩm và các setting khác --> đang chờ chuyệt KYC 
 
-4. JVZoo --> Đang chờ duyệt tài khoản "JVZoo Processing Services"
-	JVZoo là một trong những mạng lưới lâu đời và uy tín nhất cho các sản phẩm kỹ thuật số (Ebook, Phần mềm, Khóa học).
-	Ưu điểm: Lượng Affiliate cực kỳ đông đảo (hơn 800,000 người). Họ có tính năng "Instant Payout" (trả tiền ngay lập tức khi phát sinh đơn hàng) qua một số cổng thanh toán.
-	Sản phẩm phù hợp: Rất thích hợp cho các gói Bundle (combo nhiều cuốn sách) như của bạn.
-	Lưu ý: Giao diện hơi cũ một chút so với DS24 nhưng cộng đồng Affiliate rất thực chiến.
+3. JVZoo --> Đang chờ duyệt tài khoản "JVZoo Processing Services"
 
-6. CopeCart (Lựa chọn mới cực kỳ tiềm năng) --> Đang lỗi verify phone khi SignUp
+4. CopeCart (Lựa chọn mới cực kỳ tiềm năng) --> Đã duyệt sản phẩm, đang chờ duyệt KYC
 
-	Đây là đối thủ trực tiếp của Digistore24 tại Châu Âu và Mỹ, rất phù hợp với anh.
-	Cơ chế: Là Merchant of Record (họ tự thu tiền, anh không cần cổng).
-	Affiliate: Có một chợ Marketplace Affiliate rất sôi động.
-	Thanh toán: Cho phép rút tiền thẳng về tài khoản ngân hàng (hỗ trợ tài khoản USD/JPMorgan cực tốt).
-	Website: copecart.com
+----
+
+1. Whop (whop.com) - "Cứu cánh" hiện đại nhất cho anh
+	Whop hiện đang là nền tảng bùng nổ nhất cho các sản phẩm số (Ebook, khóa học, cộng đồng).
+	Tại sao phù hợp: Whop đóng vai trò là Merchant of Record (MoR). Họ tự thu tiền khách qua thẻ tín dụng và Apple Pay/Google Pay. Anh không cần PayPal/Stripe.
+	Affiliate: Có một hệ thống Affiliate Marketplace rất trực quan. Anh có thể niêm yết bộ sách của mình lên đó để các Affiliate trên Whop tìm thấy và bán hộ.
+	Thanh toán (Payout): Whop hỗ trợ rút tiền qua Bank Transfer (ACH). Đây là "đất diễn" hoàn hảo cho tài khoản JPMorgan của anh.
+	Độ khó: Rất dễ đăng ký, giao diện cực kỳ mượt mà trên điện thoại.
+
+2. AppSumo (appsumo.com) - "Bệ phóng" doanh số cực khủng
+	AppSumo không hẳn là một Affiliate Network theo kiểu truyền thống như ClickBank, mà nó là một Marketplace (Chợ) khổng lồ cho các sản phẩm số dưới dạng "Deal".
+	Tại sao phù hợp: AppSumo có sẵn tệp khách hàng hơn 1 triệu người (Modern Seekers) chuyên đi săn các bộ công cụ, tài liệu, Ebook giá trị.
+	Affiliate: Chính AppSumo có đội ngũ Affiliate và hệ thống quảng cáo riêng. Khi anh được list hàng trên AppSumo, họ sẽ tự quảng bá sản phẩm của anh đến hàng triệu người qua Email Marketing.
+	Thanh toán: Họ tự thu tiền hộ và trả cho anh qua Bank Transfer (hỗ trợ bank Mỹ rất tốt).
+	Chiến lược: Anh có thể đóng gói bộ sách 9 ngôn ngữ thành một "Lifetime Deal" (mua 1 lần dùng mãi mãi). Doanh số trên AppSumo thường rất bùng nổ ngay trong tuần đầu tiên.
+
+---
 
 7. Impact.com (Dành cho chiến lược dài hạn)
 	Nếu bạn muốn xây dựng "THE LIVES MEDIA" thành một thương hiệu truyền thông chuyên nghiệp thực thụ:
