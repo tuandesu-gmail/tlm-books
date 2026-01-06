@@ -613,7 +613,7 @@ port: 	5432
 
 https://mail.zoho.com/zm
 
-founder@thelivesmedia.com	/	Open#*6*0
+founder@thelivesmedia.com	/	Open@*6*0
 editor@thelivesmedia.com 	/	Ymrfb$6o
 support@thelivesmedia.com 	/	bv7tHf*b
 partnerships@thelivesmedia	/	Ymrfb$6o
@@ -642,14 +642,6 @@ https://thelivesmedia.com/aff-resources/
 ------------------------------------------------------------
 
 
-29) ClickBank:
-
-https://accounts.clickbank.com/login.htm
-founder@thelivesmedia.com	/	OpeN@1610#
-
-- ClickBank paylink:
-https://livesmedia.pay.clickbank.net/?cbitems=1
-
 
 
 -------------------------------------------------------------
@@ -658,7 +650,7 @@ https://livesmedia.pay.clickbank.net/?cbitems=1
 
 https://www.digistore24.com/
 
-founder@thelivesmedia.com	/	Open#*6*0
+founder@thelivesmedia.com	/	Open@*6*0
 
 ----------------
 
@@ -686,5 +678,33 @@ login by Gmail: tuandesu@gmail.com
 Payment link:
 https://pay.hotmart.com/M103669726F?checkoutMode=10
 
+Affiliate recruitment:
+https://app-vlc.hotmart.com/affiliate-recruiting/view/7973U103669747
+
 
 ----------------------------------------------------------------
+
+4) jvzoo.com
+
+founder@thelivesmedia.com	/	Open@*6*0
+
+
+----------------------------------------------------------------
+
+
+
+5) https://copecart.com/
+
+username: thelivesmedia
+
+founder@thelivesmedia.com 	/	Open@*6*0*98*2026
+
+
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+
+6) https://warriorplus.com/
+
+thelivesmedia	/	Open@*6*0

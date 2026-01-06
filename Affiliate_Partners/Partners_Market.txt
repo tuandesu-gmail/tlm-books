@@ -1,35 +1,67 @@
 
 Market Partmers list
 
-0. ClickBank, Digistore24 --> đã đăng ký tài khoản
 
-1. Hotmart (Đối thủ đáng gờm nhất của DS24)
+2. Digistore24 --> đã đăng ký tài khoản --> đã up sản phẩm và các setting khác
+
+3. Hotmart (Đối thủ đáng gờm nhất của DS24) --> đã đăng ký tài khoản --> đã up sản phẩm và các setting khác
 	Nếu bạn có thế mạnh về đa ngôn ngữ, Hotmart là lựa chọn số 1. Đây là nền tảng bán sản phẩm số đứng đầu tại Mỹ Latinh và Châu Âu.
 	Ưu điểm: Hệ thống đa ngôn ngữ cực kỳ thông minh, giao diện trang thanh toán (checkout) rất đẹp và tối ưu chuyển đổi.
 	Thị trường mạnh: Tây Ban Nha, Bồ Đào Nha, Pháp, Brazil (rất khớp với bộ sách 9 ngôn ngữ của bạn).
 	Thanh toán: Hỗ trợ trả tiền qua Payoneer hoặc chuyển khoản ngân hàng quốc tế (rất uy tín).
 
-2. JVZoo
+4. JVZoo --> Đang chờ duyệt tài khoản "JVZoo Processing Services"
 	JVZoo là một trong những mạng lưới lâu đời và uy tín nhất cho các sản phẩm kỹ thuật số (Ebook, Phần mềm, Khóa học).
 	Ưu điểm: Lượng Affiliate cực kỳ đông đảo (hơn 800,000 người). Họ có tính năng "Instant Payout" (trả tiền ngay lập tức khi phát sinh đơn hàng) qua một số cổng thanh toán.
 	Sản phẩm phù hợp: Rất thích hợp cho các gói Bundle (combo nhiều cuốn sách) như của bạn.
 	Lưu ý: Giao diện hơi cũ một chút so với DS24 nhưng cộng đồng Affiliate rất thực chiến.
 
-3. WarriorPlus
-	Thường được coi là "chợ" cho các sản phẩm về Marketing, kiếm tiền online, nhưng mảng Tâm linh và Phát triển bản thân cũng đang phát triển rất mạnh ở đây.
-	Ưu điểm: Dễ được duyệt sản phẩm hơn ClickBank. Hệ thống theo dõi (tracking) cực kỳ chính xác.
-	Đặc điểm: Affiliate ở đây thích các sản phẩm có giá rẻ lúc đầu (Front-end) và có nhiều sản phẩm bán thêm (Upsell) phía sau.
+6. CopeCart (Lựa chọn mới cực kỳ tiềm năng) --> Đang lỗi verify phone khi SignUp
 
-4. BuyGoods
+	Đây là đối thủ trực tiếp của Digistore24 tại Châu Âu và Mỹ, rất phù hợp với anh.
+	Cơ chế: Là Merchant of Record (họ tự thu tiền, anh không cần cổng).
+	Affiliate: Có một chợ Marketplace Affiliate rất sôi động.
+	Thanh toán: Cho phép rút tiền thẳng về tài khoản ngân hàng (hỗ trợ tài khoản USD/JPMorgan cực tốt).
+	Website: copecart.com
+
+7. Impact.com (Dành cho chiến lược dài hạn)
+	Nếu bạn muốn xây dựng "THE LIVES MEDIA" thành một thương hiệu truyền thông chuyên nghiệp thực thụ:
+	Đây không phải là một "chợ" như ClickBank, mà là một Nền tảng quản lý đối tác (Partnership Cloud).
+	Ưu điểm: Họ làm việc với những hệ thống thanh toán rất lớn và đa dạng. Họ có thể trả tiền cho bạn qua Chuyển khoản ngân hàng quốc tế cực kỳ uy tín.
+	Độ khó: Họ duyệt hồ sơ rất kỹ về trang web. Với Landing Page 9 ngôn ngữ của bạn, bạn hoàn toàn có cơ hội được chấp nhận.
+
+
+5. BuyGoods --> Đăng ký nó đòi demo
 	Đây là đối thủ trực tiếp và lớn nhất của ClickBank trong những năm gần đây.
 	Ưu điểm: Họ hỗ trợ Vendor (người bán) cực kỳ nhiệt tình. Họ có đội ngũ tối ưu hóa trang thanh toán riêng cho bạn để tăng tỉ lệ mua hàng.
 	Thanh toán: Rất chuẩn mực và linh hoạt.
 	Sản phẩm phù hợp: Các sản phẩm về Sức khỏe, Tâm linh, Ebook được họ ưu tiên rất cao.
 
 
-Lời khuyên cho chiến lược tiếp theo của bạn:
-	Ưu tiên Hotmart: Vì bạn đã có bản dịch tiếng Tây Ban Nha, Bồ Đào Nha và Pháp. Hotmart sẽ giúp bạn tiếp cận hàng triệu Affiliate ở các thị trường này – nơi mà ClickBank và DS24 chưa thực sự thống trị.
-	Giữ vững cấu trúc Landing Page: Bạn đã có mã logic tự động chuyển đổi link theo ngôn ngữ. Khi sang nền tảng mới, bạn chỉ cần thay đổi "Link cơ sở" (Base Link) trong đoạn code là xong, không cần làm lại từ đầu.
-	Tận dụng WorldFirst: Đa số các công ty trên (ngoại trừ WarriorPlus ưu tiên PayPal) đều cho phép bạn nhận tiền qua Bank Transfer (ACH hoặc SWIFT), nên tài khoản WorldFirst của bạn vẫn sẽ là "trạm thu tiền" cực tốt.
+Chiến lược "phân quân" cho 9 ngôn ngữ của bạn:
+	Thị trường Mỹ/Anh/Canada (Tiếng Anh): Đẩy mạnh trên ClickBank và Digistore24. Đây là 2 "ông vua" ở thị trường này.
+	Thị trường Nam Mỹ/Tây Ban Nha/Bồ Đào Nha: Tập trung 100% vào Hotmart. Không bên nào qua mặt được Hotmart ở khu vực này.
+	Thị trường Châu Âu (Pháp, Đức, Ý): Digistore24 (vốn gốc từ Đức) và Hotmart (rất mạnh ở Pháp/TBN) là đủ.
+	Kênh dự phòng/Bán trực tiếp: Dùng Selar.co. Đây là nơi bạn có thể tạo link nhanh để gửi cho các đối tác nhỏ hoặc chạy quảng cáo trực tiếp mà không lo vấn đề cổng thanh toán.
+	
+------------------------------------------
 
-Bạn có muốn tôi phân tích kỹ hơn về quy trình đăng ký của một bên cụ thể nào trong danh sách này không? Tôi có thể giúp bạn chuẩn bị trước để không gặp lại các rắc rối như với PayPal.
+Subject: Partnership Opportunity: 75% Commission on Global 9-Language Ebook Bundle
+
+Hi [Tên của họ],
+I’ve been following your content and I think your audience would love our latest release: "The Ultimate Ancient Secrets & Cosmic Wisdom Collection".
+
+We just launched on Hotmart and we are looking for professional partners.
+
+Why partner with us?
+	High Commission: 75% per sale ($33.35 net for you).
+	Global Reach: Localized in 9 languages (English, Spanish, Portuguese, French, etc.) - You can target any market!
+	High Value: 10 premium E-books for $49.90.
+	Full Support: We provide all banners, email swipes, and ad copies.
+	
+Check out our Affiliate Page here: [Dán link Recruitment của anh vào đây]
+
+Let's bring light and wisdom to the world together!
+
+Best regards,
+Anh Tuan - THE LIVES MEDIA	
