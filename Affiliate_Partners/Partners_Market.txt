@@ -8,12 +8,14 @@ Market Partmers list
 
 3. JVZoo --> Đang chờ duyệt tài khoản "JVZoo Processing Services"
 
-4. CopeCart (Lựa chọn mới cực kỳ tiềm năng) --> Đã duyệt sản phẩm, đang chờ duyệt KYC
+4. CopeCart (Lựa chọn mới cực kỳ tiềm năng) --> Đã duyệt sản phẩm, đang chờ duyệt KYC --> Đã duyệt KYC OK
+
+5. Whop (whop.com) --> Đã đăng ký xong, up sản phẩm, đã duyệt OK.
 
 ----
 
-1. Whop (whop.com) - "Cứu cánh" hiện đại nhất cho anh
-	Whop hiện đang là nền tảng bùng nổ nhất cho các sản phẩm số (Ebook, khóa học, cộng đồng).
+
+1.	Whop hiện đang là nền tảng bùng nổ nhất cho các sản phẩm số (Ebook, khóa học, cộng đồng).
 	Tại sao phù hợp: Whop đóng vai trò là Merchant of Record (MoR). Họ tự thu tiền khách qua thẻ tín dụng và Apple Pay/Google Pay. Anh không cần PayPal/Stripe.
 	Affiliate: Có một hệ thống Affiliate Marketplace rất trực quan. Anh có thể niêm yết bộ sách của mình lên đó để các Affiliate trên Whop tìm thấy và bán hộ.
 	Thanh toán (Payout): Whop hỗ trợ rút tiền qua Bank Transfer (ACH). Đây là "đất diễn" hoàn hảo cho tài khoản JPMorgan của anh.

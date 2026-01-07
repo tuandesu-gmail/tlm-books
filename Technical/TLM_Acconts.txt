@@ -622,7 +622,7 @@ partnerships@thelivesmedia	/	Ymrfb$6o
 
 28) Links thank-you:
 
-- Link download/thank-you qua luôn ClickBank:
+- Link download/thank-you:
 https://download.thelivesmedia.com/thank-you?sku=BOOKS_COLLECTION_EN&cbreceipt=TEST12345&cbemail=khachhang@gmail.com  
 
 
@@ -630,23 +630,54 @@ https://download.thelivesmedia.com/thank-you?sku=BOOKS_COLLECTION_EN&cbreceipt=T
 https://download.thelivesmedia.com/thankyou?skus=AFTER_POWER_EN&&order=DODO-12345&email=test@gmail.com
 
 
-https://thelivesmedia.com/books-collection/
-
 https://download.thelivesmedia.com/thank-you?sku=ALL_BUNDLE&cbreceipt=[[cbreceipt]]&cbemail=[[cbemail]]
-https://download.thelivesmedia.com/thank-you (Link sạch - ClickBank sẽ dùng link này nếu bạn không truyền param).
+https://download.thelivesmedia.com/thank-you (Link sạch - dùng chung).
 https://download.thelivesmedia.com/thank-you?sku=ALL
 https://download.thelivesmedia.com/thank-you?sku=all_bundle
 
+
+- Hotmart:
+	download.thelivesmedia.com/thank-you-ht*
+
+- Digistore24:
+	download.thelivesmedia.com/thank-you-ds
+
+- Dùng chung:
+	download.thelivesmedia.com/thank-you
+	
+Affiliate Resources:
 https://thelivesmedia.com/aff-resources/
 
 ------------------------------------------------------------
 
+29) Landing pages:
 
+- Digistore24:
+	https://thelivesmedia.com/books-collection/?aff=ds24 
+	
+- JVZoo:
+	https://thelivesmedia.com/books-collection/?jv=true
+
+- Hotmart:
+	https://thelivesmedia.com/books-collection/?h=true
+		
+- Whop:
+	https://thelivesmedia.com/books-collection/?wh=true
+	
+- CopeCart:
+	https://thelivesmedia.com/books-collection/?cc=true
+	
+
+
+============================================================================================
+
+AFFILIATE MARTKETPLACES
 
 
 -------------------------------------------------------------
 
-30) Digistore24:
+
+1) Digistore24:
 
 https://www.digistore24.com/
 
@@ -671,7 +702,7 @@ https://download.thelivesmedia.com/thankyou
 
 ---------------------------------------------------------------
 
-31) hotmart.com
+2) hotmart.com
 
 login by Gmail: tuandesu@gmail.com
 
@@ -684,16 +715,14 @@ https://app-vlc.hotmart.com/affiliate-recruiting/view/7973U103669747
 
 ----------------------------------------------------------------
 
-4) jvzoo.com
+3) jvzoo.com
 
 founder@thelivesmedia.com	/	Open@*6*0
 
 
 ----------------------------------------------------------------
 
-
-
-5) https://copecart.com/
+4) https://copecart.com/
 
 username: thelivesmedia
 
@@ -702,7 +731,7 @@ founder@thelivesmedia.com 	/	Open@*6*0*98*2026
 
 ----------------------------------------------------------------
 
-6) whop.com
+5) whop.com
 
 username: thelivesmedia
 
@@ -710,6 +739,32 @@ login by Gmail: tuandesu@gmail.com
 
 ----------------------------------------------------------------
 
+
+6) https://appsumo.com/
+
+login by Gmail: tuandesu@gmail.com	/	Open@*6*0
+founder@thelivesmedia.com
+username: thelivesmedia
+--> tài khoản trên là normal user 
+
+--> Tải khoản vendor/seller thì đã nhập form, chờ phản hồi.
+
+----------------------------------------------------------------
+
+
+
 6) https://warriorplus.com/
 
 thelivesmedia	/	Open@*6*0
+
+=========================================================
+
+
+1) Reddit.com 
+
+login by Gmail: tuandesu@gmail.com --> bỏ
+
+--> New:
+
+username: TheLivesMediaFounder	/	Open@*6*0
+email: founder@thelivesmedia.com
