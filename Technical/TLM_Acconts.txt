@@ -198,22 +198,22 @@ MAILCHANNELS_API_KEY  =   WOisZtwrvKdvfdJ4LuDFnZJx9idNZtBy
 
 5) Social Links:
 
-https://x.com/epochmediabooks
+https://x.com/thelivesmedia
 
 Account: 
-editor@theepochmedia.com / Open@*6*0
+partnerships@thelivesmedia.com / Open@*6*0
 
 -----
 
 https://www.linkedin.com/
 
 X Account: 
-editor@theepochmedia.com / Open@*6*0
+founder@thelivesmedia.com / Open@*6*0
 
 -----
 
 
-https://www.facebook.com/theepochmedia.books/
+https://www.facebook.com/TheLivesMedia.Official
 
 
 -------------------------------------------
@@ -616,7 +616,7 @@ https://mail.zoho.com/zm
 founder@thelivesmedia.com	/	Open@*6*0
 editor@thelivesmedia.com 	/	Ymrfb$6o
 support@thelivesmedia.com 	/	bv7tHf*b
-partnerships@thelivesmedia	/	Ymrfb$6o
+partnerships@thelivesmedia.com 	/	Ymrfb$6o
   
 -------------------------------------------------------------------------
 
@@ -757,14 +757,20 @@ username: thelivesmedia
 
 thelivesmedia	/	Open@*6*0
 
+
+7) https://app.beehiiv.com/
+
+login by Gmail: tuandesu@gmail.com
+
+
+
+
+
 =========================================================
 
 
 1) Reddit.com 
 
-login by Gmail: tuandesu@gmail.com --> bỏ
-
---> New:
 
 username: TheLivesMediaFounder	/	Open@*6*0
 email: founder@thelivesmedia.com
