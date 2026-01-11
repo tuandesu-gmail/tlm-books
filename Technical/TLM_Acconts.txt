@@ -772,5 +772,18 @@ login by Gmail: tuandesu@gmail.com
 1) Reddit.com 
 
 
-username: TheLivesMediaFounder	/	Open@*6*0
+username: TheLivesMediaFounder	/	Open@*6*0	--> Locked!!!
 email: founder@thelivesmedia.com
+
+--> New:
+
+username: TheLivesMediaEditor	/	Open@*6*0
+email: editor@thelivesmedia.com
+
+
+----------------------------
+
+2) https://app.heygen.com/
+
+email: editor@thelivesmedia.com		/	Open@*6*0
+
