@@ -1,0 +1,63 @@
+
+
+Cuối bài viết (Call to Action): Thay vì nói "Đăng ký newsletter", bạn hãy dùng một câu dẫn:
+
+"If you feel an echo within, join us as we journey beyond the noise."
+[Nút: Begin the Journey]
+
+--------------------
+
+繁體中文 (Phồn thể): 若 bạn cảm thấy tâm linh cộng hưởng, thỉnh gia nhập ngã môn, nhất đồng khóa việt táo tạp, khởi trình hành trình. (Nghĩa bóng: 若你心中有所共鳴，請加入我們，一同跨越嘈雜，開啟這段旅程。)
+
+Français (Pháp): Si vous ressentez un écho intérieur, rejoignez-nous pour un voyage au-delà du bruit.
+
+Deutsch (Đức): Wenn Sie ein Echo in sich spüren, begleiten Sie uns auf einer Reise jenseits des Lärms.
+
+日本語 (Nhật): もし心に響くもの（エコー）を感じるなら、喧騒を bỏ lại phía sau, 共に出かけましょう。 (Nghĩa bóng: もし心に響くものを感じるなら、喧騒を離れたその先にある旅へ、共に出かけましょう。)
+
+한국어 (Hàn): 내면의 울림이 느껴진다면, 소음을 넘어선 여정에 우리와 함께 하세요.
+
+Português (Bồ Đào Nha): Se sente um eco interior, junte-se a nós numa jornada além do ruído.
+
+Español (Tây Ban Nha): Si sientes un eco en tu interior, únete a nosotros en un viaje más allá del ruido.
+
+Tiếng Việt: Nếu bạn cảm nhận được tiếng vọng từ bên trong, hãy cùng chúng tôi bắt đầu hành trình vượt qua những ồn ã.
+
+------------------
+
+Code PHP Snippets:
+--------------
+
+
+function thelives_newsletter_footer_cta() {
+    // Lấy mã ngôn ngữ từ WPML
+    $current_lang = defined('ICL_LANGUAGE_CODE') ? ICL_LANGUAGE_CODE : 'en';
+
+    // Danh sách dịch thuật cho 9 ngôn ngữ
+    $translations = array(
+        'vi' => array('text' => 'Nếu bạn cảm nhận được tiếng vọng từ bên trong, hãy cùng chúng tôi bắt đầu hành trình vượt qua những ồn ã.', 'btn' => 'Bắt đầu hành trình'),
+        'en' => array('text' => 'If you feel an echo within, join us as we journey beyond the noise.', 'btn' => 'Begin the Journey'),
+        'zh-hant' => array('text' => '若你心中有所共鳴，請加入我們，一同跨越嘈雜，開啟這段旅程。', 'btn' => '開啟旅程'),
+        'fr' => array('text' => 'Si vous ressentez un écho intérieur, rejoignez-nous pour un voyage au-delà du bruit.', 'btn' => 'Commencez le voyage'),
+        'de' => array('text' => 'Wenn Sie ein Echo in sich spüren, begleiten Sie uns auf einer Reise jenseits des Lärms.', 'btn' => 'Beginne die Reise'),
+        'ja' => array('text' => 'もし心に響くものを感じるなら、喧騒を離れたその先にある旅へ、共に出かけましょう。', 'btn' => '旅を始める'),
+        'ko' => array('text' => '내면의 울림이 느껴진다면, 소음을 넘어선 여정에 우리와 함께 하세요.', 'btn' => '여행을 시작하세요'),
+        'pt-br' => array('text' => 'Se sente um eco interior, junte-se a nós numa jornada além do ruído.', 'btn' => 'Inicie a jornada'),
+        'es' => array('text' => 'Si sientes un eco en tu interior, únete a nosotros en un viaje más allá del ruido.', 'btn' => 'Inicia el viaje')
+    );
+
+    $cta = isset($translations[$current_lang]) ? $translations[$current_lang] : $translations['en'];
+
+    // Xuất ra HTML cho Footer
+    $html = '<div class="footer-cta-container">';
+    $html .= '<p class="footer-cta-text">' . $cta['text'] . '</p>';
+    $html .= '<a href="https://beyond.thelivesmedia.com/" class="footer-cta-button" target="_blank">' . $cta['btn'] . '</a>';
+    $html .= '</div>';
+
+    return $html;
+}
+add_shortcode('thelives_cta', 'thelives_newsletter_footer_cta');
+
+// Dòng này giúp ô HTML/Text hiểu được mã Shortcode
+add_filter('widget_text', 'do_shortcode');
+add_filter('widget_custom_html_content', 'do_shortcode');
