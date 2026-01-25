@@ -1,38 +1,38 @@
-<!-- 1. BẮT MÃ AFFILIATE VÀ LƯU VÀO BỘ NHỚ -->
+<!-- 1. BẮT MÃ AFFILIATE VÀ LƯU VÀO BỘ NHỚ (VẠN NĂNG) -->
 <script data-no-optimize="1" data-no-defer="1">
 (function() {
     const params = new URLSearchParams(window.location.search);
-    // Lưu nguồn vào bộ nhớ
-    if (params.has('aff')) {
-        localStorage.setItem('aff_source', 'ds24');
-        localStorage.setItem('ds24_aff', params.get('aff'));
-    } else if (params.has('jv')) {
+    const affID = params.get('aff');
+
+    if (params.has('jv')) {
         localStorage.setItem('aff_source', 'jvzoo');
+    } else if (params.has('wh')) {
+        localStorage.setItem('aff_source', 'whop');
+        if (affID) localStorage.setItem('whop_id', affID);
+    } else if (params.has('cc')) {
+        localStorage.setItem('aff_source', 'copecart');
+        if (affID) localStorage.setItem('copecart_id', affID);
     } else if (params.has('h') || params.has('hotmart')) {
         localStorage.setItem('aff_source', 'hotmart');
-    } else if (params.has('wh') || params.has('whop')) {
-        localStorage.setItem('aff_source', 'whop');
-    } else if (params.has('cc') || params.has('copecart')) { // THÊM LOGIC COPECART
-        localStorage.setItem('aff_source', 'copecart');
+        if (affID) localStorage.setItem('hotmart_id', affID);
+    } else if (affID) {
+        // Mặc định nếu chỉ có aff= thì là Digistore24
+        localStorage.setItem('aff_source', 'ds24');
+        localStorage.setItem('ds24_aff', affID);
     }
 })();
 </script>
 
-<!-- 2. MÃ DIGISTORE24 (CHỈ LẤY PROMOTE ID, KHÔNG SỬA LINK) -->
+<!-- 2. MÃ DIGISTORE24 -->
 <script src="https://www.digistore24-scripts.com/service/digistore.js"></script>
 <script type="text/javascript">
-    const currentSource = localStorage.getItem('aff_source');
-    // Chỉ hiện Badge DS24 nếu không phải các nguồn khác
-    if (['hotmart', 'jvzoo', 'whop', 'copecart'].indexOf(currentSource) === -1) {
-        digistorePromocode({ 
-            "product_id": 658756, 
-            "adjust_all_urls": false, 
-            "adjust_domain": true 
-        });
+    const source = localStorage.getItem('aff_source');
+    if (['hotmart', 'jvzoo', 'whop', 'copecart'].indexOf(source) === -1) {
+        digistorePromocode({ "product_id": 658756, "adjust_all_urls": false, "adjust_domain": true });
     }
 </script>
 
-<!-- 3. LOGIC ĐỔI NÚT MUA HÀNG DỰA TRÊN BỘ NHỚ -->
+<!-- 3. LOGIC ĐỔI NÚT MUA HÀNG (CHÍNH XÁC QUY ƯỚC TỪNG SÀN) -->
 <script data-no-optimize="1" data-no-defer="1">
 (function() {
     const CONFIG = {
@@ -41,68 +41,48 @@
         ds24_base: "https://www.checkout-ds24.com/product/658756",
         hotmart_base: "https://pay.hotmart.com/M103669726F",
         whop_base: "https://whop.com/checkout/plan_ZqLqAyfpmwM2N",
-        copecart_base: "https://copecart.com/us/products/29850120/checkout" // LINK CHECKOUT COPECART
+        cc_base: "https://www.copecart.com/products/29850120/checkout" // THAY LINK COPECART CỦA ANH VÀO ĐÂY
     };
 
     function updateBuyButtons() {
         const path = window.location.pathname;
-        
-        // Xác định ngôn ngữ
-        let currentLang = 'en';
-        const langMap = {'/zh-hant/':'zh', '/pt-br/':'pt', '/fr/':'fr', '/de/':'de', '/es/':'es', '/ko/':'ko', '/ja/':'ja', '/vi/':'vi'};
-        for (let key in langMap) {
-            if (path.includes(key)) { currentLang = langMap[key]; break; }
-        }
-
         const source = localStorage.getItem('aff_source');
-        const savedAff = localStorage.getItem('ds24_aff');
-
         const buttons = document.querySelectorAll('.dynamic-buy-button a, a.dynamic-buy-button');
-        
+
         buttons.forEach(function(btn) {
+            let finalLink = "";
+            
             if (source === 'whop') {
-                btn.href = CONFIG.whop_base;
-            } else if (source === 'copecart') {
-                // Chuyển đến CopeCart (Hỗ trợ param lang)
-                btn.href = CONFIG.copecart_base + "?lang=" + currentLang;
-            } else if (source === 'jvzoo') {
-                btn.href = CONFIG.jv_base;
-            } else if (source === 'hotmart') {
-                btn.href = CONFIG.hotmart_base + "?checkoutMode=10&lang=" + currentLang;
-            } else {
-                // Mặc định là Digistore24
-                let dsLink = CONFIG.ds24_base + "?lang=" + currentLang;
-                if (savedAff) dsLink += "&aff=" + savedAff;
-                btn.href = dsLink;
+                const id = localStorage.getItem('whop_id');
+                finalLink = CONFIG.whop_base + (id ? "?a=" + id : ""); // Quy ước của Whop là ?a=
+            } 
+            else if (source === 'copecart') {
+                const id = localStorage.getItem('copecart_id');
+                finalLink = CONFIG.cc_base + (id ? "?affiliate_id=" + id : ""); // Quy ước của CopeCart
             }
+            else if (source === 'jvzoo') {
+                finalLink = CONFIG.jv_base;
+            }
+            else if (source === 'hotmart') {
+                // Hotmart thường dùng cookies, nhưng có thể thêm param nếu dùng Hotpay
+                finalLink = CONFIG.hotmart_base + "?checkoutMode=10";
+            }
+            else {
+                const id = localStorage.getItem('ds24_aff');
+                finalLink = CONFIG.ds24_base + (id ? "?aff=" + id : ""); // Quy ước của DS24
+            }
+            
+            btn.href = finalLink;
         });
 
-        // Quản lý JVZoo Disclaimer
+        // Hiện Disclaimer cho JVZoo
         const jvDisclaimer = document.querySelector('.jvzoo-disclaimer');
-        if (jvDisclaimer) { 
-            jvDisclaimer.style.setProperty("display", (source === 'jvzoo' ? '' : 'none'), "important");
-        }
-
-        // Quản lý Badge DS24
-        const isLandingPage = path.includes('/books-collection/');
-        const shouldShowBadge = (isLandingPage && (source === 'ds24' || !source));
-        
-        if (shouldShowBadge) {
-            if (!document.getElementById('ds24_badge_script')) {
-                const badgeScript = document.createElement('script');
-                badgeScript.id = 'ds24_badge_script';
-                badgeScript.src = CONFIG.ds24_badge_url;
-                document.body.appendChild(badgeScript);
-            }
-        } else {
-            const existingBadge = document.getElementById('ds24_trusted_badge');
-            if (existingBadge) existingBadge.style.display = 'none';
-        }
+        if (jvDisclaimer) { jvDisclaimer.style.display = (source === 'jvzoo' ? 'block' : 'none'); }
     }
 
     updateBuyButtons();
     window.addEventListener('load', updateBuyButtons);
-    let c = 0; const i = setInterval(function() { updateBuyButtons(); if (++c > 5) clearInterval(i); }, 1000);
+    setInterval(updateBuyButtons, 1500);
 })();
 </script>
 
