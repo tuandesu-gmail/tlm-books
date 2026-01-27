@@ -41,7 +41,7 @@
         ds24_base: "https://www.checkout-ds24.com/product/658756",
         hotmart_base: "https://pay.hotmart.com/M103669726F",
         whop_base: "https://whop.com/checkout/plan_ZqLqAyfpmwM2N",
-        cc_base: "https://www.copecart.com/products/29850120/checkout" // THAY LINK COPECART CỦA ANH VÀO ĐÂY
+        cc_base: "https://copecart.com/us/products/29850120/checkout" // THAY LINK COPECART CỦA ANH VÀO ĐÂY
     };
 
     function updateBuyButtons() {

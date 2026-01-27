@@ -103,38 +103,119 @@ Best regards!
 
 -------------------------------------------------------------
 
-2) Option Hotmart:
+2) Option Hotmart
 
-----------------
-
+----
 
 Chào bạn, rất vui vì bạn quan tâm hợp tác!
 
-Dự án 10 Ebooks của chúng tôi - THE LIVES MEDIA - được thiết kế tối ưu cho quy mô toàn cầu với 9 ngôn ngữ. Để đảm bảo việc ghi nhận doanh số và thanh toán hoa hồng diễn ra minh bạch, chính xác nhất, chúng tôi sử dụng hệ thống quản lý của Hotmart.
+Dự án 10 E-books – THE LIVES MEDIA của chúng tôi được thiết kế tối ưu cho quy mô toàn cầu, hiện phát hành với 9 ngôn ngữ.
+Để đảm bảo việc ghi nhận doanh số và thanh toán hoa hồng được minh bạch – chính xác – tự động, chúng tôi sử dụng hệ thống quản lý affiliate của Hotmart.
 
-Bạn vui lòng thực hiện theo quy trình chuẩn 2 bước sau để bắt đầu:
+Bạn vui lòng thực hiện theo quy trình chuẩn 2 bước dưới đây để bắt đầu:
 
-Bước 1: Kết nối với sản phẩm trên Marketplace
-- Đăng nhập vào tài khoản Hotmart của bạn (nếu đã có),
-  Hoặc tạo mới tại: https://hotmart.com/en 
-  
-- Tại mục Marketplace (menu bên trái), bạn tìm kiếm tên sản phẩm: "Universal Spirituality Bundle (10 E-books - 9 Languages)"
+Bước 1: Kết nối với sản phẩm trên Hotmart Marketplace
 
-- Nhấn vào sản phẩm và chọn "Affiliate Now" để được hệ thống phê duyệt tự động.
+	Đăng nhập vào tài khoản Hotmart của bạn
+	(hoặc tạo mới với vai trò Affiliate tại link: https://hotmart.com/en  )
+
+	Tại mục Products (menu bên trái), chọn “Affiliate to a product”
+
+	Tìm kiếm tên sản phẩm:
+	“Universal Spirituality Bundle (10 E-books – 9 Languages)”
+
+	Nhấn vào sản phẩm và chọn “Affiliate now”
+	→ Hệ thống sẽ tự động phê duyệt và kích hoạt affiliate cho bạn.
 
 Bước 2: Sử dụng Link quảng bá tối ưu (9 ngôn ngữ)
-- Để khách hàng được tự động nhận diện ngôn ngữ và tiền tệ theo quốc gia, bạn hãy sử dụng tính năng Alternative Hotlink trong bảng điều khiển và dẫn về địa chỉ sau:
 
-https://thelivesmedia.com/books-collection/?h=true
+	Sau khi affiliate thành công, bạn sẽ thấy phần Hotlinks / Promotional links trong bảng điều khiển Hotmart.
 
-(Lưu ý: Bạn cần dùng link do Hotmart cung cấp để hệ thống thả Cookies ghi nhận hoa hồng cho bạn).
+	Để khách hàng tự động nhận diện ngôn ngữ & tiền tệ theo quốc gia, bạn vui lòng sử dụng link Alternative / Product Page do Hotmart cung cấp và dẫn về landing page trung tâm tại:
 
-Bước 3: Tài liệu hỗ trợ (Banner, ảnh sản phẩm, mẫu bài viết...):
+	👉 https://thelivesmedia.com/books-collection/?h=true
+
+	📌 Lưu ý quan trọng:
+	Bạn bắt buộc phải sử dụng link do Hotmart cung cấp để hệ thống gắn cookies và ghi nhận hoa hồng chính xác cho bạn.
+
+Bước 3: Tài liệu hỗ trợ quảng bá
+
+	Chúng tôi đã chuẩn bị sẵn đầy đủ tài nguyên hỗ trợ cho affiliate, bao gồm:
+
+		- Banner
+		- Ảnh sản phẩm
+		- Nội dung mô tả
+		- Gợi ý mẫu bài viết
+
+	👉 Truy cập tại:
+	https://thelivesmedia.com/aff-resources/
+
+Hoa hồng ưu đãi (75%)
+
+Ngay sau khi bạn nhấn “Affiliate now”, hệ thống Hotmart sẽ tự động kích hoạt mức hoa hồng 75% cho sản phẩm này.
+Bạn có thể kiểm tra trực tiếp trong phần Commission / Hotlinks của sản phẩm.
+
+	✔️ Không cần gửi Affiliate ID
+	✔️ Không cần xét duyệt thủ công
+	✔️ Hoa hồng được ghi nhận hoàn toàn tự động qua Hotmart
+
+Chúc chúng ta có một chiến dịch hợp tác hiệu quả và bền vững!
+Nếu bạn cần thêm hỗ trợ trong quá trình triển khai, đừng ngần ngại liên hệ.
+
+Best regards,
+THE LIVES MEDIA
+
+
+-------------------------------------------
+
+3) Option Whop (Fastest Checkout – Global)  ---> bỏ!!!!
+
+Chào bạn, rất vui vì bạn quan tâm hợp tác cùng THE LIVES MEDIA!
+
+Bộ sản phẩm 10 Ebooks của chúng tôi được thiết kế cho thị trường toàn cầu với 9 ngôn ngữ, tối ưu cho conversion quốc tế.
+Hiện tại, chúng tôi triển khai Affiliate thông qua nền tảng Whop (US-based) để đảm bảo tracking minh bạch và thanh toán hoa hồng nhanh chóng.
+
+Bạn vui lòng thực hiện theo các bước sau để bắt đầu:
+
+
+Bước 1: Đăng ký tham gia chương trình Affiliate trên Whop
+
+	- Nếu bạn đã có tài khoản Whop: chỉ cần đăng nhập
+	- Nếu chưa có: bạn có thể tạo miễn phí tại https://whop.com
+
+Sau đó, truy cập link Affiliate Program của chúng tôi:
+https://whop.com/the-lives-media/affiliates
+
+
+👉 Tại đây, bạn bấm Request access để gửi yêu cầu tham gia chương trình.
+
+
+Bước 2: Link quảng bá tối ưu (9 ngôn ngữ tự động)
+
+Sau khi được approve, bạn có thể dùng link landing page đa ngôn ngữ sau để bán hàng:
+https://thelivesmedia.com/books-collection/?wh=true&aff=[YOUR_WHOP_ID]
+
+
+	- Khách hàng ở quốc gia nào sẽ tự động thấy ngôn ngữ tương ứng
+	- Checkout được xử lý qua Whop, hệ thống sẽ ghi nhận hoa hồng tự động
+
+
+Bước 3: Tài liệu hỗ trợ Affiliate
+
+Banner, ảnh sản phẩm, email mẫu, content gợi ý:
 https://thelivesmedia.com/aff-resources/
 
-Kích hoạt hoa hồng ưu đãi:
-Hãy gửi lại cho mình Mã số Affiliate (ID) của bạn ngay sau khi hoàn thành để mình nâng mức hoa hồng lên 75% cho tài khoản của bạn.
 
-Chúc chúng ta có một chiến dịch bùng nổ!
+Kích hoạt hoa hồng ưu đãi
+
+Ngay sau khi bạn:
+
+	- Đã request access hoặc
+	- Đã được approve Affiliate
+
+👉 Vui lòng gửi lại cho mình Whop Affiliate ID / Username
+Mình sẽ nâng mức hoa hồng ưu đãi (lên đến 75%) cho tài khoản của bạn.
+
+Rất mong được hợp tác và cùng bạn triển khai chiến dịch thật bùng nổ 🚀
 
 Best regards!

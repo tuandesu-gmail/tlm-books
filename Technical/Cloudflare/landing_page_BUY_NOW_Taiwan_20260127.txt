@@ -1,0 +1,87 @@
+
+1) BUY NOW:
+
+<div
+  id="dodo-buy-app"
+  data-worker="https://download.thelivesmedia.com/dodo/create-checkout"
+  data-dodo-product-id="pdt_0NXAfXEjtHNPPrbUDqn9N"
+  data-sku="10_BOOKS_COLLECTION_TW"
+>
+  <button id="buy-dodo" class="dodo-buy-btn">
+    立即購買
+  </button>
+</div>
+
+
+
+------------------------------------
+
+2) Code JS cho BUY NOW:
+
+<script>
+(function() {
+  const root = document.getElementById('dodo-buy-app');
+  const btn  = document.getElementById('buy-dodo');
+  if (!root || !btn) return;
+
+  const qp = new URLSearchParams(location.search);
+
+  function getCookie(name){
+    return document.cookie
+      .split('; ')
+      .reduce((acc, cur) => {
+        const [k, v] = cur.split('=');
+        return k === name ? decodeURIComponent(v || '') : acc;
+      }, '');
+  }
+
+  function getAffiliateRef(){
+    return (
+      qp.get('ref_code') ||
+      qp.get('ref') ||
+      qp.get('aff') ||
+      qp.get('via') ||
+      getCookie('tlm_ref_code') ||
+      getCookie('affonso_referral') ||
+      ''
+    ).trim().toUpperCase();
+  }
+
+  btn.addEventListener('click', async function(e) {
+    e.preventDefault();
+
+    const dodoProductId = root.dataset.dodoProductId;
+    const sku           = root.dataset.sku;
+    const ref           = getAffiliateRef();
+
+    if (!dodoProductId || !sku) {
+      alert('Product configuration error.');
+      return;
+    }
+
+    btn.disabled = true;
+
+    try {
+      const res = await fetch(root.dataset.worker, {
+        method: 'POST',
+        headers: { 'content-type': 'application/json' },
+        body: JSON.stringify({
+          dodo_product_id: dodoProductId,
+          sku,
+          ref
+        })
+      });
+
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.error || 'Checkout failed');
+
+      location.href = data.checkout_url;
+    } catch (err) {
+      alert('Checkout error: ' + err.message);
+    } finally {
+      btn.disabled = false;
+    }
+  });
+})();
+</script>
+
