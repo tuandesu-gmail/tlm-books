@@ -51,7 +51,7 @@ canada_ads@epochtimes.com（廣告部）  --> sent
 ================================================
 
 5) https://chanhkien.org/lien-he
-editors@chanhkien.org
+editors@chanhkien.org   --> sent
 
 6) DKN.tv
 contact@dkn.tv
@@ -59,7 +59,33 @@ contact@dkn.tv
 7) https://help.ntd.com/hc/en-us
 
 
-8) Danh sách đối tác tiềm năng tương tự The Epoch Times
+8) Trithuc VN:
+8.1) VN:
+https://trithucvn2.net/gioi-thieu
+Email TTV:  contact@trithucvn2.net   --> sent
+
+8.2) https://www.visiontimes.com/contact-us
+email contactus@visiontimes.com  --> sent
+
+8.3) https://www.secretchina.com/news/gb/2014/02/14/530514.html
+	Mọi thắc mắc về quảng cáo trực tuyến, vui lòng liên hệ: websales@secretchina.com Điện thoại: 212-730-6963
+	Quan hệ công chúng: media@secretchina.com hoặc media@visiontimes.com
+	Hỗ trợ kỹ thuật: support@secretchina.com
+	Các thắc mắc khác: editor@secretchina.com hoặc editor.sc@visiontimes.com  --> sent
+	Gửi bài trực tuyến: http://tougao.kanzhongguo.com
+	Gửi bài từ người dùng Trung Quốc đại lục: kzgtougao@gmail.com
+
+8.4) https://www.visiontimes.fr/a-propos
+contact@visiontimes.fr	--> failed
+
+Giám đốc xuất bản: Véronique Raabon: veronique.raabon@visiontimes.fr	--> failed
+
+8.5) https://www.visiontimesjp.com/?page_id=204
+contact@visiontimesjp.com  --> sent
+
+
+
+9) Danh sách đối tác tiềm năng tương tự The Epoch Times
 --------------------------------------------------
 
 1. NTD Television (New Tang Dynasty)
@@ -71,6 +97,10 @@ contact@dkn.tv
 - Contact: https://en.minghui.org/cc/contact/
 - Email: feedback@en.minghui.org, editor@en.minghui.org
 - Ghi chú: Cộng đồng độc giả trung thành; phù hợp nội dung tinh thần/tu luyện.
+
+Trung tâm Xuất bản Minh Huệ: 
+	https://vi.minghui.org/publishing/about/
+	info@mhpublishing.org
 
 3. Sound of Hope Radio (希望之聲)
 - Contact: https://www.bayvoice.net (có email liên hệ)
@@ -89,11 +119,11 @@ contact@dkn.tv
 
 6. Vision Times (看中国 / Secret China)
 - Contact: https://www.visiontimes.com/contact
-- Email: contactus@visiontimes.com, submissions@visiontimes.com, ads@visiontimes.com
+- Email: contactus@visiontimes.com, submissions@visiontimes.com, ads@visiontimes.com 	--> sent
 - Ghi chú: Mạng lưới đa phiên bản (EN/ZH/ES/FR/JP).
 
 7. Vision China Times (Australia)
-- Contact: https://visionchinatimes.com/contact
+- https://www.visiontimes.com.au/
 - Email: editor@VisionChinaTimes.org, sales@VisionChinaTimes.org
 - Ghi chú: Phủ cộng đồng Hoa ngữ tại Úc.
 
@@ -169,8 +199,8 @@ Bạn có thể tiếp cận thêm một số tổ chức hoặc nền tảng th
 
 1) First News:
 
-triviet@firstnews.com.vn
-kimdung@firstnews.com.vn
+triviet@firstnews.com.vn --> sent
+kimdung@firstnews.com.vn --> sent
 https://firstnews.vn/lien-he
 
 
@@ -179,7 +209,7 @@ https://firstnews.vn/lien-he
 Email: nxbtrithuc@gmail.com   
 
 - Liên hệ hợp tác xuất bản:  
-   Email: lienhenxbtrithuc@gmail.com
+   Email: lienhenxbtrithuc@gmail.com --> sent
 
 - Liên hệ truyền thông:
    Email: truyenthong@nxbtrithuc.com.vn  
