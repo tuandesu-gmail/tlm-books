@@ -172,125 +172,155 @@ function pickPaymentFromURL(url) {
 async function thankyouPage(req, env) {
   const url = new URL(req.url);
 
-  // Thu thập mọi query param và một số header hữu ích
-  const params = Object.fromEntries(url.searchParams);
-  const headersSample = {
-    referer: req.headers.get('referer'),
-    userAgent: req.headers.get('user-agent'),
-    cfIpCountry: req.headers.get('cf-ipcountry'),
-  };
+  // 1. LẤY DỮ LIỆU TỪ URL
+  const orderInput = url.searchParams.get("order") || "";           
+  const payment = pickPaymentFromURL(url); 
+  const emailInput = (url.searchParams.get("email") || "").trim();
+  const rawSkus = url.searchParams.get("skus") || "";
+  const skus = rawSkus.split(",").map(s => s.trim().toUpperCase()).filter(Boolean);
 
-  console.log('THANKYOU hit', { params, headersSample });
+  if (!skus.length) return new Response("Missing 'skus' query param", { status: 400 });
 
-  const orderInput = url.searchParams.get("order") || "";           // optional 
-  const payment = pickPaymentFromURL(url); // <-- mới
-  const emailInput = (url.searchParams.get("email") || "").trim();  // optional
+  // 2. BIẾN CHO TRACKING VÀ HIỂN THỊ
+  const paymentIdForTracking = payment || orderInput || ("TLM-" + Date.now());
+  const logo = (env.THANKYOU_LOGO_URL && String(env.THANKYOU_LOGO_URL)) || "https://thelivesmedia.com/wp-content/uploads/2025/09/cropped-TheLivesMedia_logo_540x148-300x82.png";
+  const note = skus.length > 1 ? 'Click “Download Now” for each ebook. The links remain valid for 24 hours.' : 'Click “Download Now” to get your ebook. The link remains valid for 24 hours.';
 
-  // skus = required
-  const rawSkus = url.searchParams.get("skus");
-  const skus = (rawSkus || "")
-    .split(",")
-    .map(s => s.trim().toUpperCase())
-    .filter(Boolean);
-
-  if (!skus.length) {
-    return new Response("Missing 'skus' query param", { status: 400 });
-  }
-
-  // Title map từ KV
   const pairs = await Promise.all(skus.map(async sku => [sku, await getTitle(env, sku)]));
   const TITLE_MAP = Object.fromEntries(pairs);
 
-  let ref = (url.searchParams.get("ref") || "").trim().toUpperCase();
-  if (!ref) ref = getRefFromRequest(req);
-
-  // (tuỳ chọn) ghi click 'thankyou' vào D1
-  await logThankyouClick(req, env, { ref_code: ref, landing: url.origin + url.pathname });
-
-  const note = skus.length > 1
-    ? 'Click “Download Now” for each ebook. The links remain valid for 24 hours.'
-    : 'Click “Download Now” to get your ebook. The link remains valid for 24 hours.';
-
-  const logo =
-    (env.THANKYOU_LOGO_URL && String(env.THANKYOU_LOGO_URL)) ||
-    "https://thelivesmedia.com/wp-content/uploads/2025/09/cropped-TheLivesMedia_logo_540x148-300x82.png";
-
+  // 3. CSS TỐI ƯU (DỰA TRÊN MẪU RESPONSIVE OK)
   const css = `
-  :root{--brand:#d9a528;--ink:#111;--muted:#666;--bg:#fafafa}
-  *{box-sizing:border-box}
-  body{margin:0;background:var(--bg);font:16px/1.6 system-ui,Segoe UI,Roboto,Helvetica,Arial;color:var(--ink)}
-  .wrap{max-width:960px;margin:0 auto;padding:20px}
-  .brand{display:flex;justify-content:center}
-  .brand img{height:76px}
-  .spacer{height:50px}
-  .card{background:#fff;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,.08);padding:32px;margin:0 auto}
-  header{display:flex;align-items:center;gap:12px;margin-bottom:8px}
-  h1{margin:6px 0 2px;font-size:32px;line-height:1.2}
-  .badge{font-size:12px;color:#777;margin-left:8px}
-  p.note{color:var(--muted);margin-top:30px;}
-  .lead{margin:18px 0 8px}
-  ul{list-style:none;margin:0;padding:0}
-  li.item{display:block;padding:18px 0;border-top:1px solid #eee}
-  li.item:first-child{border-top:0}
-  .sku{font-weight:700;margin-bottom:10px}
-  .btn{font-size:16px;display:inline-block;background:var(--brand);color:#fff;border:0;border-radius:12px;padding:12px 18px;font-weight:500;cursor:pointer}
-  .btn:hover{filter:brightness(.93)}
-  .btn[disabled]{opacity:.6;cursor:not-allowed}
-  .msg{font-size:14px;margin-top:6px;color:var(--muted)}
-  .msg.err{color:#c0392b}
-  footer{margin-top:24px;color:var(--muted);font-size:13px;text-align:center}
-  @media (max-width: 640px){
-    body{font-size:15px}
-    .wrap{padding:16px}
-    .card{padding:22px;border-radius:14px}
-    h1{font-size:24px}
-    .brand img{height:62px}
-    .btn{width:100%;text-align:center}
-  }`;
+    :root { --brand: #d9a528; }
+    body { 
+      margin: 0; 
+      font-family: system-ui, -apple-system, sans-serif; 
+      color: #333; 
+      background: #f4f7f6; 
+      display: flex; 
+      justify-content: center; 
+      padding: 40px 15px; /* Tạo khoảng trống 15px hai bên cho mobile */
+    }
+    .card { 
+      background: #fff; 
+      padding: 40px 30px; 
+      width: 100%; 
+      max-width: 600px; /* Giới hạn độ rộng trên desktop, tự dãn trên mobile */
+      text-align: center; 
+      border-radius: 20px; 
+      box-shadow: 0 15px 35px rgba(0,0,0,0.08);
+      box-sizing: border-box;
+    }
+    .logo { 
+      width: 100%;
+      max-width: 220px; /* Yêu cầu 1: Logo tối đa 220px */
+      height: auto; 
+      margin-bottom: 70px; /* Yêu cầu 2: Tăng giãn cách thêm 70px */
+    }
+    h1 { font-size: 26px; margin: 0 0 10px; color: #2c3e50; }
+    .receipt { font-size: 14px; color: #7f8c8d; margin-bottom: 30px; }
+    
+    .product-list { margin-bottom: 20px; }
+    .product-item {
+      background: #fdfdfd; 
+      border: 1px solid #d8dee3; 
+      padding: 20px; 
+      border-radius: 12px; 
+      margin-bottom: 15px; 
+      text-align: center;
+    }
+    .product-name { font-weight: 700; font-size: 16px; color: #2d3748; display: block; margin-bottom: 15px; }
+    .dl-btn {
+      background: var(--brand); 
+      color: #fff; 
+      border: 0; 
+      padding: 14px 25px; 
+      border-radius: 10px; 
+      font-weight: 600; 
+      cursor: pointer; 
+      font-size: 16px; 
+      width: 100%; /* Nút dãn hết khung trên mobile */
+      max-width: 280px; /* Nhưng không quá to trên desktop */
+      transition: all 0.2s;
+    }
+    .dl-btn:hover { filter: brightness(.93); transform: translateY(-1px); }
+    .dl-btn:disabled { opacity: 0.6; }
+    
+    footer { margin-top: 40px; font-size: 13px; color: #a0aec0; }
+    footer a { color: var(--brand); text-decoration: none; }
 
-  const items = await Promise.all(skus.map(async (sku) => {
+    /* Responsive cho màn hình cực nhỏ */
+    @media (max-width: 480px) {
+      body { padding: 20px 10px; }
+      .card { padding: 30px 20px; }
+      h1 { font-size: 22px; }
+      .logo { margin-bottom: 50px; } /* Giảm nhẹ khoảng trống trên mobile để đỡ phải cuộn nhiều */
+    }
+  `;
+
+  // 4. DANH SÁCH SẢN PHẨM
+  const itemsHtml = await Promise.all(skus.map(async (sku) => {
+    const title = TITLE_MAP[sku] || sku;
     const fn = await getFilename(env, sku);
     const disabled = fn ? "" : "disabled";
-    const hint = fn ? "" : `<div class="msg err">Missing filename for ${sku}. Add it to KV 'EBOOK_PRODUCTS'.</div>`;
     return `
-      <li class="item">
-        <div class="sku">${TITLE_MAP[sku] || sku}</div>
-        ${hint}
-        <button class="btn" ${disabled} onclick="downloadNow('${sku}')" id="btn-${sku}">Download Now</button>
-        <div id="msg-${sku}" class="msg"></div>
-      </li>`;
+      <div class="product-item">
+        <span class="product-name">${title}</span>
+        <button class="dl-btn" ${disabled} onclick="downloadNow('${sku}')" id="btn-${sku}">Download Now</button>
+      </div>`;
   }));
 
-  const paymentLine = payment ? `Payment ID: <b>${htmlEscape(payment)}</b>` : '';
+  // 5. HTML HOÀN CHỈNH
+  const html = `<!doctype html>
+  <html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Thank you – THE LIVES MEDIA</title>
+    <style>${css}</style>
 
-  const html = `<!doctype html><html lang="en"><meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Thank you – THE LIVES MEDIA</title>
-  <link rel="icon" href="https://thelivesmedia.com/wp-content/uploads/2025/09/cropped-TheLivesMedia_icon_100x100-192x192.png" sizes="192x192" />
-  <style>${css}</style>
+    <!-- Google Ads Conversion Tracking -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-866521253"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'AW-866521253');
+
+      gtag('event', 'purchase', {
+        'send_to': 'AW-866521253',
+        'transaction_id': '${paymentIdForTracking}',
+        'value': 0.0,
+        'currency': 'USD',
+        'items': [{ 'item_id': '${rawSkus}', 'item_name': '${skus.join(", ")}' }]
+      });
+    </script>
+  </head>
   <body>
-    <div class="wrap">
-      <div class="card">
-        <div class="brand"><img src="${logo}" alt="The Lives Media" loading="lazy" decoding="async" /></div>
-        <div class="spacer"></div>
-        <header>
-          <div>
-            <h1>✅ Payment successful! </h1>
-            <p class="note">
-              ${paymentLine}
-              ${emailInput ? `${orderInput ? ' · ' : ''}sent to <strong>${emailInput}</strong>` : ''}
-            </p>
-          </div>
-        </header>
-        <p class="lead">${note}</p>
-        <ul>${items.join("")}</ul>
-        <footer>Need help? Contact <a href="mailto:editor@thelivesmedia.com">editor@thelivesmedia.com</a></footer>
+    <div class="card">
+      <img src="${logo}" class="logo" alt="The Lives Media">
+      
+      <h1>Payment Successful ✅</h1>
+      <div class="receipt">Receipt ID: <strong>${paymentIdForTracking}</strong></div>
+      
+      <div style="text-align:left; font-size:14px; margin-bottom:20px; border-left:4px solid var(--brand); padding-left:12px; line-height:1.5">
+        ${note}
+        ${emailInput ? `<br>A copy has been sent to <strong>${emailInput}</strong>` : ''}
       </div>
+
+      <div class="product-list">${itemsHtml.join("")}</div>
+      
+      <footer>Need help? Contact <a href="mailto:editor@thelivesmedia.com">editor@thelivesmedia.com</a></footer>
     </div>
+
     <script>
       async function downloadNow(sku){
         const btn = document.getElementById('btn-' + sku);
-        if (btn) btn.disabled = true;
+        if (!btn) return;
+        const originalText = btn.innerText;
+        btn.disabled = true;
+        btn.innerText = "Processing...";
+        
         try {
           const payload = {
             paymentId: ${JSON.stringify(payment)},
@@ -298,31 +328,24 @@ async function thankyouPage(req, env) {
             email: ${JSON.stringify(emailInput)},
             sku
           };
-
           const r = await fetch('/issue', {
             method:'POST',
             headers:{'content-type':'application/json'},
             body: JSON.stringify(payload)
           });
           const data = await r.json();
-          if(!r.ok){ alert(data.error || 'Error'); return; }
+          if(!r.ok) throw new Error(data.error);
           location.href = data.url;
+        } catch(e) {
+          alert(e.message || "Error");
         } finally {
-          if (btn) btn.disabled = false;
+          btn.disabled = false;
+          btn.innerText = originalText;
         }
       }
     </script>
-    <script>
-    (function(){
-      const u = new URL(location.href);
-      if (u.searchParams.has('ref')) {
-        u.searchParams.delete('ref');
-        history.replaceState({}, '', u.toString());
-      }
-    })();
-    </script>
-
-  </body></html>`;
+  </body>
+  </html>`;
 
   return new Response(html, { headers: { "content-type": "text/html; charset=utf-8" } });
 }
