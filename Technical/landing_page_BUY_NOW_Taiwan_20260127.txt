@@ -1,0 +1,106 @@
+
+1) BUY NOW:
+
+<br/><br/>
+<div
+  class="dodo-buy-box"
+  data-worker="https://download.thelivesmedia.com/dodo/create-checkout"
+  data-dodo-product-id="pdt_0NXAfXEjtHNPPrbUDqn9N"
+  data-sku="10_BOOKS_COLLECTION_TW"
+>
+  <a href="#"
+     class="wp-block-button__link dodo-buy-btn"
+     style="display:inline-block;border-radius:10px;background:#ebad05 !important;padding:18px 48px;color:#fff;font-size:20px;font-weight:700;text-decoration:none;">
+    立即購買
+  </a>
+</div>
+<br/><br/><br/><p/>
+
+
+
+------------------------------------
+
+2) Code JS cho BUY NOW:
+
+
+<script data-no-optimize="1" data-no-defer="1">
+(function() {
+  // Hàm lấy Affiliate Ref đồng bộ với Worker (kiểm tra cả URL và Cookie)
+  function getAffiliateRef() {
+    const urlParams = new URLSearchParams(window.location.search);
+    let ref = urlParams.get('ref_code') || urlParams.get('ref') || urlParams.get('aff') || urlParams.get('via');
+    
+    if (!ref) {
+      const cookies = document.cookie.split('; ');
+      for (const c of cookies) {
+        const [k, v] = c.split('=');
+        if (['tlm_ref_code', 'affonso_referral', 'aff_ref'].includes(k)) {
+          ref = decodeURIComponent(v || '');
+          break;
+        }
+      }
+    }
+    return (ref || '').trim().toUpperCase();
+  }
+
+  document.addEventListener('click', async function(e) {
+    const btn = e.target.closest('.dodo-buy-btn');
+    if (!btn) return;
+
+    e.preventDefault();
+
+    const box = btn.closest('.dodo-buy-box');
+    if (!box) return;
+
+    const worker = box.dataset.worker;
+    const dodoProductId = box.dataset.dodoProductId;
+    const sku = box.dataset.sku || '';
+    const ref = getAffiliateRef();
+
+    if (!worker || !dodoProductId) {
+      alert('Configuration error: Missing Product ID or Worker URL');
+      return;
+    }
+
+    // Vô hiệu hóa TẤT CẢ các nút mua hàng trên trang này
+    const allBtns = document.querySelectorAll('.dodo-buy-btn');
+    allBtns.forEach(b => {
+      b.style.opacity = '0.5';
+      b.style.pointerEvents = 'none';
+      if(b.tagName === 'A' || b.tagName === 'BUTTON') {
+         b.innerText = 'Processing...';
+      }
+    });
+
+    try {
+      const res = await fetch(worker, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          dodo_product_id: dodoProductId,
+          sku: sku,
+          ref: ref
+        })
+      });
+
+      const data = await res.json();
+      if (!res.ok || !data.checkout_url) {
+        throw new Error(data.error || 'Checkout failed');
+      }
+
+      // Chuyển hướng đến trang thanh toán của Dodo
+      window.location.href = data.checkout_url;
+
+    } catch (err) {
+      alert('Error: ' + err.message);
+      // Nếu lỗi, khôi phục lại tất cả các nút
+      allBtns.forEach(b => {
+        b.style.opacity = '1';
+        b.style.pointerEvents = 'auto';
+        b.innerText = '立即購買';
+      });
+    }
+  });
+})();
+</script>
+

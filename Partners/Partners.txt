@@ -90,17 +90,37 @@ contact@visiontimesjp.com  --> sent
 
 1. NTD Television (New Tang Dynasty)
 - Contact: https://www.ntd.com/contact-us
-- Email: contact@ntdtv.com (media/ads), dance@ntd.com, photo@ntd.com, vocal@ntd.com
+- Email: contact@ntdtv.com (media/ads), 	 --> failed
+	dance@ntd.com, photo@ntd.com, vocal@ntd.com
 - Ghi chú: Cùng hệ sinh thái Epoch; phủ sóng đa ngôn ngữ.
 
+https://help.ntd.com/hc/en-us/requests/new		 --> sent
+
+
+
 2. Minghui.org (明慧网)
-- Contact: https://en.minghui.org/cc/contact/
+- https://en.minghui.org/html/pages/contact-us/
 - Email: feedback@en.minghui.org, editor@en.minghui.org
 - Ghi chú: Cộng đồng độc giả trung thành; phù hợp nội dung tinh thần/tu luyện.
 
+You may contact us at the following addresses:
+
+To give us feedback about an article:
+  feedback@en.minghui.org
+
+To submit an article/all other matters:
+  editor@en.minghui.org
+
+Requirements:
+
+	Include the author's name, city, country, and the year the author started practicing Dafa.
+	Text should be submitted as a Word, RTF, or TXT file (not PDF). Images should be attached or linked as separate files.
+	Guidelines for Writing Experience Sharing Articles: https://en.minghui.org/html/articles/2010/6/8/117721.html
+
+
 Trung tâm Xuất bản Minh Huệ: 
 	https://vi.minghui.org/publishing/about/
-	info@mhpublishing.org
+	info@mhpublishing.org		 --> sent
 
 3. Sound of Hope Radio (希望之聲)
 - Contact: https://www.bayvoice.net (có email liên hệ)
