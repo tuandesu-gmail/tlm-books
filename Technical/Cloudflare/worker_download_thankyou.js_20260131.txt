@@ -175,7 +175,11 @@ async function thankyouPage(req, env) {
   // 1. LẤY DỮ LIỆU TỪ URL
   const orderInput = url.searchParams.get("order") || "";           
   const payment = pickPaymentFromURL(url); 
-  const emailInput = (url.searchParams.get("email") || "").trim();
+  // SỬA TẠI ĐÂY: Kiểm tra nếu email là "undefined" hoặc trống thì bỏ qua
+  let emailInput = (url.searchParams.get("email") || "").trim();
+  if (emailInput === "undefined" || emailInput === "null") {
+    emailInput = "";
+  }
   const rawSkus = url.searchParams.get("skus") || "";
   const skus = rawSkus.split(",").map(s => s.trim().toUpperCase()).filter(Boolean);
 
@@ -271,6 +275,11 @@ async function thankyouPage(req, env) {
   }));
 
   // 5. HTML HOÀN CHỈNH
+  // SỬA TẠI ĐÂY: Chỉ hiện dòng "A copy has been sent..." nếu có email hợp lệ
+  const emailLine = (emailInput && emailInput.includes('@')) 
+    ? `<br>A copy has been sent to <strong>${htmlEscape(emailInput)}</strong>` 
+    : `<br>A copy has been sent to <strong>your email</strong>` ;
+
   const html = `<!doctype html>
   <html lang="en">
   <head>
@@ -305,7 +314,7 @@ async function thankyouPage(req, env) {
       
       <div style="text-align:left; font-size:14px; margin-bottom:20px; border-left:4px solid var(--brand); padding-left:12px; line-height:1.5">
         ${note}
-        ${emailInput ? `<br>A copy has been sent to <strong>${emailInput}</strong>` : ''}
+        ${emailLine} 
       </div>
 
       <div class="product-list">${itemsHtml.join("")}</div>
@@ -415,7 +424,10 @@ async function createDodoCheckout(req, env) {
 
     const ty = new URL(base + "/thankyou");
     ty.searchParams.set("order", orderId);
-    ty.searchParams.set("email", email);
+    // SỬA TẠI ĐÂY: Chỉ gán vào URL nếu biến email có giá trị thực
+    if (email && email !== "undefined") {
+      ty.searchParams.set("email", email);
+    }
     ty.searchParams.set("skus", sku);
     if (ref) ty.searchParams.set("ref", ref);
 

@@ -1,0 +1,268 @@
+/**
+ * WORKER: thelivesmedia-thankyou-manager
+ * Xử lý luồng ClickBank, Digistore24 & Hotmart cho Bundle (9 ngôn ngữ)
+ */
+
+export default {
+  async fetch(req, env) {
+    const url = new URL(req.url);
+
+    // --- CORS preflight ---
+    if (req.method === 'OPTIONS') {
+      return new Response(null, { headers: corsHeaders() });
+    }
+
+    // ===== ROUTES =====
+    
+    // Luồng ClickBank
+    if (url.pathname === "/thank-you") {
+      return thankyouPage(url, env, "CLICKBANK");
+    }
+
+    // Luồng Digistore24
+    if (url.pathname === "/thank-you-ds") {
+      return thankyouPage(url, env, "DIGISTORE24");
+    }
+
+    // Luồng Hotmart (MỚI)
+    if (url.pathname === "/thank-you-ht") {
+      return thankyouPage(url, env, "HOTMART");
+    }
+
+    if (url.pathname === "/issue" && req.method === "POST") {
+      return issueToken(req, env);
+    }
+
+    if (url.pathname === "/download") {
+      return downloadFile(url, env);
+    }
+
+    return new Response("Not found", { status: 404 });
+  }
+};
+
+/** ============ CONFIG & HELPERS ============ **/
+const TTL_MINUTES = 60 * 24; 
+
+function randomId() {
+  return crypto.randomUUID().replace(/-/g, "");
+}
+
+function corsHeaders() {
+  return {
+    'Access-Control-Allow-Origin': '*',
+    'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
+    'Access-Control-Allow-Headers': 'Content-Type',
+    'Access-Control-Max-Age': '86400',
+  };
+}
+
+async function getTitle(env, sku) {
+  if (env.PRODUCT_TITLES) {
+    const t = await env.PRODUCT_TITLES.get(sku);
+    if (t) return t;
+  }
+  return sku.replace(/_/g, " ");
+}
+
+async function getFilename(env, sku) {
+  if (env.EBOOK_PRODUCTS) {
+    return await env.EBOOK_PRODUCTS.get(sku);
+  }
+  return null;
+}
+
+/** ============ TRANG CẢM ƠN (DÙNG CHUNG CHO CB, DS24 & HT) ============ **/
+async function thankyouPage(url, env, provider) {
+  let orderId = "ORDER";
+  let emailInput = "";
+  let complianceText = "";
+  let accessText = "Instant access granted. Please download your files below.";
+
+  const isDS24 = (provider === "DIGISTORE24");
+  const isHT = (provider === "HOTMART");
+  
+  // TẠO BIẾN CSS RIÊNG BIỆT (Hotmart dùng chung phong cách Phẳng với DS24)
+  
+  const paddingTopValue = isHT ? "10px" : "60px";
+
+  const dynamicStyle = (isDS24 || isHT) ? `
+    /* PHONG CÁCH PHẲNG CHO DS24 & HOTMART */
+    body { background: #ffffff; padding: 0; padding-top: ${paddingTopValue} !important; padding-bottom: 120px; }
+    .card { 
+      border-radius: 0; 
+      box-shadow: none; 
+      border-left: 1px solid #e2e8f0; 
+      border-right: 1px solid #e2e8f0; 
+      max-width: 800px;
+    }
+  ` : `
+    /* PHONG CÁCH THẺ CHO CLICKBANK */
+    body { background: #f4f7f6; padding: 40px 15px; }
+    .card { 
+      border-radius: 20px; 
+      box-shadow: 0 15px 35px rgba(0,0,0,0.1); 
+      max-width: 650px;
+    }
+  `;
+
+  const css = `
+    :root { --brand: #d9a528; }
+    body { margin:0; font-family:system-ui, -apple-system, sans-serif; color:#333; display:flex; justify-content:center; }
+    .card { background:#fff; padding:35px; width:100%; text-align:center; }
+    .logo { height:60px; margin-top:35px; margin-bottom:25px; }
+    h1 { font-size:26px; margin:0 0 10px; color:#2c3e50; }
+    .receipt { font-size:14px; color:#7f8c8d; margin-bottom:30px; }
+    .product-item {
+      background:#fdfdfd; border:1px solid #d8dee3; padding:18px; border-radius:12px; margin-bottom:15px; 
+      display:flex; flex-direction:column; gap:12px; text-align:left; align-items: flex-start;
+    }
+    .product-name { font-weight:700; font-size:15px; color:#2d3748; }
+    .dl-btn {
+      background:var(--brand); color:#fff; border:0; padding:12px; border-radius:8px; 
+      font-weight:600; cursor:pointer; font-size:15px; width:100%;
+    }
+    footer { margin-top: 40px; font-size: 13px; color: #a0aec0; }
+    ${dynamicStyle}
+  `;
+
+  const dsBadgeScript = (isDS24) 
+    ? `<script type="text/javascript" src="https://www.digistore24.com/trusted-badge/43188/4oYnVkcoYW2NRaP/thankyoupage"></script>` 
+    : '';
+
+  if (isDS24) {
+    orderId = url.searchParams.get("order_id") || "ORDER";
+    emailInput = url.searchParams.get("email") || "";
+    complianceText = `
+      <div style="margin-top:20px; font-size:11px; color:#718096; line-height:1.5; padding:10px; background:#f8fafc; border-radius:8px;">
+        Thank you for your purchase! Your order will appear on your card statement as 'Digistore24'. 
+        The debit will be performed by Digistore24.com
+      </div>`;
+    accessText = "Access is valid. Please select your language to download below.";
+    
+  } else if (isHT) {
+    // Hotmart tham số mặc định cho External Page là transaction và email
+    orderId = url.searchParams.get("transaction") || "ORDER";
+    emailInput = url.searchParams.get("email") || "";
+    complianceText = `
+      <div style="margin-top:20px; font-size:11px; color:#718096; line-height:1.5; padding:10px; background:#f8fafc; border-radius:8px;">
+        Secure payment processed by <strong>Hotmart</strong>. 
+        This transaction will appear on your statement as 'HOTMART' or 'HT* THE LIVES MEDIA'.
+      </div>`;
+    accessText = "Thank you for your trust. Your 10-book collection is ready for download in 9 languages.";
+
+  } else {
+    orderId = url.searchParams.get("cbreceipt") || "ORDER";
+    emailInput = url.searchParams.get("cbemail") || "";
+    accessText = "Please select your language to download. Access is valid for 24 hours.";
+  }
+
+  if (emailInput === "undefined" || emailInput === "null" || emailInput === "") {
+    emailInput = "your email";
+  }
+
+  // Cấu hình SKUs
+  let skuParam = url.searchParams.get("sku") || "";
+  const ALL_SKUS = "BOOKS_COLLECTION_EN,BOOKS_COLLECTION_ES,BOOKS_COLLECTION_FR,BOOKS_COLLECTION_DE,BOOKS_COLLECTION_JA,BOOKS_COLLECTION_KO,BOOKS_COLLECTION_PT,BOOKS_COLLECTION_VI,BOOKS_COLLECTION_ZH";
+
+  if (!skuParam || skuParam.toUpperCase() === "ALL") {
+    skuParam = ALL_SKUS;
+  }
+
+  const skus = skuParam.split(",").map(s => s.trim().toUpperCase()).filter(Boolean);
+  const logo = env.THANKYOU_LOGO_URL || "https://thelivesmedia.com/wp-content/uploads/2025/09/cropped-TheLivesMedia_logo_540x148-300x82.png";
+
+  const itemsHtml = await Promise.all(skus.map(async (sku) => {
+    const title = await getTitle(env, sku);
+    const fn = await getFilename(env, sku);
+    if (!fn) return ""; 
+
+    return `
+      <div class="product-item">
+        <span class="product-name">${title}</span>
+        <button class="dl-btn" onclick="startDownload('${sku}', this)">Download Now</button>
+      </div>`;
+  }));
+
+  const html = `
+  <!doctype html>
+  <html lang="en">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <title>Thank You - THE LIVES MEDIA</title>
+      <style>${css}</style>
+    </head>
+    <body>
+      <div class="card">
+        <img src="${logo}" class="logo">
+        <h1>Payment Successful ✅</h1>
+        <div class="receipt">Receipt ID: <strong>${orderId}</strong></div>
+        <div style="text-align:left; font-size:14px; margin-bottom:20px; border-left:4px solid var(--brand); padding-left:10px">
+          ${accessText}
+        </div>
+        <div id="list">${itemsHtml.join("")}</div>
+        
+        ${complianceText}
+
+        <footer>Need help? Contact <a href="mailto:editor@thelivesmedia.com" style="color:var(--brand); text-decoration:none">editor@thelivesmedia.com</a></footer>
+      </div>
+      ${dsBadgeScript}
+      <script>
+        async function startDownload(sku, btn){
+          const originalText = btn.innerText;
+          btn.innerText = "Generating Link...";
+          btn.disabled = true;
+          try {
+            const r = await fetch('/issue', {
+              method: 'POST',
+              headers: {'Content-Type': 'application/json'},
+              body: JSON.stringify({ orderId: "${orderId}", email: "${emailInput}", sku: sku })
+            });
+            const data = await r.json();
+            if(r.ok) {
+              window.location.href = data.url;
+              setTimeout(() => { btn.innerText = originalText; btn.disabled = false; }, 4000);
+            } else {
+              alert(data.error); btn.innerText = originalText; btn.disabled = false;
+            }
+          } catch(e) { alert("Error"); btn.disabled = false; }
+        }
+      </script>
+    </body>
+  </html>`;
+
+  return new Response(html, { headers: { "content-type": "text/html; charset=utf-8" } });
+}
+
+/** ============ TOKEN & DOWNLOAD LOGIC ============ **/
+async function issueToken(req, env) {
+  const { orderId, email, sku } = await req.json();
+  const filename = await getFilename(env, sku);
+  
+  if (!filename) return Response.json({ error: "Product file not found" }, { status: 400 });
+
+  const token = randomId();
+  const exp = Date.now() + TTL_MINUTES * 60 * 1000;
+  
+  await env.TOKENS.put("t:"+token, JSON.stringify({ orderId, email, sku, filename, exp }), { expirationTtl: TTL_MINUTES*60 });
+
+  const url = new URL("/download", req.url);
+  url.searchParams.set("t", token);
+  return Response.json({ url: url.toString() });
+}
+
+async function downloadFile(url, env) {
+  const t = url.searchParams.get("t");
+  const raw = await env.TOKENS.get("t:"+t);
+  if (!raw) return new Response("Link expired", { status: 410 });
+
+  const meta = JSON.parse(raw);
+  const obj = await env.EBOOKS_BUCKET.get(meta.filename);
+  if (!obj) return new Response("File not found", { status: 404 });
+
+  const headers = new Headers();
+  headers.set("Content-Type", "application/zip");
+  headers.set("Content-Disposition", `attachment; filename="${meta.filename.split('/').pop()}"`);
+  return new Response(obj.body, { headers });
+}

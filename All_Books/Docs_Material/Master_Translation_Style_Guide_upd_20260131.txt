@@ -164,6 +164,9 @@ B4. Bảng Thuật ngữ Then chốt (Key Terminology Glossary) - BẮT BUỘC T
     * 1. Sinh mệnh: A Being, Being, Sentient Being.
     * 2. Nguyên thần: Primordial Spirit.
     * 3. Linh hồn: Soul.
+	* 4. Các danh xưng của Thần:
+		+ "Chúa", "Thần", "Bồ Tát", "La Hán", "Như Lai", "Phật"... là những những danh từ chung chỉ những sinh mệnh ở không gian cao tầng có Pháp lực siêu việt coi người, tức là không chỉ đến một cá thể nào, mà chỉ "chức vụ" hoặc "cấp bậc", tầng thứ của họ thôi. 
+		+ "Đáng Sáng Thế", "Sáng Thế Chủ" là những từ chi về một vị Thần tối cao đã khai sáng cả Vũ Trụ này.
 
     **B4.2. Các Thuật ngữ Vũ trụ quan và Tu luyện khác**
     ---------------------------------------------------------------------------------------------------------------------------------

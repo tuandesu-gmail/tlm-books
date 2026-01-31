@@ -1,7 +1,7 @@
 
 1) BUY NOW:
 
-<br/><br/>
+<br/>
 <div
   class="dodo-buy-box"
   data-worker="https://download.thelivesmedia.com/dodo/create-checkout"
@@ -11,10 +11,10 @@
   <a href="#"
      class="wp-block-button__link dodo-buy-btn"
      style="display:inline-block;border-radius:10px;background:#ebad05 !important;padding:18px 48px;color:#fff;font-size:20px;font-weight:700;text-decoration:none;">
-    立即購買
+    BUY NOW
   </a>
 </div>
-<br/><br/><br/><p/>
+<br/>
 
 
 
