@@ -19,16 +19,16 @@ Trích đoạn:
 
 [Chèn nội dung một chương hoặc nửa chương tại đây]
 
----
+---------------
 
 
-Đoạn viết trên là một phần trong tổng thể tác phẩm,
-được trình bày trong một mạch nội dung rộng hơn.
+Đoạn viết trên là một phần trong tổng thể tác phẩm, được trình bày trong một mạch nội dung rộng hơn.
 
-Việc diễn giải và đánh giá nội dung này
-phụ thuộc vào góc nhìn của mỗi người đọc.
+Một cuốn sách không chỉ để đọc, mà còn để cảm nhận, suy ngẫm và sống cùng nhân vật. 
+Mời bạn lật mở những trang tiếp theo để tìm thấy những điều đồng điệu.
 
-👉 Xem bản đầy đủ của cuốn sách: [link]
+👉 Xem bản đầy đủ của cuốn sách:
+[Link]
 
 ====================
 
@@ -39,8 +39,8 @@ II. 10 BOOK POSITIONING LINES
 
 Red Dust, Golden Light
 
-Cuốn sách này kể lại một hành trình nội tâm,
-nơi trải nghiệm cá nhân, ký ức lịch sử và những truy vấn tinh thần đan xen trong im lặng.
+Từ lăng kính hoài nghi của một nhà khoa học đến sự thức tỉnh trước những bí ẩn phương Đông, 
+cuốn sách là hành trình đi tìm chân lý giữa ranh giới mong manh của sự sống, cái chết và đức tin kiên định.
 
 -----
 
@@ -132,13 +132,14 @@ Excerpt:
 
 ---
 
-The passage above is part of a larger body of work,
-presented within a broader narrative and conceptual context.
+The excerpt above is part of a complete work, presented within a broader narrative context.
 
-The interpretation and evaluation of this content
-ultimately depend on the perspective of each reader.
+A book is meant not just to be read, but to be felt, reflected upon, and lived alongside the characters. 
+We invite you to turn the next pages to discover a deeper connection.
 
-👉 View the full version of the book: [link]
+👉 Read the full version here:
+[Link]
+
 
 ====================
 
@@ -146,8 +147,8 @@ II. 10 BOOK POSITIONING LINES
 
 1. 紅塵．金光《RED DUST, GOLDEN LIGHT》
 
-This book recounts an inner journey,
-where personal experience, historical memory, and spiritual inquiry quietly intertwine.
+From the skeptical lens of a scientist to an awakening to Eastern mysteries, 
+this book is a journey in search of truth amidst the fragile boundaries of life, death, and steadfast faith.
 
 2. 權後．遺響《AFTER POWER: THE LEGACY》
 
@@ -219,13 +220,12 @@ I. 通用文章結構範例
 
 ---
 
-以上文字為整體作品中的一部分，
-置於更廣泛的敘事與思想脈絡之中呈現。
+以上段落僅為全作的一部分，呈現於更宏大的敘事脈絡之中。
 
-對其內容的理解與評價，
-取決於每一位讀者自身的觀點。
+書籍不僅是用來閱讀的，更是用來感受、深思並與人物一同經歷的。邀請您翻開接下來的篇章，尋找那份心靈的契合。
 
-👉 查看本書完整版：［連結］
+👉 閱讀完整書籍：
+[Link]
 
 ====================
 
@@ -233,8 +233,8 @@ II. 10 則 Book Positioning Lines
 
 1. 紅塵．金光 《RED DUST, GOLDEN LIGHT》
 
-本書講述一段內在旅程，
-在靜默之中交織個人經驗、歷史記憶與精神探問。
+從科學家的懷疑視角，到面對東方奧秘的覺醒，
+這本書是一場在生死的脆弱邊界與堅定信仰之間，追尋真理的旅程。
 
 2. 權後．遺響 《AFTER POWER: THE LEGACY》
 
