@@ -397,3 +397,79 @@ Dưới đây là bản dịch tiếng Nhật:
 
 ========================================
 
+I. MUSTERSTRUKTUR FÜR EINEN POST
+
+(anwendbar auf jedes Buch, jedes Kapitel und jede Sprache)
+
+[BUCHTITEL]
+Autor / Aufgezeichnet von
+Kapitel [X] | Auszug
+
+[Book Positioning Line]
+
+Auszug:
+
+[Hier wird ein ganzes Kapitel oder ein halbes Kapitel eingefügt]
+
+Der obenstehende Text ist ein Teil des Gesamtwerks und eingebettet in einen größeren inhaltlichen Zusammenhang.
+
+Ein Buch ist nicht nur zum Lesen da, sondern auch zum Fühlen, Nachdenken und Mitleben mit den Figuren.
+Wir laden Sie ein, die nächsten Seiten aufzuschlagen und darin Resonanz zu finden.
+
+👉 Zur vollständigen Ausgabe des Buches:
+[Link]
+
+====================
+
+II. 10 BOOK POSITIONING LINES
+1. ROTER STAUB, GOLDENES LICHT
+
+Aus der skeptischen Perspektive eines Wissenschaftlers hin zu einer inneren Erweckung angesichts der Geheimnisse des Ostens –
+dieses Buch ist eine Reise auf der Suche nach Wahrheit an der feinen Grenze zwischen Leben, Tod und beständigem Glauben.
+
+2. NACH DER MACHT: DAS VERMÄCHTNIS
+
+Dieses Buch dokumentiert einen seltenen Dialog,
+der zeigt, wie ein Mensch nach dem Ausscheiden aus der Politik auf Macht, Verantwortung und Vermächtnis zurückblickt.
+
+3. DÄMMERUNG UND MORGENRÖTE DER WISSENSCHAFT
+
+Dieses Buch zeichnet einen Wandel im Weltbild nach,
+in dem die Grenzen der empirischen Wissenschaft neben Fragen gestellt werden, die sich der Messbarkeit entziehen.
+
+4. DER ROTE SCHLEIER
+
+Dieses Buch ist ein persönliches Zeugnis aus dem Inneren eines geschlossenen Systems,
+in dem eine familiäre Tragödie zum Ausgangspunkt eines Erwachens wird.
+
+5. ECHOS VOR DER ZEIT
+
+Dieses Buch untersucht Hypothesen zur Geschichte der Menschheit,
+indem es vertraute Zeitlinien und scheinbar selbstverständliche Grundlagen neu hinterfragt.
+
+6. DER EINTRITT IN DIE WELT
+
+Dieses Buch beschreibt den langen Weg eines Menschen auf der Suche nach einem spirituellen Pfad,
+vor dem Hintergrund historischer Umbrüche und politischer Verfolgung.
+
+7. DIE LETZTEN GLOCKEN
+
+Dieses Buch verbindet alte Prophezeiungen mit dem Zustand der modernen Gesellschaft
+und versteht sich als Betrachtung über Zyklen des Niedergangs und menschlicher Warnzeichen.
+
+8. VOR UNS
+
+Dieses Buch präsentiert eine alternative Sicht auf eine sehr ferne Vergangenheit,
+erzählt aus der Perspektive eines spirituellen Zeugen statt durch traditionelle akademische Methoden.
+
+9. TAUSEND LEBEN
+
+Dieses Buch hält Erinnerungen fest, die über ein einzelnes Menschenleben hinauszugehen scheinen,
+und stellt Fragen nach Wiedergeburt, persönlicher Mission und der Kontinuität des Bewusstseins.
+
+10. DAS UNIVERSUM JENSEITS DES URKNALLS
+
+Dieses Buch erweitert den Dialog über Kosmologie,
+indem es moderne wissenschaftliche Modelle neben alte Vorstellungen von Bewusstsein und Materie stellt.
+
+
