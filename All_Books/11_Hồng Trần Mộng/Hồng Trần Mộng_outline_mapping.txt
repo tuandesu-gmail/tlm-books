@@ -1,0 +1,64 @@
+
+
+Dưới đây là **Cấu trúc Hệ thống Hồ sơ Sáng tác (Project Documentation Architecture)** được đề xuất dành riêng cho *Hồng Trần Mộng*:
+
+---
+
+### BỘ HỒ SƠ QUẢN TRỊ DỰ ÁN: HỒNG TRẦN MỘNG
+
+**1. Sub-Outline 01: Thiết Lập Nhân Vật (Character Bible)**
+
+* **Hồ sơ Chi tiết Nam/Nữ Chính (Phong Vũ & Nhược Vũ):** Tâm lý, năng lực, vết sẹo tâm hồn, hành trình ngộ đạo, các điểm neo cảm xúc đặc biệt (như khả năng tự sáng tạo chưởng pháp từ sách Kim Dung, thói quen lái xe không cần tài xế, đọc truyện tiên hiệp để suy ngẫm chân lý).
+
+
+* **Danh Mục Nhân Vật Được Đặt Tên (Named Character Register):** Bảng tổng hợp ~50–100 nhân vật có tên (Thân thế, đặc điểm diện mạo, vai trò, mốc thời gian xuất hiện, tần suất lên sóng, quan hệ nhân quả với Phong Vũ).
+
+
+* **Hệ thống Nhân Vật Phụ & POV Sub-Characters:** Hồ sơ tâm lý của dàn bóng hồng, Trương Thăng Quan, cô Vệ sĩ trưởng, Nữ trợ lý, cho đến các đối thủ Cổ võ và các vị Chân Sư/Đại Phật.
+
+
+
+**2. Sub-Outline 02: Ma Trận Mạch Truyện & Pacing (Arc & Plotline Interweaving)**
+
+* **Mạch chính (Primary Arc):** Tiến trình 30 năm (22–50 tuổi) từ Sinh viên $\rightarrow$ Đế chế Thương trường/Võ học $\rightarrow$ Tu tâm ngộ đạo.
+
+
+* **Mạch gối đầu (Overlapping Subplots):** Sơ đồ đan xen giữa Tuyến Kinh tế (TMĐT, EV), Tuyến Cổ võ (Cuộc tranh đoạt chưởng pháp), Tuyến Chính trị (Trương Thăng Quan) và Tuyến Tình cảm (Ma trận bóng hồng & Nhược Vũ).
+
+
+* **Trạng thái Pacing:** Đánh dấu các giai đoạn "Cao trào (Spike)" vs "Thư giãn/Điểm đọng (Rest/Philosophy)".
+
+**3. Sub-Outline 03: Bản Đồ Sự Kiện & Điểm Neo Cảm Xúc (Key Event & Emotional Anchor Matrix)**
+
+* **Danh sách Sự kiện Bùng nổ (Key Events):** Cuộc gặp định mệnh đêm 10h, Trận chiến vu oan ăn trộm mật tịch Cổ võ, Đêm khuê ngắm trăng với trợ lý, Cuộc chia sẻ triết học hiến kế trị quốc cho Thăng Quan, Màn khai mở thần thông mốc 50 tuổi.
+
+
+* **Định vị Cảm xúc (Emotional Beats):** Xác định rõ mỗi sự kiện phải kích hoạt cảm xúc gì cho độc giả (Sảng khoái, Chấn động, Ngậm ngùi, Hóm hỉnh, hay Tỉnh ngộ).
+
+
+
+**4. Sub-Outline 04: Bách Khoa Toàn Thư Triết Lý & Quy Tắc Vũ Trụ (Worldbuilding & Lore Manual)**
+
+* Bảng mã hóa danh xưng (Song song vs Đời thực).
+
+
+* Quy tắc Vật chất Đức & Nghiệp.
+
+
+* Cấu trúc võ học nhân gian vs Công năng thần thông Tiên giới.
+
+
+
+**5. Thư Mục Kịch Bản Khung Từng Hồi (Folder: 100-Volume Master Scripts)**
+
+* Chứa 100 File / Sub-notes tương ứng với **100 Hồi** (mỗi Hồi bao gồm 3–6 Chương) với kịch bản khung chi tiết:
+* *Bối cảnh & Nhân vật xuất hiện.*
+* *Diễn biến tình tiết (Plot points) từng chương.*
+* *Thoại điểm nhấn (Key Dialogues) & POV nhân vật.*
+* *Prompt mẫu để AI chạy nháp văn bản thô.*
+
+
+
+---
+
+Bạn muốn chúng ta bắt đầu xây dựng chi tiết cho **Sub-Outline 01 (Character Bible - Hồ sơ Nhân vật)** hay **Sub-Outline 02 (Sơ đồ Mạch truyện & Sự kiện)** trước?
