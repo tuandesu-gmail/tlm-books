@@ -1,0 +1,239 @@
+KHUNG GUIDELINE V1.0
+
+Khung này được thiết kế đầy đủ các mục chuẩn mực của một bản Hướng dẫn Sáng tác & Văn phong Đại Sử thi (Master Writing Guide). Những mục chưa có nội dung chi tiết sẽ được đánh dấu **[KHUNG TRỐNG - SẼ BỔ SUNG SAU]** để chúng ta lần lượt đắp thịt vào sau này.
+
+---
+
+# MASTER WRITING & STYLE GUIDE v1.0
+
+## TÁC PHẨM: HỒNG TRẦN MỘNG (红尘梦)
+
+**(Dự án Trường篇 Đại Sử Thi Đô Thị – Thương Trường – Võ Đạo – Tu Tâm)**
+
+---
+
+## PHẦN 1: TINH THẦN & TƯ TƯỞNG CHỦ ĐẠO (THE SOUL)
+
+### I. TRIẾT LÝ DẪN DẮT & PHONG CÁCH TỔNG QUAN
+
+	1. **Biểu tượng "Người Lái Đò":** Dẫn dắt độc giả qua các dòng chảy lịch sử, thương trường, võ học để họ tự quan sát và chiêm nghiệm.
+
+	2. **Kỹ thuật "Làn Sương Sớm":** Tỉnh thức – Nhẹ nhàng – Gợi mở; không gượng ép chân lý, không giáo điều, không lên lớp.
+
+	3. **Nguyên tắc "Show, Don't Tell":** Bóc tách bản chất bằng tình huống sống động và chi tiết thực tế.
+
+	4. **Sự kết hợp 3 Tầng Âm Hưởng Văn Phong (Tạo độ dày cho Tiểu thuyết):**
+	
+		- Tầng Khí Phách Sử Thi (Tôn Trung Sơn / Trương Định): Văn phong hào hùng, rộng lớn, đĩnh đạc khi viết về thời đại, thương trường vĩ mô, các quyết định mang tính bước ngoặt và chí lớn kiến quốc.  
+		
+		- Tầng Anh Hùng Kiếm Hiệp (Khuôn mẫu Kim Dung): Văn phong kịch tính, sắc bén, ngạt thở nhưng đậm tính nghĩa khí trong các màn đấu trí, giao tranh võ học và chạm trán thế lực ngầm.  
+		
+		- Tầng Tự Sự Đời Thường (Mao Bất Dịch / Nguyễn Nhật Ánh): Văn phong mộc mạc, chân thành, hóm hỉnh nhẹ nhàng khi miêu tả cuộc sống thường nhật, góc khuất tâm tư phàm nhân, tình cảm lứa đôi và tình bằng hữu.  
+
+
+
+
+### **II. TRỤC TƯ TƯỞNG NGẦM & QUY LUẬT VŨ TRỤ**
+
+	1. **Trục tư tưởng chủ đạo (Nhân Quả – Tu Tâm – Bản Sắc Anh Hùng):**
+	* Thay vì gán nhãn hay hô slogan, dòng chảy tư tưởng chính là Quy luật Nhân Quả, sự Chân thật - Từ bi trong đối nhân xử thế và Bản lĩnh hiên ngang của một Đội trời đạp đất.
+
+	* Sự tu dưỡng nằm ngay trong hành động đời thường, cách vượt qua cám dỗ tiền tài, quyền lực, sắc đẹp và sự gột rửa tâm ma qua từng biến cố.
+
+	2. **Tư duy Triết học & Bóc tách Tự nhiên:**
+	* Sử dụng góc nhìn thấu suốt quy luật vận hành của tự nhiên (Đạo gia / Phật gia / Triết học Bách gia Chư tử) để giải thích các hiện tượng đời sống, thương trường và võ đạo một cách chân thật, mộc mạc và sắc bén.
+
+	3. **Nguyên tắc Tiết lộ Thiên Cơ & Quy Luật Tâm Thức:**
+	* Chỉ hé lộ những tầng quy luật vũ trụ/nhân quả thông qua trải nghiệm thực tế, chiêm nghiệm và lời đối thoại của nhân vật (như Phong Vũ, GS. Rajan), giúp độc giả tự gật gù cảm ngộ mà không mang cảm giác thuyết giảng.
+
+
+
+---
+
+### **III. HÀNH TRÌNH BẬC THANG CẢM XÚC CỦA ĐỘC GIẢ**
+
+	(Kết hợp giữa Kịch tính Võ đạo – Thương trường và Chiêm nghiệm Nhân sinh)
+
+	1. **Kinh ngạc & Thán phục (Mở rộng nhãn quan):**
+	* Choáng ngợp trước tầm nhìn vĩ mô trên thương trường, những đòn bóc tách logic ngạt thở và uy áp hiên ngang, khí phách không khuất phục trước quyền lực/tiền tài của Phong Vũ.
+
+	2. **Hồi hộp, Căng thẳng & Căm tức (Chất Kiếm hiệp / Võ đạo 27–36 tuổi):**
+	* Các cuộc chạm trán nảy lửa, âm mưu thương trường, cạm bẫy võ lâm/cổ võ, sự áp chế từ các thế lực ngầm. Độc giả cuốn theo nhịp đập kịch tính, bất bình trước cái ác và phẫn nộ trước sự bất công.
+
+	3. **Thỏa mãn & Vỡ òa (Bản sắc Anh hùng / Hào khí kiêu hùng):**
+	* Cảm giác sảng khoái khi Phong Vũ dùng bản lĩnh, trí tuệ đỉnh cao và thực lực áp đảo để phân định thắng – bại, đập tan cạm bẫy, trừng phạt kẻ gian và bảo vệ tri kỷ/lý tưởng.
+
+	4. **Xúc động & Xao xuyến (Tình yêu & Tình bằng hữu):**
+	* Chạm vào những khoảnh khắc dịu dàng, nâng niu dành cho Nhược Vũ, sự xao xuyến chân thành trước sắc đẹp nhân gian, hay tình huynh đệ chí hướng khắc sâu giữa Phong Vũ và Trương Thăng Quan.
+
+	5. **Cảm ngộ & Tỉnh thức sâu lắng (Tầng Chiêm nghiệm Nhân sinh):**
+	* Mở ra sự đọng lại sau những trận đánh nảy lửa: Độc giả ngộ ra bài học về Nhân quả, sự buông bỏ chấp niệm, lòng vị tha và cảm giác bình yên, thư thái trong tâm hồn.
+
+
+
+---
+
+## PHẦN 2: THIẾT LẬP NHÂN VẬT & NGHỆ THUẬT LỜI THOẠI (THE CHARACTERS & DIALOGUES)
+
+### I. NGHỆ THUẬT XÂY DỰNG LỜI THOẠI & AURA NHÂN VẬT (CORE UPDATE)
+
+	1. **Thượng thừa Lời thoại – "Tối giản sự phức tạp":** Bóc tách quy luật vĩ mô/triết học bằng ngôn từ bình dị, ẩn dụ đời thường.
+
+
+	2. **Kỹ thuật "Ca sĩ trình diễn" (Aura làm chủ cuộc chơi):**
+	* Phân biệt giữa "Kẻ đọc bản thuyết trình" vs "Chủ nhân của tư tưởng".
+
+	* Nghệ thuật tạo khoảng lặng, nhịp điệu thong dong, vị thế trao cơ hội chứ không đi xin vốn.
+
+	3. **Bộ mẫu Ví dụ Chuẩn mực (Benchmark Dialogues):**
+	* *Mẫu 1:* Bài giảng Tự Do Nội Tâm của Giáo sư Rajan.
+
+	* *Mẫu 2:* Màn thương thảo Kinh tế/TMĐT của Trần Phong Vũ với Quỹ An Nhiên.
+	
+	---
+	
+	1. **Nguyên tắc Cốt lõi 1 — "Tối giản sự phức tạp":**
+	
+		* Dù là bài giảng Triết học cao thâm hay thương thảo Kinh tế/Tài chính vĩ mô, nhân vật tuyệt đối không sa đà vào việc dùng thuật ngữ hàn lâm để đánh đố hay đè bẹp người nghe.  
+		
+		* Mọi triết lý vĩ đại hay quy luật thương trường sinh tử đều được bóc tách bằng ngôn từ bình dị, hình ảnh ẩn dụ đời thường, giúp mọi độc giả — dù không có nền tảng triết học hay tài chính — đều hiểu ngay, gật gù vỡ lẽ và cảm nhận được tầm vóc tuyệt đối của nhân vật.  
+	
+	2. **Nguyên tắc Cốt lõi 2 — Quy tắc "Ca sĩ trình diễn" (Thần thái & Khí chất làm chủ):**
+	
+		* Người thường nói: Giống như một nhân viên lên đọc bản thuyết trình do người khác soạn sẵn, vừa nói vừa sợ bị chấm điểm hoặc nơm nớp sợ đối phương từ chối.  
+		
+		* Giáo sư Rajan & Trần Phong Vũ nói: Giống như một ca sĩ bậc thầy thả hồn vào tác phẩm. Họ hoàn toàn là chủ nhân và tác giả của tư tưởng đó. Phong thái thong dong, tạo khoảng lặng làm chủ nhịp điệu, đặt mình ở vị thế người trao cơ hội chứ không phải người đi xin.  
+	
+	3. **Bộ Mẫu Ví Dụ Minh Họa Benchmark (Dialogue Examples):**
+	
+		* Mẫu 1 (Trắc nghiệm Triết học/Tâm thức): Bài giảng về "Tự Do Nội Tâm" của Giáo sư Rajan (Hồi: Tiết Học Của Giáo Sư Rajan). Bóc tách định kiến bằng lời lẽ mộc mạc, xoáy thẳng vào tâm lý, tạo cú sốc tư duy nhẹ nhàng mà không sa vào thuyết giáo.  
+		
+		Mục tiêu văn phong: Bóc tách rào cản định kiến bằng lời lẽ mộc mạc kiểu Osho / Nguyên Phong, tạo cú sốc tư duy nhẹ nhàng cho sinh viên mà không bị thuyết giáo hay dính dáng nhạy cảm chính trị.
+		
+		Trích đoạn:
+			Giữa lúc giảng đường lớn đang im phăng phắc lắng nghe, Giáo sư Rajan bất ngờ ngừng lời. Bờ môi ông khẽ mỉm cười, ánh mắt lướt qua các hàng ghế rồi dừng lại ở một nhóm nữ sinh xinh đẹp đang ngồi túm tụm lại một góc phía xa, thu mình e thẹn.
+			Ông cất giọng ôn tồn nhưng xoáy thẳng vào tâm lý:
+			— "Này các cô gái xinh đẹp, hãy nói cho tôi biết vì sao các bạn lại chọn ngồi cụm vào nhau và thu vào một góc riêng một cách nhút nhát như vậy? Nếu đó là nét đẹp lễ nghĩa 'Nam nữ thụ thụ bất thân' trong văn hóa truyền thống của các bạn thì tôi không bàn. Nhưng phải chăng chính sự ngại ngùng và những rào cản vô hình trong tâm trí đã khiến các bạn không dám ngồi cạnh các bạn nam sinh khác? Đây là đâu và chúng ta đang ở thời đại nào rồi?!"
+			
+			Tiếng xầm xì nho nhỏ vang lên, vài nữ sinh đỏ bừng mặt, ngại ngùng nhìn nhau. Rajan thong thả tựa lưng vào mép bàn gỗ, ánh mắt trở nên sâu thẳm:
+			
+			— "Hôm nay chúng ta nói về Tự do. Nhưng Tự do không phải là sự phóng túng, buông thả hay thích làm điều bậy bạ nào thì làm theo góc nhìn lệch lạc mà người ta vẫn gán ghép cho phương Tây. Tự do thực sự là sự cởi bỏ những gò bó tâm lý không đáng có — những định kiến, nỗi sợ hãi mơ hồ làm hạn chế tư tưởng và sự phát triển cá nhân."
+			
+			Ông dừng lại một chút, chất giọng trầm ấm vang vọng khắp giảng đường:
+			— "Ngay cả việc nhỏ nhất là chủ động bước đến ngồi cạnh một người bạn khác giới trong giảng đường đại học mà các bạn còn phải ngần ngại, co cụm vì sợ ánh mắt đánh giá của người khác... thì sau này bước ra trường đời, làm sao các bạn có thể tự lập, dũng cảm đối mặt với những sóng gió và định kiến khắc nghiệt ngoài kia?"
+			
+			Cả hội trường im lặng. Những định kiến cứng nhắc rập khuôn dường như vỡ tan trước lời bóc tách trần trụi mà chân thành của vị Đạo sư.
+			
+			Phía bên ngoài khung cửa sổ gỗ, Trần Phong Vũ đứng khoanh tay, lặng lẽ tựa lưng vào tường. Nhìn thấy ánh mắt ngộ ra của nhóm sinh viên bên trong, anh khẽ mỉm cười gật đầu. Góc nhìn của Rajan chạm đúng bản chất của "Tự nhiên" và "Sự tự chủ nội tâm" — điều mà một người từng đứng trên đỉnh cao Võ thần như anh vô cùng thấu hiểu.  
+		
+		* Mẫu 2 (Thương thảo Thương trường/Tài chính): Màn đàm phán Thương mại điện tử của Trần Phong Vũ với Quỹ đầu tư An Nhiên. Bóc tách bản chất mô hình kinh doanh bằng hình ảnh đời thường, áp đảo đối phương bằng tầm nhìn chứ không bằng thuật ngữ chuyên ngành. 
+		
+		Mục tiêu văn phong: Khắc họa một người phàm mang trí tuệ tuyệt đỉnh. Phong Vũ không giở tài liệu, không xin vốn, nói bằng thần thái thả hồn và tầm nhìn thời đại khiến nhà đầu tư bàng hoàng bái phục.  
+		
+		Trích đoạn:
+			
+			Trong phòng khách sang trọng của Quỹ Đầu tư An Nhiên, vị đại diện Quỹ vừa nhấp trà vừa nghiêng đầu hoài nghi nhìn vị chủ tịch trẻ tuổi của một dự án TMĐT còn sơ khai:
+			
+			— "Cậu Phong Vũ, tỷ lệ người dùng máy tính ở Trung Châu hiện tại còn thấp, hạ tầng mạng thì chậm. Rót hàng triệu USD vào một nền tảng bán hàng qua mạng lúc này, chẳng phải là quá mạo hiểm và đi trước thời đại quá xa sao?"
+			
+			Phong Vũ đẩy nhẹ tập báo cáo tài chính dày cộp sang một bên, không nhìn vào những bản vẽ hay biểu đồ hoành tráng. Anh ngả lưng ra ghế, thả một khoảng lặng ngắn đủ để sự vội vã trong căn phòng hoàn toàn lắng xuống.Cất giọng bằng ngữ điệu thản nhiên như đang đàm đạo văn chương, anh thong thả nói:
+			
+			— "Anh nhìn vào số lượng máy tính hiện có ở Trung Châu để tính toán rủi ro, còn tôi nhìn vào cơn sóng thần kinh tế đang di chuyển từ Đại Mỹ sang Đông Châu."
+			
+			Anh khẽ mỉm cười, giọng nói trầm ấm nhưng chứa đựng sức nặng và sự khẳng định tuyệt đối:
+			
+			— "Máy tính tràn vào các doanh nghiệp và hộ gia đình không phải là xu hướng, đó là quy luật tất yếu. Khách hàng ngoài kia không thiếu tiền, họ thiếu niềm tin và sự tiện lợi. Thương mại điện tử trong 5 năm tới không phải là một kênh bán hàng phụ, nó sẽ là hạ tầng sống còn của nền kinh tế. Kẻ nào giải quyết được bài toán niềm tin và dòng tiền trung gian ngay từ hôm nay, kẻ đó nắm giữ toàn bộ mạch máu bán lẻ của Trung Châu."  
+			
+			Phong Vũ nhẹ nhàng đặt tách trà xuống bàn. Tiếng "cạch" nhẹ vang lên nhưng khiến đại diện An Nhiên giật mình. Không một lời cầu xin xin vốn, không một sự thanh minh gân guốc.
+			
+			Ánh mắt điềm tĩnh và thần thái làm chủ hoàn toàn cuộc chơi của anh khiến vị đại diện Quỹ sững người nhận ra: Người thanh niên này đến đây không phải để đọc một bản thuyết trình xin tiền, mà anh đang thản nhiên trao cho An Nhiên một tấm vé để bước lên chuyến tàu thời đại. Nếu ông chần chừ, người chịu mất mát không phải là Phong Vũ, mà chính là Quỹ An Nhiên. 
+
+
+
+### II. NGUYÊN TẮC THIẾT LẬP TÍNH CÁCH NHÂN VẬT
+
+	1. **Danh sách nhân vật:**
+	* Xem file "Hồng Trần Mộng_outline_ds_nhan_vat.txt"
+	
+	2. **Tuyến Nhân Vật Chính Trị & Triết Học (Trương Thăng Quan, GS Rajan):**
+	* xem các file sau:
+	- Hồng Trần Mộng_outline_mapping.txt
+	- Hồng Trần Mộng_outline_thuong_truong.txt
+	- Hồng Trần Mộng_outline_từ 18-21 tuổi.txt
+	- Hồng Trần Mộng_outline_tu_luyen.txt
+
+---
+
+## PHẦN 3: KỸ THUẬT HÀNH VĂN & DỰNG CẢNH (WRITING TECHNIQUES)
+
+### I. QUY TẮC "CONCRETE OVER DESCRIPTIVE"
+
+	1. Dùng chi tiết cụ thể, hành động trần trụi thay cho tính từ hoa mỹ, miêu tả lê thê.
+	2. Cách xây dựng bối cảnh thực tế (Đông Châu, Tây Châu, ĐH Thanh Châu, hạ tầng Internet/PC thập niên 90).
+
+
+
+### II. XỬ LÝ YẾU TỐ VÕ THUẬT & CỔ VÕ
+
+	1. **Nguyên tắc "Thắng – Bại định thực lực":** Không dùng cấp hàm/hệ thống phân cấp (Sơ kỳ, Đỉnh phong, Cấp 1-10).
+
+	2. Kỹ thuật miêu tả đường quyền, khí lực, cảnh thực chiến.
+
+### III. XỬ LÝ YẾU TỐ KỲ ẢO & MỜ HÓA THỜI GIAN (TIME-BLURRING)
+
+	1. Kỹ thuật mờ hóa mốc thời gian qua dấu ấn thời đại (Dial-up, TV đen trắng, Smartphone).
+
+	2. Xử lý hiện tượng siêu nhiên dưới dạng trải nghiệm chủ quan/kỳ ngộ.
+
+
+
+### IV. CÁC LỖI VĂN PHONG BẮT BUỘC TRÁNH
+
+	1. Danh sách từ sáo rỗng/vô nghĩa cần loại bỏ.
+
+	2. Tránh kết thúc mục/chương bằng "lời kết luận" hay bài học đạo đức.
+
+	3. Tránh dùng nhân vật làm "loa phát thanh" cho tư tưởng tác giả.
+
+
+
+---
+
+## PHẦN 4: CẤU TRÚC, PACING & QUY MÔ XUẤT BẢN (STRUCTURE & PACING)
+
+### I. CẤU TRÚC 2 TẦNG (100 HỒI / 300 - 600 CHƯƠNG)
+
+
+	1. Quy định độ dài Chương / Mục / Hồi.
+
+	2. Pacing (Nhịp điệu): *Nhẹ – Sâu – Mở – Lặng*.
+
+
+
+### II. QUY TẮC TẠO ĐIỂM NHẤN CHƯƠNG (HOOKS & TWISTS)
+
+	1. Tạo tình tiết bất ngờ tự nhiên (không khiên cưỡng).
+
+	2. Các dạng điểm nhấn: Chiêm nghiệm sâu, khám phá tâm linh, đảo chiều thương trường, xung đột võ học.
+
+
+
+---
+
+## PHẦN 5: BẢNG MÃ HÓA DANH XƯƠNG & DIỄN TIẾN MẠCH TRUYỆN (WORLDBUILDING INDEX)
+
+### I. BẢNG MÃ HÓA ĐỊA DANH / NHÂN VẬT / CỔ TỊCH
+
+	*(Bảng tra cứu quy đổi Trung Châu, Bắc Đô, Đạo Huyền Kinh, Tiêu Dao Luận...)*
+
+### II. TÓM TẮT DÒNG THỜI GIAN 3 ARC CHÍNH
+
+	* **Arc 1 (22 tuổi):** Trọng sinh, Sinh viên Thanh Châu, Khởi nguyên TMĐT.
+
+	* **Arc 2 (22 - 40 tuổi):** Đế chế Thương trường, Ma trận Bóng hồng, Cổ võ đỉnh cao.
+
+	* **Arc 3 (40 - 50 tuổi):** Thức tỉnh Phật pháp, Kiến quốc chiến lược, Mệnh lệnh 10 năm.
+
+
+
+---
