@@ -402,11 +402,12 @@ Dưới đây là phần cập nhật điều chỉnh cho hồ sơ và bối c�
 	* *Bước ngoặt:* Vị Trưởng khoa thở dài, buông tách trà, trút bỏ lớp vỏ nghiêm nghị. Ông thừa nhận thật lòng: Bài luận của Phong Vũ là tác phẩm xuất sắc nhất ông từng đọc trong hàng chục năm giảng dạy. Nhưng dưới thể chế độc tài toàn trị hiện tại, một điểm 9 hay 10 cho bài luận này sẽ biến Phong Vũ thành mục tiêu bị tiêu diệt tư tưởng, và chính vị Trưởng khoa cũng bị kỷ luật. **Điểm 6 chính là tấm lá chắn bảo vệ an toàn cho anh.**
 
 
-
-
 	* **Giá trị nhân vật:** Phong Vũ mỉm cười không bận lòng về con số trên giấy. Sự va chạm này gieo mầm cho góc nhìn chính trị vĩ mô của anh về Trung Châu và chuẩn bị cho sứ mệnh "Kiến quốc chiến lược" sau này.
 
-
+	----
+	
+	- Bài luận: (xem file "Bai_luan_Triet_hoc.txt" )
+	- Phân đoạn trao đổi với Trưởng khoa triết vài bài luận điểm 6: (xem file "Thao_luan_Truong_khoa_triet.txt" )
 
 -----------------------
 
