@@ -721,7 +721,7 @@ Dưới đây là kịch bản phân cảnh hoàn chỉnh với lời thoại, h
 	
 	- Chiến tranh ngày càng ác liệt, cô ở nhà mong ngóng tin anh nhưng gần như không có tin cụ thể nào của anh truyền về. Sau hơn 2 năm chờ đợi ở quê nhà và lo lắng cho anh, cô quyết định tự mình đi bộ ra chiến trường tìm anh. Quá trình đi đường dài đằng đẵng đầy khó khăn, khiều khi cô phải ngủ ngoài đường, có lúc này gặp phải kẻ lưu manh nhưng nhờ phúc lớn mà gặp được người tương cứu. Cuối cùng cô đến chiến trường nhưng không biết a ở chính xác nơi nào, vì chiến trường cũng phân bố rộng nhiều nơi biệt lập, số lượng quân nhân lại nhiều, lại vì bảo mật quân đội nghiêm minh khiến cô mãi vẫn không tìm được anh. Có lần cô còn tìm đến một bãi chiến trường vừa diễn ra, hàng ngìn hàng vạn người ngựa chết trận, máu thịt vương vãi sắp nơi, cô vừa cảm thấy sợ hãi lại vừa so lắng cho anh. 
 	
-	- Cô tìm anh mãi không thấy, cuối cùng thì tin chiến thắng đã đến, các cánh quân đều hội quân ở một thành trì lớn ở biên ải. Dân chúng nghe tin đều đổ ra đường chào đón, họ hò deo cổ vũ. Dẫn đầu một trong cách cánh quân là một vị tướng linh ngôi ngô tuấn tú, mặc trang phục của một võ tướng, áo bào trắng phía ngoài bay phấm phới, oai phong lẫm thiệt, người này chính là người chồng sắp cưới mà cô đang chờ mong và tìm kiếm trong 5 năm dài đằng đẵng. 
+	- Cô tìm anh mãi không thấy, cuối cùng thì tin chiến thắng đã đến, các cánh quân đều hội quân ở một thành trì lớn ở biên ải. Dân chúng nghe tin đều đổ ra đường chào đón, họ hò deo cổ vũ. Dẫn đầu một trong cách cánh quân là một vị tướng linh ngôi ngô tuấn tú, mặc trang phục của một võ tướng, áo bào trắng phía ngoài bay phấm phới, oai phong lẫm liệt, người này chính là người chồng sắp cưới mà cô đang chờ mong và tìm kiếm trong 5 năm dài đằng đẵng. 
 
 	- Khi ánh mắt cô nhìn thấy khuân mặt tuấn tú mà quen thuộc đó, mặc dù đượm màu sương gió khói lửa của chiến tranh nhưng cô vẫn nhận ra anh, ánh mắt cô mở to, toàn thân run rẩy. Chính lúc đó anh ấy đang ngồi trên lưng ngựa cũng nhìn thấy cô đang ở giữa đám đông bên vệ đường, bốn mắt nhìn nhau và nước mắt cả hai cuộn trào.
 
@@ -772,18 +772,82 @@ Dưới đây là kịch bản phân cảnh hoàn chỉnh với lời thoại, h
 
 	### **5. LẦN 5: BUỔI CHIA TAY ĐỘT XUẤT TRƯỚC NGÀY TRỞ LẠI BẮC ĐÔ (2 ngày sau)**
 
-	* **Bối cảnh:** Phong Vũ nhận được thông báo khẩn từ phía Đại học Thanh Châu và Ban Quản lý Dự án 3G Quốc gia: Dự án đang thiếu nhân sự nòng cốt, yêu cầu anh có mặt tại Bắc Đô sớm hơn dự kiến. Kỳ nghỉ hè bị rút ngắn đột ngột.
-	* **Nội dung & Dư âm luyến tiếc:**
-	* Đêm 16 trăng sáng, Phong Vũ dắt xe sang chào bố mẹ Nhược Vũ và hẹn gặp riêng cô ngoài con đường làng/cây cầu nhỏ trước nhà.
-	* **Cuộc trò chuyện dưới trăng:** Hai người giữ khoảng cách mực thước 1–2 bước chân. Phong Vũ thông báo việc phải đi gấp. Nhược Vũ hơi thoáng hụt hẫng nhưng nhanh chóng nở nụ cười dịu dàng chúc anh thành công với dự án lớn.
-	* **Lời hẹn không lời:** Phong Vũ dặn cô ở nhà tập trung thi tốt, anh sẽ thường xuyên liên lạc và gửi tài liệu qua Email/bưu điện cho cô thông qua chiếc máy tính ở nhà.
-	* Cả hai không ai tỏ tình, không nắm tay, không ôm hôn, nhưng ánh mắt trao nhau dưới trăng đã nói lên tất cả: **Họ chính là khoảng trời riêng biệt và duy nhất trong lòng nhau.**
-
-
 	---
 	
 	Mấy ngày sau đó, anh thi thoảng dành 1-2 tiếng mỗi ngày hướng dẫn Tuyết Mai và Nhược Vũ sử dụng máy tính, từ đơn giản như cách đặt ngón tay và nhớ các phím để gõ cho đúng và nhanh, hay cách tìm kiếm thông tin, cách tránh các link đọc hại, các lưu ý khi sử dụng email hay chat, v.v...
 	
 	Rồi đúng 15 ngày kể từ ngày về quê bắt đầu kỷ nghỉ hè, anh nhận được cuộc gọi báo rằng anh được mời tham gia dự án nghiên cứu triển khai đưa mạng 3G vào thực tiễn nhanh nhất có thể. Dự án đang thiết nhiều kỹ sư công nghệ giỏi, thời hạn là 1 năm, và phúc lợi cũng rất tốt như: Được trang bị những thiết bị tân tiến nhất phục vụ công việc, bao gồm cả laptop cao cấp nhất, lương cao gấp 3 lần so với các sinh viên công nghệ mới ra trường khi đó, còn được cấp khu KTX độc lập thuộc một khu đô thị cao cấp do chính phủ xây dựng để dành riêng cho các cán bộ hoặc nhân tài. Đặc biệt, sẽ có chính sách thưởng lớn phụ thuộc vào đóng góp thực tế cho dự án.
+	
+	Hôm đó, Phong Vũ quyết định sáng mai sẽ quay lại Bắc Đô để tham gia dự án này. Anh gọi điện mời Nhược Vũ sang dùng bữa tối nay, cô vui vẻ đồng ý. Tầm 4h chiều cô đã có mặt tại nhà anh. Anh gọi cả Tuyết Mai và Nhược Vũ vào căn dặn thêm một vài điểm cần chú ý khi sử dụng máy tính. Lúc này anh tỏ vẻ nghiêm túc nói:
+	- Internet giống như một cánh cổng lớn được mở cửa ra để người ta đi vào nhà, nhưng khi đó ngoài những vị khách quý đáng kính ra thì cũng không thiếu kẻ gian chui vào. Điều này có nghĩa nó cho em các em nhanh chóng tiếp cận nhiều thông tin giá trị, nhưng cũng đầy rẫy những rác rưởi tràn vào. Cho nên, khi chúng ta sử dụng Internet thì phải có khả phán đoán và chắc lọc thông tin. Hai đứa hiểu ý anh nói chứ? 
+	
+	Hai cô đều nhẹ gật đầu, rồi Tuyết Mai nói:
+	- Rôi, anh hai! Giờ anh hướng dẫn em cách đổi cái avatar này đi, đưa bạn cùng lớp em nó để cái ảnh avatar ngầu lòi!
+	
+	Phong Vũ nghiêm mặt nói:
+	- Em thì tốt nhất không cần đổi, cứ để avatar mặc định thì mới "ngầu"!
+	
+	Tuyết Mai phùng má tỏ vẻ tức giận nói:
+	- Thôi không thèm hỏi anh nữa, để em hỏi bạn em sau! Nhược Vũ, đi nấu ăn cùng tớ!
+	
+	Hai cô gái đi rồi, Phong Vũ tranh thủ ngồi máy tính check email và chat một lúc, trong đó có email bạn bè, có thông báo của trường ĐH, có hỏi thăm của các bóng hồng xem anh khi nào trở lại Bắc Đô, rồi có cả email khái quát về dự án 3G mà anh sắp tham gia. Dự án 3G này về mặt kỹ thuật thì đã thử nghiệm thành công rồi, giờ chỉ cần xây dựng hệ tầng rộng khắp và triển khai mô hình kinh doanh sao cho nhanh và hiểu quả nhất. Tất nhiên trong quá trình này cũng sẽ cần xử lý nhiều vấn đề kỹ thuật khi số lượng KH ngày càng đông. 
+	
+	Trong khi đó, hai cô gái hý hoáy trong bếp hơn 1 tiếng thì cũng nấu bữa tối xong, các món được làm khá phong phú và đẹp mắt. Mẹ Phong Vũ nhìn cảnh này càng hài lòng về Nhược Vũ, bà không ngờ đứa con trai lúc nhỏ khờ khạo ngu ngốc vậy mà chỉ 4 năm qua đi đã trở nên chói lọi như vậy, giờ lại tinh mắt ngắm được cô gái vừa hiền thục nết na vừa xinh đẹp thế này khiến bà rất vui. Trong bữa cơm tối, Phong Vũ không gắp thức ăn cho Nhược Vũ như lần trước nữa, mà để cô ăn tự nhiên, hơn nữa có mặt bố mẹ nên anh cũng không thể tùy hứng như trước nữa. Nhưng mà mẹ Phong Vũ lại đang có suy nghĩ riêng, thấy Phong Vũ chỉ biết điềm nhiên ăn uống mà không gắp thức ăn cho Nhược Vũ thì bà lại vui vẻ gắp thức ăn cho cô, điều này khiến cô có chút ngượng ngùng cũng càng thêm ấm áp. 
+	
+	Sau bữa tối, Tuyết Mai thì chúi mắt vào máy tính bắt đầu online gõ lọc cọc chậm chạp, còn Phong Vũ cùng Nhược Vũ thì ngồi trò chuyện bên bàn trà ngoài hiên nhà. Lúc này cô hỏi anh:
+	- Em nghe nói trước kia anh chỉ cần 1 năm tự ôn luyện ở nhà mà có thể từ một cậu học sinh bình thường tiến bộ vượt bậc và đỗ thủ khoa toàn tỉnh và vào được ĐH Thanh Hoa, em không biết là thế nào để tiến bộ hơn...
+	
+	Anh nhìn cô, nhẹ mỉm cười rồi nói:
+	- Mỗi người có tố chất và bối cảnh khác nhau, cho nên cách học có thể không giống nhau được. Với trường hợp của em đang định hướng theo Văn khoa (Các môn thi: Ngữ văn + Năng khiếu (Cổ Cầm) + Lịch sử + Địa lý + Chính trị/Triết học) thì cách học theo anh không thể dựa vào tư duy logic mà nên dựa trên cái mà người xưa thường nói, đó là "tâm lĩnh thần hội" là chính. Đặc biệt là môn ngữ văn, ta cần sống cùng tác phẩm, cùng nhân vật, cùng tác giả. Vi dụ như cuốn tiểu thuyết "Vạn dặm đường xa" hôm trước anh nói đến, nếu như đọc giả không hóa thân thành nhân vật nữ thì sẽ khó thấu cảm được những cảm xúc của nhân vật. Hay khi đề bài yêu cầu thí sinh phân tích về một bài thơ của một vị Thiền sự, nếu tâm cảnh của thí sinh không đủ cao để ngộ được ý tứ trong từng vần thơ, thì hoàn toàn không hiểu gì, thậm chí là hiểu sai ý thơ mà không nhận ra, nói gì đến viết bài phân tích.
+	
+	Nói đến đây, Phong Vũ đứng dậy, thong thả bước ra phía hiên sân 2 bước ngắn, ngước mắt ngắm nhìn bầu trời đêm thăm thẳm ngợp trời sao, một lúc anh nói tiếp:
+	- Anh ví dụ cụ thể, chúng ta cùng xem bài thơ "臨江仙 (Lâm giang tiên)" sau đây:
+	
+		"Trường Giang cuồn cuộn chảy về đông,
+		Bạc đầu ngọn sóng cuốn anh hùng.
+		Thị phi thành bại theo dòng nước,
+		Sừng sững cơ đồ bỗng tay không.  
+
+		Núi xanh nguyên vẹn cũ,
+		Bao độ ánh chiều hồng.  
+
+		Bạn ngư tiều dãi dầu trên bãi,
+		Vốn đã quen gió mát trăng trong.
+		Một vò rượu nếp vui gặp gỡ,
+		Chuyện đời tan trong chén rượu nồng."
+		
+		(Bản gốc:
+		滾滾長江東逝水，
+		浪花淘盡英雄。
+		是非成敗轉頭空。
+		青山依舊在，
+		幾度夕陽紅。
+
+		白髮漁樵江渚上，
+		慣看秋月春風。
+		一壺濁酒喜相逢。
+		古今多少事，
+		都付笑談中。)
+	
+	- Nếu chúng ta chỉ đọc bài thơ này với tâm cảnh của một học sinh chỉ muốn học vẹt và mong muốn đạt điểm cao để thi đỗ ĐH thì chúng ta sẽ chẳng cảm thụ được gì, cùng lắm chỉ là phân tích câu chữ rồi mô tả vài ý nghĩa bề mặt mà thôi. Nhưng nếu chúng ta hóa thân vào tác phẩm, nhập vai vào một vị anh hùng đã trải qua bao sóng gió trên chiến trường, cuối cùng sự nghiệp huy hoàng bỗng tan thành mây khói... Tiếp đến chúng ta lại hóa thân thành một người quan sát khi đọc 2 câu thơ "Núi xanh nguyên vẹn cũ, Bao độ ánh chiều hồng.", rồi chúng ta lại hóa thân thành "ngư tiều" cùng vui vẻ uống rượu kể chuyện xưa... Chúng ta sống trong đó, chúng ta cảm thụ từng nhịp đập, từng khoảnh khắc... Và rồi, nếu tâm cảnh chúng ta càng sát với tác giả, chúng ta càng cảm nhận được thông điệp mà tác giả muốn truyền tải. Khi đó chúng ta mới thấy cái hay, cái đẹp của tác phẩm.
+	
+	Nhược Vũ nghe anh nói đến đây, cô cũng nhẹ đứng dậy cùng hơi ngước nhìn những vì sao ra xăm... Cô trầm tư một lúc rồi nói:
+	- Em hiểu điều anh nói, nhưng tâm cảnh mỗi người đều khác nhau, ai có thể "thiên biến vạn hóa" được?! Lúc thì hóa thân thành thiếu nữ ngây ngô, lúc thì trở thành kiếm khách, lúc thì lại vào vai thành kẻ ác, lúc thì lại là anh hùng dân tộc, rồi quân vương, rồi Thiền sư, Đạo sĩ,...
+	
+	Phong Vũ nói: 
+	- Điều này đúng là khó thật! Với một người trẻ chưa trải sự đời như chúng ta, rất khó có thể cảm thụ được tâm cảnh của một quân vương hay một Thiền sư, nhất là khi những vị đó lại là những đại biểu ưu tú bậc nhất tròng dòng chảy lịch sử. Nhưng du sao tâm lĩnh thần hội dù không dễ dàng thì đó cũng là cách tốt hơn rất nhiều theo hiểu học thuộc lòng như con vẹt một cách máy móc và trả lời theo đề cương ôn tập có sẵn.
+	
+	Hai người tiếp tục trò chuyện say xưa đến hơn 10h đêm thì Phong Vũ bảo sẽ đưa cô về, nhưng nói là đi bộ cũng được, vì trời tối không tiện đi xe đạp, đường cũng không xa. Cô đồng ý, rồi đứng dậy vào nhào chào tạm biệt bố mẹ của Phong Vũ đang ngồi xem phim trên TV và Tuyết Mai đang ôm máy tính. Sau đó hai người cùng sóng bước đi, lúc đầu anh dùng đèn flash của điện thoại để soi đường, sau khi đi đến đoạn đường rộng và thoáng hơn, anh tắt đèn flash đi vì cảm thấy nó làm "phiền" hai người. 
+	
+	Đêm sao lung linh, xa xa thi thoáng có ánh sáng đèn điện hắt ra chút, cũng đủ hai người định hướng lối đi (dù hôm nay là đêm không trăng). Anh nhẹ nhà nói với cô:
+	- Em đưa tay đây, chúng ta sẽ vứng bước hơn nếu nắm chặt tay nhau...
+	
+	Cô nhẹ nhàng đáp "Vâng" và hai người nắm tay nhau cùng chậm rãi bước đi. Đây là lần đầu tiên trong kiếp sống này, cả anh và cô được cầm tay một người khác phái theo cách như thế này. Cả hai đều không nói lời nào nữa, họ thích không khí tĩnh lặng này, họ thầm ước rằng con đường này nên dài gấp đôi hay gấp ba lần. Đối với Nhược Vũ, cô không rõ điều cô đang cảm nhận trong tâm là gì, cô chỉ biết trái tim cô đang đập rộn ràng và cô cảm thấy tuyệt đối an toàn và ấm áp khi ở bên anh. Còn anh, anh cho rằng cảm xúc mà anh đang cảm nhận có lẽ chính là thứ mà người ta gọi là "tình yêu", là thứ cảm xúc mà anh chưa từng có trong đời sinh viên, dù xoay quanh không thiếu các bông hồng xinh đẹp. Và cái gọi là "tình yêu" này khiến anh cảm thấy mình vừa trở nên mềm mại hơn nhưng cũng đồng thời trở nên mạnh mẽ hơn. Mạnh mẽ để đùm bọc và che trở cho người con gái này.
+	
+	Cuối cùng, khi đưa cô về đến cổng nhà, anh dừng lại, anh nâng tay cô lên, dùng tay còn lại đặt nhẹ lên mu bàn tay của cô và nói:
+	- Sáng mai anh sẽ xuất phát sớm để đi Bắc Đô, em ở nhà chăm chỉ học tập nhé, nếu gặp khó gì thì báo cho anh biết.
+	
+	Cô im lặng một lúc rồi nhẹ nhàng nói "Vâng!", anh buông tay cô ra rồi bật đèn flash soi co cô mở cửa cổng và vào trong nhà. Hai người tạm biệt mà lòng đầy lưu luyến...
+	
 
 	
