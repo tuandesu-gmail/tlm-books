@@ -1,264 +1,4 @@
 
-#### **2. Năm Thứ 4: Bước Đệm Chiến Lược — Dự Án Quốc Gia Về Mạng 3G**
-
-	* **Bối cảnh:** Thay vì ra trường đi làm doanh nghiệp ngay hoặc học lên Thạc sĩ thông thường, Phong Vũ được tuyển chọn tham gia vào **Dự án Nghiên cứu & Phát triển Hạ tầng Mạng 3G Quốc gia** — nơi quy tụ các Giáo sư, Chuyên gia hàng đầu Trung Châu và các đối tác quốc tế.
-	* **Giá trị cho Phong Vũ & Mạch truyện:**
-	* *Nắm giữ "Hạ tầng tương lai":* 1 năm ăn ngủ cùng dự án 3G giúp anh hiểu sâu sắc về hạ tầng viễn thông, băng thông và truyền tải dữ liệu — "vũ khí ngầm" củng cố tuyệt đối cho đế chế Thương mại Điện tử (TMĐT) và Công nghệ mà anh sẽ xây dựng ở tuổi 22+.
-	* *Mở rộng mối quan hệ tầng cao:* Giúp anh tiếp xúc với các chuyên gia đầu ngành, giới quan chức công nghệ và các tập đoàn viễn thông lớn, chuẩn bị cho vị thế đàm phán thương trường sau này.
-
-	-----------------------------------------------------
-	
-	Outline phân đoạn này:
-	
-	---
-	
-	Dưới đây là bản tổng hợp chi tiết, hoàn chỉnh và logic nhất về toàn bộ mạch truyện giai đoạn **11 tháng tham gia Dự án 3G Quốc gia của Phong Vũ (22 – 23 tuổi)**, kéo dài tới khoảnh khắc anh đón Nhược Vũ và Tuyết Mai tại ga tàu Bắc Đô:
-
-	---
-
-	## **TỔNG HỢP MẠCH TRUYỆN: 11 THÁNG DỰ ÁN 3G & BƯỚC NGOẶT BẮC ĐÔ**
-
-	### **1. Khủng hoảng "10 ngày sinh tử" & Màn bùng nổ của Phong Vũ (Tháng thứ 3)**
-
-	* **Áp lực thượng tầng:** Đến tháng thứ 3, dự án 3G gặp điểm nghẽn kỹ thuật nghiêm trọng về tốc độ truyền tải và độ trễ dữ liệu. Phía Chính phủ ra phán quyết khắt khe: Nếu trong 10 ngày không giải quyết được sẽ sa thải toàn bộ 5 người đứng đầu dự án (bao gồm Thứ trưởng Bộ TT&TT Lâm Kim Ngọc và Trưởng khoa Công nghệ ĐH Thanh Châu).
-	* **Lời kêu gọi & Giải pháp 3 ngày:** Các sếp buộc phải công bố cuộc khủng hoảng và kêu gọi toàn bộ thành viên tìm hướng xử lý. Sau 3 ngày quan sát, Phong Vũ (22 tuổi) nhận ra bế tắc nằm ở tư duy lối mòn (cố dùng phần cứng đắt đỏ thay vì tối ưu phần mềm). Anh lặng lẽ dùng ngôn ngữ cấp thấp (C/Assembly) viết lại toàn bộ thuật toán nén và định tuyến dữ liệu cốt lõi.
-	* **Sự giải thoát & Vị thế "Ân nhân":** Báo cáo 15 trang kèm source code chạy thử thành công rực rỡ (băng thông tăng $300\%$, độ trễ giảm $75\%$). Dàn sếp lớn mừng như điên, ôm chổm lấy Phong Vũ. Anh trực tiếp cứu nguy cho sự nghiệp của giới chức trách cấp cao, nhận thưởng nóng đợt 1 là **1 triệu Kim Tệ** (100K USD) và được đặc cách tự do tuyệt đối trong phòng nghiên cứu.
-
-	---
-
-	### **2. Mối quan hệ công việc với Lâm Hiểu Khánh & Chiếc mô-tô đêm**
-
-	* **Nữ kỹ sư Mỹ về & Sự kính phục:** Ái nữ của Thứ trưởng — Lâm Hiểu Khánh (tốt nghiệp loại ưu tại Đại Mỹ quốc, cá tính mạnh mẽ, thích mặc đồ da bó sát tôn dáng phong cách sci-fi viễn tưởng) từ chỗ tự tôn đã hoàn toàn bị chinh phục bởi tài năng kiệt xuất của Phong Vũ.
-	* **Luyện Tiếng Anh & Những chuyến xe đêm:** Nhận thấy Phong Vũ chỉ còn chút điểm yếu về phát âm tiếng Anh giao tiếp chuẩn, cô chủ động lấy cớ hướng dẫn anh phát âm để tạo thời gian riêng tư. Những đêm OT muộn, cô hướng dẫn anh đi chiếc mô-tô phân khối lớn đen nhám, cả hai lướt đi vun vút trên đường phố Bắc Đô vắng lặng và cùng ăn đêm tại quán nhỏ ven đường.
-	* **Sự ngộ nhận ngẫu nhiên:** Phong Vũ đối xử với ai cũng lịch sự, bình đẳng, điềm nhiên và không tà tâm. Nhưng do đặc thù công việc khiến tần suất ở bên Hiểu Khánh cao vượt trội, cộng với việc xung quanh hoàn toàn vắng bóng các bóng hồng khác, Hiểu Khánh ngầm tin rằng cô đang giữ một vị trí vô cùng đặc biệt và duy nhất trong lòng anh.
-
-	---
-
-	### **3. Dấu ấn Thương trường: Đề án Đại lý & Dự án cùng Mã Bất Phàm**
-
-	* **Chuyên gia Harvard & Nhãn quan vĩ mô:** Phong Vũ kết giao thân thiết với Mã Bất Phàm (tốt nghiệp Khoa Kinh tế ĐH Harvard, phụ trách chiến lược tiếp cận thị trường hơn 1 tỷ dân).
-	* **Đề xuất chiến lược Phân phối & Gói cước:** Phong Vũ đưa ra đề án táo bạo:
-	* *Đa dạng đại lý:* Mở rộng từ đại lý online đến các điểm chạm offline bình dân (bưu điện, cửa hàng tạp hóa, hiệu sách, quán trà đá ven đường như thẻ điện thoại trả trước).
-	* *Linh hoạt gói cước:* Đa dạng thời hạn (ngày/tuần/tháng) và gói combo tích hợp 3G + nghe gọi/SMS.
-
-
-	* **Mô hình đại lý Online (POC) thành công rực rỡ:** Để chứng minh tính khả thi, Phong Vũ (lo kỹ thuật, máy chủ chịu tải cao) cùng Mã Bất Phàm (lo chiến lược, đàm phán nhà mạng) tự thành lập Đại lý Online phân phối thẻ cào 3G. Mô hình bùng nổ doanh số, giúp Phong Vũ kiếm thêm **hơn 2 triệu Kim Tệ** lợi nhuận.
-
-	---
-
-	### **4. Tổng kết Dự án 11 tháng & Nền tảng Tài chính**
-
-	* **Hoàn thành trước hạn 1 tháng:** Dự án thành công mỹ mãn chỉ trong **11 tháng** (rút ngắn 1 tháng so với dự kiến). Phong Vũ nhận thêm đợt thưởng nóng thứ 2 là **1 triệu Kim Tệ**.
-	* **Bức tranh tài chính (Hơn 4 triệu Kim Tệ):**
-	* *3 triệu Kim Tệ:* Trích ra giữ nguyên làm quỹ vốn khởi nghiệp công ty TMĐT sau này.
-	* *Hơn 1 triệu Kim Tệ còn lại:* Dành cho chi tiêu cá nhân, đăng ký tên miền chiến lược, gửi về sửa sang nhà cửa báo hiếu bố mẹ ở quê, và chuẩn bị chu đáo cho Nhược Vũ lên Bắc Đô.
-
-
-	* **Tĩnh lặng nội tâm:** Dù sống giữa phù hoa, tốc độ và dòng tiền của Bắc Đô, đêm muộn ở KTX, Phong Vũ vẫn giữ thói quen mở Email lắng nghe file âm thanh tiếng đàn Cổ Cầm mộc mạc từ xóm núi. Trái tim anh hoàn toàn kiên định, không bị chao đảo bởi bất kỳ cám dỗ hay hình bóng nào.
-
-	---
-
-	### **5. Hướng đi của Nhược Vũ & Tuyết Mai ở quê**
-
-	* **Tuyết Mai chọn Đại học Sư phạm Quốc gia:** Tuyết Mai từng đạt Giải 3 môn Toán cấp tỉnh, nhưng cô tự nhận thức được giới hạn của bản thân trước các "quái vật học thuật" ở Thanh Châu và không có hoài bão lớn về sự nghiệp. Cô quyết định thi vào **Khoa Toán - ĐH Sư phạm Quốc gia** để hướng tới cuộc sống bình yên và tiếp tục đồng hành cùng bạn thân.
-	* **Nhược Vũ tự vươn lên nghịch cảnh:** Áp dụng phương pháp "tâm lĩnh thần hội" do Phong Vũ gợi mở và sự nỗ lực kiên cường vượt qua thiếu thốn về bối cảnh xóm núi, Nhược Vũ chính thức thi đỗ vào **Khoa Văn hóa Nghệ thuật - ĐH Sư phạm Quốc gia**.
-
-	---
-
-	### **6. Đại kết cục 11 tháng: Ngày hội ngộ tại Ga tàu Bắc Đô**
-
-	* **Chia tay KTX:** Phong Vũ thu dọn hành lý, chuẩn bị sẵn chiếc laptop mới mua cho Nhược Vũ. Lâm Hiểu Khánh đến chia tay trong sự lưu luyến và niềm tin ngầm rằng cô đã chiếm trọn vị trí đặc biệt trong lòng anh. Phong Vũ đáp lại bằng sự trân trọng mực thước của một đồng nghiệp tốt.
-	* **Sân ga Bắc Đô:** Dự án kết thúc trước 1 tháng vừa vặn trùng với thời điểm các tân sinh viên đổ về thủ đô. Phong Vũ (23 tuổi, bảnh bao, chững chạc, mang phong thái của một doanh nhân trẻ giàu có và có mối quan hệ thượng tầng) đứng chờ sẵn tại sân ga.
-	* **Cuộc gặp gỡ:** Bước xuống tàu là hai cô gái xóm núi giản dị: Nhược Vũ dịu dàng, thuần khiết và Tuyết Mai rạng rỡ. Phong Vũ bước đến, tự nhiên cầm lấy hành lý giúp hai em, mỉm cười chào đón. Khoảng cách địa lý ngàn dặm xóm núi – Bắc Đô chính thức được xóa bỏ, mở ra một chương mới đầy hứa hẹn!
-
-
-
-	--------------------------------
-	
-	Dưới đây là bản tổng hợp chi tiết toàn bộ nội dung đối thoại, sự phát triển tâm lý và diễn biến mối quan hệ giữa **Phong Vũ** với hai tài năng du học trở về — **Lâm Hiểu Khánh** và **Mã Bất Phàm** — từ giai đoạn Dự án 3G Quốc gia đến đỉnh cao sự nghiệp sau này:
-
-	---
-
-	### **1. PHONG VŨ & LÂM HIỂU KHÁNH: TỪ SỰ NGỘ NHẬN Sweet Tragic ĐẾN VỊ TRÍ CTO BỀN VỮNG**
-
-	#### **A. Bối cảnh & Tương tác trong 11 tháng Dự án 3G**
-
-	* **Nữ kỹ sư Mỹ về & Chiếc mô-tô đêm:** Lâm Hiểu Khánh (ái nữ Thứ trưởng Lâm Kim Ngọc) sở hữu tài năng kỹ thuật đỉnh cao, phong cách cá tính (lái mô-tô phân khối lớn đen nhám, trang phục da bó sát). Ban đầu tự tôn, cô hoàn toàn bị chinh phục khi chứng kiến Phong Vũ giải quyết dứt điểm điểm nghẽn thuật toán 3G trong cuộc khủng hoảng 10 ngày.
-	* **Môi trường & Tần suất giao tiếp:** Do đặc thù công việc OT liên tục, hai người ở bên nhau $12-14$ tiếng/ngày. Hiểu Khánh dùng cớ chỉnh phát âm tiếng Anh giao tiếp chuẩn Mỹ cho Phong Vũ để tạo không gian riêng; cả hai cùng lướt xe mô-tô trên phố đêm vắng lặng và ăn đêm tại quán nhỏ ven đường.
-
-	#### **B. Nội dung đối thoại chi tiết**
-
-	* **Xã hội & Xu hướng công nghệ Mỹ:** Phong Vũ chủ động khai thác góc nhìn của Hiểu Khánh về văn hóa tiêu dùng, nhịp sống giới trẻ và các xu hướng công nghệ mới nổi tại Mỹ (mạng xã hội sơ khai, thói quen mua sắm trực tuyến...). Anh coi cô là "cửa sổ tri thức" để hiểu sâu tâm lý người dùng.
-	* **Cuộc thảo luận về Bill Gates:**
-	* **Phong Vũ gợi mở:** Quan sát tư chất kỹ thuật và gia thế của cô, anh hỏi liệu cô có từng nghĩ đến việc trở thành một *"Bill Gates phiên bản nữ"* — dùng công nghệ để xây dựng một đế chế phần mềm cho riêng mình hay không.
-	* **Hiểu Khánh trả lời sắc bén:** Cô thẳng thắn chỉ ra: *"Em thấy Bill Gates đúng là thiên tài công nghệ, nhưng thành công rực rỡ của ông ấy phần nhiều lại đến từ tài năng kinh doanh, tầm nhìn chiến lược và sự quyết đoán tàn nhẫn trong những thời khắc quyết định. Những thứ thuộc về thương trường này em không có, và em cũng không muốn theo đuổi."* Cô khẳng định bản thân chỉ muốn giữ sự thuần khiết với mã nguồn và kiến trúc thuật toán.
-
-
-
-	#### **C. Diễn biến tâm lý & Di sản mối quan hệ**
-
-	* **Sự ngộ nhận của Hiểu Khánh:** Nhìn thấy Phong Vũ vừa giỏi thuật toán (kỹ thuật), lại vừa nhạy bén thương trường (kinh doanh) — đúng là những thứ Bill Gates có mà cô thiếu — Hiểu Khánh tin rằng anh chính là "mảnh ghép hoàn hảo" của đời mình. Cô ngầm tin bản thân nắm giữ vị trí đặc biệt duy nhất trong lòng anh vì thấy anh luôn vui vẻ, tự nhiên khi ở bên cô (dù thực chất Phong Vũ đối xử bình đẳng với tất cả mọi người, và lòng anh đã kiên định hướng về Nhược Vũ).
-	* **Thức tỉnh & Định vị tương lai:** Khi Nhược Vũ xuất hiện tại Bắc Đô, Hiểu Khánh nhận ra sự thật và chấp nhận buông bỏ tình cảm cá nhân. Cô trở thành **Co-founder / CTO (Giám đốc Công nghệ)** nắm giữ **20% cổ phần** công ty TMĐT, phụ trách toàn bộ hệ thống R&D và hạ tầng máy chủ.
-
-	---
-
-	### **2. PHONG VŨ & MÃ BẤT PHÀM: TỪ TRI KỶ THƯƠNG TRƯỜNG ĐẾN LIÊN MINH CHÍNH TRỊ - KINH TẾ**
-
-	#### **A. Cơ duyên kết giao & Mô hình phân phối thẻ 3G**
-
-	* **Bối cảnh:** Mã Bất Phàm tốt nghiệp Khoa Kinh tế Đại học Harvard, phụ trách chiến lược tiếp cận thị trường 1 tỷ dân cho dự án 3G. Bất Phàm chấn động trước tài năng code cấp thấp của Phong Vũ và nhanh chóng nhận ra nhãn quan hệ sinh thái kiệt xuất của anh.
-	* **Mô hình Đại lý Online (POC):** Để chứng minh cho Ban dự án về chiến lược phủ sóng 3G (từ online đến quán tạp hóa, trà đá offline), cả hai bắt tay thành lập Đại lý Online phân phối thẻ cào 3G. Phong Vũ lo hạ tầng kỹ thuật chịu tải cao, Bất Phàm lo đàm phán hạn mức nhà mạng và quản trị dòng tiền. Dự án bùng nổ, mang về cho Phong Vũ hơn 2 triệu Kim Tệ lợi nhuận.
-
-	#### **B. Nội dung đối thoại chi tiết**
-
-	* **Kinh tế chính trị & Dòng tiền Toàn cầu:** Phong Vũ chủ động thảo luận với Bất Phàm về thể chế kinh tế chính trị Mỹ, chính sách tiền tệ, mô hình quỹ đầu tư mạo hiểm (Venture Capital) và cách vận hành của Wall Street để chuẩn bị tư duy quản trị cho công ty TMĐT tương lai.
-	* **Cuộc thảo luận về Warren Buffett & Bill Gates:**
-	* **Phong Vũ gợi mở về Buffett:** Nhìn cách Bất Phàm phân tích cấu trúc tài chính, Phong Vũ hỏi liệu hình mẫu anh hướng tới có phải là Warren Buffett — dùng tư duy giá trị và nhãn quan tài chính để điều phối dòng tiền toàn cầu.
-	* **Bất Phàm bộc bạch tham vọng:** Bất Phàm đáp rằng anh thích hình mẫu kinh doanh của Bill Gates hơn, nhưng đưa ra tuyên bố quan trọng: *"Kinh tế và tài chính chỉ là bước đệm. Điều anh thực sự quan tâm và muốn hướng tới chính là **chính trị**. Anh dự định trong tương lai, khi có đủ tiềm lực tài chính và uy tín, sẽ tìm thời cơ thích hợp để nhảy vào chính trường."*
-	* **Đồng điệu chiến lược:** Phong Vũ kết luận việc kết hợp sức mạnh dòng tiền/tài chính với nền tảng công nghệ số trên thị trường 1 tỷ dân sẽ tạo nên một đế chế chưa từng có.
-
-
-
-	#### **C. Diễn biến mối quan hệ & Bệ phóng chính trường**
-
-	* **Bộ óc tài chính của Đế chế:** Bất Phàm trở thành **Co-founder / CFO & Trưởng ban Chiến lược** nắm giữ **25% cổ phần** công ty TMĐT, sát cánh cùng Phong Vũ (nắm $55\%$ cổ phần chi phối) biến công ty thành tập đoàn công nghệ số hàng đầu.
-
-	---
-
-	### **3. VÒNG QUAY SỐ PHẬN: BỘ SẬU KIỀNG 3 CHÂN & BƯỚC NGOẶT TUỔI 42**
-
-	1. **Cuộc hôn nhân giữa Bất Phàm & Hiểu Khánh:**
-	Trong quá trình kề vai sát cánh vận hành tập đoàn, tư duy chiến lược/tài chính của Bất Phàm (25%) và sự thuần khiết kỹ thuật của Hiểu Khánh (20%) đã thu hút lẫn nhau. Hiểu Khánh tìm thấy ở Bất Phàm sự quyết đoán và tầm vóc mà cô ngưỡng mộ. Hai người bén duyên và kết thành vợ chồng, giúp bộ sậu sáng lập ($55\% - 25\% - 20\%$) trở thành một khối liên kết tuyệt đối bền vững.
-	2. **Nấc thang Chính trường năm 42 tuổi:**
-	Đến năm 42 tuổi, khi Phong Vũ đã là "trùm cuối" đứng đầu đế chế TMĐT khổng lồ, anh gặp lại người bạn thời đại học là **Trương Thăng Quan** (người có chí hướng và năng lực quan lộ). Phong Vũ đứng ra làm cầu nối, giới thiệu Bất Phàm kết giao cùng Trương Thăng Quan.
-
-	Với bệ phóng tài chính hùng hậu từ $25\%$ cổ phần tập đoàn, Bất Phàm cùng Trương Thăng Quan chính thức dấn thân vào chính trường, tạo thành liên minh **"Kinh tế - Công nghệ (Phong Vũ) & Chính trị - Thượng tầng (Bất Phàm - Trương Thăng Quan)"** hoàn hảo.
-	
-	---
-	
-	Tôi đính chính 1 chút:
-
-	Mặc dù mơ ước thủa thiếu thời của Phong Vũ giống hệt Bất Phàm, tức là trở thành thương nhân giàu có rồi sau đó trở thành chính trị gia kiệt xuất có năng lực "thay triều đổi đại" (ước nguyện của nguyên chủ cũ, không phải của Võ thần), nhưng theo thời gian, Phong Vũ dần dần dấn thân vào con đường võ đạo, sau đó bước vào tu luyện Đại Pháp năm 40 tuổi thì đến 42 tuổi anh không còn ý định tham gia chính trường nữa. Khi đó anh chỉ đóng vai trò như người bạn, người quân sư ẩn danh hiến kế cho Thăng Quan và Bất Phàm.
-
-
-
-	-------------------------------
-	
-	Dưới đây là tổng hợp chi tiết toàn bộ nội dung bàn về **mối quan hệ, sự tương thông tâm hồn và các tuyến giao tiếp giữa Phong Vũ và Nhược Vũ** trong khoảng thời gian 11 tháng (1 năm) Phong Vũ tham gia Dự án 3G Quốc gia tại Bắc Đô:
-
-	---
-
-	### **1. ĐIỂM CHẤC & KHOẢNG LẶNG: CHUYẾN VỀ QUÊ NGHỈ TẾT NGUYÊN ĐÁN**
-
-	* **Bối cảnh:** Sau khi kết thúc giai đoạn 1 với cuộc khủng hoảng kỹ thuật "10 ngày" và nhận khoản thưởng đợt đầu (1 triệu Kim Tệ), Ban dự án tạm nghỉ Tết (khoảng $7-10$ ngày). Phong Vũ từ chối lời mời ăn Tết của Lâm Hiểu Khánh và giới thượng tầng Bắc Đô để khoác balo về lại xóm núi.
-	* **Hình ảnh & Hành trang:**
-	* Phong Vũ rời bỏ bộ vest phẳng phiêu, không khí công nghệ hiện đại khô khan của Bắc Đô để trở về với khói bếp, làn mưa bụi và hoa đào rừng xóm núi.
-	* Anh mang theo tiền báo hiếu sửa nhà cho bố mẹ, cùng những món quà chuẩn bị riêng cho Nhược Vũ và Tuyết Mai (sách tham khảo luyện thi Cao Khảo, dụng cụ học tập cao cấp, trong đó có bộ tiểu thuyết *"Vạn dặm đường xa"* tặng riêng Nhược Vũ).
-
-
-	* **Cuộc gặp gỡ dịu dàng:**
-	* Không ồn ào hay phô trương, hai người cùng đi dạo trên con đường làng hoặc ngồi bên bếp lửa ngày Tết. Sự xuất hiện của Phong Vũ mang lại sự an tâm tuyệt đối cho Nhược Vũ trước kỳ thi nước rút.
-	* Anh trực tiếp hướng dẫn, giảng giải cho cô những điểm khó trong môn Văn hóa - Nghệ thuật, củng cố niềm tin và định hướng cho cô thi vào ĐH Sư phạm Quốc gia.
-
-
-
-	---
-
-	### **2. MẠNG LƯỚI GIAO TIẾP QUA EMAIL: "CẦU NỐI TRI KỶ GIỮA HAI TÂM HỒN"**
-
-	Sau nghỉ Tết, Phong Vũ trở lại Bắc Đô làm tiếp 6 tháng còn lại (vừa chạy dự án vừa cùng Mã Bất Phàm vận hành Đại lý Online). Khoảng cách địa lý giữa Bắc Đô và xóm núi được nối liền bằng hệ thống Email đêm.
-
-	#### **A. Danh nghĩa hỗ trợ học tập & Định hướng tri thức**
-
-	* Phong Vũ dùng danh nghĩa "người anh đi trước" gửi cho Nhược Vũ các tài liệu R&D, bài luận văn hóa nghệ thuật thu thập từ thư viện Thanh Châu.
-	* Anh giúp cô định hướng tư duy cảm thụ nghệ thuật sâu sắc, không bị lối mòn gượng ép.
-
-	#### **B. Chia sẻ cảm ngộ Văn học, Triết học & Đời sống**
-
-	* **Từ phía Nhược Vũ:**
-	* Cô gửi cho anh những góc nhìn về tác phẩm văn học kinh điển, những cảm ngộ khi đọc cuốn *"Vạn dặm đường xa"* mà anh tặng, cùng **các file ghi âm tiếng đàn Cổ Cầm** do chính cô tấu vào đêm muộn — chiếc "liều thuốc chữa lành" giúp Phong Vũ giải tỏa mọi áp lực công việc.
-		
-
-	* **Từ phía Phong Vũ:**
-	* Anh phản hồi bằng tư duy bao quát (sự kết hợp giữa logic thuật toán và sự từng trải).
-	* Anh chia sẻ về nhịp sống đô thị Bắc Đô vội vã và khuyến khích cô giữ nguyên sự thuần khiết: *"Thế giới ngoài này chuyển động rất nhanh, nhưng chính sự tĩnh lặng trong tiếng đàn của em mới là thứ giúp anh giữ được bản ngây ban đầu."*
-
-
-
-	---
-
-	### **3. ĐỈNH CAO ĐỒNG ĐIỆU TÂM HỒN QUA ÂM NHẠC & MÀN ĐÊM**
-
-	#### **A. Ca khúc "Nocturne" (Secret Garden) & Khung cảnh đêm tĩnh lặng**
-
-	* **Cơ duyên:** Trong một đêm OT muộn tại phòng lab Bắc Đô, Phong Vũ nghe được bản nhạc *Nocturne* và lập tức nghĩ đến Nhược Vũ. Anh chép lại lời bài hát kèm bản dịch thơ ngẫu hứng gửi Email cho cô.
-	* **Cảm ngộ của Nhược Vũ:**
-	* Nhược Vũ nhận ra giai điệu vĩ cầm trầm buồn của *Nocturne* không hề mang nét bi lụy hay tiêu cực, mà đó là **cái buồn u nhã, thanh cao và mang sắc thái vỗ về (Healing Melancholy)**.
-	* Lời bài hát xem màn đêm không phải là sự cô đơn tăm tối mà là chiếc chăn nhung êm ái (*"It embraces your heart and your soul"*), và hứa hẹn một bình minh mới (*"When the dark night delivers the day"*).
-	
-	---
-
-		Now let the day
-		Just slip away
-		So the dark night may watch over you
-		Velvet blue
-		Silent true
-		It embraces your heart and your soul
-		Nocturne
-
-		Never cry, never sigh
-		You don’t have to wonder why
-		Always be, always see
-		Come and dream the night with me
-		Nocturne
-
-		Have no fear
-		When the night draws near
-		And fills you with dreams and desire
-		Like a child asleep
-		So warm, so deep
-		You will find me there waiting for you
-		Nocturne
-
-		We will fly, claim the sky
-		We don’t have to wonder why
-		Always be, always see
-		Come and dream the night with me
-		Nocturne.
-
-		Though darkness lay
-		It will give way
-		When the dark night delivers the day
-		Nocturne 
-
-		(lưu ý: khi đưa vào truyện thì chỉ trích 3-4 câu tiêu biểu, không trích toàn bộ cả bài)
-
-		----
-
-
-	* **Sự tương thông về "Tần số":**
-	* Khung cảnh đêm tĩnh lặng trong bài hát chính là **không gian tâm hồn chung** của cả hai. Dù Phong Vũ ở Bắc Đô hoa lệ còn Nhược Vũ ở xóm núi, nhưng khi đứng trong khung cảnh đêm tĩnh lặng ấy, tâm hồn họ hoàn toàn hòa quyện, gắn kết và tương thông.
-	* Nhược Vũ hứa sẽ dùng đàn Cổ Cầm chuyển thể lại giai điệu *Nocturne* để tấu cho anh nghe khi hai người gặp lại tại Bắc Đô.
-
-	* Về sau Nhược Vũ ghi âm cô hát bản mộc không nhạc bài hát Nocturne và gửi cho anh.
-
-
-	---
-
-	### **4. TÁC ĐỘNG TÂM LÝ & Ý NGHĨA MẠCH TRUYỆN**
-
-	1. **Chiếc "Mỏ neo" Tâm cảnh cho Phong Vũ:**
-	Giữa chốn phù hoa Bắc Đô — nơi có sự vây quanh của Lâm Hiểu Khánh (mô-tô, bar đêm, sự ngộ nhận "mảnh ghép hoàn hảo") và sự cuộn chảy của dòng tiền cùng Mã Bất Phàm — những lá email giản dị, tiếng đàn Cổ Cầm và tư duy tĩnh lặng từ Nhược Vũ chính là chiếc mỏ neo giữ cho tâm cảnh Phong Vũ luôn điềm nhiên, không bị cám dỗ hay biến chất.
-	2. **Hình tượng Tình yêu Tri kỷ (Platonic & Soulmate):**
-	Tình cảm giữa hai người không cần những lời thề thốt mãnh liệt hay sự vội vã thể xác, mà dựa trên sự thấu hiểu ở tầng tư tưởng, văn hóa và nghệ thuật.
-	3. **Tiền đề cho ngày hội ngộ tại Ga Bắc Đô:**
-	Sau 11 tháng, khi Nhược Vũ thi đỗ xuống tàu tại ga Bắc Đô, không cần những cái ôm ồn ào, chỉ cần một ánh mắt trao nhau giữa dòng người hối hả, họ đã lập tức tái lập lại "khung cảnh tĩnh lặng và tương thông" ấy.
-
-	---
-
-	*(Về phần bài thơ hoa sen, bạn cứ thong thả suy nghĩ và trau chuốt thêm theo ý đồ sáng tác của mình nhé! Khi nào cần tinh chỉnh hay phát triển tiếp phân đoạn nào, bạn cứ chia sẻ).*
-
-==================================================
 
 
 DƯỚI DÂY LÀ PHÁC THẢO CHI TIẾT CHO PHÂN ĐOẠN 1 NĂM PHONG VŨ THAM GIA DỰ ÁN 3G:
@@ -266,7 +6,7 @@ DƯỚI DÂY LÀ PHÁC THẢO CHI TIẾT CHO PHÂN ĐOẠN 1 NĂM PHONG VŨ THAM
 	----------------------------------
 	
 	
-	Sáng hôm sau, Phong Vũ dậy sớm. Vào mùa hè thì tầm 6h sáng trời đã sáng rõ đường rồi, Phong Vũ nhờ em gái trở lên thị trấn cách nhà mấy km, rồi từ thị trấn bắt xe ô tô khách lên trung tâm tỉnh, rồi từ trung tâm tỉnh ngồi tàu hỏa tới Bắc Đô.
+	Sáng hôm sau, Phong Vũ dậy sớm. Vào mùa hè thì tầm 6h sáng trời đã sáng rõ đường rồi, Phong Vũ nhờ em gái chở lên thị trấn cách nhà mấy km, rồi từ thị trấn bắt xe ô tô khách lên trung tâm tỉnh, rồi từ trung tâm tỉnh ngồi tàu hỏa tới Bắc Đô.
 	
 	Lúc đi qua đầu ngõ, anh thấy bóng dáng người con gái quen thuộc đang đứng bên vệ đường. Anh dừng xe và đi bộ vài bước đến gần cô, cô nhìn anh với ánh mắt dịu dàng rồi đưa cây chút bi trong tay về phía anh và nói:
 	- Tặng anh này!
@@ -274,27 +14,27 @@ DƯỚI DÂY LÀ PHÁC THẢO CHI TIẾT CHO PHÂN ĐOẠN 1 NĂM PHONG VŨ THAM
 	Anh mỉm cười nhận lấy cây bút, gật đầu nhè nhẹ và nói: 
 	- Anh đi đây.
 	
-	Phong Vũ quay lại xe máy và tiếp tục đèo Tuyết Mai đi tiếp. Tuyết Mai ngồi phía sau xe không nói gì, chỉ nháy mắt tinh quái với Nhược Vũ một cái đồng thời dơ ngón tay cái lên.
+	Phong Vũ quay lại xe máy và tiếp tục đèo Tuyết Mai đi tiếp. Tuyết Mai ngồi phía sau xe không nói gì, chỉ nháy mắt tinh quái với Nhược Vũ một cái đồng thời giơ ngón tay cái lên.
 	
 	Sau khi trở lại Bắc Đô, Phong Vũ nhanh chóng đến khu nhà làm trụ sở của dự án để làm thủ tục nhận việc. Anh được phân cho ở tại một căn phòng trong khu KTX dành cho một số nhân sự được ưu tiên của dự án, căn phòng rộng khoảng 24m2, cũng đầy đủ các đồ dùng cơ bản và có lắp đặt mạng Internet miễn phí. Ngoài ra anh được cấp cho một chiếc laptop đời mới và một số thiết bị khác dùng cho công việc. Đây tất cả chỉ là chút ưu tiên mà chính phủ dành cho các nhân tài trong quá trình tham gia dự án này. Khi kết thúc dự án thì phải hoàn trả lại.
 	
-	Khu KTX và khu văn phòng ở một khu được quy hoạch đồng bộ và rộng dãi, nó gần giống như một khu công viên công nghệ cao với đầy đủ dịch vụ khép kín như khu căng tin, khi cafe, campus, v.v.. Dự án này quy tụ số lượng nhân sự cực lớn, Phong Vũ cũng không rõ tổng số là bao nhiêu, nhưng chỉ tính riêng các nhân sự nòng cốt thuộc bộ phận kỹ thuật và kinh doanh của dự án này đã lên trên 200 người, trong đó hầu như ai ai cũng là nhân vật nổi bật như giáo sư, tiến sĩ ở các trường ĐH hàng đầu cùng những kỹ sư giàu kinh nghiệp ở một số doanh nghiệp công nghệ và mấy chục các sinh viên ưu tú mới tốt nghiệp.
+	Khu KTX và khu văn phòng ở một khu được quy hoạch đồng bộ và rộng rãi, nó gần giống như một khu công viên công nghệ cao với đầy đủ dịch vụ khép kín như khu căng tin, khi cafe, campus, v.v.. Dự án này quy tụ số lượng nhân sự cực lớn, Phong Vũ cũng không rõ tổng số là bao nhiêu, nhưng chỉ tính riêng các nhân sự nòng cốt thuộc bộ phận kỹ thuật và kinh doanh của dự án này đã lên trên 200 người, trong đó hầu như ai ai cũng là nhân vật nổi bật như giáo sư, tiến sĩ ở các trường đại học hàng đầu cùng những kỹ sư giàu kinh nghiệm ở một số doanh nghiệp công nghệ và mấy chục các sinh viên ưu tú mới tốt nghiệp.
 	
 	Chủ trì dự án này là Bộ Thông tin và Truyền thông, và Thứ trưởng Lâm Kim Ngọc được giao vai trò trưởng dự án. Khi Phong Vũ tham gia vào dự án thì dự án cũng đã đi vào hoạt động được khoảng 2 tháng rồi, anh thuộc diện nhóm nhân sự được bổ sung đợt cuối cho dự án. Dự án cũng có nam có nữ, nhưng nam vẫn chiến đa số tới khoảng 60%. Anh cũng nhanh chóng làm quen với mọi người và lao vào công việc.
 	
 	Đội kỹ thuật tính ra cũng gần 100 người, ngồi chung trong một tầng làm việc rộng khoảng 2.000m2, với đầy đủ tiện nghi tốt nhất như một văn phòng hiện tại ở Đại Mỹ quốc. Công việc đội kỹ thuật vấn tiếp tục tiến triển thuận lợi, nhưng 1 tháng sau kể từ khi Phong Vũ tham gia dự án (tức là khoảng 3 tháng kể từ ngày dự án bắt đầu) thì một tổ kỹ thuật phải khó khăn kỹ thuật chưa sử lý được. Sau 1 tuần loay hoay vẫn không có kết quả nên sự việc được báo lên Trưởng dự án, cũng là vị Thứ trưởng Lâm Kim Ngọc. Đây là vấn đề liên quan đến tốc độ truyền tải và độ trễ dữ liệu 3G, mà đây thuộc về vấn đề cốt lõi, nếu không giải quyết được thì án sẽ thất bại. Sau một hồi cân nhắn, Thứ trưởng Kim Ngọc quyết định cho tổ kỹ thuật thêm 1 tuần nữa để xử lý. 
 
-	Kết quả sau một tuần vẫn không có tiến triển gì. Thứ trưởng Kim Ngọc buộc phải báo cáo sự việc lên cấp trên. Cuối cùng phía Chính phủ ra phán quyết khắt khe: Nếu trong 10 ngày sau không giải quyết được vấn đề này thì sẽ sa thải toàn bộ 5 người đứng đầu dự án (bao gồm Thứ trưởng Bộ TT&TT Lâm Kim Ngọc và Trưởng khoa Công nghệ ĐH Thanh Châu).
+	Kết quả sau một tuần vẫn không có tiến triển gì. Thứ trưởng Kim Ngọc buộc phải báo cáo sự việc lên cấp trên. Cuối cùng phía Chính phủ ra phán quyết khắt khe: Nếu trong 10 ngày sau không giải quyết được vấn đề này thì sẽ sa thải toàn bộ 5 người đứng đầu dự án (bao gồm Thứ trưởng Bộ TT&TT Lâm Kim Ngọc và Trưởng khoa Công nghệ đại học Thanh Châu).
 	
 	Tình huống này khiến các lãnh đạo dự án lo lắng như kiến bò trong trảo lửa. Ban quản trị dự án lập tức triệu tập cuộc họp để tìm phương án xử lý. Hàng loạt biện pháp được đưa ra, trong đó có quyết định toàn thể gần 100 nhân viên thuộc đội kỹ thuật, bất kể đang thuộc tiểu tổ nào, đều phải lao vào nghiên cứu vấn đề này trong vòng 10 ngày tới.
 	
-	Mệnh lệnh được ban ra, mọi người đều tỏ ra căng thẳng khi nhận thấy tính hệ trọng của việc này. Một cô nàng sinh đẹp thuộc tiểu tổ đang gặp phải vấn đề này đại diện tiểu tổ đó đứng lên giải thích cụ thể vấn đề cho tất cả mọi người biết. Nàng chính là Lâm Hiểu Khánh, ái nữ của Thứ trưởng Lâm Kim Ngọc, vừa mới tốt nghiệp loại ưu của một trường ĐH hàng đầu của Đại Mỹ quốc trở về, nàng tuyệt đối là một đại mỹ nhân. 
+	Mệnh lệnh được ban ra, mọi người đều tỏ ra căng thẳng khi nhận thấy tính hệ trọng của việc này. Một cô nàng sinh đẹp thuộc tiểu tổ đang gặp phải vấn đề này đại diện tiểu tổ đó đứng lên giải thích cụ thể vấn đề cho tất cả mọi người biết. Nàng chính là Lâm Hiểu Khánh, ái nữ của Thứ trưởng Lâm Kim Ngọc, vừa mới tốt nghiệp loại ưu của một trường đại học hàng đầu của Đại Mỹ quốc trở về, nàng tuyệt đối là một đại mỹ nhân. 
 	
 	Phong Vũ cũng không ngoại lệ, được cấp trên lôi vào cùng mọi người điều tra nguyên nhân và tìm giải pháp xử lý vấn đề kỹ thuật này. Anh dành 3 ngày nghiên cứu, hôm nào cũng cùng mọi người OT đến hơn 12h đêm, anh thảo luận rất nhiều với Hiểu Khánh để nắm bắt tình hình được rõ hơn.
 	
 	Đến ngày thứ 4, Phong Vũ đã nhận ra vấn đề: nguyên nhân nằm ở tư duy lối mòn khi cố dùng phần cứng đắt đỏ thay vì tối ưu phần mềm. Anh đã lặng lẽ dùng ngôn ngữ cấp thấp gần với ngôn ngữ máy để sửa lại thuật toán nén và định tuyến dữ liệu cốt lõi. Cuối cùng kết quả test đã rất thành công, anh báo cáo kế quả lên cấp trên. Mọi người biết được tin tức đều nhao nhao chạy đến xem tình hình, anh đề nghị một cuộc để anh trình bày chi tiết phương án mình đã thực hiện và demo thực tế.
 	
-	Kết quả anh trình bày rất thuyết phục, bản demo chạy mượt, mọi người vô cùng vui mừng, nhất là các thành viên đừng đầu dự án, bao gồm cả Thứ trưởng Kim Ngọc. Không nhân viên nào ở đây biết ông vui đến mức nào, bởi họ không biết được rằng, nếu sau 10 này vấn đề này không được giải quyết thì sự nghiệp của 5 người đứng đầu sẽ tan thành mây khói. Ông liên tục mỗ mỗ vào vai Phong Vũ khen anh không hết lời. 
+	Kết quả anh trình bày rất thuyết phục, bản demo chạy mượt, mọi người vô cùng vui mừng, nhất là các thành viên đừng đầu dự án, bao gồm cả Thứ trưởng Kim Ngọc. Không nhân viên nào ở đây biết ông vui đến mức nào, bởi họ không biết được rằng, nếu sau 10 này vấn đề này không được giải quyết thì sự nghiệp của 5 người đứng đầu sẽ tan thành mây khói. Ông liên tục vỗ vỗ vào vai Phong Vũ khen anh không hết lời. 
 	
 	Còn con gái ông, Lâm Hiểu Khánh thì vừa cảm kích vừa phục tài năng ký thuật của anh, bởi vì anh không chỉ cứu bố cô và còn cứu cả cô nữa, bởi vì tiểu tổ của cô chính là nhóm phụ trách chính công việc liên quan trực tiếp đến vấn đề này. Để cảm ơn anh, cô mời anh sau giờ họp đi ăn tối. Và cũng nhờ vào Phong Vũ mà tôi nay mọi người đều không phải OT muộn nữa.
 	
@@ -303,9 +43,9 @@ DƯỚI DÂY LÀ PHÁC THẢO CHI TIẾT CHO PHÂN ĐOẠN 1 NĂM PHONG VŨ THAM
 	
 	Phong Vũ chỉ mìm cười nhẹ cảm ơn sự ưu ái của các vị lãnh đạo. Sau đó anh rời văn phòng để đi ăn tối cùng Hiểu Khánh.
 	
-	Ở cổng tòa nhà văn phòng dự án, Hiểu Khánh đang đứng dựa vào chiếc mô-tô phân phối lớn chờ anh. Cô ăn mặc quần áo da bó sát người, nhìn rất giống phong cách các nhân vật nữ trong các phim khoa học viễn tưởng của Đại Mỹ quốc. Thấy anh đi ra, cô vẫy vẫy tay gọi. Biết anh lần đầu đi xe phân phối lớn kiểu này, cô hướng dẫn qua cho anh rồi bảo anh ngồi trước lái xe đèo cô. Hôm nay cô thực sự rất vui, như trút bỏ được gánh nặng đang đè lên tâm trí cô mấy tuần nay, nên khi ngồi sau xe thi thoảng cô còn to ra rất phấn khích, lúc thì hét to, lúc thì dang 2 cánh tay sang 2 bên như muốn bay lên.
+	Ở cổng tòa nhà văn phòng dự án, Hiểu Khánh đang đứng dựa vào chiếc mô-tô phân khối lớn chờ anh. Cô ăn mặc quần áo da bó sát người, nhìn rất giống phong cách các nhân vật nữ trong các phim khoa học viễn tưởng của Đại Mỹ quốc. Thấy anh đi ra, cô vẫy vẫy tay gọi. Biết anh lần đầu đi xe phân khối lớn kiểu này, cô hướng dẫn qua cho anh rồi bảo anh ngồi trước lái xe đèo cô. Hôm nay cô thực sự rất vui, như trút bỏ được gánh nặng đang đè lên tâm trí cô mấy tuần nay, nên khi ngồi sau xe thi thoảng cô còn to ra rất phấn khích, lúc thì hét to, lúc thì dang 2 cánh tay sang 2 bên như muốn bay lên.
 	
-	Hai người lượn lời trên xe phân phối lớn khoảng hơn 1 tiếng mới đến điểm ăn tối mà cô đặt trước. Thật ra đường không xa đến như vậy, nhưng vì cô muốn tẩn hưởng cảm giác trên xe nên cô chỉ đường cho Phong Vũ đi lòng vòng một hồi rồi mới chỉ đến chỗ ăn tối. Đó là một quán ăn khá sang trọng, có nhiều phòng bao riêng. Khi cô và anh đến nơi thì được nhân viên dẫn đến một phòng bao rộng rãi trên tầng 3, có cửa sổ nhìn ra mặt hồ. 
+	Hai người lượn lời trên xe phân khối lớn khoảng hơn 1 tiếng mới đến điểm ăn tối mà cô đặt trước. Thật ra đường không xa đến như vậy, nhưng vì cô muốn tẩn hưởng cảm giác trên xe nên cô chỉ đường cho Phong Vũ đi lòng vòng một hồi rồi mới chỉ đến chỗ ăn tối. Đó là một quán ăn khá sang trọng, có nhiều phòng bao riêng. Khi cô và anh đến nơi thì được nhân viên dẫn đến một phòng bao rộng rãi trên tầng 3, có cửa sổ nhìn ra mặt hồ. 
 	
 	Sau khi hai người ngồi vào chỗ ngồi thì cũng đã tầm 9h tối rồi. Cô đưa menu cho anh và nói:
 	- Em đã gọi đặt trước một số món để họ chuẩn bị trước rồi, nhưng vẫn cần gọi thêm các món khác. Anh hãy gọi vài món anh thích đi.
@@ -341,10 +81,10 @@ DƯỚI DÂY LÀ PHÁC THẢO CHI TIẾT CHO PHÂN ĐOẠN 1 NĂM PHONG VŨ THAM
 	
 	Hôm sau, đến văn phòng, tin tức anh được thưởng nóng 1 triệu Kim Tệ được công bố rộng rãi, mọi người xung quanh tuy có chút ghen tỵ nhưng đa phần cũng đến chúc mừng anh. Ngoài ra, anh được điều động vào tiểu tổ kỹ thuật nòng cốt, chính là tiểu tổ nơi Hiểu Khánh đang làm.
 	
-	Công việc tiếp tục thuận lợi tiến triển. Đến khoảng 1 tháng sau thì hầu hết các vấn đề kỹ thuật đã được nghiên cứu và giải quyết xong. Trong 1 tháng này, người ta thường xuyên bắt gặp Hiểu Khánh ở bên cạnh Phong Vũ. Trong giờ hành chính thì hai người thường xuyên trao đổi to nhỏ, vẻ mặt hiếm khi nghiêm túc. Nguyên do là bây giờ 2 người không những ở cùng tiểu tổ kỹ thuật, mà chỗ ngồi cũng sát nhau. Còn ngoài ra hành chính thì lúc đi cafe, lúc đi ăn tối, mà khi ra ngoài thì luôn cùng ngồi trên chiếc xe mô-tô phân phối lớn của cô. Mà ngoài mối quan hệ đồng nghiệp thân thiết, vì thấy anh phát âm tiếng Anh chưa được nuột lắm, nên cô chủ động đề nghị dùng tiếng Anh khi hai người nói chuyện với nhau, cả ở trong văn phòng hay đi ra ngoài phố chơi đêm. 
+	Công việc tiếp tục thuận lợi tiến triển. Đến khoảng 1 tháng sau thì hầu hết các vấn đề kỹ thuật đã được nghiên cứu và giải quyết xong. Trong 1 tháng này, người ta thường xuyên bắt gặp Hiểu Khánh ở bên cạnh Phong Vũ. Trong giờ hành chính thì hai người thường xuyên trao đổi to nhỏ, vẻ mặt hiếm khi nghiêm túc. Nguyên do là bây giờ 2 người không những ở cùng tiểu tổ kỹ thuật, mà chỗ ngồi cũng sát nhau. Còn ngoài ra hành chính thì lúc đi cafe, lúc đi ăn tối, mà khi ra ngoài thì luôn cùng ngồi trên chiếc xe mô-tô phân khối lớn của cô. Mà ngoài mối quan hệ đồng nghiệp thân thiết, vì thấy anh phát âm tiếng Anh chưa được nuột lắm, nên cô chủ động đề nghị dùng tiếng Anh khi hai người nói chuyện với nhau, cả ở trong văn phòng hay đi ra ngoài phố chơi đêm. 
 	
-	Qua khoảng hơn 2 tháng quen biết nhau, cô cảm thấy mối quan hệ giữa hai người cực kỳ thân thiết, nói chuyện rất hợp gu về mọi linh vực mà cô quan tâm, dường như chỉ thiếu mỗi chủ đề tương đối nhậy cảm mà cô và anh đều chưa từng đề cập đến. Cô biết, nhiều đồng nghiệp trong dự án đã thì thầm to nhỏ nói họ đang là một đôi. Đôi lúc cô trực tiếp nghe được các đồng nghiệp bàn tán vậy, nhưng cô cũng không phủ nhận hay khảng định. Một phần là để xem Phong Vũ phản ứng thế nào, một phần cũng là để chính cô nhìn lại xem cảm xúc của mình đang như thế nào, và một phần khác cũng là để xem có bóng hồng nào khác xuất hiện "thể hiện chủ quyền" hay không. Cô nghĩ rằng, một người ưu tú và đẹp trai như anh, với 3 năm học ở ĐH Thanh Châu, thì hẳn sẽ nhận được không ít sự quan tâm của các người đẹp. Vì vậy, trong một hôm đi ăn vặt buổi đêm, cô chủ động nói:
-	- Nghe nói khi ở ĐH Thanh Châu anh cũng cực kỳ nổi bật! Chắc hẳn cũng nhận được không ít sự ưu ái của các người đẹp?!
+	Qua khoảng hơn 2 tháng quen biết nhau, cô cảm thấy mối quan hệ giữa hai người cực kỳ thân thiết, nói chuyện rất hợp gu về mọi linh vực mà cô quan tâm, dường như chỉ thiếu mỗi chủ đề tương đối nhậy cảm mà cô và anh đều chưa từng đề cập đến. Cô biết, nhiều đồng nghiệp trong dự án đã thì thầm to nhỏ nói họ đang là một đôi. Đôi lúc cô trực tiếp nghe được các đồng nghiệp bàn tán vậy, nhưng cô cũng không phủ nhận hay khảng định. Một phần là để xem Phong Vũ phản ứng thế nào, một phần cũng là để chính cô nhìn lại xem cảm xúc của mình đang như thế nào, và một phần khác cũng là để xem có bóng hồng nào khác xuất hiện "thể hiện chủ quyền" hay không. Cô nghĩ rằng, một người ưu tú và đẹp trai như anh, với 3 năm học ở đại học Thanh Châu, thì hẳn sẽ nhận được không ít sự quan tâm của các người đẹp. Vì vậy, trong một hôm đi ăn vặt buổi đêm, cô chủ động nói:
+	- Nghe nói khi ở đại học Thanh Châu anh cũng cực kỳ nổi bật! Chắc hẳn cũng nhận được không ít sự ưu ái của các người đẹp?!
 	
 	Anh thản nhiên nói:
 	- Cái đó là đương nhiên rồi!
@@ -394,14 +134,334 @@ DƯỚI DÂY LÀ PHÁC THẢO CHI TIẾT CHO PHÂN ĐOẠN 1 NĂM PHONG VŨ THAM
 	- Hừm, thôi đi nào, hãy nghiêm túc đi!
 	
 	Phong Vũ thản nhiên không lạnh không nóng nói:
-	- Tôi thực đang rất nghiêm túc đấy. Người khác có thể nghĩ đến những chuyện cao xa, còn tôi thì nghĩ trước hết phải tự lo được cho thân mình đã, nếu thân mình chưa lo xong thì sao dám bàn chuyện thiên hạ.
+	- Tôi thực đang rất nghiêm túc đấy. Người khác có thể nghĩ đến những chuyện quốc gia đại sự, còn tôi thì nghĩ trước hết phải tự lo được cho thân mình đã, nếu thân mình chưa lo xong thì sao dám bàn chuyện thiên hạ.
 	
 	Lời nói ngắn gọn khó mà diễn đạt hết ý, có lẽ Bất Phàm đọc được bài hùng biện của anh tại cuộc thi hùng biện mấy tháng trước thì anh ta mới hiểu rõ ý tứ mà Phong Vũ muốn nói.
 	
-	Hai người nói thêm vài câu rồi trở về chỗ làm. Hai ngày sau đó họ lại gặp lại ở căng tin.
+	Hai người nói thêm vài câu rồi trở về chỗ làm. 
 	
-	...
+	Hai ngày sau đó ở căng tin, khi Phong Vũ đang ngồi ăn chung bàn với Hiểu Khánh thì anh nhìn thấy Bất Phàm đang bưng khay đồ ăn và tìm chỗ ngồi, anh vẫy vẫy tay vời Bất Phàm đến ngồi chung bàn. Bất Phàm nhìn thấy anh gọi thì đi đến, nhưng khi đến nơi thì nhận ra cũng có Hiểu Khánh đang ngồi đó nên anh hỏi nửa đùa nửa thật:
+	- Tôi không làm phiền hai bạn chứ?!
+	
+	Hiểu Khánh chỉ lườm nhẹ anh một cái rồi không nói gì, còn Phong Vũ tự vui vẻ nói "Phiền gì đâu" rồi mời anh ngồi. Chiếc bàn ăn này hình vuông, Hiểu Khánh đang ngồi bên cạnh bên phải Phong Vũ, còn Bất Phàm thì ngồi xuống phía đối diện anh. Phong Vũ nói:
+	- Hai người chắc quen biết nhau rồi chứ? Có cần tôi giới thiệu không?
+	
+	Bất Phàm nói:
+	- Còn giới thiệu gì chứ?! Khi bọn tôi du học bên Đại Mỹ quốc, dù học khác trường nhưng tôi cũng có vài dịp vinh hạnh được diện kiến Lâm đại tiểu thư rồi!
+	
+	Hiểu Khánh liếc Bất Phàm một cái rồi đá nhẹ chân dưới bàn. Có vẻ như 2 người trước kia có thể chưa quá thân mật, nhưng hẳn là cũng không xa lạ gì nhau, và dường như đang có một chút khúc mắc nho nhỏ giữa 2 người.
+	
+	Phong Vũ thấy vậy thì nói:
+	- Oh, vậy thì không cần khách sáo thêm nữa.
+	
+	Ba người vừa ăn vừa nói chuyện một lúc, không khí cũng khá tự nhiên. Phong Vũ hỏi:
+	- Hai người có vẻ như đã là bạn bè thân quen lâu năm, sao làm chung một dự án lâu vậy mà tôi không nhìn thấy 2 bạn nói chuyện cùng nhau lần nào?
+	
+	Bất Phàm nói:
+	- Chúng tôi vẫn thi thoảng có dịp ngồi cafe với nhau, nhưng hơn một tháng gần đây hai người lúc nào cũng như hình với bóng, tôi nào dám làm phiền chứ?!
+	
+	Nghe vậy, Hiểu Khánh cũng không phản ứng gì. Thực ra hồi ở bên Đại Mỹ quốc, cô cũng có chút hảo cảm với Bất Phàm, nhưng do một lần 2 người hẹn nhau để đi tham quan một điểm du lịch nhưng tên tiếng Anh của điểm đó phát âm có chút nhầm lẫn, nên người chờ một nơi người đến một ngả khiến hai người không gặp nhau, mà điện thoại của cô lại hết pin, nên cô cho rằng anh không nghiêm túc, dám cho cô "leo cây" khiến cô vừa bực vừa phản cảm. Sự việc sau đó được giải thích rõ ràng và cô cũng không giận dỗi gì nữa, nhưng sau đó vì nhiều lsy do chủ quan khách quan khác nhau mà hai người chưa có dịp "hẹn hò" lại.
+	
+	Phong Vũ nghe vậy thì cười vui vẻ nói:
+	- Phiền gì chứ, chúng ta đều là đồng nghiệp cả. Mà tôi còn đang có ý muốn giới thiểu cho Hiểu Khánh vài mối tốt để cô ấy thêm bạn thêm vui, ra ngoài đón nắng đón gió, chứ một cô gái xinh đẹp như này mà suốt ngày ngồi ôm bàn phím trong phòng lạnh thì sao được?! Lâu như vậy mãi, nếu chẳng bụng phệ như mấy bà thím U50 thì mắt cũng sẽ lồi ra như mắt cá vàng...
+	
+	Nghe vậy, Hiểu Khánh trừng mắt bặm môi rồi lấy chân đá nhẹ vào chân Phong Vũ một cái.
+	
+	Hai người lại vui vẻ vừa ăn vừa nói chuyện, lúc này Phong Vũ nói:
+	- Hai bạn có ý tưởng gì về việc triển khai phủ sóng hệ thống mạng 3G toàn quốc và chiến lược kinh doanh chưa? Tôi nghĩ đây là những vấn đề hết sức quan trọng của dự án, nếu làm không tốt thì dữ án rất dễ thất bại, mà deadline "nộp bài" thì sếp Kim Ngọc đã nói rõ là Thứ Hai tuần sau rồi.
+	
+	Hiểu Khánh chỉ nhẹ lắc đầu tỏ ý không quan tâm, cứ như ngày mai trời có sập xuống thì cũng là chuyện của người khác, chẳng liên quan đến cô. Cô nói:
+	- Các anh cứ nói cao kiến đi, tôi chỉ hóng chuyện thôi!
+	
+	Còn Bất Phàm nói:
+	- Về việc triển khai lắp đặt hệ thống trạm tiếp sóng 3G để phủ rộng toàn quốc thì tôi chưa dành thời gian nghĩ đến, nhưng về chiến lược kinh doanh thì tôi đã có một phương án!
+	
+	Phong Vũ nghiêm túc lắng nghe nói:
+	- Không ngại thì anh nói qua thử coi?
+	
+	Bất Phàm nhẹ gật đầu rồi nói:
+	- Tôi cho rằng hệ thống mạng 3G này vốn nhà nước đang độc quyền, chưa có công ty tư nhân nào có đủ tiềm lực nhảy vào để cạnh tranh, mà nếu họ có đủ lực thì cũng không dám nếu không được chính phủ bật "đèn xanh" cho phép. Do vậy, xét về lý thì chẳng sớm thì muộn mạng 3G sẽ phổ biến toàn dân. Nhưng nếu chúng ta làm chậm chạp, giả sử 10 hay 20 năm sau mới phổ cập được 3G thfi thế giới có thể khi đó đã phổ cập xong mạng 4G hay thậm chí là 5G rồi. Vì vậy, phía chính phủ đưa ra yêu cầu phải đưa ra phương án kinh doanh khả thi để nhanh chóng phổ cập mạng 3G cũng là có lý trong đó.
+	
+	Anh nói tiếp:
+	- Nhưng bằng cách nào? Tôi cho rằng không thể dựa vào hơn 100 nhân sự thuộc bộ phận kinh doanh này đi bán hàng trực tiếp được, kể cả có tuyển thêm 1.000 hay 3.000 nữa cũng khó khả thi trong thời gian ngắn, mà còn khó quản lý nhân sự, chi phí lại tăng. Cho nên phương án của tôi là dựa vào hẹ thống có sẵn: đó là tất cả các cửa hàng, các siêu thị, các bưu điện, các hiệu sách, các cây xăng, thậm chí cả các tiệm cafe hay trà đá ven đường. Chúng ta mời họ làm đại lý, trích % hợp lý cho học, không cần bắt họ bỏ vốn, cũng không cần bắt họ ôm hàng ế. Như vậy, khi người dân có nhu cầu, họ có thẻ chỉ mất vài bước chân là có thể mau được thẻ cào 3G để nạp rồi.
+	
+	Nghe đến đây, Phong Vũ đập tay vào đùi mạnh một cái rồi nói:
+	- Hay đấy! đây cũng chính là cách tôi cũng đang nghĩ đến! Nó cũng chính là giống hệt một trong 2 ý tưởng mà tôi đề xuất lên trên để giải bài toán xây dựng số lượng lớn trạm tiếp sóng 3G toàn quốc, đó là dựa vào hệ thống các trạm viễn thông hiện có để triển khai, như vậy sẽ tiết kiệm được rất nhiều thời gian và chi phí. Ngoài ra tôi còn đề xuất chính phủ nên huy động cả quân đội nhảy vào giúp sức trong khâu lắp đặt thiết bị, như vậy thì dự án sẽ không lo thiếu nhân sự nữa.
+	
+	Bất Phàm nghe vậy cũng đập đùi "đen đét" khen hay. Rồi Phong Vũ lại nói tiếp:
+	- Còn vể mảng kinh doanh, ngoài phương án anh vừa nói đến, thì tôi còn có một ý tưởng nữa, đó là bán qua kênh online! Tức là chúng ta sẽ xây dựng một website bán thể 3G online, khi khách hàng thanh toán thì mã số sẽ được tự động gửi vào điện thoại của khách hàng qua tin nhắn SMS. Hơn nữa, để đáp ứng cho nhiều đối tượng khách hàng khác nhau, chúng ta nên thiết kế nhiều gói cước khác nhau: dung lượng data, thời giạn sử dụng, số tiền, rồi gộp chung vào với phí gọi điện và SMS hay không, v.v...
+	
+	Nghe đến đây, cả Bất Phàm và Hiểu Khánh đều hô lên tiếng "Hay!", Bất Phàm thì vẫn vỗ mạnh vào đùi, còn Hiểu Khánh thì đập mạnh bàn tay lên mặt bàn. Lúc này, cả Phong Vũ và Bất Phàm cũng có chút bất ngờ với phản ứng của cô rồi cả hai đều quay sang nhìn cô như muốn dò hỏi gì đó. Cô điều chỉnh tư thế ngồi rồi ra hiệu co hai người lại gần rồi cô nói nhỏ:
+	- Em sẽ xây dựng một website bán các gói 3G này, ngài mai sẽ có thể chạy demo kỹ thuật!
+	
+	Nghe vậy, cả Phong Vũ và Bất Phàm đều tỏ ra vui mừng. Sau đó mọi người ngồi thêm hơn tiếng nữa để thảo luận chi tiết ý tưởng rồi thống nhất các yêu cầu cụ thể cho website này để Hiểu Khánh bắt tay vào làm luôn. Đển hết ngày hôm sau, Hiểu Khánh gọi Phong Vũ và Bất Phạm đến để cô demo kết quả, cả hai xem xong đều rất hài lòng. Sau đó 3 người thống nhất để Bất Phàm soạn chi tiết thành phương án để đề xuất lên trên.
+	
+	Đến ngày Thứ Bảy cuối tuần, Thứ trưởng Kim Ngọc triệu tập cuộc họp 5 thành viên cao nhất trong dự án tại phòng riêng của ông. Ông nói:
+	- Tôi đã xem qua tất cả các ý tưởng để xuất lên rồi, nhưng xét đi xét lại thì chỉ có hai ý tưởng của Phong Vũ và Bất Phàm là tôi thấy phù hợp nhất. Các vị chắc cũng nhận được email họ gửi rồi chứ? Các vị thấy sao!
+	
+	Các thành viên khác đều gật gù tán thành, nhưng nghĩ một lúc thì có một vị nói:
+	- Cả hai đề xuất này thực sự rất khá, tuy vậy tôi đang thấy vẫn có 2 điểm rất quan trọng mà họ chưa tính đến, đó là: Thứ nhất, về ý tưởng huy động quân đội hỗ trợ của Phong Vũ, tuy là rất hay, nhưng cũng cần phía chính phủ đồng ý. Giả sử họ không đồng ý thì ý tưởng đó tan thành mây khói. Thứ hai, về ý tưởng mở rộng hệ thống đại lý rộng khắp theo cả hình thức online và offline của Bất Phạm cũng rất hay, nhưng vấn đề mấu chốt tôi cho rằng là chúng ta nên trích bao nhiêu % cho các đại lý là hợp lý? Vấn đề này cũng phải để phía chính phủ phê duyệt mới được.
+	
+	Mọi người cùng gật gù đồng ý. Cuối cùng họ gọi cả Phong Vũ và Bất Phàm lên và hỏi hai người có bổ sung gì thêm hoặc có phản biện hoặc có phương án dự phòng nào khác không? Cả hai chỉ nói là họ muốn các sếp cho phép họ lập một website để bán các gói 3G như một đại lý thực thụ, mục đích là để chứng minh mô hình này thực sự có tính khả thi cao, và khi thành công sẽ là hình mẫu cho các đại lý khác. Mấy vị lãnh đạo cáo già nghe qua là biết mấy tên nhóc này đang có ý đồ kinh doanh riêng, nhưng cũng là điều hợp tình hợp lý nên họ nhanh chóng vui vẻ đồng ý. 
+	
+	Ba ngày sau, phía chỉnh phủ phản hồi là hoàn toàn chấp thuận các phương án của Phong Vũ và Bất Phàm đề xuất. Riêng với % hoc hồng trích cho đại lý thì phía chính phủ cũng không đưa ra con số cụ thể, mà nói rằng trong giai đoạn thử nghiệm khoảng 3 tháng đầu tiên thì đội dự án tự quyết định % cao thấp khác nhau cho một vài đại lý nhỏ để thăm dò thị trường, sau đó căn cứ vào bối cảnh thực tế thì chính phủ sẽ có chỉ thị điều chỉnh cho phù hợp.
+	
+	Dự án đến giai đoạn này về cơ bản không còn áp lực nhiều như 4 tháng đầu nữa, mặc dù khối lượng công việc vẫn còn nhiều. Do vậy, tần suất mọi người phải OT muộn đã giảm đáng kể. Thứ trưởng Kim Ngọc còn có lần bảo Hiểu Khánh mời cả Phong Vũ và Bất Phàm đến nhà chơi. Trong lòng ông đều cực kỳ ưng ý 2 thanh niên này, không chỉ trên phương diện tài năng trong công việc, mà còn về phong thái, dáng dấp. Cho nên cũng ngầm tạo điều kiện thúc đẩy con gái ông chọn lấy một anh.
+	
+	Về phần Phong Vũ, sau hơn 2 tháng bận bận túi bụi vì công việc, anh không có nhiều thời gian hỏi thăm và hỗ trợ cho Nhược Vũ học hành. Nên tối nay sau khi tan sở và trở về khu KTX dành cho nhân viên nghỉ nghơi, anh điện hỏi thăm cô, sau đó gửi email trong đó chứa nhiều link tham khảo bổ ích cho việc học của cô. Khi gọi điện, hai người cũng không nói gì nhiều, thực ra anh gọi điện là để được nghe giọng nói của cô chứ không chú ý lắm đến nội dung. Giọng nói của cô có ngữ điệu cực kỳ ma mị, nhẹ nhàng và ngọt ngào, điều này ngay từ lần đầu gặp anh cũng đã cảm nhận được rồi. Cho nên khi gọi điện, anh cũng hay bảo cô kể những chuyện huyên thuyên vô bổ cũng được, ví dụ như chuyện ở trường, chuyện tranh luận với Tuyết Mai về cách dụng máy tính, hay chuyện thi thoảng cô ra đồng phụ giúp bố mẹ việc đồng áng, v.v... Hoặc đôi khi anh cũng hỏi cô về nội dung của các cuốn sách cô đọc, nói về các nhân vật trong truyện, hay về các nhân vật lịch sử. Anh nghe cô kể say sưa không biết chán, thi thoảng anh cũng chia sẻ cảm nghĩ của mình. Anh cũng nhận thấy cô có tiến bộ rõ rệt, cô chủ động đọc sách avf tìm tòi, và khi học cô cũng có cảm ngộ của riêng mình.
 
+	Thời gian cứ thế trôi đi, thi thoảng anh cũng liên hệ với vài người bạn vẫn còn đang theo học năm 4 ở đại học Thanh Châu. Có lần Tô Thanh Thảo gửi cho anh một email chứa chứa danh sách các bài hát tiếng Anh đang nổi tiếng, nói là để anh luyện tiếng Anh qua những bài hát. Vì vốn dĩ cả 2 người đều là sáng lập viên CLB Tiếng Anh ở trường, và cô cũng thường lấy cớ giúp anh học tiếng Anh mà chủ động liên lạc với anh một cách rất điềm nhiên. Anh reply email cảm ơn cô rồi cẩn thận mở từng bài hát để nghe. Có một số bài theo phong cách nhạc Pop, giai điệu khá dữ dội, nghe khá chói tai, không hiểu sao thanh niên bây giờ nhiều người lại thích các bài kiểu này, nhưng vì mục đích học tiếng Anh nên anh vẫn nghe đi nghe lại 2-3 lần mỗi bài, rồi đối chiếu với lời bài hát xem mình nghe chính xác ca từ được bao nhiêu %.
+	
+	Anh cứ tiếp tục nghe, hết bài này rồi chuyển bài khác, bỗng một giai điệu nhẹ nhàng vang lên, rồi một giọng nữ mềm mại cất tiếng hát, anh nghe chăm chú: "Now let the day... Just slip away... So the dark night may watch over you... Velvet blue... 	Silent true... It embraces your heart and your soul... Nocturne..."
+	
+	Anh nghe đi nghe lại bài này 3 lần liên tiếp, sau đó ở lần nghe thứ 4 thì vừa nghe vừa đối chiếu với ca từ của bài hát. Giai điệu bài hát thoáng nghe thì có cảm giác mang theo nỗi buồn và cô đơn, nhưng với anh thì anh cảm thấy nó không có nghĩa tiêu cực, mà là sự cô tịch, yên bình, ấm áp, tran hòa và gắn kết, đôi khi còn có cảm giác bay bổng và hạnh phúc. Anh nhìn lại phía trên chỗ tên bài hát và tác giả, anh thấy chữ "Nocturne (Secret Garden)", anh liền tìm trên Internet và biết được đây là bài hất cho ban nhạc Secret Garden sáng tác và biểu diễn, ban nhạc này rất nổi tiếng trong giới thượng lưu ở Tây Châu.
+	
+	Sau đó anh gửi link và lời bài hát này cho Nhược Vũ qua email.
+	
+	Thời gian cứ thế trôi qua, sau đó khoảng 3-4 ngày, khi khi tan sở, ăn uống và ở về khu KTX tắm giặt nghỉ ngơi. Lúc này cũng tầm hơn 10h đêm, anh mở laptop ra và check email cá nhân, anh nhìn thấy Nhược Vũ vừa reply email cho anh, anh mở ra, nội dung trong đó cô khen bài hát rất hay và dường như cô được trìm đắm trong bài hát đó, rồi cố nói cô gửi kèm email là bản ghi âm giọng cô hát bài này, chỉ là bản hát mộc không có nhạc đệm. Anh download file audio cô gửi kèm về máy và mở lên nghe.
+	
+	Anh nghe với tâm thế trân trọng và chăm chú, và rồi sau đó là sự kinh ngạc... Giọng hát của cô thật tuyệt vời, so với ca sĩ hát trong bản gốc thì giọng cô nhẹ hơn trong hơn, và đặc biệt chất giọng của cô nó thể hiện cảm xúc và tâm cảnh của nó, dường như cô thực sự sống trong bài hát đó... Từ lời ca từ từ vang lên, êm ái, trùng điệp, sâu lắng, xuyên thấu không gian và thời gian, gắn kết 2 tâm hồn, đan xen vào nhau hòa quyện vào nhau...
+	
+		"Now let the day... Just slip away... So the dark night may watch over you... Velvet blue... Silent true... It embraces your heart and your soul... Nocturne"
+
+		(...)
+
+		"Have no fear... When the night draws near... And fills you with dreams and desire... Like a child asleep... So warm, so deep... You will find me there waiting for you... Nocturne"
+	
+	Anh nghe say sưa và thất thần, rồi anh cảm nhận được cô đang tự sự với anh thông qua bài hát này, anh cảm thấy rất hạnh phúc, rất xúc động, và những giọt lệ đang trực chờ bên khoe mắt anh.
+
+	Thời gian tiếp tục trôi qua, công việc dự án càng ngày càng thuận lợi. Những trạm 3G đầu tiên nhanh chóng được triển khai, đầu tiên là tại chính Bắc Đô này, sau đó là các thành phố lớn khác. Và tất nhiên cái website làm đại lý chung cấp các gói 3G online của nhóm 3 người Phong Vũ cũng đi vào hoạt động, trong 1 tháng đầu vận hành thử nghiêm đã đem đến cho họ "tiền vào như nước", cứ đà này thì sau 3 tháng thì bọn họ kiếm được một khoản kha khá. Đổi với một doanh nghiệp lớn hoặc chính phủ thì số tiền đó cũng nhỏ như hạt cát, nhưng đối với 3 cá nhân trẻ tuổi vừa tốt nghiệp đại học được mấy tháng này thì sẽ là một con số rất ấn tượng.
+	
+	Lúc này thì thời gian đến Tết Nguyên Đán cổ truyền cũng cận kề, Phong Vũ quyết định trích 300 ngàn Kim Tệ từ 1 triệu tiền thưởng nóng máy tháng trước về cho bố mẹ sửa sang lại nhà cửa ở quê một chút. Rồi anh cũng nhờ bạn bè và tự mình cũng đi tìm một số sách và tài liệu học hành dành cho Nhược Vũ và Tuyết Mai. Trước ngày nghỉ Tết, anh đã tập hợp được một thùng lớn sách vở các loại, nhấc cả thùng lên cảm giác cũng phải nặng trên 30kg. Lúc này thì anh bỗng nghĩ nên việc nên mua quà gì về cho gia đình và Nhược Vũ. Nghĩ đi nghĩ lại cũng không biết mua gì, lượn lờ các siêu thị trong trung tâm Bắc Đô nửa ngày, cuối cùng anh quyết định chọn mua cho Nhược Vũ và Tuyết Mai mỗi người một chiếc đồng hồ nữ nhập ngoại, kiểu dáng chiếc đồng hồ cho Nhược Vũ thì khá đơn thuần nhưng trang nhã, còn cái cho Tuyết Mai thì mang nét cá tính và năng động hơn. Riêng đối với Nhược Vũ thì anh tìm mua riêng cho cô một chiếc vòng ngọc đeo tay, nghe chủ quán giới thiệu là đó là chiếc vòng Bạch Ngọc Hòa Điền dòng Ngọc Sơn, giá gần 1 vạn Kim Tệ. Anh cũng không am hiểu về ngọc, chỉ nhìn thấy khá đẹp mắt, màu sắc trắng trong suốt, có pha chút tạp màu, nhìn như những đám mây ngũ sắc trong đó. Thông thường, nếu ngọc bị lẫn tạp màu thì bị mất giá hơn, đôi khi nếu màu xấu quá còn bị xếp vào dạng phế phẩm, nhưng Phong Vũ thấy chỗ màu "tạp chất" đó lại khá phù hợp, nó như một họa tiết tinh tế tô điểm làm tăng vẻ đẹp của chiếc vòng. Ông chủ còn khéo nói, khen anh "biết nhìn hàng", rồi còn nói giá 9.999 Kim Tệ mang ý nghĩa "trường cửu". Phong Vũ nghe biết tỏng đây là chiêu bán hàng của ông chủ, nhưng cũng vui vẻ mua mà không cần mặc cả nửa câu. Còn đối với bố mẹ mình và người khác thì anh định dùng phong bao lì xì năm mới làm quà.
+	
+	Về phía Bất Phàm và Hiểu Khánh, do phát sinh thêm dự án website phân phối các gói 3G mà 3 người họ lập ra, nên dù vô tình hay hữu ý thì tần suất hai người ở bên nhau cũng nhiều hơn. Mà Phong Vũ thấy 2 người phối hợp giải quyết công việc rất tốt nên anh cũng không nhúng tay vào nhiều. Dần dần thì mọi người hay bắt gặp 2 người họ cùng ăn cơm trưa hoặc cùng cafe với nhau. Và đương nhiên sẽ xuất hiện các lời bàn tán đồn thổi, có người còn đoán già đoán non nói Phong Vũ bị Hiểu Khánh "đá" sau đó cô chuyển mục tiêu sang Bất Phàm, nói chung đủ loại bàn tán tinh linh tinh xuất hiện. Mà 3 người Phong Vũ thì cũng không để tâm những lời bàn tán này.
+	
+	---
+	
+	Ngày nghỉ Tết cũng đến, lần này Thứ trưởng Kim Ngọc quyết định cho mọi người được 7 ngày nghỉ Tết. Riêng Phong Vũ và một vài trường hợp đặc biệt khác, vì có công hiến nổi bật cho dự án, và cũng vì nhà ở xa Bắc Đô, nên ông đặc cách cho nghỉ 10 ngày liền. Vì thực ra tình huống trong dự án lúc này đã rất thuận lợi, chỉ cần triển khai công việc theo đúng kế hoạch là thành công mỹ mãn, do vậy, giả sử ông cho Phong Vũ nghỉ phép cả tháng thì cũng không lo lắng gì.
+	
+	Phong Vũ ôm thùng sách vừa to vừa nặng lên tàu về quê. Lúc này anh cảm giác thật khác biệt, một cảm giác mà trước nay anh chưa từng trải qua. Bởi vì trước kia mỗi lần về quê dịp nghỉ Tết hay nghỉ hè, anh thường chỉ mang 1 chiếc ba lô đựng đồ cá nhân theo, mà hâu như không có quà gì đem về. Mặc dù trong 3 năm học ĐH, anh thuộc diện được học bổng toàn phần nên không cần xin tiền từ bố mẹ cũng tạm đủ sống qua ngày, nhưng anh cũng không giúp được gia đình cái gì. Nhưng giờ đây thì khác, sau khoảng 6 tháng đi làm, anh đã có thể có chút thành tựu, khi đã gửi cho bố mẹ chút tiền để sửa nhà cửa đón Tết, rồi mua quà cho Nhược Vũ và em gái, rồi cả một xấp bao lì xì năm mới chuẩn bị sẵn. Nhìn lại mình anh có cảm giác có chút thành quả, phong thái càng toát lên vẻ đĩnh đạc thực chất, chứ không còn dáng vẻ tay trắng nói suông nữa.
+	
+	Chuyến tàu từ Bắc Đô đã đến ga trung tâm của tỉnh, anh xuống tàu và định chuyển sang bắt xe khách như mọi lần trước. Nhưng vì ngày Tết đông khách, mà anh lại ôm theo thùng đồ to tướng, nên đi xe khách sẽ không tiện, thậm chí nhiều chủ xe còn muốn bắt chẹt đòi thu thêm tiền hùng đồ. Cuối cùng sau một chút cân nhắc, anh chọn bắt xe taxi về quê. Từ trung tâm tỉnh về đến trị trấn gần nhà cũng tầm 150km, và từ thị trấn về đến nhà cũng thêm 5-6km nữa. Khi taxi còn cách nhà ước chừng 3-40km, Phong Vũ nhận được cuộc gọi của Tuyết Mai, cô hỏi: 
+	- Anh hai về đến đâu rồi để cô căn giờ lên thị trấn đón anh?
+	
+	Phong Vũ trả lời:
+	- Không cần em đón, cứ ở nhà đi!
+	
+	Tuyết mai có chút ngạc nhiên rồi tỏ ra hiểu ra điều gì cười ha hả nói:
+	- Anh hai giờ thực sự lợi hại rồi đấy! Đã hẹn với "người khác" ra đón rồi nên cho đứa em gái này ra rìa đúng không?! Chúc mừng anh nhé! Hi hi...
+	
+	Trong lòng cô hết sức vui mừng. Ngay từ đầu cô đã nửa kín nửa hở có thâm ý làm mối cho 2 người Phong Vũ và Nhược Vũ rồi, giờ phút này cô cảm thấy "đại sự đã thành", cũng cảm thấy mình có "chút thành tựu". Từ trước đến giờ cô tuy biết anh trai rất giỏi nhưng cô vẫn cho rằng anh trai chỉ giỏi về các môn Toán Lý Hóa hay Công nghệ thông tin, chứ cơ bản chỉ là loại "đầu đất" trong chuyện tình cảm. Vì vậy cô đôi khi còn lo lắng cho anh sau này chẳng biết có thể cưới được cô vợ tử tế hay không. Nhưng giờ thì ổn rồi, càng nghĩ cô càng cao hứng! 
+	
+	Nhưng khi cô đang cao hứng, muốn chọc ghẹo anh trai thêm vài câu, thì nghe thấy Phong Vũ nói:
+	- Ăn nói linh tinh! Lần này anh bắt taxi nên xe sẽ chở về tận nhà. Tý tuổi danh đã nghĩ linh tinh, tới đây mà không đỗ đại học thì ở nhà mà đi hót phân bò!
+	
+	Nghe anh trai nói vậy, Tuyết Mai cũng có phần mất hứng, ậm ừ vài câu rồi cũng tắt máy.
+	
+	Khoảng hơn 1h sau đó thì xe taxi cũng đưa Phong Vũ về đến đầu làng. Những cảnh sắc quen thuộc dần dần hiện ra trước mắt, anh có cảm giác khó tả khi nhìn cảnh vật trước mắt từ vị trí ghế phụ. Anh cảm thấy ngồi xe ô tô như này thật thú vị và anh nảy ra ý định sẽ cân đối tài chính để mua cho mình chiếc xe sớm nhất có thể, dù là xe cũ, chỉ cần nhìn tử tế chút là được rồi! Chẳng mấy chốc xe đã đến trước cổng nhà. Lúc này từ trong nhà bố mẹ và em gái nhìn thấy xe ô tô đỗ trước cổng là đoán được Phong Vũ đã về. Vào thời điểm này ô tô cũng chưa nhiều, nhất là ở một cũng quê nghèo thì có khi cả tháng mới nhìn thấy bóng dáng 1 chiếc ô tô vào làng.
+	
+	Anh bước xuống xe, còn tài xế cũng nhanh chân nhanh tay hạ giúp anh thùng sách từ trên xe xuống. Anh vừa chào bố mẹ và em gái, vừa tranh thủ thanh toán tiền xe cho tài xế. Khi tài xế đánh xe đi, anh thoáng ngước nhìn theo rồi quyết định, "Ra Tết nhất định phải dành thời gian đi học lấy bằng lái xe ngay!"
+	
+	Bố mẹ và em gái đón tiếp anh rất niềm nở, và rồi anh nhìn nhà cửa được sửa chữa khang trang sạch sẽ hơn anh càng thêm rất vui. Vào nhà nghỉ ngơi một lúc, Phong Vũ lấy từ trong ba lô ra một xấp tiền đưa cho mẹ và nói:
+	- Mẹ cầm ít tiền này đi sắp Tết, năm nay gia đình mình đốn Tết tươm tất hơn trước một chút!
+	
+	Thấy vậy, bà nói:
+	- Tiền lần trước con đưa cho bố mẹ sửa nhà thì vân còn thừa một ít, còn ở thành phố kiếm tiền hẳn là chẳng dễ dàng gì, hãy giữ lấy mà tiêu. Nếu kiếm được nhiều thì tích cóp dần mà mua căn nhà nhỏ ở Bắc Đô, sau này còn tính đến lấy vợ sinh con nữa!
+	
+	Nghe vậy Phong Vũ cười ha hả nói:
+	- Mẹ yên tâm, khoản nào ra khoản đó, chuyện tương lai thì con tính cả rồi!
+	
+	Nghe vậy thì bà hơi ngoẳng mặt sang chồng như thể muốn hỏi ý kiến của ông, ông chỉ nhẹ gật đầu rồi nói:
+	- Được rồi, bà cứ cầm đi! Phong Vũ giờ đã có phong thái của người lớn, có thể tự biết cân nhắc nặng nhẹ!
+	
+	Ngồi bên cạnh từ nãy tới giờ, Tuyết Mai bèn hỏi:
+	- Anh hai, có quà gì cho em không? Đứng nói là chỉ có mấy câu bút quyển vở làm quá nhé, cái đó em không thích đâu!
+	
+	Anh nghe vậy thì khẽ mỉm cười, thuận tay xoa đầu em gái một rồi nói:
+	- Được rồi, lần này sẽ có quà khác!
+	
+	Tuyết Mai vội nói:
+	- Em đã lớn rồi, không được xoa đầu em nữa! Mau lấy quà ra em xem nào!
+	
+	Anh đứng dậy lấy hôp quà từ túi ba lô ra rồi đưa cho Tuyết Mãi. Cô nhận được một cái hộp nhỏ vuông vức được làm bằng da với các chữ tiếng Anh nhìn rất sang trọng. Cô mở hộp quà ra, phân khính nói:
+	- Wow, một chiếc đồng hồ trời trang từ Tây Châu, cảm ơn anh hai!
+	
+	Cô ướm vào tay đeo thử, nâng lên hạ xuống ngắm ngía tỏ ra rất mãn nguyện. Anh bảo cô đeo hẳn vào để xem vòng dây có dài quá không để anh chỉnh lại cho vừa. Bố mẹ cô nhìn cảnh này cũng rất vui. Họ cũng không hiểu về các loại đồng hồ, nhưng nghe nói nếu là loại nhập khẩu từ phương Tây về thì nhất định là đồ chất lượng cao và giá cũng không rẻ.
+	
+	Tuyết Mai sau khi được anh trai sửa dây đeo cho vừa tay, lại một lần nữa ngắm ngía chiếc đồng hồ, mặt đầy vui vẻ, giống hệt lúc nhỏ được bố mẹ mua cho áo mới dịp Tết. Cô ngắm ngía một hồi rồi dường như nghĩ ra điều gì đó, ngẩng mặt lên nhìn anh trai nói:
+	- Anh hai, còn quà gì khác nữa thì đem ra cho em xem nào?!
+	
+	Phong Vũ nghiêm sắc mặt nói:
+	- Không có! Hết rồi! Con gái con đứa lớn rồi mà không biết lễ nghĩa gì cả! Nếu giả sử có nảy sinh lòng tham thì cũng phải biết tự kiềm chế chứ?!
+	
+	Tuyết Mai tỏ vẽ không hài lòng nói:
+	- Haizzz, nào em có nổi lòng tham gì đâu?! Chỉ là em hỏi thử em anh còn quà gì khác không thôi... Mà đừng nói với em là anh chỉ mua 1 món quà này thôi đấy nhé! Đừng quên là lần trước ai đã tặng anh cây chút vàng ngọc kia đấy!
+	
+	Lúc này Phong Vũ đã hiểu được ý tứ của em gái, anh lấy tay cốc nhẹ vào trán cô, nghiêm sắc mặt và nói:
+	- Lắm chuyện! Đi phụ giúp mẹ mua sắm đồ Tết đi!
+	
+	Tuyết Mai nghe vậy thì không phục, khuân mặt phụng phịu bước nhanh ra ngoài dùng mẹ đi sắm đồ Tết. Lúc này trong nhà còn 2 bố con vẫn ngồi bên bàn trà, anh rót cho bố một chén trà nóng rồi nói:
+	- Bố à, nhà mình mới sửa xong, nhưng nhìn khá trống trải. Con nghĩ nên chọn vài câu đối treo lên, ở giữa thì treo một hoành phi, như vậy thì sẽ tốt hơn. Bố thấy sao?
+	
+	Nghe vậy ông gật gù nói:
+	- Ừm, cái này được! Nhưng bố cũng không biết chữ nghĩa gì, hay con nghĩ thử xem nên chọn câu gì treo lên?
+	
+	Phong Vũ nói:
+	- Haizz, bố không thấy con suốt ngày chỉ biết đến mấy con số cộng trừ nhân chia hay sao, nào có văn hay chữ tốt gì?! Hay là thế này: Bố thử sang hỏi thăm bố của Nhược Vũ xem sao, con thấy nhà họ có theo rất nhiều câu đối hay. Nghe nói là họ có ông chú làm ở sở văn hóa trên tỉnh đã giúp họ chọn đấy! Mà bố và bố Nhược Vũ chẳng phải cũng là bạn học cũ sao, cũng nên nhân dịp Tết đến Xuân về mà sang thăm hỏi nhau chút chứ?!
+	
+	Nghe vậy, mắt ông hơi lóe lên chút rồi nghiêm sắc mặt nói:
+	- Thằng nhóc thối! Mày được đấy! 
+	
+	Nói rồi ông đứng dậy phất tay về phía Phong Vũ và nói:
+	- Nào, chúng ta sang bên đó luôn!
+	
+	Phong Vũ nghe vậy cũng hơi bất ngờ, anh nói:
+	- Đi luôn sao?! Vậy được, bố ra sân trước, con chạy ra ngay sau!
+	
+	Nói rồi anh nhanh chân đến lấy 2 hộp quà mang theo. Còn thùng sách to tướng anh chuẩn bị cho Nhược Vũ và Tuyết Mai thì cũng không vội, cứ để đó. Về chuyện câu đối, thực ra không phải anh không biết nên chọn câu đối nào, cũng không phải là anh không có ai để hỏi, mà kể cả không biết gì thì anh cũng có thể lên Internet tìm một lúc là ra đầy lựa chọn. Thâm ý của anh ở bề ngoài chỉ giản muốn bố mình sang thăm bạn cũ để xin tư vấn về câu đối, nhưng thực ra là tạo cơ hội giao lưu với bên kia để thân càng thêm thân thôi. Nhưng trò vặt này không qua mặt được bố anh, nhưng ông cũng không phản đối mà nhiệt tình ủng hộ.
+	
+	Nhà bây giờ đã có 2 chiếc xe máy, Tuyết Mai lái một chiếc đưa mẹ đi sắp đồ Tết, còn một chiếc khác thì anh sẽ lái đưa bố sang nhà Nhược Vũ. Hai bố con đèo nhau đến cổng nhà Nhược Vũ thì đã nhìn thấy bố cô vừa treo chiếc đèn lồng ở giữa cổng lên, đang ngắm ngắm ngía ngía. Nhận thấy có người đến, ông quay mặt ra nhìn thì nhận ra 2 bố con Phong Vũ vừa xuống xe, ông vội ra chào hỏi rất niềm nở, đúng như kiểu những người bạn thân thiết lâu năm mới trùng phùng. Thật ra thì hai ông vẫn thi thoáng gặp nhau qua loa, chỉ là đây là dịp năm mới và có Phong Vũ đến cùng nên không khí khác hẳn. Ông vồn vã mời 2 người vào nhà, đồng thời cũng gọi to vọng vào:
+	- Tiểu Vũ, nhà có khách đến thăm!
+	
+	Lúc này Nhược Vũ đang giúp mẹ mấy việc vặn trong bếp để chuẩn bị đón Tết. Vì bố không nói rõ khách là ai, nên khi nghe ông nói vậy thì cô cũng không nghĩ nhiều, có thể chỉ là muốn bảo cô chuẩn bị trà nước như thường lệ khi nhà có khách. Cô đứng dậy và ngó ngó ra sân thì thấy Phong Vũ đang cùng 2 người kia đang bước vào, cô vội chạy ra hiên nhà, bốn mắt lại nhìn nhau, hai người đều nhẹ mỉm cười, trong lòng đầy ấm áp, dù thời tiết hôm nay dưới 10 độ C nhưng họ dường như không cảm thấy lạnh. Hai ông bố dường như cũng biết ý, tự động kéo nhau ra ngồi góc bàn ở một bên hiên nhà, trò chuyện rôm rả, nói đủ thứ trên đời, nào là chuẩn bị đón Tết ra sao, nào là chăm sóc cây cảnh như thế nào, nào là hội hoa Xuân, nào là việc chuẩn bị tranh tài cờ tướng và cờ vây vào dịp đầu năm mới, v.v.. Họ hoàn toàn để mặc 2 bạn trẻ làm gì thì làm.
+	
+	Cùng lúc đó, sau khi chào hỏi xong, Nhược Vũ mời anh vào nhà. Mẹ cô thấy có khách thì cũng lên ngó một cái, thấy người đến là 2 bố con Phong Vũ thì bà cũng chỉ chào hỏi xã giao chút rồi lại lui vào bếp tiếp tục việc đang dở. Nhược Vũ mời anh ngồi xuống chiếc ghế cạnh cây đàn Cổ Cầm, cô lấy nước ấm mời anh uống, cũng không đi pha trà. Cô nhẹ nhàng nói:
+	- Anh đi đường từ xa về có mệt không?
+	
+	Anh trả lời: 
+	- Không sao, trên tàu hỏa anh cũng tranh thủ ngủ được một giấc.
+	
+	Nói xong anh huống một ụm nước ấm, rồi lấy từ túi xách ra 2 hộp quà vuông vắn hướng về phía Nhược Vũ và nói:
+	- Tặng em đó!
+	
+	Cô hơi ngạc nhiên và vui vẻ hỏi nhỏ:
+	- Cả hai món sao?
+	
+	Anh nhẹ gật đầu, mỉm cười nhìn cô đầy chìu mếm. Cô nhận lấy hai món quà, ôm chúng vào lòng và cảm thấy thật ấm áp. Thấy vậy anh nói:
+	- Em mở ra xem có hợp không?
+	
+	Cô trả lời luôn:
+	- Hợp ạ!
+	
+	Anh nói:
+	- Em chưa thử sao biết là hợp?!
+	
+	Cô chỉ nhẹ mỉm cười, đầu hơi xuống, tim đập loạn, mặt ửng hồng. Sau đó thì cô cũng đặt một hộp lên bàn và mở hộp còn lại ra. Cô kinh ngạc và vui vẻ nói:
+	- Wow, một chiếc vòng ngọc sao?
+	
+	Cô cầm lên ngắm ngắm ngía ngía cực kỳ thích thú, anh nói:
+	- Em đeo lên xem sao...
+	
+	Cô gật đầu rồi đeo chiếc vòng ngọc lên tay trái. Đeo xong cô lại ngắm ngía một lúc rồi cũng dơ lên cho Phong Vũ xem, cô nói:
+	- Rất đẹp đúng không anh?
+	
+	Anh trả lời:
+	- Em thấy hợp là được!
+	
+	Cô mỉm một lúc rồi nhẹ nhàng quay sang cầm chiếc hộp còn lại lên và hỏi:
+	- Còn đây là quà gì ạ?
+	
+	Anh trả lời:
+	- Ah, chỉ là một vật dụng thông thường thôi.
+	
+	Nghe vậy, cô hơi ngếch mặt lên trời tỏ vẻ thử đoán xem là gì. Được một lúc cô không tiếp tục nghĩ được mà mở món quà thứ 2 ra. Cũng như lần trước, cô cũng kinh ngạc và vui vẻ:
+	- Một chiếc đồng hồ sao?
+	
+	Phong Vũ nói:
+	- Uh, em thử đeo vào tay xem vòng dây có rộng quá không để anh chỉnh lại cho vừa.
+	
+	Cô đeo vào tay, sau đó anh giúp cô chỉnh lại độ dài dây đeo và hướng dẫn cô chỉnh kim đồng hồ cho đúng giờ hiện tại, rồi đeo giúp cô vào tay phải. Cô rất vui, không phải vì giá trị của 2 món quà này cao hay thấp, mà cô vui vì đó là quà anh tặng, đó là nguyên nhân chính.
+	
+	Hai người trò chuyện vui vẻ một lúc, Phong Vũ nói:
+	- Em có muốn ra thị trấn đi dạo một vòng quanh chợ xuân một lúc không? Chợ xuân thì thường họ bày bán rất nhiều hoa và cây cảnh, cùng các vật dụng trang trí Tết nữa, nhìn cực kỳ thích!
+	
+	Cô gật đầu đồng ý, hai người bước ra sân xin phép 2 ông bố đang ngồi tán chuyện ở bàn trà bên hiên nhà, rồi đèo nhau ra thị trấn chơi. Hôm nay anh đèo cô bằng xe máy, cô đang mặc váy nên khi ngồi xe cô vẫn phải ngồi ngang hướng mặt sang bên trái, và tay phải vòng ra trước ôm lấy vòng eo của anh. Trời đang lạnh, anh mặc áo dày nên việc cô vòng tay ôm eo anh cũng không có cảm giác đụng chạm gì lớn, nó cũng diễn ra rất tự nhiên.
+	
+	Đến gần chợ xuân trên thị trấn, anh gửi xe ở bãi trông xe rồi hai người thong thả vừa đi vừa ngắm ngía bên phải bên trái. Đối với Phong Vũ, cảnh chợ xuân đối với anh luôn là cảnh anh thích thú nhất. Ngay tử nhỏ khi 5-6 tuổi được mẹ cho theo đi chợ xuân, anh đã cảm thấy cực kỳ hứng thú, nó mang đếm cảm sinh ấm áp, vui vẻ, xum vầy, vừa tươi mới vừa cổ truyền, người xuôi kẻ ngược, ai ai cũng vui vẻ. Đó là ký ức lúc nhỏ đã vậy, sau này lớn lên anh càng cạm nhận được không khí vui vẻ của chợ xuân. 
+	
+	Tuy chỉ là chợ xuân của một thị trấn nhỏ gần như cũng đầy đủ mọi thứ của một chợ xuân đúng nghĩa. Hai người còn nhìn thấy có vài chỗ bán chim cảnh, còn có cả 2-3 ông đồ ngồi bán chữ, ai muốn chữ gì thì họ viết chữ đó cho. Phong Vũ dẫn Nhược Vũ chậm đi, vừa đi vừa dừng lại nhìn ngắm. Lúc này Phong Vũ hỏi:
+	- Em có muốn mua một ít hoa đem về không?
+	
+	Cô gật đầu đồng ý. Hai người tiếp tục đi một vòng, cuối hai người thống nhất mua một giỏ hoa lan đem về.
+	
+	Hai người đi chợ xuân về thì lúc này cũng hơn 11h trưa. Mẹ Nhược Vũ lúc này mở lời mời 2 bố con Phong Vũ ở lại dùng bữa trưa, nhưng bố Phong Vũ từ chối khéo, nói rằng ở nhà hai mẹ con Tuyết Mai đã đi chợ làm bữa trưa rồi, nên hẹn dịp khác. Phong Vũ thấy bố nói vậy cũng không tiện ở lại thêm, sau đó mọi người tạm chia tay.
+	
+	Phong Vũ đưa bố về đến nhà thì thấy mẹ và em gái đã đi sắp Tết về rồi, đang hý hoáy nấu ăn trong bếp. Anh vào nhà rồi nằm lên giường định nghỉ lưng một chút, nhưng vì đi tàu xe liên tục từ đêm qua đến giờ, trên tàu thì ngủ chập chờn một chút, nên giờ cũng thấm mệt, hơn nữa vì vừa đã gặp và trò truyện cùng Nhược Vũ khoảng 2 tiếng đồng hồ cũng khiến tâm tình anh cảm thấy am bình, nên nằm xuống giường 1 lúc thì anh ngủ thiếp đi. 
+	
+	Khi anh đang ngủ say thì chuông điện thoại vang lên, cũng chẳng buồn nhìn rõ là ai gọi, anh mắt nhắm mắt mở bấm nút nghe. Bên đầu giây bên kia vang lên một tràng tiếng Anh bằng giọng nói khá quen thuộc, anh nhận ra là cô bạn Tô Thanh Thảo. Cô nói đại ý là tối nay CLB Tiếng Anh ở đại học Thanh Châu tổ chức tiệc tất niên nhẹ nên hỏi anh đã được nghỉ Tết chưa và có thể đến tham dự không, anh đang ngái ngủ nên giọng điệu có vẻ uể oải trả lời cô là anh vừa về đến quê xong, nên hẹn gặp mọi người dịp khác. Nghe anh nói vậy, đầu dây bên kia có im lặng một lúc, Phong Vũ phải "Alo" 2-3 lần mới thấy cô ậm ừ mấy câu chiếu lệ. Phong Vũ lại nói ra Tết khi anh trở lại Bắc Đô sẽ mời cô cafe, nghe vậy cô vui vẻ đồng ý, sau đó hai người xã giao chúc nhau ăn Tết vui vẻ rồi ngắt máy.
+	
+	Phong Vũ nhìn đồng hồ thì thấy vừa đúng 12h trưa, mùi thức ăn thơm lừng từ dưới bếp bay lên mũi, anh cũng thấy bụng đói cồn cào, nên đứng dậy đi rửa mặt cho tỉnh táo. Mẹ anh thấy anh đã tỉnh ngủ thì cũng bảo Tuyết Mai dọn cơm lên để dùng bữa trưa. Cả nhà vừa ăn cơm vừa nói cười vui vẻ, lúc này Tuyết Mai nghiêng đầu sang Phong Vũ ra vẻ thần bí nói:
+	- Anh hai, có chút chuyện này có vẻ không hay lắm, không biết có nên cho anh biết hay không?!
+	
+	Phong Vũ nói:
+	- Có gì thì nói đi!
+	
+	Tuyết Mai cười tủm tỉm pha chút tinh ranh rói:
+	- Lúc sáng em cùng mẹ đi sắm Tết ở chợ xuân trên thị trấn, nhìn thấy ai đó đưa Nhược Vũ đi ngắm hoa xuân, em còn thấy người kia mua tặng Nhược Vũ một giỏ hoa lan hồ điệp! Anh hai xem, chuyện này có vẻ không hay chút nào!
+	
+	Phong Vũ nghiêm sắc mặt, lấy ngón tay trỏ ấn nhẹ vào trán cô và nói:
+	- Lắm chuyện! Lo ăn cơm nhanh đi!... Anh đã mua thêm một thùng sách luyện thi đại học đang để ở góc nhà đằng kia kìa!
+	
+	Nghe vậy Tuyết Mai chỉ bĩu môi và nguýt anh một cái. Bố mẹ anh cũng chỉ cười tủm tỉm mà không nói xen vào. Cả nhà tiếp tục ăn uống vui vẻ. Ăn cơm xong, Phong Vũ lại nằm vật lên giường rồi ngủ thiếp đi, lúc tỉnh dậy đã thấy hơn 3h chiều. Anh nhìn thấy điện thoại có tin nhắn mới, anh mở ra thì Nhược Vũ nhắn rằng:
+	- Em đang định tổ chức một buổi "liveshow" Cổ Cẩm mà chưa bán được vé nào.
+	
+	Anh đọc xong thì tỉnh hẳn ngủ và nhắn lại:
+	- Được, để bao trọn gói buổi liveshow này, tý anh sang luôn nhé?!
+	
+	Dường như đầu dây bên kia nóng lòng chờ tin nhắn của anh, nên sau khi gửi tin thì chỉ tích tắc sau anh nhận được tin nhắn trả lời:
+	- Được ạ!
+	
+	Phong Vũ đọc xong tin nhắn của cô thì vui vẻ đứng bật dậy vận động gân cốt một lúc rồi đi tắm. Sau đó anh mở thùng sách to tướng anh đem từ Bắc Đô về, lựa những cuốn dành riêng cho Tuyết Mai lên bàn, rồi anh gọi to:
+	- Tiểu Mai, đến đây anh bảo... Đây là những cuốn sách chuyên dành cho ôn luyện thi Đại học, chăm chỉ học tập, có gì không hiểu thì hỏi anh.
+	
+	Tuyết Mai nói:
+	- Cảm ơn anh hai! Nhưng nhiều như thế này liệu đọc hết xong sợ không "tẩu hỏa nhập ma" thì đầu tóc cũng rối như tổ quạ!
+	
+	Phong Vũ nghiêm sắc mặt nói:
+	- Đừng lười biếng! Cần cù bù thông mình thì mới có hy vọng đỗ đại học!
+	
+	Tuyết Mai vẫn tỏ vẻ không phục, nhưng trong lòng thực ra cũng rất cảm kích và thầm hứa sẽ không để anh thất vọng. Còn anh thì ngay sau đó ôm nửa thùng sách còn lại, buộc lên xe máy và phóng đi. Tuyết Mai nhìn thấy chỉ cười tủm không nói gì, cô thừa biết "ca ca thối" này sẽ đi đâu.
+	
+	Lúc này, Nhược Vũ đang ở nhà ở nhà chờ "khán giả" đến, trong lòng cũng thấp thỏm không yên, chạy ra cổng rồi lại chạy vào 2-3 lần, cuối cô với đại một cuốn tiểu thuyết ra ngồi ở hiên nhà. Nhìn dáng vẻ ngồi say sưa đọc sách của cô như này người khác nhìn vào sẽ cảm thấy cô đang nhập tâm lắm, nhưng thực tế trong tâm nghĩ loạn như ngựa hoang chạy, mắt thi thoáng lại liếc nhìn đồng hồ bên tay phải, có lúc lại ngắm ngía chiếc vòng ngọc bên tay trái. Cuối cùng chờ mãi thì khoảng 4h chiều cô nhìn thấy một bóng dáng quen thuộc vừa dừng xe máy ở trước cổng, cô vội đứng lên và nhanh bước ra đón anh. Hai người nhìn nhau trong giây lát rồi cũng không ai nói lời nào, chỉ nhìn nhau đầy chìu mến. Sau đó cô bước vào trong trước và ra hiệu mời anh vào. Anh dựng xe máy gọn vào góc sân, rồi dỡ thùng sách ra và bê vào nhà giúp cô.
+	
+	Lúc này bố cô vắng nhà, còn mẹ cô cũng đang hý hoáy đan lát gì đó bên bếp than hồng, anh chào hỏi bà vài câu, bà cũng chỉ vui vẻ bảo anh ngồi chơi cùng Tiểu Vũ. Sau đó Phong Vũ mở thùng sách ra và giới thiệu qua cho Nhược Vũ từng loại sách anh mang đến, số lường còn nhiều gấp đôi gấp ba so với lần trước, trong đó còn có cả USB chứa đến cả trăm bài hát và bản nhạc khác nhau, trong đó Cổ Cầm là nhiều nhất. Cô cảm ơn anh và nói cứ để tạm đây rồi cô sẽ sắp xếp lên kệ sách sau. Cô đi rót một chén trà nóng mà cô pha sẵn trước đó để mời anh, rồi nhẹ nhàng nói:
+	- Hôm nay là lần đầu em tổ chức "liveshow" nên cũng hơi căng thẳng...
+	
+	Anh cười hiền hậu nói:
+	- Không sao! Có thể tổ chức được một "liveshow" thì đã là một thành công lớn rồi, nếu có điểm thiếu sốt thì rút kinh nghiệm cho lần sau là được.
+	
+	Dáng vè và lời nói của anh vừa nhẹ nhàng, vừa ân cần, vừa khích lệ, vừa kiên nhẫn, khác hẳn với khi anh dạy Tuyết Mai học bài. Còn Nhược Vũ nghe anh nói vậy thì cũng thả lỏng tâm thân và tự tin hơn, cô bước đến và ngồi vào chuẩn bị "biểu diễn". Cô điều chỉnh tư thế ngồi, hay tay đặt nhẹ lên dây đàn, mắt hơi khép hờ. Lúc này anh cũng đặt chén trà xuống bàn rồi đứng dậy đi vài bước đến gần phía cô hơn.
+	
+	Tiếng Cổ Cầm bắt đầu ngân vang lên... Anh lắng nghe một lúc thì nhận ra cô đang đánh bản nhạc 《初見》 (Sơ Kiến) mà lần đầu cô đã từng chơi cho anh nghe cách nay đã 6 tháng. Anh không có hiểu biết về âm nhạc nhưng quả thực anh vẫn cảm thấy lần này cô tiến bộ rõ ràng hơn lần trước. Anh cũng từng nghe trên mạng một nghệ sĩ chuyên nghiệp chơi bản nhạc này, nếu so sánh theo cảm nhận riêng của anh thì cô đã đạt 9/10 rồi. Nhưng về thần thái khi cô chơi đàn thì nó là dáng vẻ nội tại của cô, nó là riêng biệt và không thể đem ra so sánh xem ai hơn ai được.
+	
+	Anh thấy cố chơi bản nhạc 《初見》 (Sơ Kiến) 2 lần liên tiếp rồi dừng lại. Cô ngửng đầu nhìn anh, anh chỉ mỉm và nhẹ gập đầu tỏ ý cô chơi đàn rất hay và tiến bộ nhiều. Sau đó cô lại tiếp tục chơi thêm 2 bản nhạc nữa, mỗi bản cô cũng đều chơi 2 lần. Anh đứng nghe chăm chú, đôi lúc cũng khẽ nhắm nhờ đôi mắt lại, qua tiếng đàn, anh cảm thấy như mình có thể nghe được, nhìn được thế giới trong tiếng đàn: anh thấy núi cao, anh cảm thấy gió, anh thấy nước chảy trong dòng suối, anh thấy tuyết rơi phủ trắng triền nũi những ngày đông, rồi anh thấy những cành hoa mai đang đung đưa trong gió tuyết... Cô cũng không giới thiệu cho anh biết tên các bản nhạc mà cô vừa chơi, anh cũng không hỏi cô, vì anh thấy nghe là được rồi, cảm thụ đến đâu thì cảm thụ. 
+	
+	Sau khi chơi đàn, cô đứng dậy bước sang bàn uống nước, cô rót 2 chén nước trà rồi nói:
+	- Lần sau gặp nếu có điều kiện em sẽ biểu diễn lại lần nữa, chắc sẽ tiến bộ hơn.
+	
+	Anh chỉ nhẹ gật đầu đồng ý, rồi hai người lại ngồi vui vẻ nói chuyện thêm một lúc thì Phong Vũ mới đứng lên tạm biệt ra về. 
+	
+	Sau khi tiễn anh ra về, cô quay lại bàn Cổ Cầm, cô ngồi xuống và thong thả chơi lại lần nữa các bản nhạc vừa rồi. Đây thực ra là 3 bản nhạc có tên lần lượt là Sơ Kiến (初見), Lưu Thủy (流水), và Nhất Tẫn Mai (一剪梅) - đều là các bản nhạc mà cô đã kỳ công chăm chỉ luyện tập nhiều tháng qua, nhưng cô lại đang cảm thấy tiếc nuối vì vừa rồi cô khi "biểu diễn" cho Phong Vũ nghe thì cô lại mắc phải vài lỗi nhỏ không đáng có. Cô thở dài một chút rồi tự nhủ sẽ cố gắng nhiều hơn để lần sau không bị những lỗi đó nữa.
+	
+	Kỳ nghỉ Tết 10 ngày của Phong Vũ dần khép lại. Trong 10 ngày này anh khá bận rộn, gần như ngày nào cũng gặp Nhược Vũ một lần, lúc thì ở nhà cô, lúc thì ở nhà anh, lúc thì lại hẹn nhau ra bờ hồ dưới chân núi hoặc cùng nhau vào trong trị trấn. Rồi anh cũng hay trao đổi với nhóm Bất Phàm và Hiểu Khánh về công việc dự án hiện tại, cúng như suy tính trước sẽ làm gì tiếp sau khi dự án 3G kết thúc. Anh cũng gọi điện cho Hứa Mẫn Nghi và Tô Thanhh Thảo chúc Tết và hẹn các cô ra Tết sẽ tụ họp. Thời gian còn lại anh ngồi máy tính, lúc thì lướt web tìm kiếm gì đó, lúc thì kỳ cạch gõ loáng thoáng trên bàn phím. Anh cũng tìm hiểu thông tin về khóa học lái xe, và anh cũng quyết định lên Bắc Đô sẽ đăng ký học luôn. Việc mua một chiếc ô tô với anh giờ không thành vấn đề, vì anh trước đó đã được thưởng 1 triệu Kim Tệ và dứ án làm website phân phối gói dât 3G cùng Bất Phàm và Hiểu Khánh cũng hứa hẹn đem đến cho anh một khoản tiền không nhỏ.
+	
+	Giống như lần trước trở lại Bắc Đô, Tuyết Mai cũng đưa anh lên trị trấn để bắt xe khách, còn Nhược Vũ như lần trước cũng đợi anh ở đầu làng để chào tạm biệt anh. Lần này cô không tặng anh vật lưu niệm gì, hai người đứng nắm tay nhau một lúc rồi chào tạm biệt nhau. Cô đứng nhìn bóng dáng anh xa dần và khuất hẳn thì mới thu hồi ánh mắt. Trong lòng cô lúc này cũng khá hỗn độn nhiều thứ cảm xúc, có lưu luyến, có hy vọng, có yêu thương, có ấm áp, có cô tịch và thanh bình... và còn pha trộn cả lo lắng về kỳ thi đại học ngày càng đến gần, cô cảm thấy áp lực cũng ngày càng lớn, cô cũng cảm thấy mệt mỏi, nhiều đem ngồi học đến 1-2h sáng, mà kiến thức thì vẫn cảm thấy càng học càng thấy dốt, giả sử tới đây cô không thi đỗ đại học thì phải làm sao? càng nghĩ càng thấy đau đầu... Cô hơi gẩng đầu lên trời nhìn vào nơi xa xăm, rồi cúi đầu thở dài một tiếng và tự nhủ, "thôi mặc kệ, trời có sập xuống thì cũng phải về nhà chơi Cổ Cầm một lúc".
+	
+	Cùng lúc đó ở trên tiên giới, như cảm ứng được ánh mắt của Nhược Vũ, Vô Cực Đạo Chủ đang rồi tĩnh tọa trên một mỏm đá trên đỉnh một ngọn núi, Ngài mở mắt liếc nhìn xuống nhân gian 1 chút rồi lại nhắm măt thầm nói:
+	- Đường xa vạn dặm, mong rằng các con sẽ luôn kiên cường trước bụi trần như nhành mai trong gió tuyết kia!
+	
+	---
+	
+	Về phần Phong Vũ, sau khi trở lại Bắc Đô thì không ngoài dự kiến, công việc dự án hết sức thuận lợi, chẳng mấy chốc thì hoàn thành và kết thúc trước thời hạn 1 tháng. Anh được ban lãnh đạo dự án thưởng thêm cho 1 triệu Kim Tệ nữa. Còn vệ dự án nhỏ mà anh cùng Bất Phàm và Hiểu Khánh làm về website đại lý phân phối gói 3G cũng thành công lớn, tổng kết lại lãi hơn 6 triệu Kim Tệ, chia đều cho 3 người thì mỗi người được hơn 2 triệu Kim Tệ. Nhưng website vấn đang tiếp tục hoạt động, dù % hoa hồng đã bị phía chính phủ hạ xuống và cũng có rất nhiều đại lý mới xuất hiện cạnh tranh, nhưng dù sao nó vẫn còn tiếp tục đem lại doanh thu.
+	
+	Trong 5 tháng này, Phong Vũ rất tích cực đi giao lưu mở rộng các mối quan hệ, cũng là để tìm hiểu thị trường. Anh cũng dành nhiều thời gian bàn bạc với Bất Phạm và Hiểu Khánh về ý tưởng thành lập một công ty về Thương Mại Điện Tử. Anh cũng chia sẻ ý tưởng này với Hứa Mẫn Nghi và Tô Thanh Thảo và mời họ tham gia, bởi vì 2 người này cũng sắp tối nghiệp rồi.
+	
+	Và vào một ngày đẹp trời cuối tháng 6, khi Phong Vũ hính thức bước sang tuổi 23, anh cùng các cộng sự tổ chức lễ thành lập công ty mới về Thương Mại Điện Tử, đặt tên là Summer Light (夏光 ), vốn ban đầu là 3 triệu Kim Tệ, với 3 cổ đông chính gồm Phong Vũ nắm 55% cổ phần, Bất Phàm nắm 25%, và Hiểu Khánh nắm 20%. Hứa Mẫn Nghi và Tô Thanh Thảo thì tham gia với vai trò nhân viên cùng khoảng 10 bạn bè khác.
+	
+	Đến đây, Phong Vũ chính thức bước chân vào thương trường.
+	
+	-----
+	
 
 	
 
