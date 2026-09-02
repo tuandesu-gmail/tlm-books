@@ -1,0 +1,265 @@
+
+DANH SÁCH CÁC HỒI (DỰ KIẾN):
+
+---
+
+001_Giáng hạ nhân gian: 
+	Kể giai đoạn 1 năm kể từ khi Phong Vũ bị giáng hạ xuống nhân gian đến khi đỗ ĐH Thanh Châu.
+
+002_Thanh Châu tề tựu: 
+	Nói về giai đoạn đầu gia nhập ĐH Thanh Châu của Phong Vũ và các bóng hồng.
+
+003_CLB_Tiếng Anh: 
+	Nói về lý do thành lập CLB Tiếng Anh và các buổi giao lưu.
+
+004_CLB_Triết học: 
+	Tham gia các buổi giao lưu ở CLB Triết học.
+
+005_Đêm mưa trên sườn núi: 
+	Chuyến đi picnic trên núi cùng CLB Tiếng Anh và trú mưa cùng Tô Thanh Thảo.
+
+006_Giáo sư Rajan: 
+	Nói về chuyến thăm và giảng bài của Giáo sư Rajan.
+
+007_Huyền thoại Warren Stering: 
+	Nói về chuyến thăm và chia sẻ của huyền thoại đầu tư tái chính Warren Stering.
+
+008_Đại hội thể thao: 
+	Cuối năm học thứ hai (trước kỳ nghỉ hè), Phong Vũ tham gia thi đấu võ tự do trong đại hội, anh được đồng giải ba.
+
+009_Bài_luận_Triết_học: 
+	Nói về bài luận triết học có tính phá cách và bị điểm 6 (là điểm thấp nhất từ trước đến nay ở ĐH Thanh Châu).
+
+010_Thiền sư Minh Tuệ: 
+	Cuộc viếng thăm và chia sẻ thể ngộ tu luyện của Thiền sư với sinh viên.
+
+011_Cuộc thi Hùng biện: 
+	Cuộc thi hùng biện cuối năm 3, Phong Vũ gây ấn tượng mạnh mẽ nhưng chỉ được giải khuyến khích, đứng thứ 5.
+
+012_Lần đầu gặp: 
+	Kỳ nghỉ hè ở quê, lần đầu Phong Vũ gặp người vợ tương lai: Nhược Vũ.
+
+013_Một triệu Kim Tệ đầu tiên: 
+	Phong Vũ tham gia dự án quốc gia về 3G, được thưởng 1 triệu Kim Tệ do đóng góp đặc biệt cho dự án.
+
+014_Nocturne: 
+	Nói về tình cảm giữa 2 nhân vật chính, khi họ chia sẻ cho nhau về bài hát Nocturne.
+	
+015_Kỳ nghỉ Tết Nguyên Đán:
+	Nói về kỳ nghĩ Tết Nguyên Đán, nơi anh cùng Nhược Vũ trải qua những cung bậc cảm xúc đáng nhớ.
+	
+016_Thành lập Summer Light:
+	Kết thúc dự án 3G, anh cùng Mã Bất Phàm và Lâm Hiểu Khánh tích lũy được kinh nghiệm, vốn rồi cùng thành lập công ty về TMĐT, và đặt tên là Summer Light.
+	
+017_Thách thức thương trường:
+	Kể về những khó khăn trong giai đoạn công ty mới thành lập .
+	
+018_Cú bẻ lái lịch sử:
+	Kể về những nỗ lực vượt khó của Phong Vũ và đưa ra các quyết định mang tính lịch sử cho Summer Light.
+	
+019_Du sơn ngoạn thủy ở Trung Sơn Lĩnh:
+	Sau khi Nhược Vũ theo học ĐH Sư phạm 1 năm (khoa Văn hóa nghệ thuật), cô được Phong Vũ rủ đi du lịch ở Trung Sơn Lĩnh hùng vĩ ở giữa đường xích đạo. Nơi đây cô hữu duyên gặp được một vị Cầm sư ẩn thế, ông thu nhận cô làm đệ tử thân truyền. Cô ở lại trên núi để học Cổ Cầm và tu tâm dưỡng tính.
+	
+020_Võ đạo những ngày đầu:
+	Khi Summer Light đã đi vào hoạt động ổn định, Phong Vũ cũng bắt đầu dành thời gian cho võ đạo một cách nghiêm túc. Đây là mong muốn thực sự của anh (vì ẩn sau vẻ phàm nhân thì anh vốn là một Võ thần bị giáng hạ xuống).
+	
+021_Du đấu:
+	Với thiên vũ võ đạo cực cao, chẳng mấy chốc anh đạt được thành quả mà những người khác khổ luyện 10 năm cũng không bằng. Anh đi du đấu khắp Trung Châu.
+	
+022_Khí chất hiên ngang:
+	Khi công ty Summer Light gặp phải khó khăn về vốn đầu tư, anh hẹn gặp Trịnh Thanh Trúc, cô là tiểu thư Gia tộc Trịnh Thị, cổ đông chiến lược. Bằng trí tuệ, kiến thức, kinh nghiệm, sự sắc bén, và đặt biệt là khí thế hiên ngang của anh khiến Thanh Trúc bị khuất phục, có cảm giác hợp tác với anh là chắc thắng.
+	
+023_Nữ vệ sĩ:
+	Nói đến mối quan hệ với Lâm Mạn Sương - Nữ Vệ sĩ Trưởng, sắc sảo, trung thành tuyệt đối.
+	
+024_Võ đạo tông sư:
+	Sau mấy năm luyện võ, anh đã đạt được cấp bậc cao nhất trong giới Võ đạo Trung Châu quốc, được mệnh danh là "Nhất đại tông sư".
+	
+025_Đi nhờ xe Chủ tịch: 
+	Kể về một cô nhân viên mới gia nhập Summer Light không lâu, do bị nhỡ xe trong chuyến du lịch của Cty, được Phong Vũ cho nhờ xe, khiến mọi người bàn tán không rõ cô là gì của anh.
+
+026_Giới cổ võ:
+	Nhờ danh tiếng trong giới Võ đạo, anh được giới Cổ võ chú ý, từ đó anh bước vào giới Cổ võ.
+	
+027_Bi kịch Triệu gia:
+	Anh tình cờ găp được Triệu Lệ Thanh và được cô kể về thảm kịch bị diệt môn của Triệu gia.
+	
+028_Làm SmartPhone:
+	Anh bị kinh ngạc khi lần đầu nhìn thấy chiếc SmartPhone đầu tiên trên thế giới ra đời, do một "gã khổng lồ" ở Đại Mỹ quốc sản xuất. Anh quyết định phải nhánh chóng nhảy vào lĩnh vực này.
+	
+029_Thập diện mai phục:
+	Trong quá trình cùng Triệu Lệ Thanh tu luyện, dưới âm mưu sắp đặt của Đoàn Bát Thiên, 2 người liên tục gặp phải những trận chiến sống còn (màn dáng vẻ như là hành động "diệt cỏ tận gốc")
+	
+030_Cổ Thần Phong:
+	Trong hành trình này, anh gặp Cổ Thần Phong - Chưởng môn Cổ Võ phái, bậc tiền bối công minh, công nhận nhãn quan võ học áp chế của Phong Vũ. Anh nhận được nhiều chỉ điểm của Thần Phong.
+	
+031_Đối chiến Mạc Vô Cực:
+	Dưới ấm mưu của Đoàn Bát Thiên, anh phải phải thiên tài số một trong Cổ võ, trận chiến sinh tử khiến anh chỉ may nắm thắng nửa chiêu. Mạc Vô Cực cũng là người quân tử, anh ta đến để đấu võ phân cao thấp chứ không phải diết người (nhưng thực ra anh ta cũng không biết mình bị Mạc Vô Cực lợi dụng).
+	
+032_Cục trưởng An ninh:
+	Danh tiếng của Phong Vũ ngày càng lớn, khiến Cục trưởng An ninh phải kiêng kỵ. Thời gian đầu muốn lôi kéo Phong Vũ nhưng anh không có hứng thú gia nhập tổ chức nào. Cuối cùng Cục trưởng An ninh cũng ngấm ngầm tìm cách hại anh.
+	
+033_Luyện thành Giáng Long Chưởng:
+	Nhờ ngộ tính và thiên phú võ đạo cực cao, anh tự ngộ ra được "Giáng Long Chưởng" giống hệt như của Kiều Phong trong Thiên Long Bát Bộ. Chính vì vậy Đoàn Bát Thiên lại đinh ninh anh đã luyện thành môn võ bí truyền mà ông ta thèm khát bấy lâu nay.
+	
+034_Ván bài lật ngửa:
+	Đoàn Bát Thiên cuối cùng lật ngửa ván bài: lừa Phong Vũ và Triệu Lệ Thanh uống phải thuốc mê, sau đó điểm huyệt đạo rồi chói họ lại trong mật thất. Sau đó ông ta tự khai ra mọi việc và dùng cực hình để ép khai người khai ra bí kíp võ công.
+	
+035_Tụ hiền trang:
+	Trong đem khuê, Phong Vũ đã tự giải khai được các huyệt vị bị khóa, cùng Triệu Lệ Thanh trốn thoát.  Đoàn Bát Thiên dùng lại bài cũ, vu cáo cho 2 người lấy trộm bí tịch của ông ta rồi bỏ trốn, đồng thời là "dư nghiệt" nhà họ Triệu. Các cao thủ có người tin theo có người không, nhưng dù không tin theo thì cũng có nhiều cao thủ vì lòng tham muốn chiếm bị tịch mà hội tụ lại tìm kế sách diệt Phong Vũ và Lệ Thanh (gần giống vụ Tụ hiền trang khi các cao thủ tập hợp để diệt Kiều Phong).
+
+036_Áp đảo quần hùng:
+	Phong Vũ ngang nhiên xuất hiện, mang phí phách giống Kiều Phong trong Thiên Long Bát Bộ (nhưng anh bảo Lệ Thanh ẩn náu tạm thời). Trong trận chiến đó anh áp đảo quần hùng.
+	
+037_Sơn cùng thủy tận:
+	Tuy nhiên, thân đơn thế cô, anh bị Đoàn Bát Thiên ngầm tung khói độc, dù không chết ngay nhưng cũng bị giảm khá nhiều sức chiến đấu. Anh đành rút lui, nhưng lúc này lại xuất hiện những kẻ áo đen bám theo không thôi, đều là cao thủ. Anh bị người ngày càng nặng, mà đối thủ thì càng ngày đuổi theo càng nhiều. Hết đường chạy, anh liều nhảy xuống một vực thẳm phía dưới phủ kín mây mù.
+	
+038_Tiên đơn, Thần dược:
+	Trong lúc sống chết chưa rõ, bị ngất đi sau cú nhảy, anh may mắn được Thanh Vân Đạo Trưởng cứu giúp. Anh được đạo trưởng cho uống 1 viên đan dược chữa thương, chỉ sau 3 ngày anh đã hồi phục thương tích. Anh vô cùng kích động, muốn bái sư học đạo. Thanh Vân Đạo Trưởng không đồng ý nhận anh làm để tử nhưng vẫn đồng ý để anh lại theo ông tu luyện (như một dạng đệ tử ký danh).
+
+039_Phu thê giao bái:
+	Trên dãy nũi Trung Sơn Lĩnh, Phong Vũ đã cùng Nhược vũ kết làm phu thê, trong đó chỉ 1 mình vị sư vị dạy Cổ Cầm cho cô chứng kiến. Hai người sau đó cũng không ở cùng nhau, và mỗi người đều lo việc tu luyện của mình.
+	(qua thời gian tu luyện cùng Thanh Vân Đạo Trưởng, tiến bộ cực nhanh, anh quay lại diệt Đoàn Bát Thiên và công bố sự thật, nhưng vẫn có kẻ trong Cổ võ không tin, vì lòng tham vẫn muốn đối đầu với Phong Vũ, nên anh tiện tay diệt bọn họ luôn)
+	
+040_Ông trùm công nghệ Trung Châu:
+	Anh đi theo Thanh Vân Đạo Trưởng tu luyện nhưng vẫn thi thoảng lo việc công ty. Sản phẩm SmartPhone của công ty đã ra mắt với chất lượng tốt, giá lại phải chăng, chỉ khoảng 1 năm  anh đã chiếm lĩnh thị trường nội địa và bắt đầu xuất khẩu. Cùng với mảng TMĐT trước đó, anh trở thành "ông trùm" thực sự trong giới kinh doanh và công nghệ.
+	
+041_Tử Hà Chân Nhân:
+	Trên dãy nũi Trung Sơn Lĩnh, Phong Vũ trong một lần đi theo Thanh Vân Đạo Trưởng đến thăm Tử Hà Chân Nhân (là vị sư thúc của Thanh Vân Đạo Trưởng). Phong Vũ được Tử Hà Chân Nhân thưởng thức, ông đưa ra vài câu hỏi thử thách và Phong Vũ trả lời được. Sau đó ông đồng ý truyền thụ nhiều phép thuật cho Phong Vũ. Tuy nhiên Tử Hà Chân Nhân cũng không chính thức thu nhận Phong Vũ làm đệ tử thân truyền (ông cũng không nói lý do cụ thể).
+	
+042_Hồ lô tiên nhân:
+	Khi theo học Tử Hà Chân Nhân, Phong Vũ được chứng kiến nhiều phép thuật phi thường (giống hệt trong phim Tây Du Ký). Điều này khiến anh khảng định thần thoại không phải là bịa đặt. Ví dụ đơn giản như một cái hồ lô nhỏ của Tử Hà Chân Nhân, nhìn có vẻ chỉ được được 1 lít nước, nhưng lại có thể hút nước cạn cả một con suối trên Trung Sơn Lĩnh mà vẫn chưa đầy.
+	
+043_Tiểu thiên thế giới:
+	Tử Hà Chân Nhân còn dẫn Phong Vũ đến một thế giới khác mà theo lời Tử Hà Chân Nhân thì thực ra thế giới đó chính là ở trong chiếc hồ lô của ông.
+	
+044_Cẩn đẩu vân:
+	Quan khoảng 1 năm tu luyện theo Tử Hà Chân Nhân, Phong Vũ đã tu thành nhiều phép thuật, trong đó có độn thổ, biến hóa, và "cân đẩu vân" (như của Tôn Ngộ Không), có thể chịu được lạnh/nóng, có thê xuống dưới biển.
+
+045_Vấn Thiên Đỉnh:
+	Sau khi tu thành "cân đẩu vân", anh lần đầu bay lên được Vấn Thiên Đỉnh (đỉnh núi cao nhất của  Trung Sơn Lĩnh, cao hơn 1 vạn mét, quanh năm băng tuyết và mây phủ, máy bay trực thăng cũng không lên được vì thời thiết khắc nhiệt và thiếu ô xi)
+	
+	Lên đến Vấn Thiên Đỉnh anh mới thấy nó hùng vĩ và bí hiểm thế nào. Nơi đó hoàn toàn không chỉ đơn thuần là một đỉnh núi tuyết như người ta vẫn nghĩ, mà trên đó thực sự hình thành một tiểu thế giới riêng, nơi chỉ có những bậc tu hành đạt được thành tựu như Phong Vũ trở lên mới có tư cách sống ở đó.
+	
+	
+046 Tầm sư học đạo:	
+	Anh gặp được nhiều vị Đạo sư và Cao tăng có đạo hạnh không kém gì Tử Hà Chân Nhân (thậm chí có một số vị còn cao hơn vì Tử Hà Chân Nhân còn tỏ ra rất cung kính với những người đó). Nhưng họ đều nói rằng họ không có đạo pháp cao hơn để dạy anh, bảo anh đi nơi khác tìm.
+	
+	Phép thuật "Cân đẩu vân" của anh ngày một được nâng cao, anh có thể du ngoại lên Mặt Trăng và được đến nhiều tiểu thế giới của giới tu luyện.
+	
+	Nhưng trong một lần gặp một vị Đạo sư, ông ấy nói với anh là một Đại Pháp cao thâm sắp xuất hiện ở nhân gian hồng trần, chứ không phải ở trên Vấn Thiên Đỉnh hay những nơi hẻo lánh. Bảo anh hãy về thế gian mà tìm.
+	
+047_Chiếc xe điện đầu tiên:
+	Anh quay về Bắc Đô khi không còn vị Đạo sư hay Cao tăng nào tỏ ý muốn truyền dày điều gì cho anh nữa. Anh dành thời gian cho Cty. Anh đề xuất sản xuất xe điện, vì anh thấy giờ công ty đã đủ tiềm lực để tạo ra một sản phầm mới. Anh không muốn mình trở thành kẻ chạy theo như khi làm SmartPhone.
+	
+048_Trở lại ĐH Thanh Châu:
+	Năm 33 tuổi anh trở lại thăm ĐH Thanh Châu theo lời mời của vị hiệu trưởng. Anh được mời diễn thuyết trước toàn thể hơn 2 vạn sinh (và nghiên cứu sinh) đang ngồi kín dưới sân vận động của trường. Bài diễn thuyết nhận được sự tán thưởng nhiệt liệt.
+	
+049_Vui thú điền viên:
+	Anh mua một điền viên kiểu cổ ở ngoại ô, đón bố mẹ và em gái đến ở chung. Nhưng bố mẹ anh chỉ đến thăm con ít ngày rồi lại về quê sống, vì họ quê với khung cảnh ở quê hơn.
+	Anh vừa thi thoảng đến công ty, còn chủ yếu ở nhà vui thú điền viên như một người phàm. Anh cũng rất thích lái đi đi thăm bạn bè và giao lưu. Lúc sống trong đô thị, anh hoàn toàn như người phạm, không bao giờ biểu diễn thần thông, kể cả võ thuật đơn giản cũng không lộ ra công khai.
+	
+	Ở công ty chỉ có Lâm Mạn Sương là biết anh có võ nghệ cao thâm, nhưng cũng không biết cao đến đâu.
+	
+050_Du ngoại Long cung:	
+	Thi thoảng anh bí mật đi du ngoại một vài điểm, trong đó có lần anh nghĩ đến Long Cung trong Tây Du Ký, nên nảy ra ý nghĩ muốn mò xuống đáy biển xem có gì không? Kết quả qua mấy ngày tìm kiếm anh thực sự gặp được Long tộc và được họ tiếp đãi tạo Long Cung.
+	
+051_Ngoại tinh nhân:
+	Anh cũng tình cờ phát hiện vài căn cứ bí mật của người ngoài hành tinh được dấu kín dưới đáy biển. Anh giao lưu với họ, hai bên không nảy sinh địch ý. Qua họ anh cũng biết được khá nhiều bí mật.
+	
+052_Các chu kỳ văn minh:
+	Trong số những người ngoài hành tinh mà anh tiếp xúc, có một nhóm người nói rằng tổ tiên họ vốn là "chủ nhân" của Lam Tinh này trong một chu kỳ văn minh rất lâu về trước, sau đó Lam Tinh gặp phải đại nạn nên bọ phải di tản đến nơi khác, và giờ con họ quay lại đây thì giống với quay lại mái nhà xưa.
+	
+	Điều này hé lộ ra cho Phong Vũ biết Lam Tinh thực ra không chỉ có lịch sử 5 ngàn năm, mà đã trải qua vô số chu kình văn minh khác nhau rồi.
+	
+053_Minh nguyệt kỷ thời hữu:
+	Trong lúc thanh nhà vắng vẻ đêm trăng rằm, anh cầm chén rượu trong tay và nâm nga bài thơ:
+		"Minh nguyệt kỷ thời hữu?
+		Bả tửu vấn thanh thiên.
+		Bất tri thiên thượng cung khuyết,
+		Kim tịch thị hà niên..."
+	
+	Bất giác anh nhớ tới trước kia anh từng đọc trên mạng có lý thuyết nói Mặt Trăng là nhân tạo và bên trong nó rỗng. Anh tò mò nhảy lên Mặt Trăng tìm hiểu kỹ hơn em sao (trước anh cũng nhay thử lên đó rồi khi mới luyện thành "Cân đẩu vân", nhưng khi đó anh không có tò mò tìm hiểu gì, mà chỉ chú ý thực hành Cân đẩu vân).
+	
+	Anh dùng một cú đám dáng mạnh xuống để thử độ rung, với năng lực hiện tại của anh thì anh cảm nhận đươc rõ ràng độ rung bất thườn như chuông giống như thông tin trên mạng nói. Anh chuyển sang thử dùng phép độn thổ để chui vào trong lòng mặt trăng xem sao, nhưng chỉ chui sâu được vài km thì anh bị một loại lực bí ẩn cản lại. Anh đoán đó có thể là một loại trận pháp của một người tu hành nào đó có đạo hạnh cao thâm tạo ra. Anh không dám tò mò thêm nữa mà trở về Lam Tinh.
+	
+054_Nhân gian mộng:
+	Tại nhân gian, cuộc sống hằng ngày nhàn nhã, anh cũng tìm đủ các loại sách cổ kim ra đọc, và anh thấy cuộc sống ở nhân gian như giác mộ sảng.
+	
+055_Cánh cửa thời không Bermuda:
+	Anh khám phá vùng biển Bermuda và phát hiện ở đó có cảnh cửa thời không. Thông qua cánh cửa này có thể thống đến thế giới khác, đó chính là Trái Đất (một trong các thế giới song song tồn tại).
+
+
+056_Du ngoại tân thế giới - Trái Đất:
+	Sau khi kinh ngạc thì anh đến Trái Đất du ngoại, phát hiện ở đây giống Lam Tinh đến 90%
+
+
+057_Côn Luân thánh địa:
+	Anh đến núi Côn Luân để xem có người tu đạo như trong truyền thuyết không? Kết quả là rất nhiều, hàng ngàn Đạo sư có đạo hạnh cực cao đang ẩn cư trên các đỉnh múi của dãy Côn Luân, rất nhiều trong số đó tự tạo cho mình một tiểu không gian riêng.
+	Anh hỏi họ về con đường tu luyện, hỏi về Đạo Đức Kinh,...
+
+
+058_Himalaya hùng vĩ:
+	Anh cũng tìm đến dãy Himalaya, nơi đây là dãy núi lớn nhất trên Trái Đất, khác với ở Lam Tinh thì Trung Sơn Lĩnh ở xích đạo mới là dãy núi cao lớn nhất. Nơi đây còn nhiều người tu luyện hơn nữa, nhiều người đã tu mấy ngàn năm, đạo hạnh cao thâm khó lường.
+	Nhưng ở đây anh cũng không có thông tin gì về Đại Pháp ở nhân gian.
+
+059_Nhân sinh nan đắc, Trung Thổ nan sinh:
+	Anh nhớ đến câu nói "Nhân sinh nan đắc, Trung Thổ nan sinh", nên anh đến du ngoại trong TQ để tìm Pháp, anh đi khắp các danh sơn đại xuyên để tìm kiếm, nhưng ở đó người tu luyện chân chính cực ít, đa số bị du lịch thương mại hóa.
+
+
+060_Mỹ quốc:
+	Anh đến một số quốc gia khác, trong đó có Mỹ. Nhưng nơi đây ngoài truyền thống Thiên Chúa giáo thì về mặt tu luyện cũng kém xa ở TQ (cũng giống trên Lam Tinh).
+	Anh dành thời gian tìm hiểu kinh tế, khoa học công nghệ, sản phẩm của Mỹ quốc xem có gì học hỏi để đưa về Lam Tinh hay không.
+
+061_Internet, đắc Pháp:
+	Trong lúc đêm khuê ở KS, anh dùng laptop để tìm kiếm thông tin về tu luyện. Cuối cùng anh tìm thấy một vài pháp môn mới xuất hiện ở Trái Đất trong vòng 50 năm trở lại đây. Anh đọc qua một lượt rồi cuối cùng anh thấy có một Pháp Môn đã thu hút hàng trăm triêu người tu luyện. Anh theo đường link chính thức của Pháp môn đó và đọc các kinh sách miễn phí được đăng trên đó.
+	
+	Cuối cùng anh nhận ra đây chính là Đại Pháp anh đang tìm kiếm.
+
+
+062_Trở lại Lam Tinh:
+	Anh mang Đại Pháp về Lam Tinh, đầu tiên là hướng dẫn Nhược Vũ tu luyện theo.
+
+
+063_Đàm Đạo trên Trung Sơn Lĩnh:
+	Anh giới thiệu Đại Pháp với nhiều người tu luyện trên Trung Sơn Lĩnh, nhưng cũng chỉ có phần nhỏ số người quân tâm. Đa số đọc qua thấy không giống Đại Đạo mà họ tưởng tượng nên họ không coi trọng, không tin.
+
+
+064_Bắc Đô phồn hoa, tu luyện Đại Pháp:
+	Anh đưa Nhược Vũ trở lại Bắc Đô sống, vì pháp lý của Đại Pháp cho phép tu luyện tại giữa nhân gian hồng trần, không cần phải thanh tu trên núi.
+
+
+065_Lễ thành hôn:
+	Anh chính thức làm lễ kết hôn với Nhược Vũ theo nghi lễ của người phàm, và sống cùng nhau đúng như các cặp vợ chồng khác.
+
+
+066_Trí tuệ nhân tạo và Robot:
+	Anh chia sẻ công nghệ và nhừng gì anh học được ở một "nơi xa" cho ban lãnh đạo của Summer Light, trong đó có Trí tuệ nhân tạo và Robot. Vì giờ anh chú trọng việc tu luyện, nên việc công ty có quyết định có đầu tư vào lĩnh vực mới này hay không thì tùy, anh không tham gia nữa.
+
+
+067_Nhàn vân nhã hạc:
+	Anh sống cuộc sống rất tốt cùng Nhược Vũ, sau 1 năm thì họ sinh một bé gái.
+
+
+068_ĐH_Thanh Châu - 20 năm tụ hội:
+	Năm anh 42 tuổi, trong dịp các cựu sinh viên tổ chức tựu trường nhân dịp tròn 20 năm ra trường, anh gặp lại Trương Thăng Quan và nhiều người khác.
+	Sau đó anh giữ liên lạc với Thăng Quan rồi giới thiệu Thăng Quan gặp Mã Bất Phàm. Anh chia sẻ cho 2 người họ về góc nhìn mới cảu anh về Triết học khiến họ kinh ngạc thán phục. Anh còn hiến kế cho họ trên con đường chính trị.
+
+
+069_Giáo dục cho tương lai:
+	Anh nhận thấy giáo dục hiện tại là một vấn đề lớn, và trong tương lai sẽ cần có một nền giáo dục hoàn toàn mới. 
+	Vì vậy, anh âm thầm lên kế hoạch chuẩn bị những "nền móng" cho một nền giáo dục trong tương lai.
+
+
+070_Hồng Trần Mộng - Kỳ hạn 10 năm cuối:
+	Năm Phong Vũ tròn 50 tuổi, nhờ tu luyện trong Đại Pháp 15 năm, anh được khai mở rất nhiều thần thông lớn. Anh có thể nhớ được rất nhiều chuyện trên Tiên Giới trước kia, về duyên tình giữa anh và Nhược Vũ khi cả 2 còn ở trên tiên giới.
+	
+	Anh nhận được "chát" của vị Vô Cực Đạo Chủ, ngài nói rằng thời gian tu luyện Đại Pháp không còn dài, và hạn cho anh trong vòng 10 năm tiếp theo phải trợ giúp Nhược Vũ và những người hữu duyên xung quanh tu luyện tinh tấn và cùng thăng thiên trở về Tiên Giới, nếu không, khi thấy bại thì sẽ bị luân hồi trong lục đạo, không biết bao giờ mới có hy vọng trở về.
+
+
+	
+	
+	
+	
+
+	
