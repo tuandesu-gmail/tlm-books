@@ -2237,7 +2237,7 @@ Phong Vũ thu dọn sách trên bàn, đứng dậy rời khỏi thư viện.
 
 Trong đầu cậu lúc ấy vẫn là những việc cần làm trong ngày.
 
-Hoàn toàn không có hai chữ **sinh nhật**.
+Hoàn toàn không có hai chữ "sinh nhật".
 
 -----------------------------------------------------------------
 
@@ -2829,7 +2829,7 @@ Một lúc sau, anh mới nói:
 
 Hồng Hạnh nhìn anh.
 
-— *À?*
+— "À?"
 
 Phong Vũ đặt điện thoại xuống.
 
@@ -3240,7 +3240,7 @@ Chỉ là trước khi tắt đèn, cô vẫn nhìn điện thoại thêm một 
 
 # XIX. PHÂN CẢNH 18 — HƠN 11 GIỜ ĐÊM, THƯ VIỆN VẪN SÁNG
 
-# XX. PHÂN CẢNH 19 — CÚ HÀI: *HỒNG LÂU MỘNG*
+# XX. PHÂN CẢNH 19 — CÚ HÀI: HỒNG LÂU MỘNG
 
 Buổi tối.
 
@@ -3298,7 +3298,7 @@ Sau đó, cô đứng dậy.
 
 — Đi tìm thử xem sao.
 
-*
+
 
 Khoảng chín giờ tối, Thanh Thảo rời khỏi ký túc xá.
 
@@ -3326,7 +3326,7 @@ Cô cất điện thoại vào túi.
 
 Nói xong, cô quay người rời đi.
 
-*
+
 
 Sau khi rời khỏi khu ký túc xá nam, Thanh Thảo lại không quay về.
 
@@ -3368,7 +3368,7 @@ Cô khẽ thở dài.
 
 Sau đó lại đi tiếp.
 
-*
+
 
 Không biết từ lúc nào, khuôn viên trường đã yên tĩnh hẳn.
 
@@ -3406,7 +3406,7 @@ Dù nói vậy, Thanh Thảo vẫn bước tới.
 
 Cửa thư viện vẫn mở.
 
-*
+
 
 Bên trong thư viện yên tĩnh hơn rất nhiều so với ban ngày.
 
@@ -3536,7 +3536,7 @@ Cô cúi xuống.
 
 Nhìn rõ mấy chữ trên bìa.
 
-***Hồng Lâu Mộng***.
+HỒNG LÂU MỘNG.
 
 Thanh Thảo chớp mắt.
 
@@ -3546,7 +3546,7 @@ Sau đó ngẩng đầu nhìn Phong Vũ.
 
 Phong Vũ nhìn xuống cuốn sách.
 
-— *Hồng Lâu Mộng*.
+— "HỒNG LÂU MỘNG".
 
 — Em nhìn thấy rồi.
 
@@ -3576,7 +3576,7 @@ Một nam sinh ngồi một mình bên cửa sổ.
 
 Trước mặt là...
 
-*Hồng Lâu Mộng*.
+HỒNG LÂU MỘNG.
 
 Không hiểu sao, cảnh tượng này khiến cô cảm thấy có chút buồn cười.
 
@@ -3636,7 +3636,7 @@ Phong Vũ bị cô hỏi đến không đáp được.
 
 Thanh Thảo lập tức bật cười.
 
-Nhưng ngay sau đó, cô lại nhìn cuốn *Hồng Lâu Mộng* trước mặt anh.
+Nhưng ngay sau đó, cô lại nhìn cuốn HỒNG LÂU MỘNG trước mặt anh.
 
 — Phong Vũ.
 
@@ -3652,7 +3652,7 @@ Thanh Thảo hơi khựng lại.
 
 — Ừ.
 
-— Biết rồi mà hơn mười một giờ đêm còn ngồi đây đọc *Hồng Lâu Mộng*?
+— Biết rồi mà hơn mười một giờ đêm còn ngồi đây đọc HỒNG LÂU MỘNG?
 
 Phong Vũ nhìn cô.
 
@@ -3708,7 +3708,7 @@ Phong Vũ nhìn cô.
 
 — ...
 
-Thanh Thảo lại liếc sang cuốn *Hồng Lâu Mộng*.
+Thanh Thảo lại liếc sang cuốn HỒNG LÂU MỘNG.
 
 — Cái đó là ngoài ý muốn.
 
@@ -3826,7 +3826,7 @@ Trên bàn.
 
 Một bên là món quà sinh nhật.
 
-Một bên vẫn là cuốn ***Hồng Lâu Mộng*** đang mở dở.
+Một bên vẫn là cuốn HỒNG LÂU MỘNG đang mở dở.
 
 Thanh Thảo nhìn hai thứ ấy.
 
@@ -3844,6 +3844,8 @@ Và Phong Vũ cuối cùng cũng không còn là người duy nhất ngồi ở 
 -----------------------------------------------------
 
 XXI. PHÂN CẢNH 20 — HỨA MẪN NGHI VÀ TIN NHẮN 23:59
+
+---
 
 Cùng lúc đó.
 
@@ -4041,7 +4043,14 @@ Rồi lại bổ sung rất nhỏ:
 
 Nhưng sau khi nói xong, chính cô cũng không nhìn chiếc hộp nữa.
 
+
+----------------------------------------------------
+
+
 XXII. PHÂN CẢNH KẾT — MỘT NGƯỜI TRƯỚC MẶT, MỘT NGƯỜI TRONG ĐIỆN THOẠI
+
+---
+
 
 Cùng thời điểm đó.
 
@@ -4385,7 +4394,7 @@ Trên chiếc bàn nhỏ trong thư viện.
 
 Một món quà vừa mở dở.
 
-Một cuốn Hồng Lâu Mộng vẫn nằm bên cạnh.
+Một cuốn HỒNG LÂU MỘNG vẫn nằm bên cạnh.
 
 Và đối diện anh là một cô gái đã đi lòng vòng hơn hai tiếng trong khuôn viên trường chỉ để tìm được người nào đó.
 
@@ -4401,7 +4410,7 @@ Rồi lại nhìn Phong Vũ.
 
 — Hỏi gì?
 
-Thanh Thảo chỉ vào cuốn Hồng Lâu Mộng.
+Thanh Thảo chỉ vào cuốn HỒNG LÂU MỘNG.
 
 — Anh định đọc đến mấy giờ?
 
