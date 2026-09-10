@@ -20,7 +20,7 @@ Cậu có một câu hỏi đáng chú ý, nhưng câu hỏi đó không biến 
 
 ---
 
-# I. WARREN STERLING ĐẾN BẮC ĐÔ
+# PHẦN I. WARREN STERLING ĐẾN BẮC ĐÔ
 
 ## 1. Chuyến thăm Trung Châu
 
@@ -38,11 +38,11 @@ Chỉ cần vài nét đủ để người đọc hiểu:
 
 ---
 
-# II. CẢ BẮC ĐÔ HƯỚNG VỀ THANH CHÂU
+# PHẦN II. CẢ BẮC ĐÔ HƯỚNG VỀ THANH CHÂU
 
 ## 1. Sức hút của Sterling
 
-Khác với Giáo sư Rajan ở Hồi 7, sức hút của Sterling không giới hạn trong giới học thuật.
+Khác với Giáo sư Rajan ở Hồi 7 (trước đó mấy tháng), sức hút của Sterling không giới hạn trong giới học thuật.
 
 * Sinh viên kinh tế biết ông.
 * Sinh viên tài chính biết ông.
@@ -68,7 +68,7 @@ Mà cho thấy qua cảnh:
 
 ---
 
-# III. SÂN VẬN ĐỘNG ĐÃ ĐƯỢC CHUẨN BỊ TỪ TRƯỚC
+# PHẦN III. SÂN VẬN ĐỘNG ĐÃ ĐƯỢC CHUẨN BỊ TỪ TRƯỚC
 
 ## 1. Quyết định tổ chức ngoài trời
 
@@ -115,7 +115,7 @@ Không khí đông đúc nhưng **không hỗn loạn**.
 
 ---
 
-# IV. ĐÓN TIẾP WARREN STERLING
+# PHẦN IV. ĐÓN TIẾP WARREN STERLING
 
 ## 1. Thành phần đón tiếp
 
@@ -161,7 +161,7 @@ Qua đó tạo khí chất của Sterling:
 
 ---
 
-# V. KHAI MẠC
+# PHẦN V. KHAI MẠC
 
 ## 1. Trưởng Khoa Kinh tế–Tài chính phát biểu
 
@@ -201,7 +201,7 @@ Bắt đầu bài nói.
 
 ---
 
-# VI. BÀI NÓI CHUYỆN 30 PHÚT CỦA STERLING
+# PHẦN VI. BÀI NÓI CHUYỆN 30 PHÚT CỦA STERLING
 
 **Thời lượng trong truyện: khoảng 30 phút.**
 
@@ -250,37 +250,34 @@ Nếu chỉ mua 5% doanh nghiệp, bản chất câu hỏi vẫn vậy.
 
 ---
 
-# VII. ECONOMIC MOAT
+# PHẦN VII. LỢI THẾ CỦA MỘT DOANH NGHIỆP
 
-Đây là phần quan trọng nhất để chuẩn bị cho câu hỏi của Phong Vũ.
+Sterling đặt ra một câu hỏi đơn giản:
 
-Sterling giải thích khái niệm **Economic Moat – hào nước sâu**:
+“Nếu ngày mai có một đối thủ mới xuất hiện và có nhiều tiền hơn các bạn, điều gì khiến khách hàng vẫn ở lại?”
 
-* thương hiệu;
-* quy mô;
-* mạng lưới phân phối;
-* chi phí thấp;
-* khách hàng trung thành;
-* quyền năng định giá;
-* những lợi thế khiến đối thủ khó cạnh tranh trực tiếp.
+Từ đó ông nói về những thứ tạo nên sức bền của doanh nghiệp:
 
-Các ý về Economic Moat và Pricing Power đã có trong outline gốc. 
+một sản phẩm tốt;
+thương hiệu;
+khách hàng trung thành;
+mạng lưới phân phối;
+chi phí thấp;
+khả năng giữ chất lượng khi mở rộng;
+người quản lý giỏi;
+niềm tin mà doanh nghiệp xây dựng trong nhiều năm.
 
-### Nhưng cần sửa cách trình bày
+Nhưng ông nhấn mạnh một điều:
 
-Không để Sterling nói rằng Economic Moat nhất thiết phải đến từ:
+Không có lợi thế nào là bất biến.
 
-> nhà máy + tài sản cố định + thương hiệu truyền thống.
+Một doanh nghiệp có thể thống trị thị trường trong hai mươi năm rồi mất vị trí chỉ vì một thay đổi mà ban đầu không ai coi trọng.
 
-Thay vào đó:
-
-> Bất kỳ lợi thế nào khiến đối thủ khó vượt qua đều có thể trở thành một dạng hào nước.
-
-Điều này tạo khoảng trống hợp lý để Phong Vũ đặt câu hỏi sau đó.
+Đây chính là điểm rất hay để dẫn sang câu hỏi của Phong Vũ.
 
 ---
 
-# VIII. TÂM LÝ THỊ TRƯỜNG
+# PHẦN VIII. TÂM LÝ THỊ TRƯỜNG
 
 Sterling chuyển sang:
 
@@ -299,7 +296,7 @@ Nhưng phần này không cần kéo dài.
 
 ---
 
-# IX. THỜI GIAN VÀ SỰ KIÊN NHẪN
+# PHẦN IX. THỜI GIAN VÀ SỰ KIÊN NHẪN
 
 Sterling nói về:
 
@@ -321,7 +318,7 @@ Từ đây dẫn sang phần Q&A.
 
 ---
 
-# X. Q&A — NHỮNG TIẾNG NÓI KHÁC NHAU
+# PHẦN X. Q&A — NHỮNG TIẾNG NÓI KHÁC NHAU
 
 **Tổng cộng khoảng 7–8 câu.**
 
@@ -333,7 +330,7 @@ Mục tiêu của phiên bản mới:
 
 ---
 
-# XI. CÂU HỎI 1 — ĐẦU TƯ GIÁ TRỊ VÀ INTERNET
+# PHẦN XI. CÂU HỎI 1 — ĐẦU TƯ GIÁ TRỊ VÀ INTERNET
 
 ### Người hỏi
 
@@ -358,11 +355,11 @@ Liệu đầu tư giá trị có bỏ lỡ những doanh nghiệp của tương 
 
 Kết nối trở lại:
 
-**Economic Moat không biến mất chỉ vì công nghệ thay đổi. Nhưng hình thức của nó có thể thay đổi.**
+**Chiều sâu của DN không biến mất chỉ vì công nghệ thay đổi. Nhưng hình thức của nó có thể thay đổi.**
 
 ---
 
-# XII. CÂU HỎI 2 — BONG BÓNG
+# PHẦN XII. CÂU HỎI 2 — BONG BÓNG
 
 ### Người hỏi
 
@@ -384,7 +381,7 @@ Nói về:
 
 ---
 
-# XIII. CÂU HỎI 3 — HỨA MẪN NGHI
+# PHẦN XIII. CÂU HỎI 3 — HỨA MẪN NGHI
 
 ### Người hỏi
 
@@ -411,7 +408,7 @@ Sterling có thể đánh giá câu hỏi của cô là rất thực tế.
 
 ---
 
-# XIV. CÂU HỎI 4 — THẤT BẠI
+# PHẦN XIV. CÂU HỎI 4 — THẤT BẠI
 
 ### Người hỏi
 
@@ -435,7 +432,7 @@ Bài học:
 
 ---
 
-# XV. CÂU HỎI 5 — TIỀN BẠC VÀ CUỘC SỐNG
+# PHẦN XV. CÂU HỎI 5 — TIỀN BẠC VÀ CUỘC SỐNG
 
 ### Người hỏi
 
@@ -466,7 +463,7 @@ Nhưng tiền không mua được:
 
 ---
 
-# XVI. CÂU HỎI 6 — NGƯỜI ĐỒNG HÀNH
+# PHẦN XVI. CÂU HỎI 6 — NGƯỜI ĐỒNG HÀNH
 
 ### Người hỏi
 
@@ -490,7 +487,7 @@ Một người thông minh nhưng không chính trực có thể gây hại hơn
 
 ---
 
-# XVII. CÂU HỎI 7 — PHONG VŨ
+# PHẦN XVII. CÂU HỎI 7 — PHONG VŨ
 
 Đây là **duy nhất một câu hỏi của Phong Vũ trong toàn bộ Q&A**.
 
@@ -500,7 +497,7 @@ Phong Vũ ngồi giữa đám đông.
 
 Cậu không chủ động tìm cách được gọi.
 
-Sau khi Sterling nói về Economic Moat, cậu nghĩ đến khả năng:
+Sau khi Sterling nói về lợi thế của DN, cậu nghĩ đến khả năng:
 
 > Nếu công nghệ có thể làm thay đổi cách con người kết nối với nhau, thì liệu những lợi thế truyền thống của doanh nghiệp có còn nguyên vẹn?
 
@@ -514,7 +511,7 @@ Nên giữ câu hỏi **ngắn hơn đáng kể** so với bản cũ.
 
 Tinh thần:
 
-> “Ngài cho rằng một Economic Moat là lợi thế khiến đối thủ khó vượt qua. Nhưng nếu trong tương lai xuất hiện một hạ tầng kết nối có thể làm giảm rất mạnh khoảng cách giữa doanh nghiệp và khách hàng, giữa các thị trường và giữa người bán với người mua, liệu chính hạ tầng đó có thể trở thành một loại Economic Moat mới? Và khi điều đó xảy ra, những lợi thế truyền thống mà chúng ta cho là rất vững chắc hôm nay có thể thay đổi hay không?”
+> “Ngài vừa nói rằng một doanh nghiệp có thể tồn tại lâu nhờ những lợi thế mà đối thủ khó thay thế. Nhưng nếu một ngày xuất hiện một phương thức kết nối mới, khiến khoảng cách giữa doanh nghiệp và khách hàng gần như không còn, liệu những lợi thế mà chúng ta cho là bền vững hôm nay có thể mất đi không? Và liệu chính phương thức kết nối mới đó có thể trở thành lợi thế lớn nhất của một doanh nghiệp khác?”
 
 **Không cần nói 3G.**
 
@@ -526,7 +523,7 @@ Tinh thần:
 
 ---
 
-# XVIII. PHẢN ỨNG CỦA STERLING
+# PHẦN XVIII. PHẢN ỨNG CỦA STERLING
 
 Đây là chỗ phải **hạ nhiệt rất nhiều** so với outline gốc.
 
@@ -573,7 +570,7 @@ Hoặc:
 
 ---
 
-# XIX. CÂU HỎI 8 — TUỔI 20 VÀ SỰ KIÊN NHẪN
+# PHẦN XIX. CÂU HỎI 8 — TUỔI 20 VÀ SỰ KIÊN NHẪN
 
 Đây là câu hỏi cuối.
 
@@ -609,7 +606,7 @@ Có thể diễn đạt tự nhiên hơn qua một câu chuyện.
 
 ---
 
-# XX. KẾT THÚC Q&A
+# PHẦN XX. KẾT THÚC Q&A
 
 Sterling nhìn đồng hồ.
 
@@ -627,7 +624,7 @@ Sterling rời sân khấu.
 
 ---
 
-# XXI. SAU BUỔI GIAO LƯU
+# PHẦN XXI. SAU BUỔI GIAO LƯU
 
 ## 1. Các nhóm sinh viên bàn luận
 
@@ -649,7 +646,8 @@ Một số khác thấy nó đáng suy nghĩ.
 
 ---
 
-XXII. TÔ THANH THẢO
+# PHẦN XXII. TÔ THANH THẢO
+
 1. Thanh Thảo nói chuyện với Phong Vũ
 
 Sau sự kiện, Thanh Thảo có thể đi cùng Phong Vũ một đoạn.
@@ -700,7 +698,7 @@ Cho thấy sau một sự kiện lớn, hai người vẫn có thể ngồi cạ
 
 ---
 
-# XXIII. CUỘC GẶP TÌNH CỜ GIỮA STERLING VÀ PHONG VŨ
+# PHẦN XXIII. CUỘC GẶP TÌNH CỜ GIỮA STERLING VÀ PHONG VŨ
 
 Tôi nghĩ **nên giữ cảnh này**, nhưng với cấu trúc mới mà bạn vừa đề xuất.
 
@@ -742,7 +740,7 @@ Nhưng **không phải “thiên tài số một trường”**.
 
 ---
 
-# XXIV. STERLING VÀ PHONG VŨ TRAO ĐỔI VÀI CÂU
+# PHẦN XXIV. STERLING VÀ PHONG VŨ TRAO ĐỔI VÀI CÂU
 
 Sterling có thể hỏi:
 
@@ -784,7 +782,7 @@ Sau đó giáo sư gọi Phong Vũ vào.
 
 ---
 
-# XXV. Ý NGHĨA CỦA CUỘC GẶP STERLING – PHONG VŨ
+# PHẦN XXV. Ý NGHĨA CỦA CUỘC GẶP STERLING – PHONG VŨ
 
 Không phải:
 
@@ -806,7 +804,7 @@ Nếu sau này hai người còn gặp lại, mối liên hệ ấy sẽ có n�
 
 ---
 
-# XXVI. KẾT HỒI — DẪN SANG BÀI LUẬN TRIẾT HỌC
+# PHẦN XXVI. KẾT HỒI — DẪN SANG BÀI LUẬN TRIẾT HỌC
 
 Phong Vũ bước vào phòng giáo sư.
 
