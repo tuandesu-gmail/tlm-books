@@ -1,0 +1,749 @@
+
+
+---
+
+# HỒI 13 — MỘT TRIỆU KIM TỆ ĐẦU TIÊN
+
+### Thời gian
+
+**Từ tháng 7 năm thứ nhất đến khoảng cuối năm, trước Tết.**
+
+### Tuổi Phong Vũ
+
+**22 tuổi**, vừa tốt nghiệp đại học sớm và bước vào dự án 3G.
+
+### Trục của hồi
+
+Có ba lớp chạy song song:
+
+**1. Sự nghiệp:**
+Phong Vũ từ một sinh viên bước vào một dự án quốc gia với hàng trăm người giỏi.
+
+**2. Nhân vật:**
+Anh gặp Hiểu Khánh và Bất Phàm, hình thành nhóm cộng sự đầu tiên.
+
+**3. Tình cảm:**
+Trong khi cuộc sống công việc mở ra, khoảng cách với Nhược Vũ được nối lại bằng một bài hát.
+
+Điểm kết:
+
+> **Phong Vũ nhận ra mình không chỉ kiếm được tiền và có thêm bạn bè. Anh bắt đầu có một thứ khác: một cuộc sống mà anh thực sự muốn sống.**
+
+Không cần nói thẳng câu này trong truyện.
+
+---
+
+# PHẦN I — RỜI QUÊ
+
+### 1. Buổi sáng rời nhà
+
+* Mùa hè.
+* Khoảng 6 giờ sáng trời đã sáng rõ.
+* Phong Vũ chuẩn bị trở lại Bắc Đô.
+* Tuyết Mai đưa anh lên thị trấn.
+* Từ thị trấn → xe khách → trung tâm tỉnh → tàu hỏa → Bắc Đô.
+
+### 2. Gặp Nhược Vũ ở đầu làng
+
+Giữ gần như nguyên chất liệu bản nháp:
+
+* Phong Vũ nhìn thấy Nhược Vũ đứng bên đường.
+* Dừng xe.
+* Hai người chỉ nói vài câu.
+* Nhược Vũ đưa anh một cây bút.
+* Phong Vũ nhận.
+* “Anh đi đây.”
+
+Tuyết Mai ngồi phía sau.
+
+Trước khi đi, cô **nháy mắt và giơ ngón tay cái với Nhược Vũ**.
+
+Không cần giải thích.
+
+### Chức năng
+
+Đây là sự chuyển cảnh:
+
+> **Hồi 12: lần đầu gặp.**
+> **Hồi 13: bắt đầu một cuộc đời khác sau cuộc gặp ấy.**
+
+---
+
+# PHẦN II — THẾ GIỚI 3G
+
+### 1. Đến Bắc Đô
+
+* Phong Vũ làm thủ tục nhận việc.
+* Được bố trí ở khu KTX của dự án.
+* Phòng khoảng 24m².
+* Có những tiện nghi cơ bản.
+* Internet miễn phí.
+* Laptop đời mới và thiết bị phục vụ công việc.
+* Những thứ này chỉ được sử dụng trong thời gian tham gia dự án.
+
+### 2. Khu dự án
+
+Miêu tả bằng những gì Phong Vũ nhìn thấy:
+
+* Khu KTX.
+* Khu văn phòng.
+* Căng tin.
+* Quán café.
+* Không gian rộng như một khu công viên công nghệ.
+
+### 3. Quy mô nhân sự
+
+* Hơn 200 nhân sự nòng cốt ở kỹ thuật và kinh doanh.
+* Giáo sư.
+* Tiến sĩ.
+* Kỹ sư từ các doanh nghiệp.
+* Sinh viên ưu tú mới tốt nghiệp.
+* Đội kỹ thuật gần 100 người.
+* Nam chiếm khoảng 60%.
+
+Phong Vũ nhận ra:
+
+> mình không còn đứng đầu một lớp học hay một cuộc thi sinh viên nữa.
+
+Ở đây, xung quanh anh toàn người giỏi.
+
+### 4. Bắt đầu công việc
+
+* Làm quen với mọi người.
+* Đọc tài liệu.
+* Quan sát hệ thống.
+* Không cần lập tức chứng minh bản thân.
+* Khoảng một tháng đầu tương đối thuận lợi.
+
+---
+
+# PHẦN III — MƯỜI NGÀY
+
+### 1. Vấn đề xuất hiện
+
+Khoảng một tháng sau khi Phong Vũ gia nhập:
+
+* dự án đã bước sang tháng thứ ba;
+* một tiểu tổ kỹ thuật gặp vấn đề nghiêm trọng;
+* liên quan đến **tốc độ truyền tải và độ trễ dữ liệu 3G**;
+* đã thử một tuần nhưng không giải quyết được.
+
+### 2. Thứ trưởng Lâm Kim Ngọc can thiệp
+
+* Cho thêm một tuần.
+* Vẫn thất bại.
+* Báo cáo lên cấp trên.
+
+### 3. Tối hậu thư
+
+Chính phủ đưa ra thời hạn:
+
+> **10 ngày.**
+
+Nếu không giải quyết:
+
+* năm người đứng đầu dự án sẽ bị cách chức/sa thải.
+
+Không cần mô tả quá nhiều về chính trị.
+
+Chỉ cần cho thấy:
+
+> áp lực lập tức đè xuống toàn bộ dự án.
+
+### 4. Toàn bộ đội kỹ thuật được huy động
+
+* Gần 100 người cùng tham gia.
+* Không phân biệt tiểu tổ.
+* OT đến khuya.
+* Mọi người bắt đầu tìm nguyên nhân.
+
+---
+
+# PHẦN IV — LÂM HIỂU KHÁNH
+
+### 1. Người trình bày vấn đề
+
+Lâm Hiểu Khánh đại diện tiểu tổ phụ trách trực tiếp trình bày.
+
+Giới thiệu qua hành động và hoàn cảnh:
+
+* vừa từ Đại Mỹ quốc trở về;
+* tốt nghiệp loại ưu;
+* kỹ sư công nghệ;
+* con gái Thứ trưởng;
+* xinh đẹp.
+
+Không cần nhấn quá lâu vào ngoại hình.
+
+### 2. Phong Vũ bắt đầu tham gia
+
+* Được kéo vào nhóm.
+* Ngồi nghe.
+* Đọc tài liệu.
+* Quan sát cách mọi người phân tích.
+
+### 3. Ba ngày đầu
+
+Giữ chất liệu bản nháp:
+
+* OT đến sau 12 giờ.
+* Phong Vũ trao đổi nhiều với Hiểu Khánh.
+* Cô giúp anh hiểu rõ cấu trúc vấn đề.
+* Hai người bắt đầu phối hợp khá ăn ý.
+
+### 4. Ngày thứ tư
+
+Phong Vũ nhận ra:
+
+> vấn đề không hẳn nằm ở việc phần cứng chưa đủ mạnh.
+
+Mà có thể nằm ở:
+
+> **cách phần mềm đang sử dụng phần cứng.**
+
+Đây là khoảnh khắc quan trọng.
+
+Không cần để anh nói thành một bài giảng.
+
+Anh chỉ bắt tay làm.
+
+---
+
+# PHẦN V — BA NGÀY CỦA PHONG VŨ
+
+### 1. Viết lại
+
+* Phong Vũ dùng ngôn ngữ cấp thấp gần với ngôn ngữ máy.
+* Sửa thuật toán nén dữ liệu.
+* Sửa phần định tuyến dữ liệu cốt lõi.
+* Thử nghiệm.
+
+### 2. Lần chạy đầu tiên
+
+Có thể chưa hoàn hảo.
+
+Anh tiếp tục sửa.
+
+### 3. Kết quả
+
+* Hệ thống chạy.
+* Tốc độ cải thiện rõ.
+* Độ trễ giảm.
+* Test đạt yêu cầu.
+
+### 4. Tin tức lan ra
+
+* Mọi người chạy đến xem.
+* Phong Vũ đề nghị tổ chức một buổi trình bày.
+* Demo trực tiếp.
+* Các lãnh đạo dự án có mặt.
+
+### 5. Phản ứng
+
+Đặc biệt:
+
+**Lâm Kim Ngọc** nhẹ nhõm thực sự.
+
+Bởi không phải nhân viên nào cũng biết:
+
+> nếu thất bại, sự nghiệp của năm người đứng đầu sẽ bị ảnh hưởng nghiêm trọng.
+
+Không cần tác giả giải thích dài.
+
+Có thể chỉ cho thấy ông **vỗ mạnh vào vai Phong Vũ nhiều lần**.
+
+---
+
+# PHẦN VI — MỘT TRIỆU KIM TỆ
+
+### 1. Phong Vũ được gọi vào phòng lãnh đạo
+
+* Có các lãnh đạo dự án.
+* Thứ trưởng Kim Ngọc đích thân đứng lên đón.
+* Công bố quyết định.
+
+### 2. Một triệu Kim Tệ
+
+> **Thưởng nóng 1 triệu Kim Tệ.**
+
+Phong Vũ:
+
+* hơi bất ngờ;
+* không khoa trương;
+* cảm ơn.
+
+### 3. Ý nghĩa
+
+Không cần viết:
+
+> “Đây là bước ngoặt cuộc đời.”
+
+Chỉ cần để Phong Vũ sau đó **ngồi một mình và nghĩ về con số ấy**.
+
+Anh từng là một sinh viên phải sống bằng học bổng.
+
+Bây giờ một lần giải quyết vấn đề đã đem lại cho anh một triệu Kim Tệ.
+
+Đây là lần đầu tiên:
+
+> **năng lực của anh trực tiếp biến thành một khoản tài sản rất lớn.**
+
+---
+
+# PHẦN VII — BỮA TỐI VỚI HIỂU KHÁNH
+
+Đây là đoạn cần giữ khá nhiều chất liệu gốc, nhưng viết lại tiết chế hơn.
+
+### 1. Hiểu Khánh chờ ở cổng
+
+* Mô-tô phân khối lớn.
+* Cô vui vì áp lực được giải tỏa.
+* Rủ Phong Vũ đi ăn.
+
+### 2. Cô để Phong Vũ lái
+
+* Anh chưa quen xe phân khối lớn.
+* Cô hướng dẫn.
+* Hai người chạy lòng vòng Bắc Đô trước khi đến nhà hàng.
+
+### 3. Bữa tối
+
+Nói chuyện về:
+
+* Đại Mỹ quốc.
+* Startup công nghệ.
+* Vì sao Hiểu Khánh trở về.
+* Cô từng nghĩ đến việc ở lại Đại Mỹ quốc.
+* Cơ hội ở Trung Châu.
+* Công nghệ.
+
+### 4. Câu hỏi về tương lai
+
+Phong Vũ hỏi:
+
+> Hiểu Khánh có muốn trở thành Bill Gates không?
+
+Cô trả lời theo tinh thần bản nháp:
+
+* Bill Gates giỏi công nghệ.
+* Nhưng thành công còn phụ thuộc kinh doanh, tầm nhìn, quyết đoán và thương trường.
+* Cô không cho rằng mình có đủ những tố chất đó.
+* Cô thích công nghệ nhưng không đặc biệt muốn trở thành doanh nhân.
+
+Sau đó hỏi ngược Phong Vũ.
+
+Anh nói mục tiêu của mình khá giản dị:
+
+> có một căn nhà nhỏ, ngày ba bữa, tối về ngủ ngon.
+
+Có thể giữ nét hài hước này.
+
+### Chức năng của cảnh
+
+Không phải để “ghép đôi”.
+
+Mà để độc giả thấy:
+
+> **Phong Vũ và Hiểu Khánh nói chuyện rất hợp.**
+
+Đồng thời đặt nền cho việc Hiểu Khánh **có cảm tình với anh trong giai đoạn này**, nhưng không cần tuyên bố.
+
+---
+
+# PHẦN VIII — MỘT THÁNG BÊN NHAU
+
+### 1. Phong Vũ được điều vào tiểu tổ nòng cốt
+
+* Cùng nhóm với Hiểu Khánh.
+* Chỗ ngồi gần nhau.
+* Hai người thường xuyên trao đổi.
+
+### 2. Tiếng Anh
+
+Hiểu Khánh nhận ra phát âm tiếng Anh của Phong Vũ chưa tốt.
+
+Cô đề nghị:
+
+> Hai người dùng tiếng Anh khi nói chuyện với nhau.
+
+Điều này vừa giúp Phong Vũ luyện tiếng Anh, vừa tạo thêm một kênh giao tiếp riêng giữa hai người.
+
+### 3. Sinh hoạt ngoài giờ
+
+* Café.
+* Ăn tối.
+* Đi mô-tô.
+* Nói chuyện về đủ thứ.
+
+### 4. Tin đồn
+
+Đồng nghiệp bắt đầu nghĩ hai người là một đôi.
+
+Hiểu Khánh:
+
+* không xác nhận;
+* cũng không phủ nhận.
+
+Một phần cô muốn xem Phong Vũ phản ứng thế nào.
+
+Phong Vũ:
+
+* không đặc biệt để tâm;
+* vẫn cư xử tự nhiên.
+
+**Không cần biến tin đồn thành một tình tiết lớn.**
+
+---
+
+# PHẦN IX — MÃ BẤT PHÀM
+
+### 1. Một người trẻ nổi bật ở bộ phận kinh doanh
+
+Phong Vũ tình cờ gặp Bất Phàm ở căng tin.
+
+* Tốt nghiệp loại ưu khoa Kinh tế Harvard.
+* Mới về nước.
+* Đã có danh tiếng trong dự án.
+
+### 2. Bữa trưa
+
+Hai người bắt chuyện.
+
+Bất Phàm biết chuyện Phong Vũ giải quyết vấn đề kỹ thuật.
+
+Phong Vũ tò mò về:
+
+* kinh tế Đại Mỹ quốc;
+* văn hóa tiêu dùng;
+* thị trường chứng khoán;
+* đầu tư.
+
+### 3. Café sau bữa ăn
+
+Đây là đoạn có thể giữ vì nó **giới thiệu tư tưởng của Bất Phàm**, chứ không chỉ giới thiệu nhân vật.
+
+Phong Vũ hỏi:
+
+> mục tiêu của Bất Phàm là gì?
+
+Bất Phàm:
+
+* ngưỡng mộ Warren Buffett;
+* nhưng hình mẫu mình thích hơn là Bill Gates;
+* thích công nghệ;
+* đồng thời có hứng thú với chính trị;
+* tương lai có thể bước vào chính trường.
+
+### 4. Phong Vũ nói về mình
+
+Phong Vũ vẫn rất thực tế:
+
+> trước mắt phải tự lo được cho bản thân.
+
+Câu này nối khá đẹp với bài hùng biện Hồi 11.
+
+---
+
+# PHẦN X — BA NGƯỜI
+
+### 1. Phong Vũ đang ăn với Hiểu Khánh
+
+Bất Phàm xuất hiện.
+
+Phong Vũ gọi anh lại.
+
+### 2. Hai người nhận ra nhau
+
+* Hiểu Khánh và Bất Phàm vốn đã từng biết nhau từ thời du học.
+* Có lịch sử nhỏ giữa hai người.
+* Bất Phàm trêu chọc.
+* Hiểu Khánh phản ứng.
+
+Không cần giải thích tình cảm.
+
+### 3. Ba người bắt đầu ăn cùng nhau
+
+Từ đây:
+
+> **Phong Vũ — Hiểu Khánh — Bất Phàm**
+
+bắt đầu trở thành một nhóm.
+
+### 4. Ba kiểu tư duy
+
+* Phong Vũ: nhìn vấn đề tổng thể, thích tìm cách làm.
+* Hiểu Khánh: kỹ thuật.
+* Bất Phàm: kinh tế, thị trường.
+
+Đây là nền tảng trực tiếp cho **website 3G**.
+
+---
+
+# PHẦN XI — Ý TƯỞNG BÁN 3G QUA INTERNET
+
+Đây là phần cần giữ rất rõ từ bản nháp gốc.
+
+### 1. Dự án bắt đầu bước sang giai đoạn triển khai
+
+Các trạm 3G chuẩn bị được xây dựng.
+
+Xuất hiện bài toán:
+
+> làm sao đưa sản phẩm đến người dùng với tốc độ đủ nhanh?
+
+### 2. Những ý tưởng khác nhau
+
+Phong Vũ đưa ra các ý tưởng:
+
+* tận dụng hạ tầng viễn thông sẵn có;
+* huy động quân đội hỗ trợ lắp đặt;
+* mở rộng mạng lưới đại lý.
+
+### 3. Ý tưởng quan trọng nhất
+
+Phong Vũ đưa ra:
+
+> **bán các gói 3G qua Internet.**
+
+Mô hình:
+
+* website;
+* khách hàng chọn gói;
+* thanh toán;
+* mã số được gửi qua SMS;
+* nhiều gói khác nhau;
+* dung lượng;
+* thời hạn;
+* phí gọi/SMS...
+
+### 4. Phản ứng của Bất Phàm và Hiểu Khánh
+
+Cả hai lập tức thấy có tiềm năng.
+
+Hiểu Khánh đặc biệt hứng thú ở phần kỹ thuật.
+
+Cô nói:
+
+> có thể làm demo ngay ngày hôm sau.
+
+### 5. Hiểu Khánh xây website
+
+* Một đêm/ngày làm việc.
+* Ngày hôm sau demo.
+* Phong Vũ và Bất Phàm xem.
+* Cả hai hài lòng.
+
+### 6. Bất Phàm viết phương án
+
+Ba người thống nhất:
+
+> để Bất Phàm biến ý tưởng thành đề án chính thức.
+
+---
+
+# PHẦN XII — ĐỀ ÁN ĐƯỢC CHẤP THUẬN
+
+### 1. Cuộc họp lãnh đạo
+
+Thứ trưởng Kim Ngọc triệu tập nhóm lãnh đạo.
+
+* Đã xem các đề xuất.
+* Đánh giá cao ý tưởng của Phong Vũ và Bất Phàm.
+
+### 2. Những vấn đề còn bỏ ngỏ
+
+Lãnh đạo chỉ ra:
+
+* ý tưởng huy động quân đội cần chính phủ phê duyệt;
+* hệ thống đại lý cần xác định mức hoa hồng.
+
+### 3. Ba người đề xuất thử nghiệm
+
+Phong Vũ và Bất Phàm được gọi lên.
+
+Họ đề xuất:
+
+> cho ba người lập một website đại lý 3G thực sự để thử nghiệm mô hình.
+
+Lãnh đạo nhìn ra ý đồ kinh doanh của họ.
+
+Nhưng không phản đối.
+
+### 4. Chính phủ phê duyệt
+
+* Đồng ý các phương án.
+* Cho phép thử nghiệm khoảng ba tháng.
+* Mức hoa hồng có thể linh hoạt để thăm dò thị trường.
+
+Đây là lúc **website 3G chính thức có cơ hội trở thành một hoạt động kinh doanh thật**, nhưng chưa cần kể kết quả cuối cùng.
+
+---
+
+# PHẦN XIII — NHỮNG NGÀY ĐẦU CỦA WEBSITE
+
+* Website bắt đầu vận hành.
+* Khách hàng đầu tiên.
+* Những lỗi đầu tiên.
+* Các vấn đề thanh toán/xác nhận/mã số.
+* Ba người cùng xử lý.
+* Hiểu Khánh lo kỹ thuật.
+* Bất Phàm nhìn số liệu và vận hành.
+* Phong Vũ quan sát cả hai phía.
+
+Sau khoảng một tháng:
+
+> doanh thu bắt đầu tăng rất mạnh.
+
+Nhưng **không cần đưa con số lợi nhuận hơn 6 triệu Kim Tệ vào Hồi 13**.
+
+Con số đó nên để dành cho Hồi 15, khi tổng kết toàn bộ dự án.
+
+---
+
+# PHẦN XIV — KHOẢNG LẶNG
+
+Sau những ngày liên tục làm việc:
+
+* Phong Vũ vẫn liên lạc với bạn bè cũ.
+* Có email với Mẫn Nghi, Thanh Thảo.
+* Thanh Thảo gửi cho anh danh sách nhạc tiếng Anh để luyện nghe.
+
+Đây là cách tự nhiên đưa Thanh Thảo trở lại mà **không cần cho cô xuất hiện trực tiếp**.
+
+---
+
+# PHẦN XV — NOCTURNE
+
+Đây là **đỉnh cảm xúc và kết thúc Hồi 13**.
+
+### 1. Danh sách nhạc của Thanh Thảo
+
+Phong Vũ:
+
+* mở từng bài;
+* nghe đi nghe lại;
+* đối chiếu lời bài hát;
+* luyện tiếng Anh.
+
+Không cần nhắc smartphone.
+
+Anh dùng **laptop/email/Internet** đúng bối cảnh thời kỳ.
+
+### 2. Nocturne xuất hiện
+
+Một giai điệu khác hẳn những bài trước.
+
+Phong Vũ dừng lại.
+
+Nghe lần thứ nhất.
+
+Rồi lần thứ hai.
+
+Rồi lần thứ ba.
+
+### 3. Cảm nhận của Phong Vũ
+
+Không cần dùng quá nhiều mỹ từ.
+
+Điểm chính từ bản nháp:
+
+* có vẻ buồn;
+* cô đơn;
+* nhưng với anh không phải sự tiêu cực;
+* mà là cô tịch;
+* yên bình;
+* ấm áp;
+* hòa hợp;
+* có cảm giác bay bổng.
+
+### 4. Anh gửi cho Nhược Vũ
+
+* Link bài hát.
+* Có thể gửi kèm lời bài hát trong email như bản gốc.
+* Không cần trích lời trong tiểu thuyết.
+
+### 5. Ba–bốn ngày sau
+
+Buổi tối.
+
+Phong Vũ về KTX.
+
+Mở email.
+
+Nhận được thư của Nhược Vũ.
+
+Cô nói bài hát rất hay.
+
+Và gửi kèm:
+
+> **một bản thu âm giọng hát mộc của cô.**
+
+### 6. Phong Vũ nghe
+
+Đây là cảnh nên viết **rất chậm**.
+
+* Anh tải file xuống.
+* Đeo tai nghe hoặc mở loa nhỏ.
+* Ngồi yên.
+* Nghe.
+
+Không cần cho Nhược Vũ xuất hiện trong cảnh.
+
+Chỉ có:
+
+> căn phòng KTX
+> đêm muộn
+> ánh sáng màn hình
+> giọng hát từ chiếc máy tính.
+
+Phong Vũ nhận ra giọng cô khác với ca sĩ bản gốc.
+
+Nhẹ hơn.
+
+Trong hơn.
+
+Nhưng điều làm anh rung động không phải kỹ thuật thanh nhạc.
+
+Mà là:
+
+> **cô dường như đang dùng bài hát để nói điều gì đó với anh.**
+
+### 7. Kết
+
+Phong Vũ ngồi yên rất lâu sau khi bài hát kết thúc.
+
+Không cần khóc quá nhiều.
+
+Không cần nói:
+
+> “Anh yêu cô.”
+
+Chỉ cần để anh:
+
+> **không bấm sang bài khác.**
+
+**Hết Hồi 13.**
+
+---
+
+# Một điều tôi muốn điều chỉnh so với outline trước
+
+Tôi nghĩ **Hồi 13 không nên có đoạn “dự án kết thúc” và cũng không nên có Bavaria S-600**.
+
+Hai thứ đó để sang Hồi 15.
+
+Vì nếu Hồi 13 vừa:
+
+> gia nhập → giải quyết sự cố → 1 triệu → Hiểu Khánh → Bất Phàm → website → website kiếm 6 triệu → dự án kết thúc → mua xe → bàn khởi nghiệp → Nocturne
+
+thì sẽ quá nhiều thành quả, khiến **“Một triệu Kim Tệ đầu tiên” mất trọng tâm**.
+
+Còn nếu dừng ở:
+
+> **Một triệu → ba người → website bắt đầu thành công → Nocturne**
+
+thì Hồi 13 có một đường cong rất đẹp:
+
+**Bước vào thế giới mới → chứng minh năng lực → nhận phần thưởng → tìm được cộng sự → mở ra một cánh cửa mới → trở về với một người ở rất xa mình.**
+
+Và quan trọng nhất, **Nocturne không bị biến thành phần phụ cuối chương**. Nó trở thành cái kết thực sự của Hồi 13.

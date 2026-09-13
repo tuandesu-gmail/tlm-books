@@ -1,723 +1,488 @@
-Được. Tôi nghĩ nên **tái cấu trúc lại cả 3 hồi 13–15 thành một chuỗi có nhịp rất rõ**, đồng thời giữ những chất liệu quan trọng trong bản `Dự án 3G, tuổi 23`, nhưng không để Hồi 13–14 bị biến thành một hồi quá dài.
+Được. Sau khi đối chiếu lại bản thảo và mốc thời gian, tôi nghĩ chúng ta nên **chốt lại outline ba hồi này theo thứ tự mới 013–014–015**, đồng thời không bê nguyên cấu trúc cũ sang mà phải tái phân bố chất liệu.
 
-Tôi đề xuất trục như sau:
-
-> **Hồi 13 — Năng lực được chứng minh + tiền đầu tiên + Nocturne**
-> **Hồi 14 — Ba người tìm đường khởi nghiệp**
-> **Hồi 15 — Trở về hồng trần: Tết + Nhược Vũ**
+Có một điểm cần đặc biệt giữ: bản thảo cho thấy trong thời gian làm 3G, website của ba người phát triển thành một nguồn lợi nhuận đáng kể; đến giai đoạn sau Tết, Phong Vũ dành khoảng năm tháng cuối để giao lưu, tìm hiểu thị trường và bàn với Bất Phàm, Hiểu Khánh về TMĐT.  Vì vậy **Hồi 15 — Ý tưởng khởi nghiệp** sẽ trải dài trong những tháng cuối của dự án, không phải một cuộc họp diễn ra trong vài ngày.
 
 ---
 
 # HỒI 13 — MỘT TRIỆU KIM TỆ ĐẦU TIÊN
 
-### Chủ đề lõi
+### Thời gian
 
-Phong Vũ lần đầu bước ra khỏi phạm vi trường học và trực tiếp tham gia một dự án cấp quốc gia.
+**Khoảng tháng 7 năm trước → trước Tết**
 
-Điểm quan trọng nhất của hồi này không phải là “Phong Vũ kiếm được tiền”, mà là:
+### Trục chính
 
-> **Lần đầu tiên năng lực của Phong Vũ được đặt vào một vấn đề thực tế, có hàng trăm người giỏi cùng giải quyết, và cậu thực sự giải được nó.**
+Phong Vũ bước vào dự án 3G cấp quốc gia, từ một sinh viên trở thành người trực tiếp giải quyết một vấn đề kỹ thuật quan trọng; từ đó nhận được khoản thưởng đầu tiên rất lớn, đồng thời hình thành nhóm cộng sự Phong Vũ – Bất Phàm – Hiểu Khánh.
 
-Sau đó, tiền xuất hiện như một hệ quả.
+### PHẦN I — RỜI QUÊ
 
----
+* Phong Vũ trở lại Bắc Đô.
+* Chia tay Nhược Vũ ở đầu làng.
+* Cây bút Nhược Vũ tặng anh.
+* Bước vào một môi trường hoàn toàn khác.
 
-## PHẦN I — RỜI QUÊ
+### PHẦN II — DỰ ÁN 3G
 
-* Sau kỳ nghỉ hè, Phong Vũ rời quê trở lại Bắc Đô.
-* Trước khi đi, gặp Nhược Vũ ở đầu làng.
-* Nhược Vũ đưa cho cậu một cây bút.
-* Hai người nói chuyện không nhiều.
-* Tuyết Mai đứng gần đó, nhìn hai người với vẻ trêu chọc.
-* Phong Vũ lên đường.
-
-Có thể giữ cảnh xe máy → bến xe → tàu → Bắc Đô.
-
-Không cần kéo dài.
-
-**Mục đích:** tạo khoảng lặng trước khi bước vào một thế giới hoàn toàn khác.
-
----
-
-# PHẦN II — DỰ ÁN 3G
-
-* Phong Vũ đến khu dự án.
-* Nhận phòng ở khoảng 24m².
-* Có Internet miễn phí, máy tính và các thiết bị cần thiết.
-* Biết dự án đã vận hành khoảng hai tháng.
-* Tổng nhóm hơn 200 người.
+* Phong Vũ được tuyển vào dự án.
+* Khu làm việc, chỗ ở, máy tính, Internet.
+* Quy mô hơn 200 người.
 * Bộ phận kỹ thuật khoảng 100 người.
-* Phong Vũ là một trong những người được tuyển bổ sung cuối cùng.
+* Lâm Kim Ngọc là người phụ trách.
+* Phong Vũ ban đầu chỉ là một người mới trong một tập thể toàn những người có năng lực.
 
-Giới thiệu:
+### PHẦN III — NÚT THẮT
 
-* Bộ Thông tin và Truyền thông.
-* Thứ trưởng Lâm Kim Ngọc phụ trách dự án.
-* Quy mô và áp lực của dự án.
+* Dự án gặp vấn đề về tốc độ/độ trễ.
+* Nhiều nhóm đã thử giải quyết.
+* Phong Vũ quan sát trong vài ngày.
+* Hiểu Khánh tham gia phân tích.
+* Phong Vũ nhận ra vấn đề không nhất thiết nằm ở phần cứng mà ở cách xử lý dữ liệu.
 
-Không cần giải thích quá nhiều về 3G.
+### PHẦN IV — BA NGÀY
 
-Nên để Phong Vũ **quan sát môi trường mới**:
+* Phong Vũ tự mình nghiên cứu.
+* Viết lại phần thuật toán quan trọng.
+* Thử nghiệm thất bại rồi điều chỉnh.
+* Cuối cùng đạt kết quả.
+* Không cần để Phong Vũ “thuyết giảng” về kỹ thuật; kết quả và phản ứng của những người khác tự nói lên năng lực của anh.
 
-> rất nhiều người giỏi, rất nhiều máy tính, những cuộc họp kéo dài, những bảng số liệu mà cậu chưa từng thấy.
+### PHẦN V — MỘT TRIỆU
 
----
+* Lâm Kim Ngọc thưởng cho Phong Vũ **1 triệu Kim Tệ**.
+* Đây là khoản tiền lớn đầu tiên anh tự mình kiếm được.
+* Phong Vũ bắt đầu có những suy nghĩ thực tế về tiền, gia đình và tương lai.
 
-# PHẦN III — MƯỜI NGÀY
+### PHẦN VI — HIỂU KHÁNH
 
-* Dự án gặp một vấn đề nghiêm trọng về tốc độ truyền dữ liệu/độ trễ.
-* Các nhóm kỹ thuật đã thử nhiều phương án nhưng không giải quyết được.
-* Lãnh đạo cấp trên đặt thời hạn 10 ngày.
-* Nếu thất bại, nhóm lãnh đạo chủ chốt phải chịu trách nhiệm.
+* Hiểu Khánh chủ động tiếp cận Phong Vũ sau sự cố.
+* Hai người ăn uống, nói chuyện, đi mô-tô.
+* Trao đổi về kỹ thuật, giáo dục, Đại Mỹ quốc...
+* Trong khoảng thời gian này, **Hiểu Khánh có cảm tình với Phong Vũ**.
+* Phong Vũ quý cô nhưng không phát triển thành tình cảm.
+* Không cần biến điều này thành một tuyến tình yêu.
 
-Phong Vũ ban đầu **không lập tức lao vào giải quyết**.
+### PHẦN VII — MÃ BẤT PHÀM
 
-Cậu quan sát.
+* Bất Phàm xuất hiện trong dự án.
+* Có nền tảng kinh tế, tài chính và trải nghiệm Đại Mỹ quốc.
+* Phong Vũ và Bất Phàm bắt đầu trao đổi về kinh tế, thị trường, công nghệ.
+* Ba người dần hình thành một nhóm tự nhiên.
 
-Hỏi người này.
+### PHẦN VIII — WEBSITE 3G
 
-Đọc tài liệu.
+* Phát hiện cơ hội phân phối các gói 3G qua Internet.
+* Phong Vũ đưa ý tưởng.
+* Hiểu Khánh phụ trách kỹ thuật.
+* Bất Phàm xây dựng phương án kinh doanh.
+* Đề xuất được cấp trên chấp thuận.
+* Website bắt đầu vận hành.
+* Doanh thu tăng nhanh.
 
-Xem cấu trúc hệ thống.
+Bản thảo hiện tại đã có sẵn phần này: Hiểu Khánh nhanh chóng xây dựng demo website, Bất Phàm hoàn thiện phương án và cấp trên đánh giá cao các đề xuất của nhóm. 
 
-Nghe những cuộc tranh luận kỹ thuật.
+### PHẦN IX — NOCTURNE
 
-Có thể để vài ngày đầu trôi qua gần như bình thường.
+* Tô Thanh Thảo gửi danh sách nhạc tiếng Anh cho Phong Vũ.
+* Phong Vũ nghe *Nocturne* của Secret Garden.
+* Gửi bài hát cho Nhược Vũ.
+* Vài ngày sau nhận được bản thu âm Nhược Vũ hát.
+* Phong Vũ nghe một mình.
+* Cảm xúc được giữ ở mức **tĩnh, sâu, riêng tư**.
 
-Điều này rất quan trọng để tránh cảm giác:
+**Kết hồi ở đây.**
 
-> “Phong Vũ xuất hiện → nhìn một cái → lập tức biết đáp án.”
-
----
-
-# PHẦN IV — LỖI KHÔNG NẰM Ở PHẦN CỨNG
-
-* Lâm Hiểu Khánh tham gia trao đổi với nhóm.
-* Cô trình bày lại toàn bộ vấn đề.
-* Phong Vũ bắt đầu đặt những câu hỏi khác với mọi người.
-
-Ví dụ:
-
-* Tại sao phải tăng phần cứng?
-* Tại sao không tối ưu cách xử lý dữ liệu?
-* Có bao nhiêu bước thực sự cần thiết?
-* Những phần nào đang tiêu tốn tài nguyên vô ích?
-
-Phong Vũ nhận ra:
-
-> Mọi người đang cố làm hệ thống mạnh hơn, trong khi vấn đề có thể nằm ở cách hệ thống sử dụng sức mạnh đó.
-
-Cậu bắt đầu tự làm.
-
----
-
-# PHẦN V — BA NGÀY
-
-* Phong Vũ gần như sống trong phòng máy.
-* Viết lại phần quan trọng của thuật toán nén/định tuyến.
-* Không phải “phát minh 3G”.
-* Chỉ là **tối ưu một nút thắt mà mọi người đã nhìn theo một hướng khác**.
-* Dùng ngôn ngữ cấp thấp gần với máy.
-
-Ngày thứ nhất: chưa được.
-
-Ngày thứ hai: có dấu hiệu.
-
-Ngày thứ ba: chạy thử.
-
-Kết quả vượt qua ngưỡng yêu cầu.
-
-Có thể xây dựng cảnh:
-
-> phòng thử nghiệm im lặng → số liệu chạy → một người nhìn màn hình → gọi người khác → cả nhóm tụ lại.
-
-Để **người khác phản ứng**, thay vì tác giả nói Phong Vũ giỏi thế nào.
+Không cần kể hết thành quả cuối cùng của dự án ở Hồi 13.
 
 ---
 
-# PHẦN VI — MỘT TRIỆU KIM TỆ
+# HỒI 14 — KỲ NGHỈ TẾT NGUYÊN ĐÁN
 
-* Lâm Kim Ngọc gặp Phong Vũ.
-* Hỏi cậu muốn gì.
-* Phong Vũ không chuẩn bị trước.
-* Thứ trưởng quyết định thưởng **1 triệu Kim Tệ**.
+### Thời gian
 
-Đây là lần đầu Phong Vũ có một khoản tiền thật sự lớn.
+**Khoảng Tết, giữa dự án 3G**
 
-Cậu không cần phản ứng kiểu “tôi giàu rồi”.
+Đây là một hồi **đời thường và tình cảm**, giúp nhịp truyện hạ xuống sau Hồi 13.
 
-Có thể đơn giản:
+### PHẦN I — CHUẨN BỊ VỀ QUÊ
 
-> “Nhiều như vậy sao?”
+* Phong Vũ dùng một phần tiền thưởng để gửi về cho cha mẹ.
+* 300.000 Kim Tệ sửa sang nhà cửa.
+* Chuẩn bị sách cho Nhược Vũ và Tuyết Mai.
+* Chọn đồng hồ.
+* Vòng ngọc cho Nhược Vũ.
+* Mang theo một thùng sách nặng hơn 30kg.
 
-Sau đó mới bắt đầu nghĩ:
+### PHẦN II — VỀ NHÀ
 
-* Tiền này nên làm gì?
-* Có nên đưa về nhà?
-* Có nên tiếp tục học?
-* Có thể dùng tiền để làm gì?
+* Tàu về quê.
+* Nhược Vũ/Tuyết Mai và gia đình.
+* Ngôi nhà đã được sửa sang.
+* Cha mẹ vui mừng.
+* Phong Vũ đưa tiền và quà.
 
----
+Tiền kiếm được trong Hồi 13 ở đây lần đầu tiên **đi vào đời sống gia đình**. Bản thảo có sẵn cảnh cha mẹ nhận tiền và nói chuyện với Phong Vũ về tương lai. 
 
-# PHẦN VII — HIỂU KHÁNH
+### PHẦN III — NHÀ NHƯỢC VŨ
 
-Không biến thành tuyến tình cảm.
+* Hai gia đình gặp nhau.
+* Cha Phong Vũ và cha Nhược Vũ là bạn học cũ.
+* Phong Vũ tặng quà.
+* Nhược Vũ nhận vòng ngọc và đồng hồ.
+* Cô vui vì món quà đến từ anh, không phải vì giá trị.
 
-Hai người bắt đầu thân hơn với tư cách đồng nghiệp/bạn bè.
+### PHẦN IV — CHỢ XUÂN
 
-* Hiểu Khánh mời Phong Vũ đi ăn.
-* Hai người nói chuyện về kỹ thuật.
-* Nói bằng tiếng Anh.
-* Đi xe máy.
-* Nói về giáo dục, nước Mỹ, công nghệ.
-* Hiểu Khánh nhận ra Phong Vũ không giống hình dung ban đầu.
+* Phong Vũ và Nhược Vũ đi chợ xuân.
+* Hoa, người mua bán, không khí Tết.
+* Cùng chọn hoa lan.
 
-Đồng thời:
-
-**Mã Bất Phàm xuất hiện hoặc được đưa vào câu chuyện.**
-
-Ba người dần hình thành một nhóm.
-
----
-
-# PHẦN VIII — MỘT TRANG WEB NHỎ
-
-Đây là phần rất đáng giữ từ bản cũ.
-
-Ba người nhận thấy:
-
-> dự án 3G có công nghệ nhưng việc đưa sản phẩm đến người dùng lại là một vấn đề khác.
-
-Họ cùng xây dựng website phân phối.
-
-* Sản phẩm.
-* Đại lý.
-* Đặt hàng.
-* Phân phối.
-* Hoa hồng.
-* Người dùng.
-
-Website hoạt động.
-
-Doanh thu tăng.
-
-Ba người bắt đầu nhìn thấy **khả năng kinh doanh trên Internet bằng chính trải nghiệm của mình**.
-
-Sau khoảng một tháng:
-
-* lợi nhuận vượt 6 triệu Kim Tệ;
-* mỗi người nhận hơn 2 triệu;
-* website vẫn tiếp tục tạo tiền.
-
-Đây chính là **hạt giống trực tiếp dẫn sang Hồi 14**.
-
----
-
-# PHẦN IX — KẾT THÚC DỰ ÁN
-
-* Dự án hoàn thành sớm khoảng một tháng.
-* Phong Vũ nhận thêm 1 triệu Kim Tệ.
-* Tổng số tiền của cậu tăng lên đáng kể.
-* Cậu lấy bằng lái.
-* Mua chiếc Bavaria S-600 cũ.
-
-Nhưng **không nên kết hồi ở chiếc xe**.
-
-Chiếc xe chỉ là một chi tiết cho thấy cuộc sống của cậu đã thay đổi.
-
----
-
-# PHẦN X — NOCTURNE
-
-Đây là **đoạn kết cảm xúc của Hồi 13**.
-
-Sau công việc:
-
-* Tô Thanh Thảo gửi cho Phong Vũ danh sách nhạc tiếng Anh.
-* Phong Vũ nghe.
-* Sau một loạt bài hát, cậu gặp *Nocturne* của Secret Garden.
-* Cậu nghe lại vài lần.
-
-Không cần giảng giải bài hát.
-
-Chỉ mô tả:
-
-> Có thứ gì đó rất yên.
-
-Phong Vũ gửi cho Nhược Vũ.
-
-Vài ngày sau:
-
-Nhược Vũ trả lời.
-
-Cô gửi cho cậu **một bản thu âm giọng hát của chính mình**, không có nhạc đệm.
-
-Phong Vũ nghe.
-
-Đến đây có thể kết hồi.
-
-Không tỏ tình.
-
-Không giải thích:
-
-> “Phong Vũ lúc này đã yêu Nhược Vũ.”
-
-Chỉ để cậu nghe hết bản thu âm.
-
-**Cắt.**
-
----
-
-# HỒI 14 — KHỞI NGHIỆP
-
-Đây là hồi tôi nghĩ cần thay đổi mạnh nhất so với bản cũ.
-
-### Chủ đề lõi:
-
-> **Ba người trẻ có năng lực, có tiền, nhưng chưa biết nên làm gì tiếp theo.**
-
-Điểm hay nhất là:
-
-**Họ không thiếu vốn. Họ thiếu một lý do đủ mạnh để bỏ vốn lớn.**
-
----
-
-# PHẦN I — SAU 3G
-
-Ba người ngồi với nhau.
-
-Dự án đã kết thúc.
-
-Tiền đã có.
-
-Website vẫn kiếm được tiền.
-
-Nhưng câu hỏi xuất hiện:
-
-> “Tiếp theo làm gì?”
-
-Không ai cần đi tìm việc.
-
-Không ai thiếu tiền.
-
-Nhưng nếu chỉ tiêu tiền thì cũng chẳng có ý nghĩa.
-
----
-
-# PHẦN II — Ý TƯỞNG CỦA HIỂU KHÁNH
-
-Hiểu Khánh đưa ra ý tưởng thiên về công nghệ.
-
-Ví dụ:
-
-> **Làm một hệ điều hành mới để cạnh tranh với Windows.**
-
-Cô có lý do:
-
-* Thị trường máy tính đang phát triển.
-* Phần mềm là nền tảng.
-* Nếu kiểm soát hệ điều hành, có thể kiểm soát cả hệ sinh thái.
-* Cô có năng lực kỹ thuật.
-
-Phong Vũ và Bất Phàm **không đồng ý ngay**.
-
-Họ hỏi:
-
-* Người dùng sẽ chuyển sang vì lý do gì?
-* Phần mềm hiện tại chạy thế nào?
-* Nhà sản xuất máy tính có cài không?
-* Nhà phát triển phần mềm có viết ứng dụng không?
-* Nếu không có ứng dụng thì ai dùng?
-* Nếu không có người dùng thì nhà phát triển nào viết ứng dụng?
-
-Hiểu Khánh phản biện lại.
-
-Không ai hoàn toàn thắng.
-
-Cuối cùng:
-
-> Ý tưởng tốt, nhưng vốn và thời gian quá lớn.
-
-**Tạm gác.**
-
----
-
-# PHẦN III — Ý TƯỞNG CỦA BẤT PHÀM
-
-Bất Phàm đưa ra ý tưởng của mình.
-
-Có thể thiên về:
-
-* đầu tư;
-* tài chính;
-* mua bán doanh nghiệp;
-* hoặc một mô hình kinh doanh có khả năng tạo dòng tiền.
-
-Điểm quan trọng:
-
-**Bất Phàm phải thật sự có lý.**
-
-Phong Vũ và Hiểu Khánh tìm ra những điểm yếu:
-
-* phụ thuộc vào vốn;
-* khó tạo lợi thế dài hạn;
-* quy mô có thể không đủ lớn;
-* hoặc rủi ro pháp lý/thị trường.
-
-Nhưng Bất Phàm cũng phản bác được một số điểm của họ.
-
-Ba người không phải ba học sinh ngồi chờ Phong Vũ nói đáp án.
-
----
-
-# PHẦN IV — Ý TƯỞNG CỦA PHONG VŨ
-
-Phong Vũ đưa ra:
-
-> **Thương mại điện tử.**
-
-Nhưng lần này **hai người kia không bị thuyết phục**.
-
-Đây là điểm rất quan trọng.
-
-Họ lập tức hỏi:
-
-* Internet còn chậm.
-* Người dân chưa quen mua hàng qua mạng.
-* Thanh toán thế nào?
-* Giao hàng thế nào?
-* Làm sao biết người bán không lừa?
-* Hàng lỗi thì sao?
-* Ai chịu trách nhiệm?
-* Lấy người dùng đầu tiên ở đâu?
-* Marketplace có bài toán “không người bán thì không người mua, không người mua thì không người bán”.
-* Các công ty lớn có thể nhảy vào bất kỳ lúc nào.
-
-Phong Vũ trả lời được một số.
-
-Một số **cậu không trả lời được**.
-
-Đây là điều nên giữ.
-
----
-
-# PHẦN V — ĐEM WEBSITE 3G RA MỔ XẺ
-
-Đây có thể là phần hay nhất của Hồi 14.
-
-Ba người không tranh luận bằng lý thuyết nữa.
-
-Họ mở chính website 3G của mình.
-
-Xem:
-
-* có bao nhiêu người truy cập;
-* họ đến từ đâu;
-* mua cái gì;
-* mất bao lâu để quyết định;
-* khách hàng hỏi gì;
-* người bán gặp vấn đề gì;
-* tỷ lệ chuyển đổi;
-* cách thanh toán;
-* cách giao hàng.
-
-Rồi nhận ra:
-
-> Họ đã vô tình có một phòng thí nghiệm thương mại điện tử nhỏ.
-
-Phong Vũ:
-
-> “Nếu mô hình này không thể lớn, chúng ta sẽ biết trước khi mất nhiều tiền.”
-
-Đây là lý do hợp lý để thử.
-
----
-
-# PHẦN VI — BA NGUYÊN TẮC
-
-Ba người thống nhất không phải:
-
-> “Làm thương mại điện tử chắc chắn thắng.”
-
-Mà là:
-
-> “Đáng để thử.”
-
-Họ đặt ra những điều kiện:
-
-1. Vốn ban đầu nhỏ.
-2. Tự kiểm chứng bằng thị trường.
-3. Nếu số liệu xấu thì dừng.
-4. Nếu số liệu tốt thì tăng vốn.
-
-Có thể Bất Phàm nói một câu rất đúng với tính cách:
-
-> “Nếu chắc chắn một trăm phần trăm, tôi sẽ gọi điện về nhà ngay tối nay.”
-
-Phong Vũ hỏi:
-
-> “Còn bây giờ?”
-
-> “Bây giờ tôi chỉ muốn cược một khoản mà nếu mất cũng không tiếc.”
-
-Đây chính là tinh thần Hồi 14.
-
----
-
-# PHẦN VII — AI GIỮ BAO NHIÊU?
-
-Bắt đầu bàn vốn.
-
-Bất Phàm và Hiểu Khánh đều có thể gọi tiền từ gia đình.
-
-Nhưng họ không muốn đưa quá nhiều vào một thứ **chưa được chứng minh**.
-
-Phong Vũ thì khác.
-
-Cậu tin mô hình này nhất.
-
-Vì vậy:
-
-* Phong Vũ bỏ nhiều công sức nhất.
-* Đứng ra dẫn dắt.
-* Chịu trách nhiệm chính.
-* Giữ **51%**.
-
-Bất Phàm và Hiểu Khánh giữ phần còn lại.
-
-Tỷ lệ cụ thể có thể chốt ở đây hoặc để Hồi 16 chính thức hóa.
-
-Tôi nghiêng về:
-
-> **Hồi 14 quyết định nguyên tắc và tỷ lệ. Hồi 16 mới ký giấy thành lập.**
-
-Như vậy Hồi 16 vẫn có ý nghĩa.
-
----
-
-# PHẦN VIII — CÁI TÊN
-
-Có thể kết bằng việc ba người bắt đầu nghĩ về:
-
-> tên công ty.
-
-Nếu muốn giữ **Summer Light**, có thể để cái tên xuất hiện ở cuối hồi như một ý tưởng còn đang thử.
-
-Hoặc tốt hơn:
-
-**không cần chốt tên ở đây.**
-
-Hồi 14 kết bằng một câu kiểu:
-
-> “Vậy chúng ta thử.”
-
-Không có nhạc nền chiến thắng.
-
-Không có cảm giác họ vừa bắt đầu một đế chế.
-
-Chỉ là ba người trẻ quyết định đặt một khoản tiền vào một ý tưởng mà **chưa ai biết có thành công hay không**.
-
----
-
-# HỒI 15 — KỲ NGHỈ TẾT NGUYÊN ĐÁN
-
-### Chủ đề lõi:
-
-Sau hai hồi liên tiếp về **công việc, tiền bạc, công nghệ và khởi nghiệp**, Hồi 15 kéo Phong Vũ trở lại đời sống bình thường.
-
-> **Tiền có thể thay đổi cuộc sống, nhưng những người quan trọng với mình vẫn ở đó.**
-
-Đây chính là “Hồng Trần” theo nghĩa rất đời thường.
-
----
-
-# PHẦN I — VỀ NHÀ
-
-* Phong Vũ chuyển 300.000 Kim Tệ cho cha mẹ sửa nhà.
-* Chuẩn bị quà.
-* Sách.
-* Đồng hồ.
-* Quà cho Nhược Vũ và Tuyết Mai.
-* Bao lì xì cho cha mẹ.
-
-Đóng thùng hơn 30kg sách.
-
-Lên tàu về quê.
-
----
-
-# PHẦN II — NGÔI NHÀ
-
-* Cha mẹ đón con.
-* Nhà đã được sửa.
-* Phong Vũ nhìn những thay đổi nhỏ.
-* Không cần giải thích “cậu cảm thấy hạnh phúc”.
-
-Chỉ cần:
-
-* một bức tường mới;
-* bộ bàn ghế mới;
-* cha chỉ vào chỗ vừa sửa;
-* mẹ hỏi con ăn gì.
-
-Tiền từ một triệu Kim Tệ lần đầu tiên **biến thành một thứ nhìn thấy được trong gia đình**.
-
----
-
-# PHẦN III — NHÀ NHƯỢC VŨ
-
-* Cha Phong Vũ cùng cậu sang nhà Nhược Vũ.
-* Hai người cha vốn là bạn học cũ.
-* Không khí thân thuộc.
-
-Phong Vũ đưa quà.
-
-Nhược Vũ nhận vòng ngọc bạch ngọc Hòa Điền.
-
-Đồng hồ.
-
-Sách.
-
-Điểm quan trọng:
-
-**Nhược Vũ không bị hấp dẫn bởi giá trị món quà.**
-
-Cô vui vì:
-
-> Phong Vũ nhớ đến cô.
-
----
-
-# PHẦN IV — CHỢ XUÂN
-
-Phong Vũ và Nhược Vũ đi chợ xuân.
-
-* Người đông.
-* Hoa.
-* Đồ Tết.
-* Tiếng người mua bán.
-* Hai người cùng chọn một chậu/bó lan.
-
-Đây nên là một trong những đoạn **đời thường nhất của toàn hồi**.
-
-Không triết lý.
-
-Không “định mệnh”.
-
-Chỉ là hai người trẻ đi chợ.
-
----
-
-# PHẦN V — ĐÀN CỦA NHƯỢC VŨ
-
-Trở về nhà.
-
-Phong Vũ đưa sách và USB nhạc.
+### PHẦN V — CỔ CẦM
 
 Nhược Vũ chơi:
 
-* **Sơ Kiến**
-* **Lưu Thủy**
-* **Nhất Tiễn Mai**
+* Sơ Kiến.
+* Lưu Thủy.
+* Nhất Tiễn Mai.
 
-Phong Vũ nghe.
+Phong Vũ ngồi nghe.
 
-Nhược Vũ nhận ra mình có vài chỗ chưa tốt.
+Nhược Vũ tự nhận thấy vài lỗi nhỏ và muốn luyện thêm. Không cần Phong Vũ trở thành người đánh giá trình độ của cô. 
 
-Cô tự nói sẽ luyện lại.
+### PHẦN VI — MƯỜI NGÀY
 
-Điểm quan trọng:
+* Hai người gặp nhau gần như mỗi ngày.
+* Đi dạo.
+* Nói chuyện.
+* Phong Vũ trao đổi với Bất Phàm và Hiểu Khánh về dự án.
+* Bắt đầu **suy tính sơ bộ về tương lai sau 3G**.
+* Gọi điện chúc Tết Mẫn Nghi và Thanh Thảo.
+* Phong Vũ cũng bắt đầu quan tâm đến việc học lái xe.
 
-> Phong Vũ không phải người “thẩm định” cô.
+Những yếu tố này đều đã có trong bản thảo và rất thích hợp làm cầu nối sang Hồi 15. 
 
-Cậu chỉ nghe.
+### PHẦN VII — CHIA TAY
 
----
+* Phong Vũ trở lại Bắc Đô.
+* Nhược Vũ đứng ở đầu làng.
+* Hai người nắm tay nhau một lúc.
+* Không cần lời tỏ tình.
+* Cô đứng nhìn anh đi xa.
 
-# PHẦN VI — MƯỜI NGÀY TẾT
-
-Có thể làm montage nhẹ:
-
-* ăn cơm;
-* đi chơi;
-* đọc sách;
-* nói chuyện;
-* Phong Vũ trao đổi với Bất Phàm và Hiểu Khánh;
-* gọi điện cho Hứa Mẫn Nghi;
-* gọi Tô Thanh Thảo;
-* bàn về kế hoạch sau Tết.
-
-Đây là lúc hai thế giới của Phong Vũ bắt đầu song song:
-
-**hồng trần gia đình + con đường sự nghiệp.**
+**Kết hồi.**
 
 ---
 
-# PHẦN VII — NHỮNG ĐIỀU NHƯỢC VŨ CHƯA NÓI
+# HỒI 15 — Ý TƯỞNG KHỞI NGHIỆP
 
-Không cần lời tỏ tình.
+### Thời gian
 
-Có thể để Nhược Vũ bắt đầu cảm nhận:
+**Khoảng tháng 3 → cuối tháng 5 / tháng 6**
 
-* kỳ thi sắp tới;
-* tương lai của cô;
-* Phong Vũ sắp trở lại Bắc Đô;
-* khoảng cách giữa hai người.
+Đây là hồi cần viết mới gần như hoàn toàn.
 
-Cô không nói hết.
+### Chủ đề:
 
-Phong Vũ cũng không nói hết.
+> **Một nhóm người trẻ đứng trước ngưỡng cửa tốt nghiệp và phải quyết định mình sẽ làm gì với năng lực, tiền bạc và cơ hội đang có.**
 
 ---
 
-# PHẦN VIII — CHIA TAY
+## PHẦN I — NHỮNG THÁNG CUỐI CỦA 3G
 
-Đây nên là đoạn cuối Hồi 15.
+Sau Tết:
 
-Hai người đi cùng nhau một đoạn.
+* Dự án bước vào giai đoạn cuối.
+* Website 3G vẫn tiếp tục tạo doanh thu.
+* Phong Vũ, Bất Phàm và Hiểu Khánh đã có một lượng vốn đáng kể.
+* Họ bắt đầu nói chuyện nghiêm túc hơn về tương lai.
 
-Có thể là buổi chiều/tối.
-
-Phong Vũ sắp trở lại Bắc Đô.
-
-Hai người **nắm tay**.
-
-Không cần nhiều lời.
-
-Có thể có một câu rất đơn giản.
-
-Sau đó buông tay.
-
-Phong Vũ lên đường.
+Bản thảo nói rõ sau đó website tiếp tục hoạt động dù hoa hồng giảm và cạnh tranh tăng; ba người bắt đầu dành nhiều thời gian tìm hiểu thị trường và bàn chuyện lập công ty TMĐT. 
 
 ---
 
-# TỔNG THỂ 3 HỒI
+# PHẦN II — BA NGƯỜI, BA Ý TƯỞNG
 
-Tôi nghĩ cấu trúc mới này tạo ra một đường dây khá đẹp:
+Không phải ngay lập tức cả ba đều nói:
 
-### HỒI 13
+> “Làm TMĐT.”
 
-**Phong Vũ chứng minh mình có thể làm được.**
+Mỗi người có lý do riêng.
 
-> 3G → giải quyết vấn đề → 1 triệu → website → tiền → Nocturne
+### Bất Phàm
 
-### HỒI 14
+Đưa ra một ý tưởng thiên về kinh tế/tài chính.
 
-**Phong Vũ bắt đầu học cách biến năng lực thành một con đường.**
+* Có cơ sở.
+* Có khả năng kiếm tiền.
+* Có thể tận dụng vốn.
+* Nhưng cũng có những giới hạn.
 
-> Có tiền → có ý tưởng → tranh luận → thử nghiệm → chấp nhận rủi ro → quyết định khởi nghiệp
+Phong Vũ và Hiểu Khánh phản biện.
 
-### HỒI 15
+Bất Phàm cũng phản biện lại.
 
-**Phong Vũ trở lại với những gì rất bình thường.**
+**Không ai thắng tuyệt đối.**
 
-> Tiền → cha mẹ → quê nhà → Tết → Nhược Vũ → đàn → chia tay
+---
 
-Và vì vậy **Hồi 16 — Thành lập Summer Light** sẽ rất tự nhiên:
+### Hiểu Khánh
 
-> Hồi 14: *“Chúng ta thử.”*
-> Hồi 15: *về nhà, sống một mùa Tết.*
-> Hồi 16: *trở lại Bắc Đô và biến quyết định ấy thành một công ty thực sự.*
+Đưa ra ý tưởng công nghệ, chẳng hạn **hệ điều hành**.
 
-Tôi đặc biệt thích việc **Nocturne nằm cuối Hồi 13**, còn **Nhược Vũ và guqin nằm giữa Hồi 15**, vì hai hồi này sẽ tạo ra hai sắc thái tình cảm khác nhau: một bên là **kết nối từ xa qua âm nhạc**, một bên là **sự gần gũi rất đời thường trong những ngày Tết**.
+Cô có năng lực kỹ thuật đủ mạnh để nghĩ đến nó.
+
+Nhưng cả nhóm mổ xẻ:
+
+* hệ sinh thái;
+* phần mềm;
+* người dùng;
+* phần cứng;
+* nhà phát triển;
+* vốn;
+* thời gian.
+
+Kết luận không phải:
+
+> “Ý tưởng dở.”
+
+Mà là:
+
+> **“Quá lớn đối với một nhóm như họ ở thời điểm này.”**
+
+---
+
+### Phong Vũ
+
+Đưa ra:
+
+> **Thương mại điện tử.**
+
+Bất Phàm và Hiểu Khánh phản biện mạnh:
+
+* Internet còn hạn chế.
+* Người dùng chưa quen mua hàng online.
+* Thanh toán.
+* Giao hàng.
+* Niềm tin.
+* Chất lượng hàng hóa.
+* Thu hút người mua và người bán.
+* Cạnh tranh trong tương lai.
+
+Phong Vũ cũng thừa nhận:
+
+> **Có những thứ anh chưa biết câu trả lời.**
+
+Điều này rất quan trọng.
+
+Anh không phải người nhìn thấy tương lai.
+
+---
+
+# PHẦN III — WEBSITE 3G LÀ PHÉP THỬ
+
+Ba người lấy chính dự án website 3G làm dữ liệu.
+
+Họ không còn chỉ tranh luận:
+
+> “TMĐT có khả thi không?”
+
+Mà nhìn vào:
+
+* khách hàng;
+* hành vi mua;
+* thanh toán;
+* tốc độ;
+* phân phối;
+* chi phí;
+* phản hồi;
+* lợi nhuận.
+
+Họ nhận ra mình đã có một **mô hình nhỏ để thử nghiệm**.
+
+Từ đó:
+
+> Không cần biết TMĐT chắc chắn thành công.
+
+Chỉ cần biết:
+
+> **Có đáng để thử hay không.**
+
+---
+
+# PHẦN IV — MẪN NGHI VÀ THANH THẢO
+
+Đây là phần rất quan trọng vì **hai cô đang chuẩn bị tốt nghiệp năm 4**.
+
+Bạn bè xung quanh bắt đầu tìm việc.
+
+Mỗi người chuẩn bị bước ra khỏi trường.
+
+Phong Vũ mời Mẫn Nghi và Thanh Thảo tham gia.
+
+---
+
+## Mẫn Nghi
+
+Cô nghe cả quá trình.
+
+Không có vốn riêng.
+
+Không muốn xin tiền gia đình.
+
+Nhưng vẫn đồng ý tham gia.
+
+Sau đó Phong Vũ hỏi riêng:
+
+> “Em thực sự tin TMĐT sẽ thành công?”
+
+Mẫn Nghi:
+
+> “Không.”
+
+Phong Vũ ngạc nhiên.
+
+Cô biết dự án sẽ có biến số.
+
+Nhưng cô nói đại ý:
+
+> “Nếu là người khác, em sẽ không tham gia.”
+
+Phong Vũ hỏi:
+
+> “Còn anh?”
+
+> “Em tin anh.”
+
+Rồi câu quan trọng:
+
+> **“Em có cảm giác không có việc gì anh không làm được.”**
+
+Không nói dài hơn.
+
+Không cần giải thích.
+
+Phong Vũ cũng không lập tức hiểu hết câu nói ấy.
+
+Đây là một trong những cảnh quan trọng nhất của Hồi 15.
+
+---
+
+## Thanh Thảo
+
+Nghe cả ba ý tưởng.
+
+Cô không đặc biệt nghiêng về bên nào.
+
+Cô thực sự thấy:
+
+> **Mỗi ý tưởng đều có tính khả thi riêng.**
+
+Nhưng cô muốn tham gia.
+
+Khi nói đến những việc cần:
+
+* gặp đối tác;
+* giao tiếp;
+* liên hệ;
+* đàm phán;
+* đối ngoại;
+
+cô nhận ra mình có thể đóng góp.
+
+Vì cô học **Quan hệ quốc tế**.
+
+Cô quyết định cùng Phong Vũ làm những việc đối ngoại.
+
+Không cần biến cô thành người đột nhiên có một “tầm nhìn kinh doanh”.
+
+---
+
+# PHẦN V — VỐN
+
+Đây là nơi làm rõ một điểm rất quan trọng:
+
+**Bất Phàm và Hiểu Khánh không thiếu tiền.**
+
+Nếu họ tin chắc đây là cơ hội thắng lớn:
+
+> họ hoàn toàn có thể gọi vốn gia đình.
+
+Nhưng họ chưa tin.
+
+Vì vậy:
+
+* không cần huy động hàng chục triệu;
+* không cần đặt cược toàn bộ tài sản;
+* thử với một khoản vốn vừa phải;
+* nếu mô hình chứng minh được hiệu quả → tăng vốn.
+
+Phong Vũ là người tin mạnh nhất.
+
+Do đó:
+
+> **Phong Vũ nắm 51%.**
+
+Không phải vì anh là nhân vật chính.
+
+Mà vì:
+
+> **người tin nhiều nhất → chịu trách nhiệm nhiều nhất.**
+
+---
+
+# PHẦN VI — NHỮNG NGÀY CUỐI
+
+* Dự án 3G hoàn thành.
+* Website 3G mang lại tổng lợi nhuận hơn 6 triệu Kim Tệ, ba người mỗi người nhận hơn 2 triệu.
+* Phong Vũ nhận thêm 1 triệu tiền thưởng.
+* Anh học lái xe.
+* Mua Bavaria S-600 cũ.
+* Ba người tiếp tục hoàn thiện kế hoạch TMĐT.
+* Mẫn Nghi và Thanh Thảo chuẩn bị tốt nghiệp.
+
+Những con số lợi nhuận và chiếc xe nên xuất hiện **sau quá trình**, như kết quả của một năm làm việc, chứ không phải trọng tâm của hồi. Bản thảo hiện tại xác nhận cả khoản lợi nhuận hơn 6 triệu và khoản thưởng thêm 1 triệu ở cuối dự án. 
+
+---
+
+# PHẦN VII — QUYẾT ĐỊNH
+
+Cuối cùng:
+
+> **Thử làm thương mại điện tử.**
+
+Chưa thành lập công ty.
+
+Chưa có lễ thành lập.
+
+Chưa có Summer Light.
+
+Chỉ có:
+
+> **một nhóm người quyết định cùng nhau thử một con đường.**
+
+**Kết Hồi 15 ở đây.**
+
+---
+
+## Sau đó Hồi 16 sẽ cực kỳ sạch
+
+**Hồi 15:**
+
+> “Chúng ta thử.”
+
+**Hồi 16:**
+
+> “Vậy thì thành lập công ty.”
+
+Đến cuối tháng 6, đúng lúc Phong Vũ bước sang tuổi 23, Summer Light chính thức ra đời — chi tiết ngày tháng này đã có trong bản thảo cũ. 
+
+Chỉ cần sửa tỷ lệ cổ phần cũ **55/25/20 → 51% cho Phong Vũ**, phần còn lại phân bổ lại theo quyết định cuối cùng.
+
+Như vậy ba hồi mới có ba màu rất rõ:
+
+**013 — Năng lực / tiền / Nocturne**
+**014 — Gia đình / Tết / Nhược Vũ**
+**015 — lựa chọn / cộng sự / khởi nghiệp**
+
+Rồi **016 — hành động**.
+
+Tôi nghĩ đây là cấu trúc tốt hơn đáng kể so với danh sách cũ, vì nó vừa tôn trọng timeline của bản thảo, vừa cho Hồi 15 đủ không gian để thực sự **“cho người đọc thấy khởi nghiệp diễn ra như thế nào”**, thay vì chỉ cho họ xem một cuộc họp quyết định thành lập công ty.

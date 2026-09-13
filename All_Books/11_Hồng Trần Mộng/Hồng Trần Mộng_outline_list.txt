@@ -42,11 +42,11 @@ DANH SÁCH CÁC HỒI (DỰ KIẾN):
 013_Một triệu Kim Tệ đầu tiên: 
 	Phong Vũ tham gia dự án quốc gia về 3G, được thưởng 1 triệu Kim Tệ do đóng góp đặc biệt cho dự án.
 
-014_Nocturne: 
-	Nói về tình cảm giữa 2 nhân vật chính, khi họ chia sẻ cho nhau về bài hát Nocturne.
-	
-015_Kỳ nghỉ Tết Nguyên Đán:
+014_Kỳ nghỉ Tết Nguyên Đán:
 	Nói về kỳ nghĩ Tết Nguyên Đán, nơi anh cùng Nhược Vũ trải qua những cung bậc cảm xúc đáng nhớ.
+
+015_Ý tưởng khởi nghiệp:
+	Nói về các ý tưởng khởi nghiệp của các thành viên sáng lập.
 	
 016_Thành lập Summer Light:
 	Kết thúc dự án 3G, anh cùng Mã Bất Phàm và Lâm Hiểu Khánh tích lũy được kinh nghiệm, vốn rồi cùng thành lập công ty về TMĐT, và đặt tên là Summer Light.
