@@ -3,6 +3,54 @@
 
 # PHONG CÁCH VIẾT — HỒNG TRẦN MỘNG
 
+
+* QUAN TRỌNG:
+
+Không được lạm dụng thói quen viết mỗi câu 1 dòng, mà nên gom các câu cùng nói về 1 ý nào đó vào 1 đoạn văn ngắn. Ví dụ như sau cần hết sức tránh, trừ trường hợp đó là bài thơ hoặc nhịp văn cần chậm để mô tả cảm xúc nhân vật:
+
+- Ví dụ cách viết sai:
+
+	"Phong Vũ không tìm cách phân tích.
+
+	Cũng không tự hỏi điều đó có đúng hay không.
+
+	Anh chỉ ngồi nghe cho đến hết.
+
+	Khi âm thanh cuối cùng tan đi, màn hình laptop vẫn sáng.
+
+	Phong Vũ tháo tai nghe.
+
+	Anh đặt nó xuống bàn.
+
+	Một lúc sau, tay anh đưa về phía chuột.
+
+	Nhưng không bấm sang bài khác.
+
+	Cũng không đóng file.
+
+	Anh chỉ ngồi đó.
+
+	Ngoài cửa sổ, đêm Bắc Đô đã rất yên.
+
+	Ánh sáng từ màn hình hắt lên gương mặt anh.
+
+	Phong Vũ ngồi rất lâu.
+
+	Rồi anh đeo tai nghe trở lại.
+
+	Bấm Play."
+
+- Ví dụ cách viết đúng:
+
+	"Phong Vũ không tìm cách phân tích, cũng không tự hỏi điều đó có đúng hay không. Anh chỉ ngồi nghe cho đến hết. Khi âm thanh cuối cùng tan đi, màn hình laptop vẫn sáng. Anh tháo tai nghe, đặt xuống bàn rồi đưa tay về phía chuột, nhưng không bấm sang bài khác, cũng không đóng file.
+
+	Ngoài cửa sổ, đêm Bắc Đô đã rất yên. Ánh sáng từ màn hình hắt lên gương mặt anh. Phong Vũ ngồi như vậy rất lâu, rồi đeo tai nghe trở lại.
+
+	Bấm Play."
+
+
+---
+
 ## 1. Nguyên tắc cốt lõi: Tác giả phải ẩn mình
 
 Phong cách chủ đạo của **Hồng Trần Mộng** là:
