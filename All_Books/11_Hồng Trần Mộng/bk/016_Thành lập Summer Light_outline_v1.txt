@@ -179,133 +179,552 @@ Và từ đó, **Summer Light thực sự được sinh ra ngay trước mắt �
 
 ---
 
-# PHẦN III — AI SẼ BỎ TIỀN?
 
-Sau khi tên đã có, một vấn đề thực tế xuất hiện:
 
-**Tiền.**
+# PHẦN III — CÔNG TY CẦN BAO NHIÊU?
 
-Không cần tranh luận kiểu “đừng đầu tư quá nhiều”.
+Đây sẽ là **phần tính toán quan trọng nhất** của Hồi 16.
 
-Mỗi người tự có cách tính của mình.
+Không phải “ai sẽ bỏ tiền”, mà là:
 
-### Phong Vũ
+> **Summer Light thực sự cần bao nhiêu nguồn lực để sống được?**
 
-Tin vào hướng đi này mạnh nhất.
+## Phân cảnh 1: Chia công việc
 
-Cậu sẵn sàng bỏ phần lớn số tiền mình có vào công ty.
+Phong Vũ đặt bài toán:
 
-Không phải vì chắc chắn thành công, mà vì cậu cho rằng **nếu không thử thì sẽ không biết**.
+— Nếu làm thật, trước tiên phải biết những việc nào bắt buộc phải có người làm.
 
-### Bất Phàm
+Hai nhóm được xác định:
 
-Thận trọng hơn.
+**KỸ THUẬT**
 
-Cậu nhìn thấy cơ hội nhưng cũng nhìn thấy rất nhiều biến số.
+**KINH DOANH & VẬN HÀNH**
 
-Tuy nhiên, cậu tin Phong Vũ đủ để tham gia.
-
-### Hiểu Khánh
-
-Tin vào Internet và công nghệ.
-
-Nhưng cô vẫn chưa chắc thương mại điện tử sẽ trở thành một thị trường lớn đến mức nào.
-
-Cô đầu tư ở mức mình chấp nhận được.
-
-### Mẫn Nghi
-
-Khi được hỏi có muốn góp vốn không, cô nói mình không có tiền riêng.
-
-Có thể xin gia đình.
-
-Nhưng cô không muốn.
-
-Cô muốn tự mình kiếm tiền.
-
-Vì vậy cô tham gia với tư cách nhân viên.
-
-### Thanh Thảo
-
-Cũng không có vốn.
-
-Nhưng lý do quan trọng hơn là cô **chưa muốn trở thành cổ đông hay người chịu trách nhiệm chính cho một công ty**.
-
-Cô muốn làm việc trước.
-
-Để xem mình có thực sự phù hợp hay không.
+Không đưa ra số người trước.
 
 ---
 
-# PHẦN IV — SUMMER LIGHT CÓ MỘT NGÔI NHÀ
+## Phân cảnh 2: Tính đội kỹ thuật
 
-### Phân cảnh 1: Tìm văn phòng
+Phong Vũ hỏi Hiểu Khánh:
 
-Bất Phàm đưa ra vấn đề:
+— Nếu muốn đưa Version 1 ra được rồi tiếp tục duy trì nó, em cần những gì?
 
-— Văn phòng đặt ở đâu?
+Hiểu Khánh tự phân tích:
 
-Không ai muốn thuê một văn phòng đắt tiền giữa trung tâm Bắc Đô.
+* phát triển website;
+* backend;
+* cơ sở dữ liệu;
+* máy chủ;
+* kiểm thử;
+* sửa lỗi;
+* vận hành;
+* tiếp tục phát triển sau Version 1.
 
-Làm thương mại điện tử thì phần lớn công việc diễn ra qua Internet.
+Cô nhận ra:
 
-Cuối cùng, một căn nhà lớn trong khu đô thị mới ở vùng ven được chọn.
+**Một mình cô có thể làm rất nhiều, nhưng không thể vừa phát triển vừa duy trì toàn bộ hệ thống.**
 
-### Phân cảnh 2: Căn nhà
+Phong Vũ tiếp tục hỏi:
 
-Ba tầng.
+— Nếu tính mức tối thiểu?
 
-Diện tích lớn.
+Hiểu Khánh tính từng nhóm công việc.
 
-Sân đủ rộng để xe ra vào.
+→ **Hiểu Khánh + 3 người.**
 
-Khu vực xung quanh còn thưa thớt.
+### Vai trò của Phong Vũ
 
-Một số căn nhà đã hoàn thiện nhưng chưa có người ở.
+Đây là chỗ phải cài một chi tiết rất quan trọng:
 
-Nó hơi khác với hình dung của mọi người về “trụ sở một công ty”.
+Phong Vũ nói rõ:
 
-Nhưng chính vì vậy lại phù hợp.
+— Tôi sẽ cùng em làm Version 1 trong những tháng đầu.
 
-### Phân cảnh 3: Biến căn nhà thành văn phòng
+Nhưng **không tính Phong Vũ vào headcount cố định của đội kỹ thuật**.
 
-Không cần phân chia phòng ban quá cứng.
+Vì sau khi Version 1 hoàn thành, anh sẽ chuyển trọng tâm sang kinh doanh.
 
-Tầng dưới:
+Điều này giải thích tại sao đội kỹ thuật chỉ cần bốn người cố định mà vẫn có đủ lực để làm Version 1.
 
-* khu làm việc chung;
-* bàn họp;
+---
+
+## Phân cảnh 3: Tính đội kinh doanh
+
+Phong Vũ quay sang Bất Phàm.
+
+— Còn phía kinh doanh?
+
+Không ai biết trước cần năm người.
+
+Bất Phàm bắt đầu từ những công việc thực tế:
+
+* tìm người bán;
+* liên hệ cửa hàng;
+* thuyết phục họ tham gia;
+* xây dựng quan hệ với người bán;
+* phát triển đối tác.
+
+Phong Vũ hỏi Mẫn Nghi:
+
+— Còn vận hành?
+
+Mẫn Nghi bổ sung:
+
+* theo dõi giao dịch;
+* hỗ trợ khách hàng;
+* xử lý vấn đề;
+* theo dõi đơn hàng;
+* liên hệ hai bên khi có phát sinh.
+
+Thanh Thảo bổ sung phần:
+
+* tìm khách hàng;
+* quảng bá;
+* phát triển thị trường;
+* hỗ trợ người bán tiếp cận nền tảng.
+
+Lúc này họ mới nhận ra ba người sẽ nhanh chóng bị kéo vào những công việc vụn vặt.
+
+Phong Vũ hỏi:
+
+— Nếu giao dịch bắt đầu tăng thì ba người có còn làm được hết không?
+
+Cả nhóm tự thấy câu trả lời là không.
+
+Từ đó phát sinh thêm:
+
+**Một người hỗ trợ khách hàng/đơn hàng.**
+
+**Một người hỗ trợ người bán/dữ liệu/vận hành.**
+
+→ **Năm người cho kinh doanh & vận hành.**
+
+---
+
+## Phân cảnh 4: Vị trí của Phong Vũ
+
+Tổng kết:
+
+**Kỹ thuật: 4**
+
+**Kinh doanh & vận hành: 5**
+
+Phong Vũ không được xếp vào một bộ phận.
+
+Anh nói rõ:
+
+* điều hành chung;
+* vài tháng đầu làm sâu với kỹ thuật;
+* sau Version 1 chuyển sang kinh doanh;
+* vẫn theo sát cả hai nhóm.
+
+Đây là nơi thể hiện sự đa năng của Phong Vũ mà không cần tác giả phải nói “anh là thiên tài đa năng”.
+
+---
+
+## Phân cảnh 5: Có cần tuyển thêm không?
+
+Cả nhóm suy nghĩ về con số 9 nhân sự cố định + Phong Vũ.
+
+Có người hỏi:
+
+— Nếu sau này nhiều việc thì sao?
+
+Phong Vũ:
+
+— Khi doanh thu đủ để nuôi người mới thì tuyển.
+
+Không tuyển người chỉ vì muốn công ty “trông giống một công ty lớn”.
+
+Nguyên tắc:
+
+> **Doanh thu đi trước nhân sự.**
+
+Đây cũng đặt nền cho Hồi 17, khi công ty thực sự bắt đầu tăng trưởng.
+
+---
+
+## Phân cảnh 6: Văn phòng ở đâu?
+
+Đến đây mới xuất hiện vấn đề văn phòng.
+
+Không thể tính chi phí thuê trước khi biết cần bao nhiêu người.
+
+Cả nhóm thống nhất:
+
+* không cần trung tâm;
+* không cần mặt tiền;
+* cần đủ chỗ cho khoảng 10 người;
+* Internet tốt;
+* có thể đặt máy tính và máy chủ;
+* có không gian tiếp khách;
+* có thể mở rộng một chút.
+
+Bất Phàm nhớ đến **căn villa của gia đình mình đang bỏ trống** trong khu đô thị mới.
+
+Gia đình có thể cho Summer Light thuê với mức giá ưu đãi.
+
+Phong Vũ đi xem.
+
+→ Căn nhà trở thành lựa chọn hợp lý.
+
+---
+
+## Phân cảnh 7: Căn villa trở thành văn phòng
+
+Đây là phần lấy chất liệu từ Phần IV cũ. Bản cũ đã có hình ảnh căn nhà nhiều tầng, khu làm việc chung, phòng kỹ thuật, dây mạng, máy tính... 
+
+Nhưng bản mới cần sửa một điểm quan trọng:
+
+**Không phải “một căn nhà lớn được chọn” một cách ngẫu nhiên.**
+
+Mà phải là:
+
+> **villa thuộc gia đình Bất Phàm, hiện không sử dụng, Summer Light thuê lại với giá thấp.**
+
+Có thể mô tả:
+
+* tầng dưới: làm việc chung + họp + tiếp khách;
+* tầng trên: kỹ thuật;
+* khu đặt máy chủ;
+* bàn ghế đơn giản;
+* dây mạng;
+* máy tính;
+* không biển hiệu hoành tráng.
+
+Căn nhà vừa đủ cho công ty hiện tại.
+
+---
+
+## Phân cảnh 8: Bây giờ mới tính chi phí
+
+Phong Vũ nói:
+
+— Có người rồi. Có chỗ rồi. Bây giờ mới biết mỗi năm phải tiêu bao nhiêu.
+
+Các khoản được đưa vào:
+
+### Chi phí cố định
+
+* lương;
+* tiền thuê villa;
+* điện nước;
+* Internet;
+* kế toán;
+* pháp lý;
+* hành chính.
+
+### Chi phí kỹ thuật
+
+* máy tính;
+* thiết bị mạng;
+* máy chủ;
+* phần mềm;
+* dịch vụ Internet.
+
+### Chi phí vận hành
+
+* điện thoại;
+* đi lại;
 * tiếp khách;
-* một số máy tính.
+* văn phòng phẩm;
+* các khoản phát sinh.
 
-Tầng trên:
+### Chi phí tăng trưởng
 
-* khu lập trình;
-* chỗ làm việc yên tĩnh hơn;
-* tài liệu;
-* máy chủ/thiết bị.
+* quảng cáo;
+* tìm khách hàng;
+* phát triển người bán.
 
-Mọi người cùng nhau chuyển bàn, lắp máy, kéo dây mạng.
+Không cần đưa bảng Excel vào văn chương.
 
-Một căn nhà bắt đầu có hình dạng của một công ty.
+Chỉ cần cho thấy họ **thực sự ngồi tính**.
 
-### Phân cảnh 4: Những ngày đầu
+---
 
-Khoảng hơn chục người.
+## Phân cảnh 9: Tìm cách giảm burn rate
 
-Sau đó gần hai mươi.
+Đây là một cảnh rất cần thiết.
 
-Không ai có chức danh thật rõ.
+Không phải họ tính xong rồi chấp nhận con số.
 
-Phong Vũ có thể đang sửa code rồi vài phút sau xuống dưới gặp một chủ cửa hàng.
+Họ bắt đầu cắt:
 
-Hiểu Khánh đang lập trình nhưng bị kéo sang xem một bản giới thiệu sản phẩm.
+* không thuê văn phòng thương mại;
+* không mua máy tính cao cấp;
+* chưa cần tuyển thêm;
+* quảng cáo ban đầu hạn chế;
+* một số việc tự làm;
+* pháp lý/kế toán thuê ngoài khi cần;
+* không xây bộ máy hành chính riêng.
 
-Mẫn Nghi vừa theo dõi tiến độ vừa tuyển người.
+Phong Vũ liên tục hỏi:
 
-Bất Phàm có thể đang tính toán chi phí rồi cùng Thanh Thảo gọi cho một đối tác.
+— Cái này có thật sự cần ngay không?
 
-**Đây là một startup thực sự.**
+Nếu không:
+
+> bỏ.
+
+Nếu có thể làm rẻ hơn:
+
+> làm rẻ hơn.
+
+Như vậy **6 triệu sau này sẽ có cảm giác là một con số được kiếm ra từ tính toán**, chứ không phải tác giả đặt vào truyện.
+
+---
+
+## Phân cảnh 10: Tính ba năm
+
+Phong Vũ không muốn chỉ tính sáu tháng đầu.
+
+— Chúng ta phải tính đến lúc công ty có khả năng tự nuôi mình.
+
+Nhóm tính:
+
+**Năm thứ nhất:**
+chi phí cao, doanh thu thấp.
+
+**Năm thứ hai:**
+giao dịch bắt đầu tăng, nhưng vẫn cần vốn.
+
+**Năm thứ ba:**
+nếu đạt kịch bản cơ sở, doanh thu mới có khả năng tiến gần mức đủ nuôi bộ máy.
+
+Không cần biến thành bảng tài chính chi tiết.
+
+Quan trọng là cả nhóm nhận ra:
+
+> **Summer Light có thể phải chịu âm dòng tiền trong thời gian dài.**
+
+---
+
+## Phân cảnh 11: Ba kịch bản
+
+Có thể cho họ thử ba mức:
+
+* thấp;
+* cơ sở;
+* tốt.
+
+Không cần đưa số liệu dày đặc.
+
+Kịch bản cơ sở là căn cứ chính.
+
+Kết quả cho thấy số vốn cần thiết để sống qua ba năm ở mức khoảng **4,8 triệu Kim Tệ** trước dự phòng.
+
+---
+
+## Phân cảnh 12: 25% dự phòng
+
+Phong Vũ không chấp nhận lấy đúng 4,8 triệu.
+
+— Còn những thứ chúng ta chưa tính.
+
+Bất Phàm hỏi:
+
+— Bao nhiêu?
+
+Phong Vũ:
+
+— Hai mươi lăm phần trăm.
+
+Khoản dự phòng được cộng vào.
+
+Kết quả cuối cùng:
+
+> **Khoảng 6 triệu Kim Tệ.**
+
+Không ai chọn con số này trước.
+
+**Họ tính ra nó.**
+
+Đây là điểm kết của Phần III.
+
+-------------------------------------------------
+
+# PHẦN IV — AI SẼ BỎ SỐ TIỀN ĐÓ?
+
+Đây chính là nơi **đưa phần “AI SẼ BỎ TIỀN?” cũ sang**, nhưng bây giờ nó sẽ có ý nghĩa hơn rất nhiều.
+
+Bởi đến lúc này, câu hỏi không còn là:
+
+> “Cậu định bỏ bao nhiêu?”
+
+mà là:
+
+> **“Công ty cần 6 triệu. Vậy 6 triệu đó đến từ đâu?”**
+
+## Phân cảnh 1: Phong Vũ đưa ra lựa chọn
+
+Bất Phàm hỏi:
+
+— Sáu triệu không phải số tiền nhỏ.
+
+Phong Vũ không phủ nhận.
+
+Anh biết mình có thể bỏ phần lớn số tiền mình có sau dự án 3G.
+
+Nhưng lần này cần nói rõ:
+
+> **Phong Vũ sẵn sàng đặt cược lớn nhất vào Summer Light.**
+
+Không cần khoe tài sản.
+
+Không cần nói anh giàu.
+
+Chỉ cần cho thấy mức độ cam kết.
+
+---
+
+## Phân cảnh 2: Bất Phàm
+
+Bất Phàm có tiền từ dự án 3G nhưng không muốn đặt toàn bộ vào một công ty mới.
+
+Anh có thể chấp nhận bỏ một phần đáng kể.
+
+Nhưng vẫn phải giữ lại một phần vốn cá nhân.
+
+→ Mức cam kết thấp hơn Phong Vũ.
+
+---
+
+## Phân cảnh 3: Hiểu Khánh
+
+Hiểu Khánh cũng tham gia góp vốn.
+
+Lý do không phải vì muốn làm giàu nhanh.
+
+Cô đã cùng Phong Vũ xây dựng ý tưởng và hệ thống từ đầu, nên muốn có phần sở hữu tương ứng với mức độ cam kết và trách nhiệm của mình.
+
+---
+
+## Phân cảnh 4: Mẫn Nghi
+
+Mẫn Nghi không góp vốn.
+
+Không phải vì không tin Summer Light.
+
+Cô không có tiền riêng đủ để góp vốn và **không muốn xin hoặc vay tiền gia đình**.
+
+Phong Vũ không ép.
+
+Anh chỉ nói:
+
+— Sau này nếu em muốn trở thành cổ đông, lúc đó tự quyết định.
+
+Điểm này được giữ đúng tinh thần bản gốc. 
+
+---
+
+## Phân cảnh 5: Thanh Thảo
+
+Thanh Thảo cũng không góp vốn.
+
+Gia đình cô có khả năng hỗ trợ, nhưng cô không muốn dùng tiền gia đình để trở thành cổ đông ngay lúc này.
+
+Lý do khác Mẫn Nghi:
+
+> **Cô muốn làm việc trước, xem mình có thực sự muốn đi cùng công ty lâu dài hay không.**
+
+Sau này nếu muốn mua cổ phần, vẫn còn cơ hội. 
+
+---
+
+## Phân cảnh 6: Cơ cấu cổ phần
+
+Đến đây mới đưa ra:
+
+**Phong Vũ — 55%**
+
+**Mã Bất Phàm — 25%**
+
+**Lâm Hiểu Khánh — 20%**
+
+Nếu vốn ban đầu là 6 triệu Kim Tệ và ba người góp theo tỷ lệ này:
+
+* Phong Vũ: **3,3 triệu**
+* Bất Phàm: **1,5 triệu**
+* Hiểu Khánh: **1,2 triệu**
+
+Tổng cộng:
+
+**6 triệu Kim Tệ.**
+
+Mẫn Nghi và Thanh Thảo:
+
+**nhân viên, chưa phải cổ đông.**
+
+---
+
+## Phân cảnh 7: Một cuộc nói chuyện ngắn về cổ phần
+
+Không cần tranh luận dài.
+
+Không cần cảnh mặc cả.
+
+Bởi ba người đều đã hiểu:
+
+* Phong Vũ đặt cược lớn nhất;
+* Bất Phàm có mức cam kết tiếp theo;
+* Hiểu Khánh vừa góp vốn vừa chịu trách nhiệm kỹ thuật cốt lõi.
+
+Phong Vũ nhìn ba tỷ lệ.
+
+— Có ai muốn thay đổi không?
+
+Không ai nói.
+
+— Vậy quyết định như thế.
+
+---
+
+## Phân cảnh 8: Thủ tục thành lập
+
+Sau khi:
+
+**tên có → nhân sự có → văn phòng có → vốn có → cổ phần có**
+
+thì công ty mới thực sự được đăng ký.
+
+Có thể đặt mốc:
+
+**Cuối tháng 6.**
+
+Các thủ tục thành lập Summer Light hoàn tất.
+
+Như vậy cũng phù hợp với outline gốc về mốc cuối tháng 6. 
+
+---
+
+## Phân cảnh 9: Kết Phần IV
+
+Không cần kết bằng câu “công ty đã thành lập” theo kiểu tuyên bố.
+
+Có thể kết bằng một cảnh rất đời thường:
+
+Con dấu.
+
+Giấy đăng ký.
+
+Tài khoản công ty.
+
+Một chiếc bàn.
+
+Một căn villa.
+
+Mười người.
+
+Một website còn chưa hoàn thiện.
+
+Phong Vũ nhìn tập giấy trên bàn.
+
+Summer Light từ một cái tên đã trở thành một pháp nhân.
+
+**Nhưng vẫn chưa có một giao dịch nào.**
+
 
 ---
 

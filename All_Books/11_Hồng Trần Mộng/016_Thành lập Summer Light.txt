@@ -1282,393 +1282,991 @@ Chỉ còn lại hai chữ.
 --------------------------------------------------
 
 
-# PHẦN III — AI SẼ BỎ TIỀN?
+# PHẦN III — CÔNG TY CẦN BAO NHIÊU?
 
 Tên công ty đã được quyết định.
 
-Nhưng chỉ một cái tên thì chưa thể biến một ý tưởng thành doanh nghiệp.
+Nhưng một cái tên mới chỉ giải quyết được câu hỏi đầu tiên.
 
-Bất Phàm kéo tờ giấy mới lại gần, viết xuống hai chữ.
+Phong Vũ nhìn tờ giấy đặt giữa bàn. Hai chữ "Summer Light" vẫn còn đó, nét bút của Thanh Thảo chưa khô hẳn.
 
-"VỐN".
+Một lúc sau, anh nói:
 
-Anh đặt bút xuống.
+— Còn một chuyện phải tính. Nếu thật sự thành lập công ty, chúng ta cần bao nhiêu vốn?
 
-— Chuyện này cũng phải quyết định.
+Không ai trả lời ngay.
 
-Không ai nói ngay.
+Con số ấy không thể tùy tiện chọn một mức rồi bắt đầu góp tiền. Muốn biết cần bao nhiêu vốn, trước hết phải biết công ty phải làm những gì, cần bao nhiêu người, cần một nơi làm việc ra sao và mỗi tháng phải tiêu bao nhiêu.
 
-Số tiền từ dự án 3G vẫn còn nằm trong tài khoản của mỗi người. Với một sinh viên vừa tốt nghiệp, đó không phải khoản tiền nhỏ. Nhưng nếu dùng để thành lập một công ty có tham vọng xây dựng một nền tảng thương mại điện tử, nó cũng chưa phải số tiền khiến người ta có thể yên tâm.
+Bất Phàm nhìn tờ giấy.
 
-Bất Phàm nhìn Phong Vũ.
+— Phải tính từ chi phí thực tế rồi quay ngược lại.
 
-— Cậu định bỏ bao nhiêu?
+— Tôi nghĩ vậy. — Phong Vũ nói. — Chúng ta thử tính từng phần.
 
-Phong Vũ không trả lời ngay.
+Anh lấy một tờ giấy trắng khác.
 
-Cậu mở máy tính, nhìn một bảng tính đơn giản đã chuẩn bị từ trước.
+Trên đó, Phong Vũ viết hai dòng:
 
-— Tôi chưa tính chính xác.
+"KỸ THUẬT"
 
-— Chưa tính?
+"KINH DOANH & VẬN HÀNH"
 
-— Tôi muốn biết công ty cần bao nhiêu trước.
+— Trước tiên xem cần bao nhiêu người.
 
-Bất Phàm hơi nhướng mày.
+Hiểu Khánh nhìn hai dòng chữ.
 
-— Không phải cậu đã nghĩ chuyện này lâu rồi sao?
+— Phần kỹ thuật chắc chắn không chỉ có làm website.
 
-— Nghĩ hướng đi khác với tính chi phí.
+— Đúng. — Phong Vũ nói. — Nếu Version 1 chạy được mà sau đó không thể duy trì thì cũng chẳng có ý nghĩa.
 
-Phong Vũ đóng máy tính lại.
+Hiểu Khánh kéo chiếc máy tính lại gần.
 
-— Nếu đã làm thì phải làm cho đến nơi.
+— Website, cơ sở dữ liệu, máy chủ, tài khoản người dùng, sản phẩm, đơn hàng. Sau này còn phải sửa lỗi và phát triển thêm chức năng. Phần khó không chỉ là làm cho nó chạy lần đầu, mà còn phải giữ cho những thứ đã chạy không bị hỏng khi thêm cái mới.
 
-Mẫn Nghi nhìn cậu.
+Bất Phàm gật đầu.
 
-— Cậu định bỏ phần lớn số tiền mình có?
+— Vậy phải tính cả kiểm thử và vận hành.
 
-Phong Vũ gật đầu.
+— Ừ.
 
-— Có thể.
+Hiểu Khánh suy nghĩ thêm một lúc rồi nói:
 
-Cậu không nói con số.
+— Nếu muốn giữ đội ở mức tối thiểu, em nghĩ cần thêm ba người.
 
-Cũng không cần nói.
+Phong Vũ nhìn cô.
 
-Sau dự án 3G, Phong Vũ đã có một khoản tiền đủ để lựa chọn một cuộc sống khá thoải mái trong nhiều năm. Nếu đem phần lớn số tiền đó bỏ vào một công ty mới thành lập, nghĩa là cậu đang đặt một phần đáng kể tương lai của mình lên ý tưởng này.
+— Ba người đó chia thế nào?
 
-Bất Phàm hỏi:
+— Không nhất thiết phải chia chức danh ngay. Một người có thể cùng em phát triển chức năng, một người thiên về backend và dữ liệu, một người phụ trách kiểm thử và những việc vận hành. Nhưng cả ba đều phải có khả năng làm nhiều việc.
 
-— Cậu không sợ mất hết?
+Mẫn Nghi nhìn danh sách.
 
-Phong Vũ suy nghĩ một chút.
+— Như vậy khi một người nghỉ hoặc có việc khác, hệ thống vẫn không bị phụ thuộc vào một người duy nhất.
 
-— Có.
+Hiểu Khánh gật đầu.
 
-Bất Phàm hơi bất ngờ.
+— Đó mới là điều quan trọng.
 
-— Có?
+Phong Vũ ghi xuống:
 
-— Nếu mất thì vẫn tiếc.
+"Kỹ thuật: 4 người."
 
-Phong Vũ nhìn ra ngoài cửa kính.
+Anh nhìn con số một lát rồi nói:
 
-— Nhưng nếu không làm, tôi cũng không biết nó có thể đi đến đâu.
+— Còn Version 1?
 
-Cậu quay lại.
+Hiểu Khánh nhìn anh.
 
-— Tôi muốn thử.
+— Nếu tính cả anh thì dễ hơn.
 
-Không có lời tuyên bố nào lớn hơn.
+Phong Vũ cười.
 
-Bất Phàm nhìn cậu vài giây rồi cúi xuống tờ giấy.
+— Tôi không tính mình vào đội cố định.
 
-— Được.
-
-Anh không hỏi thêm.
-
-Sau đó anh nhìn sang Hiểu Khánh.
-
-— Còn cậu?
-
-Hiểu Khánh ngồi im một lúc.
-
-— Tôi sẽ góp.
-
-— Bao nhiêu?
-
-— Trong khả năng của tôi.
-
-Bất Phàm bật cười.
-
-— Hai người hôm nay đều thích trả lời kiểu này.
-
-Hiểu Khánh cũng cười.
-
-— Tôi chưa chắc thương mại điện tử sẽ lớn đến mức nào.
-
-Cô nói rất thẳng.
-
-— Tôi tin Internet. Tôi tin công nghệ. Nhưng hai chuyện đó không có nghĩa là tôi chắc chắn mô hình này sẽ thành công.
-
-Phong Vũ gật đầu.
-
-— Tôi hiểu.
-
-— Vì vậy tôi không muốn bỏ quá nhiều tiền vào một thứ mà mình chưa kiểm chứng.
-
-Cô ngừng lại.
-
-— Nhưng tôi muốn làm.
-
-Câu cuối cùng mới là điều quan trọng.
-
-Hiểu Khánh không tin chắc vào kết quả.
-
-Nhưng cô tin đủ để bước vào.
-
-Bất Phàm gõ nhẹ đầu bút lên bàn.
-
-— Tôi cũng vậy.
-
-Mẫn Nghi nhìn anh.
-
-— Cậu tính thế nào?
-
-Bất Phàm dựa người vào ghế.
-
-— Tôi thấy cơ hội.
-
-Anh nói chậm hơn.
-
-— Nhưng càng nghĩ càng thấy nhiều biến số.
-
-Thị trường chưa hình thành rõ ràng.
-
-Người bán chưa quen với việc đưa hàng hóa lên Internet.
-
-Người mua chưa có thói quen đặt hàng trực tuyến.
-
-Thanh toán, giao nhận, niềm tin giữa hai bên... tất cả đều có thể trở thành vấn đề.
-
-— Nếu chỉ nhìn vào những thứ đó, tôi sẽ không đầu tư.
-
-Bất Phàm nhìn Phong Vũ.
-
-— Nhưng tôi tin cậu.
-
-Phong Vũ không nói gì.
-
-— Ít nhất đủ để tôi tham gia.
-
-Bất Phàm cúi xuống ghi phần của mình vào sổ.
-
-Anh không nói rằng mình chắc chắn công ty sẽ thành công.
-
-Cũng không cần.
-
-Chỉ riêng việc anh chấp nhận đặt tiền vào đó đã là câu trả lời.
-
-Mẫn Nghi nhìn ba người.
-
-— Còn tôi thì sao?
-
-Phong Vũ hỏi:
-
-— Cậu muốn góp vốn không?
-
-Mẫn Nghi im lặng một lúc.
-
-— Tôi không có tiền riêng.
-
-Bất Phàm hỏi:
-
-— Có thể hỏi gia đình mà.
-
-— Tôi biết.
-
-Cô nhìn xuống cốc nước trước mặt.
-
-— Nhưng tôi không muốn.
-
-Phong Vũ không hỏi tại sao.
-
-Mẫn Nghi nói tiếp:
-
-— Nếu tôi cần tiền để bắt đầu một việc của mình, tôi muốn tự kiếm.
-
-Cô nhìn lên.
-
-— Tôi không muốn sau này có ai nói công ty này có một phần là do gia đình tôi bỏ tiền.
-
-Bất Phàm không cười nữa.
-
-— Vậy cậu vẫn muốn tham gia?
-
-— Có.
-
-— Với tư cách gì?
-
-— Nhân viên.
-
-Mẫn Nghi trả lời rất nhanh.
-
-— Tôi làm việc trước.
-
-Cô nhìn ba người.
-
-— Nếu tôi làm tốt, tôi tự kiếm tiền. Nếu một ngày tôi muốn trở thành cổ đông, lúc đó tôi sẽ tự quyết định.
-
-Phong Vũ gật đầu.
-
-— Được.
-
-Không ai khuyên cô nên vay tiền.
-
-Không ai bảo cô bỏ vốn.
-
-Chuyện đó là lựa chọn của cô.
-
-Phong Vũ quay sang Thanh Thảo.
-
-— Còn cậu?
-
-Thanh Thảo cười.
-
-— Tôi cũng không có tiền.
-
-— Nếu hỏi gia đình?
-
-— Có lẽ có thể.
-
-Cô suy nghĩ một chút rồi lắc đầu.
-
-— Nhưng tôi không muốn.
-
-Mẫn Nghi nhìn cô.
-
-— Vì giống tôi?
-
-— Một phần.
-
-Thanh Thảo nhìn Summer Light trên tờ giấy đặt giữa bàn.
-
-— Nhưng lý do chính là tôi chưa muốn làm cổ đông.
-
-Bất Phàm hỏi:
+Bất Phàm ngẩng lên.
 
 — Tại sao?
 
-— Tôi muốn làm việc trước.
+Phong Vũ suy nghĩ một chút.
 
-Cô nói:
+— Tôi đang nghĩ rằng trong mấy tháng đầu, tôi sẽ dành nhiều thời gian cho đội kỹ thuật. Sau đó tùy tình huống mà điều chỉnh.
 
-— Chúng ta mới chỉ vừa quyết định thành lập công ty. Tôi còn chưa biết mình có thực sự phù hợp với việc này hay không.
+Anh nhìn sang Hiểu Khánh.
 
-Thanh Thảo nhìn mọi người.
+— Tôi muốn cùng mọi người làm Version 1 từ đầu. Từ lúc xác định chức năng cho đến khi hệ thống thực sự chạy được. Nhưng khi sản phẩm bắt đầu có người sử dụng, lúc đó có lẽ tôi sẽ phải dành nhiều thời gian hơn cho phía kinh doanh.
 
-— Tôi muốn thử làm việc cùng các cậu. Nếu sau một thời gian tôi thấy đây là thứ mình muốn theo đuổi lâu dài, lúc đó tính tiếp cũng chưa muộn.
+Hiểu Khánh hiểu ý.
 
-Mẫn Nghi gật đầu.
+— Vậy đội kỹ thuật cố định vẫn là bốn người.
 
-Phong Vũ cũng không hỏi thêm.
+— Ừ.
 
-Bất Phàm nhìn năm người quanh bàn.
+Phong Vũ ghi thêm một dòng nhỏ bên dưới:
 
-Một người sẵn sàng bỏ phần lớn số tiền mình có.
+"Phong Vũ: tham gia kỹ thuật giai đoạn đầu."
 
-Hai người chấp nhận bỏ tiền nhưng vẫn giữ lại một phần khoảng cách với rủi ro.
+Rồi anh chuyển sang phần còn lại.
 
-Hai người không bỏ vốn, nhưng vì những lý do hoàn toàn khác nhau.
-
-Không ai giống ai.
+— Phía kinh doanh.
 
 Bất Phàm cầm bút lên.
 
-— Vậy thống nhất thế này.
+— Theo tôi, việc đầu tiên phải có là người bán. Không có nguồn hàng thì nền tảng chẳng có gì để vận hành.
 
-Anh không ghi con số của từng người lên bảng.
+Anh viết xuống:
 
-Chỉ viết:
+"Người bán."
 
-"Phong Vũ — 55%"
+— Phải tìm những cửa hàng đầu tiên chịu đưa sản phẩm lên. Nhưng đưa họ vào chưa phải kết thúc. Còn phải hướng dẫn, theo dõi, giữ quan hệ và tìm hiểu xem vì sao một cửa hàng tiếp tục sử dụng còn một cửa hàng bỏ đi.
 
-"Mã Bất Phàm — 25%"
+Thanh Thảo nói:
 
-"Lâm Hiểu Khánh — 20%"
+— Còn khách hàng.
 
-Bên dưới, anh viết thêm:
+Bất Phàm gật đầu.
 
-"Hứa Mẫn Nghi — nhân viên"
+— Đúng. Nhưng hai phía phải phát triển gần như song song. Có hàng mà không có người mua thì người bán sẽ rời đi. Có người mua mà không có đủ sản phẩm thì cũng chẳng giữ được họ.
 
-"Tô Thanh Thảo — nhân viên"
+Phong Vũ nhìn sang Thanh Thảo.
 
-Phong Vũ nhìn những con số.
+— Phần khách hàng em nghĩ thế nào?
 
-— Cứ theo phương án này.
-
-Không ai phản đối.
-
-Bất Phàm gấp cuốn sổ lại.
-
-— Vậy tiền coi như giải quyết xong.
-
-Mẫn Nghi nhìn anh.
-
-— Chưa đâu.
-
-— Còn gì nữa?
-
-— Tiền chỉ là phần dễ nhất.
+— Em nghĩ giai đoạn đầu không nên bỏ quá nhiều tiền vào quảng cáo. Chúng ta chưa biết khách hàng thực sự phản ứng với mô hình này ra sao. Tốt hơn là thử từng kênh nhỏ, xem người ta đến từ đâu, mua gì, có quay lại không, rồi mới tăng tiền.
 
 Bất Phàm nhìn cô.
 
-Mẫn Nghi chỉ vào danh sách công việc vẫn còn nằm trên bàn.
+— Như vậy em phụ trách phần này?
 
-"Địa điểm".
+— Vâng.
 
-"Nhân sự".
+Phong Vũ gật đầu.
 
-"Website".
+Anh nhìn sang Mẫn Nghi.
 
-"Khách hàng".
+— Còn vận hành?
 
-Cô nói:
+Mẫn Nghi đã theo dõi cuộc nói chuyện từ đầu.
 
-— Chúng ta còn phải biến số tiền này thành một công ty thật.
+— Khi có giao dịch thì sẽ xuất hiện một lớp công việc khác. Xác nhận thông tin, theo dõi đơn hàng, liên hệ với người bán, hỗ trợ khách hàng, ghi nhận những vấn đề phát sinh. Lúc đầu số lượng ít thì không đáng kể, nhưng nếu giao dịch tăng nhanh, những việc này sẽ chiếm hết thời gian của người đang phụ trách kinh doanh.
+
+Bất Phàm gật đầu.
+
+— Nhất là khi bắt đầu có nhiều cửa hàng cùng lúc.
+
+Phong Vũ viết lên giấy:
+
+"Người bán."
+
+"Khách hàng."
+
+"Giao dịch."
+
+"Vận hành."
+
+Ba người nhìn những dòng chữ.
+
+Thanh Thảo nói:
+
+— Nếu chỉ có chúng ta thì lúc đầu vẫn được.
+
+— Nhưng chúng ta đang tính cho công ty, không phải cho vài tháng đầu. — Phong Vũ nói.
+
+Không ai phản đối.
+
+Bất Phàm nhìn lại danh sách.
+
+— Tôi nghĩ cần tách những việc có thể lặp đi lặp lại ra khỏi người phụ trách chính.
+
+Mẫn Nghi gật đầu.
+
+— Một người chuyên hỗ trợ khách hàng và theo dõi đơn hàng.
+
+Thanh Thảo nói:
+
+— Một người khác có thể hỗ trợ người bán, nhập sản phẩm, kiểm tra thông tin và xử lý những việc vận hành hàng ngày.
+
+Bất Phàm nhìn sang Phong Vũ.
+
+— Như vậy tôi có thể tập trung vào việc phát triển người bán, thay vì cả ngày ngồi xử lý từng đơn.
+
+Phong Vũ viết thêm hai dòng:
+
+"Hỗ trợ khách hàng — đơn hàng."
+
+"Người bán — dữ liệu — vận hành."
+
+Anh đặt bút xuống.
+
+— Vậy phía này là năm người.
+
+Bất Phàm gật đầu.
+
+— Năm người là đủ để bắt đầu, nếu chúng ta giữ phạm vi công việc ở mức này.
+
+Phong Vũ nhìn lại tờ giấy.
+
+"Kỹ thuật: 4."
+
+"Kinh doanh & vận hành: 5."
+
+Chín người.
+
+Anh không đưa mình vào một trong hai nhóm.
+
+Bất Phàm nhìn con số ấy rồi hỏi:
+
+— Còn anh?
+
+Phong Vũ dựa lưng vào ghế.
+
+— Tôi phụ trách điều hành chung. Nhưng trong mấy tháng đầu sẽ làm sâu với kỹ thuật. Khi Version 1 chạy được, tôi sẽ xem tình hình thực tế rồi quyết định mình nên dành nhiều thời gian hơn cho phía nào.
+
+Anh không nói chắc mình sẽ làm gì sau đó.
+
+Bởi lúc này, chưa ai biết Version 1 sẽ mất bao lâu, thị trường sẽ phản ứng thế nào, hay vấn đề lớn nhất của Summer Light sẽ xuất hiện ở đâu.
+
+Phong Vũ chỉ biết rằng, ở giai đoạn đầu, nơi nào cần anh nhất thì anh sẽ vào đó.
+
+Thanh Thảo nhìn tờ giấy.
+
+— Vậy tổng cộng mười người?
+
+— Trước mắt là vậy. — Phong Vũ nói.
+
+Bất Phàm hỏi:
+
+— Có cần tuyển thêm để dự phòng không?
+
+Phong Vũ lắc đầu.
+
+— Chưa.
+
+Mẫn Nghi nói:
+
+— Nếu chưa có đủ giao dịch, tuyển thêm người chỉ làm chi phí cố định tăng lên.
+
+Hiểu Khánh cũng nói:
+
+— Kỹ thuật cũng vậy. Quá nhiều người cùng lúc chưa chắc làm nhanh hơn. Khi cấu trúc còn chưa ổn định, đôi khi còn khó phối hợp hơn.
+
+Bất Phàm gật đầu.
+
+— Vậy giữ ở mức tối thiểu.
+
+Phong Vũ nói:
+
+— Khi công việc tăng, chúng ta tính lại. Nhân sự phải đi theo công việc và doanh thu.
+
+Anh khoanh con số mười.
+
+"10 người."
+
+---
+
+Bài toán tiếp theo là chỗ làm việc.
+
+Phong Vũ viết thêm:
+
+"VĂN PHÒNG"
+
+— Mười người không cần văn phòng lớn.
+
+Bất Phàm nói:
+
+— Cũng không cần ở trung tâm. Chúng ta không cần khách đi ngang qua cửa hàng để mua hàng.
+
+Thanh Thảo cười.
+
+— Vậy tiết kiệm được một khoản.
+
+Hiểu Khánh nói:
+
+— Chỉ cần Internet ổn định, điện không có vấn đề, có chỗ đặt máy chủ và đủ bàn làm việc.
+
+Mẫn Nghi bổ sung:
+
+— Có một phòng họp nhỏ cũng tốt. Sau này nếu phải gặp người bán thì không thể lúc nào cũng ra ngoài.
+
+Phong Vũ gật đầu.
+
+— Còn những thứ khác?
+
+Bất Phàm suy nghĩ một lát.
+
+— Tôi có thể giải quyết một phần.
+
+Mọi người nhìn anh.
+
+— Gia đình tôi có một căn villa trong khu đô thị mới. Nhà xây xong nhưng hiện chưa sử dụng. Nếu công ty thuê lại thì chi phí sẽ thấp hơn nhiều so với thuê văn phòng bên ngoài.
+
+Phong Vũ hỏi:
+
+— Đủ cho mười người?
+
+— Dư.
+
+— Có phòng riêng?
+
+— Có.
+
+— Có thể làm phòng kỹ thuật?
+
+— Được.
+
+Phong Vũ gật đầu.
+
+— Vậy đi xem.
+
+---
+
+Buổi chiều hôm đó, cả nhóm đến căn villa.
+
+Khu đô thị vẫn còn khá thưa người. Nhiều căn nhà hai bên đường chưa có người ở, những khoảng đất trống xen giữa các dãy nhà khiến cả khu có vẻ rộng hơn thực tế.
+
+Bất Phàm mở cửa.
+
+Căn nhà đã xây xong nhưng phần lớn các phòng vẫn trống. Phòng khách rộng, phía sau có một khoảng có thể kê bàn làm việc. Tầng trên có vài phòng nhỏ, đủ để làm phòng kỹ thuật và phòng họp.
+
+Hiểu Khánh đi một vòng rồi dừng trước một căn phòng.
+
+— Chỗ này được.
+
+Bất Phàm hỏi:
+
+— Phòng máy chủ?
+
+— Ừ. Ít người qua lại, dễ kéo mạng. Nếu đặt thiết bị ở đây cũng dễ quản lý hơn.
+
+Thanh Thảo nhìn xuống phòng khách.
+
+— Mười người ngồi ở đây vẫn còn rộng.
+
+Mẫn Nghi nhìn quanh.
+
+— Sau này có khách đến cũng có chỗ tiếp.
+
+Phong Vũ đứng bên cửa sổ.
+
+Không có bảng hiệu.
+
+Không có quầy lễ tân.
+
+Không có những thứ khiến một công ty mới thành lập trông giống một doanh nghiệp lớn.
+
+Nhưng họ cũng chưa cần những thứ đó.
+
+Một căn nhà đủ rộng.
+
+Một đường truyền đủ tốt.
+
+Mười chỗ ngồi.
+
+Và một hệ thống cần được xây dựng.
+
+— Dùng chỗ này.
+
+Bất Phàm gật đầu.
+
+— Tôi sẽ nói chuyện với gia đình.
+
+---
+
+Tối hôm đó, nhân sự và địa điểm đã tương đối rõ.
+
+Phong Vũ mở máy tính.
+
+— Bây giờ tính chi phí.
+
+Bất Phàm đã mở sẵn một bảng tính.
+
+Không ai cố biến cuộc họp thành một bản dự toán kế toán hoàn chỉnh. Họ chỉ cần biết quy mô tiền bạc mà Summer Light phải chuẩn bị.
+
+Tiền thuê villa.
+
+Điện, nước, Internet.
+
+Máy tính và thiết bị mạng.
+
+Máy chủ.
+
+Phần mềm và các dịch vụ cần thiết.
+
+Lương nhân viên.
+
+Kế toán, pháp lý và hành chính.
+
+Đi lại, điện thoại, tiếp khách.
+
+Quảng cáo và phát triển khách hàng.
+
+Bất Phàm nhìn qua các khoản.
+
+— Có một nguyên tắc nên giữ từ đầu: chi phí cố định càng thấp càng tốt. Doanh thu của chúng ta chưa chắc chắn, nhưng tiền lương và tiền thuê nhà thì tháng nào cũng phải trả.
+
+Phong Vũ gật đầu.
+
+— Những khoản có thể biến đổi theo doanh thu thì cố gắng giữ linh hoạt.
+
+Hiểu Khánh chỉ vào phần thiết bị.
+
+— Máy tính không cần mua loại cao cấp nhất. Phần lớn công việc hiện tại không cần đến cấu hình quá mạnh.
+
+— Máy chủ cũng vậy. — Phong Vũ nói. — Đừng mua theo quy mô mà chúng ta hy vọng sẽ có. Mua theo quy mô chúng ta thực sự cần.
+
+Bất Phàm gật đầu rồi sửa lại vài con số.
+
+Thanh Thảo nhìn khoản quảng cáo.
+
+— Khoản này nên để nhỏ trong giai đoạn đầu. Chúng ta còn chưa biết một khách hàng mới thực sự đáng giá bao nhiêu.
+
+Bất Phàm nói:
+
+— Nhưng vẫn phải có tiền thử nghiệm. Nếu không bỏ một đồng nào thì cũng chẳng có dữ liệu để biết kênh nào hiệu quả.
+
+— Em không nói bỏ ít đến mức không thử. — Thanh Thảo đáp. — Chỉ là thử từng bước, hiệu quả thì tăng.
+
+Phong Vũ gật đầu.
+
+— Đưa vào một khoản thử nghiệm. Sau đó dựa vào kết quả mà điều chỉnh.
+
+Mẫn Nghi nhìn phần chi phí vận hành.
+
+— Còn một khoản nên để dư.
+
+Bất Phàm nhìn sang.
+
+— Chi phí phát sinh?
+
+— Ừ. Những thứ chưa biết trước. Một giao dịch có thể phát sinh nhiều việc hơn chúng ta dự tính. Nếu sau này có hàng nghìn giao dịch, những khoản nhỏ cộng lại sẽ không còn nhỏ.
+
+Bất Phàm gật đầu.
+
+— Tôi sẽ để một phần trong chi phí vận hành.
+
+Các con số lần lượt được điều chỉnh.
+
+Không thuê văn phòng thương mại.
+
+Không mua thiết bị quá mức cần thiết.
+
+Không tuyển người khi chưa có việc.
+
+Không xây bộ máy hành chính riêng.
+
+Không quảng cáo lớn khi chưa biết hiệu quả.
+
+Những việc có thể tự làm thì tự làm.
+
+Những việc có thể thuê ngoài thì chưa cần tuyển người riêng.
+
+Phong Vũ thỉnh thoảng chỉ vào một khoản.
+
+— Cái này có cần ngay không?
+
+Nếu chưa cần, họ đẩy sang sau.
+
+Nếu có cách rẻ hơn, họ chọn cách rẻ hơn.
+
+Đến cuối buổi, bảng tính đã cho ra một con số tương đối rõ.
+
+Bất Phàm nhìn màn hình.
+
+— Nếu chỉ tính năm đầu thì không lớn.
+
+Phong Vũ lắc đầu.
+
+— Một năm chưa đủ.
+
+Bất Phàm hiểu ngay.
+
+— Phải tính đến lúc doanh thu có khả năng tự nuôi bộ máy.
+
+— Đúng.
+
+Bất Phàm chuyển sang một bảng mới.
+
+— Tôi nghĩ nên thử ba kịch bản. Thấp, cơ sở và tốt. Không nên dùng một con số duy nhất rồi tự cho rằng đó là dự báo.
+
+Phong Vũ gật đầu.
+
+— Kịch bản cơ sở dùng để quyết định vốn.
+
+— Còn hai kịch bản kia để biết biên độ rủi ro.
+
+Họ bắt đầu đưa các giả định vào.
+
+Không ai lấy mức tăng trưởng tốt nhất làm căn cứ.
+
+Một công ty mới không có thương hiệu, không có lượng khách hàng sẵn có và cũng chưa biết người bán sẽ phản ứng thế nào. Nếu thị trường chậm hơn dự kiến vài tháng, toàn bộ dòng tiền sẽ thay đổi.
+
+Năm thứ nhất được tính với doanh thu thấp.
+
+Năm thứ hai bắt đầu có tăng trưởng.
+
+Năm thứ ba, trong kịch bản cơ sở, doanh thu mới dần tiến đến mức có thể tự nuôi bộ máy.
+
+Bất Phàm nhìn các con số.
+
+— Nếu dùng kịch bản tốt, vốn cần thiết sẽ thấp hơn đáng kể.
+
+Phong Vũ nói:
+
+— Nhưng chúng ta không thể lấy trường hợp tốt nhất để quyết định mình cần bao nhiêu tiền.
+
+— Tôi biết.
+
+Bất Phàm chuyển sang kịch bản cơ sở.
+
+Các khoản chi được kéo dài đến cuối năm thứ ba.
+
+Cuối cùng, anh dừng lại.
+
+— Khoảng bốn phẩy tám triệu Kim Tệ.
+
+Hiểu Khánh hỏi:
+
+— Đã tính thiết bị ban đầu?
+
+— Rồi.
+
+Mẫn Nghi hỏi:
+
+— Văn phòng?
+
+— Rồi.
+
+Thanh Thảo nhìn sang.
+
+— Quảng cáo?
+
+— Có.
+
+Bất Phàm chỉ vào màn hình.
+
+— Tất cả những khoản chính đều ở đây.
+
+Phong Vũ vẫn nhìn con số.
+
+Bốn phẩy tám triệu.
+
+Mẫn Nghi nói:
+
+— Nhưng không nên lấy đúng con số này làm vốn.
+
+Bất Phàm gật đầu.
+
+— Đúng vậy. Theo thông lệ, thường nên để khoảng hai mươi đến ba mươi phần trăm tùy mức độ rủi ro.
+
+Phong Vũ suy nghĩ một chút.
+
+— Hai mươi lăm phần trăm.
+
+Bất Phàm nhập con số.
+
+Bảng tính thay đổi.
+
+Căn phòng yên lặng vài giây.
+
+Bất Phàm nhìn kết quả cuối cùng.
+
+— Gần sáu triệu.
+
+Phong Vũ nhìn màn hình.
+
+"6.000.000 Kim Tệ."
+
+Không ai bắt đầu cuộc thảo luận bằng con số này.
+
+Nó xuất hiện sau khi họ đã tính từ những thứ nhỏ nhất: cần bao nhiêu người, làm việc ở đâu, mua những gì, mỗi năm tiêu bao nhiêu, doanh thu có thể tăng thế nào, và phải chuẩn bị cho những thứ không thể dự đoán.
+
+Bất Phàm dựa lưng vào ghế.
+
+— Khoảng sáu triệu.
+
+Phong Vũ gật đầu.
+
+— Nếu thực tế tốt hơn kịch bản cơ sở, chúng ta không cần dùng hết. Nếu xấu hơn, vẫn còn một phần đệm.
+
+Mẫn Nghi nhìn con số trên màn hình.
+
+— Ít nhất bây giờ chúng ta biết mình đang tính cái gì.
+
+Phong Vũ nhìn tờ giấy ban đầu.
+
+Hai dòng "KỸ THUẬT" và "KINH DOANH & VẬN HÀNH" vẫn còn đó.
+
+Bên cạnh là con số nhân sự.
+
+Bốn người.
+
+Năm người.
+
+Một người điều hành chung.
+
+Một căn villa.
+
+Ba năm vận hành.
+
+Hai mươi lăm phần trăm dự phòng.
+
+Anh cầm bút, viết xuống cuối trang:
+
+"6.000.000"
+
+Phong Vũ đặt bút xuống.
+
+— Bây giờ mới tính xem số tiền này đến từ đâu.
 
 
 ----------------------------------------------------
 
 
-# PHẦN IV — SUMMER LIGHT CÓ MỘT NGÔI NHÀ
+# PHẦN IV — AI SẼ BỎ SỐ TIỀN ĐÓ?
 
-— Văn phòng đặt ở đâu?
+Con số "6.000.000 Kim Tệ" vẫn nằm trên tờ giấy.
 
-Bất Phàm đặt cây bút xuống bàn.
+Phong Vũ nhìn nó một lúc rồi đặt bút xuống.
 
-Câu hỏi đơn giản ấy khiến cả nhóm im lặng một lúc.
+— Đây là mức tối thiểu theo cách chúng ta vừa tính.
 
-Không ai muốn đem số tiền vừa có được đổ vào một văn phòng nằm giữa trung tâm Bắc Đô. Thương mại điện tử không cần mặt tiền đẹp. Khách hàng và người bán phần lớn sẽ gặp nhau trên Internet, còn bọn họ cần nhất là chỗ làm việc đủ rộng, đường truyền ổn định và có thể tiếp tục tuyển người.
+Bất Phàm gật đầu.
 
-Cuối cùng, một căn nhà lớn trong một khu đô thị mới ở vùng ven Bắc Đô được chọn.
+— Và không phải giới hạn.
 
-Ba tầng, mỗi tầng rộng hơn hai trăm mét vuông. Phía trước có một khoảng sân đủ để vài chiếc xe ra vào. Những con đường trong khu đô thị còn khá vắng. Một số căn nhà đã hoàn thiện từ lâu nhưng cửa vẫn đóng kín, chưa có người ở.
+— Ừ. — Phong Vũ nói. — Nếu có thêm vốn thì càng có dư địa để xoay xở. Sau này nếu công ty phát triển nhanh, sáu triệu cũng chưa chắc đủ.
 
-Thoạt nhìn, nó chẳng giống trụ sở của một công ty.
+Anh nhìn mọi người.
 
-Nhưng càng nhìn, mọi người càng thấy phù hợp.
+— Nhưng trước mắt, chúng ta không cần quyết định số tiền nhiều hơn. Cứ lấy sáu triệu làm mức vốn ban đầu cần có. Nếu ai muốn góp thêm thì nói rõ khả năng của mình.
 
-Ít người qua lại, yên tĩnh, rộng rãi, lại không quá xa thành phố. Quan trọng nhất là đủ chỗ cho những người sẽ đến sau này.
+Phong Vũ dừng lại một chút.
 
-Căn nhà được thuê lại với mức giá hợp lý. Sau đó, cả nhóm bắt tay vào việc.
+— Mỗi người đều có quyền lựa chọn. Không góp cũng được. Góp ít hay nhiều cũng nói thẳng. Sau đó chúng ta mới tính cơ cấu cổ phần.
 
-Tầng dưới dành cho khu làm việc chung, một bàn họp lớn, chỗ tiếp khách và những chiếc máy tính đầu tiên. Tầng trên yên tĩnh hơn, trở thành nơi lập trình, đặt tài liệu cùng các thiết bị máy chủ. Không có biển tên phòng ban, cũng chẳng có những vách ngăn được dựng lên để phân biệt ai thuộc về đâu.
+Câu nói ấy khiến cuộc trò chuyện chuyển sang một hướng khác.
 
-Bàn ghế được kéo đi kéo lại suốt mấy ngày.
+Từ trước đến giờ, họ vẫn đang tính tiền của công ty.
 
-Dây mạng chạy dọc theo tường. Máy tính lần lượt được chuyển vào. Một chiếc bảng trắng được dựng bên cạnh bàn họp. Những thùng giấy đựng thiết bị nằm ngổn ngang ở góc cầu thang.
+Bây giờ bắt đầu tính đến tiền của từng người.
 
-Đến khi mọi thứ tạm ổn, căn nhà đã bắt đầu có một hình dạng khác.
+Bất Phàm là người lên tiếng trước.
 
-Không còn giống một căn nhà trống.
+— Tôi có thể góp khá nhiều.
 
-Cũng chưa giống một công ty hoàn chỉnh.
+Anh nhìn con số trên giấy.
 
-Nhưng Summer Light đã có chỗ để bắt đầu.
+— Nhưng nếu là Summer Light, tôi muốn giới hạn phần của mình ở khoảng một phần tư.
 
-Tháng đầu tiên, văn phòng chỉ có hơn chục người. Rồi con số ấy nhanh chóng tiến gần hai mươi.
+Phong Vũ nhìn anh.
 
-Không ai có chức danh thật sự rõ ràng.
+— Hai mươi lăm phần trăm?
 
-Phong Vũ có thể đang ngồi trước máy tính sửa một đoạn code, vài phút sau đã xuống tầng dưới gặp một chủ cửa hàng. Hiểu Khánh đang lập trình nhưng có thể bị gọi sang xem một bản giới thiệu sản phẩm. Mẫn Nghi vừa theo dõi tiến độ vừa phỏng vấn người mới. Bất Phàm có lúc ngồi tính chi phí, lúc khác lại cùng Thanh Thảo gọi điện cho một đối tác.
+— Ừ.
 
-Công việc thay đổi theo từng giờ.
+Bất Phàm nói khá thoải mái.
 
-Và chẳng ai thấy điều đó có gì bất thường.
+— Tôi có thể bỏ hơn mức đó. Nhưng tôi không nghĩ cần thiết phải dồn quá nhiều tiền vào một công ty mới thành lập. Chúng ta còn chưa biết thị trường phản ứng thế nào, mô hình này có tăng trưởng đúng như dự tính hay không.
 
-Đó mới là những ngày đầu của Summer Light.
+Anh ngừng một chút.
+
+— Tôi muốn giữ lại một phần vốn riêng. Không phải vì tôi không tin Summer Light, mà vì tôi không muốn đặt tất cả vào cùng một chỗ.
+
+Phong Vũ gật đầu.
+
+— Hợp lý.
+
+Anh không ghi con số xuống ngay mà nhìn sang Hiểu Khánh.
+
+— Còn em?
+
+Hiểu Khánh im lặng vài giây.
+
+— Tôi cũng có thể góp.
+
+Cô nhìn bảng tính trên máy tính.
+
+— Nhưng tôi không muốn góp quá nhiều.
+
+— Khoảng bao nhiêu?
+
+— Khoảng hai mươi phần trăm.
+
+Bất Phàm nhìn cô.
+
+Hiểu Khánh nói:
+
+— Tôi muốn phần lớn sự tập trung của mình nằm ở việc xây dựng hệ thống. Nếu sau này công ty cần thêm vốn, lúc đó có thể tính tiếp. Hiện tại tôi thấy hai mươi phần trăm là mức tôi có thể chấp nhận.
+
+Phong Vũ gật đầu.
+
+— Được.
+
+Anh quay sang Mẫn Nghi.
+
+— Còn em?
+
+Mẫn Nghi lắc đầu.
+
+— Em không góp vốn lúc này.
+
+Phong Vũ không hỏi ngay.
+
+Mẫn Nghi nói:
+
+— Em không có nhiều tiền riêng. Nếu muốn góp một khoản lớn thì phải dùng tiền của gia đình.
+
+Cô nhìn tờ giấy trước mặt.
+
+— Em không muốn như vậy.
+
+Thanh Thảo nhìn cô.
+
+Mẫn Nghi tiếp:
+
+— Em muốn tự mình kiếm tiền. Nếu sau này công ty phát triển, em vẫn muốn có cổ phần thì lúc đó em sẽ tự mua.
+
+Phong Vũ gật đầu.
+
+— Được.
+
+Anh không thuyết phục cô.
+
+Cũng không nói rằng cơ hội này sẽ không quay lại.
+
+Chỉ hỏi thêm:
+
+— Em vẫn muốn làm ở Summer Light?
+
+Mẫn Nghi nhìn anh.
+
+— Đương nhiên.
+
+— Vậy là được.
+
+Phong Vũ chuyển sang Thanh Thảo.
+
+— Còn em?
+
+Thanh Thảo cười.
+
+— Em cũng không góp.
+
+Bất Phàm nhìn cô.
+
+— Nhà em không cho?
+
+— Có thể cho.
+
+Cô lắc đầu.
+
+— Nhưng em không muốn dùng tiền của gia đình để mua cổ phần ngay từ đầu.
+
+Thanh Thảo nhìn hai mươi lăm phần trăm của Bất Phàm, rồi hai mươi phần trăm của Hiểu Khánh vẫn chưa được viết xuống giấy.
+
+— Em muốn làm trước.
+
+Cô nói:
+
+— Nếu sau một thời gian em vẫn muốn đi cùng Summer Light, lúc đó em sẽ tự kiếm tiền rồi mua cổ phần. Như vậy em thấy thoải mái hơn.
+
+Phong Vũ gật đầu.
+
+— Được.
+
+Năm người ngồi quanh bàn.
+
+Không ai bị loại khỏi cơ hội góp vốn.
+
+Chỉ là mỗi người có một lựa chọn khác nhau.
+
+Bất Phàm có khả năng góp vốn nhưng chủ động giới hạn mức tham gia.
+
+Hiểu Khánh cũng có thể góp nhiều hơn, nhưng muốn giữ phần sở hữu ở mức mình thấy phù hợp với sự cam kết hiện tại.
+
+Mẫn Nghi không muốn dùng tiền gia đình.
+
+Thanh Thảo có thể nhận sự hỗ trợ từ gia đình nhưng muốn tự mình quyết định bằng tiền do chính mình kiếm được.
+
+Còn Phong Vũ vẫn chưa nói con số của mình.
+
+Anh nhìn hai tỷ lệ mà Bất Phàm và Hiểu Khánh vừa đưa ra.
+
+"25%."
+
+"20%."
+
+Phong Vũ cầm bút.
+
+— Nếu hai người giữ những mức này, phần còn lại là năm mươi lăm phần trăm.
+
+Bất Phàm nhìn anh.
+
+Phong Vũ nói:
+
+— Phần đó tôi nhận.
+
+Anh viết xuống:
+
+"Phong Vũ — 55%"
+
+Sau đó là:
+
+"Mã Bất Phàm — 25%"
+
+"Lâm Hiểu Khánh — 20%"
+
+Ba con số nằm ngay ngắn trên giấy.
+
+Bất Phàm nhìn một lát.
+
+— Nếu lấy đúng sáu triệu làm vốn ban đầu thì vừa khớp.
+
+Phong Vũ gật đầu.
+
+Anh viết số tiền tương ứng bên cạnh từng người.
+
+"3,3 triệu."
+
+"1,5 triệu."
+
+"1,2 triệu."
+
+Bất Phàm nhẩm lại.
+
+— Ba triệu ba trăm nghìn, một triệu rưỡi, một triệu hai.
+
+Hiểu Khánh nhìn tổng số.
+
+— Sáu triệu.
+
+Phong Vũ gật đầu.
+
+— Đúng.
+
+Anh đặt bút xuống.
+
+Nhưng vẫn chưa thu tờ giấy lại.
+
+— Có ai thấy tỷ lệ này chưa hợp lý không?
+
+Bất Phàm nhìn anh.
+
+— Tôi không có ý kiến.
+
+Hiểu Khánh cũng lắc đầu.
+
+— Tôi thấy được.
+
+Phong Vũ nhìn sang Mẫn Nghi và Thanh Thảo.
+
+Hai người đều lắc đầu.
+
+Không ai có nhu cầu tranh thêm một vài phần trăm.
+
+Cũng không ai cảm thấy mình bị gạt khỏi cuộc chơi.
+
+Phong Vũ gạch một đường dưới ba cái tên.
+
+"55% — 25% — 20%."
+
+— Vậy chốt.
+
+---
+
+Bất Phàm cầm tờ giấy lên xem lại.
+
+— Có một chuyện cần nói rõ.
+
+Phong Vũ nhìn anh.
+
+— Sau này nếu cần thêm vốn thì sao?
+
+— Gọi vốn.
+
+Bất Phàm gật đầu.
+
+— Tôi cũng nghĩ vậy.
+
+Anh đặt tờ giấy xuống.
+
+— Nếu công ty thật sự phát triển nhanh, đến lúc đó nhu cầu vốn sẽ lớn hơn nhiều so với số tiền hôm nay.
+
+Hiểu Khánh nói:
+
+— Khi ấy chúng ta cũng có thêm dữ liệu để định giá công ty.
+
+Bất Phàm gật đầu.
+
+— Và khi đó việc gọi vốn sẽ dễ nói chuyện hơn bây giờ.
+
+Phong Vũ nhìn ba tỷ lệ trên giấy.
+
+— Đó là chuyện sau này.
+
+Anh nói:
+
+— Trước mắt, chúng ta dùng số vốn này để chứng minh Summer Light có thể đứng được bằng chính đôi chân của nó.
+
+Không ai nói thêm.
+
+Câu chuyện về tiền đến đây coi như đã rõ.
+
+Ba người góp vốn.
+
+Hai người chưa góp.
+
+Nhưng cả năm người đều ở lại.
+
+---
+
+Những ngày sau đó, phần giấy tờ bắt đầu được hoàn tất.
+
+Tên công ty được xác nhận.
+
+Cơ cấu cổ phần được thống nhất.
+
+Sáu triệu Kim Tệ được chuẩn bị theo tỷ lệ đã quyết định.
+
+Căn villa của gia đình Bất Phàm được sắp xếp để Summer Light sử dụng làm văn phòng.
+
+Những thủ tục cần thiết lần lượt được xử lý.
+
+Không có lễ khai trương.
+
+Không có băng rôn.
+
+Không có một buổi tiệc lớn.
+
+Đến cuối tháng sáu, những thủ tục cuối cùng hoàn tất.
+
+Chiếc con dấu mới được đặt trên bàn.
+
+Bên cạnh là giấy đăng ký công ty, hồ sơ vốn và những tài liệu đầu tiên của Summer Light.
+
+Phong Vũ cầm tờ giấy lên.
+
+Tên công ty nằm ở đó.
+
+"Summer Light".
+
+Cái tên được chọn sau một cuộc bỏ phiếu.
+
+Bây giờ đã trở thành tên của một công ty thực sự.
+
+Anh đặt tờ giấy xuống.
+
+Ngoài phòng khách, tiếng bàn ghế được kéo qua sàn.
+
+Hiểu Khánh đang cùng đội kỹ thuật sắp xếp máy tính.
+
+Bất Phàm vừa gọi điện vừa ghi chép.
+
+Mẫn Nghi ngồi trước máy tính, kiểm tra lại những tài liệu vận hành.
+
+Thanh Thảo đang phân loại danh sách cần xử lý.
+
+Không ai có vẻ giống những người vừa thành lập một công ty.
+
+Họ chỉ đang bận rộn với công việc của mình.
+
+Phong Vũ nhìn quanh căn villa.
+
+Mười người.
+
+Một văn phòng.
+
+Một hệ thống còn chưa hoàn thiện.
+
+Sáu triệu Kim Tệ.
+
+Summer Light đã có tất cả những thứ cần thiết để bắt đầu.
+
+Chỉ có một thứ vẫn chưa có.
+
+Một giao dịch.
+
+
 
 -----------------------------------------------------------
 

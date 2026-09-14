@@ -1,0 +1,517 @@
+Được. Tôi đã đối chiếu lại outline hiện tại và các mốc trong danh sách Hồi. Bản hiện tại đang bắt đầu từ Hồi 16, trong khi tuyến mới chúng ta vừa thống nhất cần **đưa mốc chuyển tiếp của Hồi 15 vào**, đồng thời sửa timeline Hồi 16–18 để khớp với Hồi 19–20. Outline hiện tại xác định Hồi 16 là thành lập Summer Light, Hồi 17 là giai đoạn công ty vận hành và chạm giới hạn, Hồi 18 là quyết định thay đổi cơ chế giao dịch.  Danh sách tổng cũng xác nhận Hồi 19 là bảo tàng nghệ thuật phương Tây và Hồi 20 là chuyến đi Trung Sơn Lĩnh sau khi Nhược Vũ học xong năm nhất. 
+
+Tôi đề xuất **không chỉ chèn vài dòng tình cảm vào bản cũ**, mà sửa lại timeline ngay trong từng Hồi để sau này khi viết không bị lệch. Bản cập nhật nên như sau:
+
+---
+
+# HỒI 15 — Ý TƯỞNG KHỞI NGHIỆP
+
+### Thời gian
+
+**Từ sau Tết → mùa hè cùng năm.**
+
+Đây là giai đoạn Phong Vũ vẫn đang ở cuối dự án 3G, đồng thời bắt đầu suy nghĩ nghiêm túc về việc sau khi dự án kết thúc sẽ làm gì.
+
+### Tuyến chính
+
+Các thành viên lần lượt đưa ra những ý tưởng khởi nghiệp.
+
+Phong Vũ dần hình thành ý tưởng:
+
+> **Thử làm thương mại điện tử.**
+
+Cuối Hồi 15, nhóm quyết định thử biến ý tưởng thành một dự án thực tế, mở đường trực tiếp sang Hồi 16 — thành lập Summer Light.
+
+### Tuyến Phong Vũ – Nhược Vũ
+
+Không cần mở thành một cảnh tình cảm riêng.
+
+Sau kỳ nghỉ Tết, hai người vẫn giữ liên lạc và thỉnh thoảng gặp nhau, nhưng Phong Vũ tiếp tục bận với dự án 3G, còn Nhược Vũ và Tuyết Mai bước vào giai đoạn ôn thi đại học.
+
+### Phân cảnh ngắn — Kỳ thi đại học
+
+Khi Nhược Vũ và Tuyết Mai thi xong, có thể có một đoạn rất ngắn.
+
+Phong Vũ hỏi thăm.
+
+Hai cô gái báo rằng kỳ thi đã kết thúc.
+
+Sau đó, khi có kết quả:
+
+**Nhược Vũ và Tuyết Mai cùng đỗ Đại học Sư phạm Bắc Đô.**
+
+Có thể dành một đoạn hội thoại ngắn cho tin vui này.
+
+Không cần biến thành cảnh đoàn tụ hay chúc mừng dài.
+
+Điểm quan trọng là:
+
+> **Từ đây, Nhược Vũ sẽ bước vào cùng một thành phố với Phong Vũ.**
+
+---
+
+# HỒI 16 — THÀNH LẬP SUMMER LIGHT
+
+### Thời gian
+
+**Cuối tháng 6 → tháng 8 cùng năm.**
+
+Hồi 16 vẫn giữ gần như toàn bộ cấu trúc hiện tại: đặt tên, thành lập công ty, văn phòng, website, giao dịch đầu tiên.
+
+Nhưng timeline cần sửa rõ:
+
+**Cuối tháng 6:** thành lập Summer Light.
+**Tháng 7:** xây dựng và thử nghiệm.
+**Đầu tháng 8:** website chính thức hoạt động.
+**Giữa tháng 8:** những giao dịch đầu tiên.
+
+### Tuyến Phong Vũ – Nhược Vũ
+
+#### Nhập học Bắc Đô
+
+Sau khi Nhược Vũ và Tuyết Mai nhập học Đại học Sư phạm Bắc Đô, Phong Vũ ra ga đón hai cô.
+
+Đây là **một cảnh ngắn**, không phải cảnh tình cảm chính.
+
+Có thể có một chút đối thoại đời thường giữa ba người, sau đó Phong Vũ đưa họ về trường.
+
+Điểm cần thể hiện:
+
+* Nhược Vũ chính thức bước vào đời sống sinh viên.
+* Tuyết Mai cũng bắt đầu cuộc sống mới.
+* Phong Vũ và Nhược Vũ từ nay cùng sống tại Bắc Đô.
+* Nhưng mỗi người có một cuộc sống riêng.
+
+### Sau khi nhập học
+
+Chỉ cần một đoạn chuyển thời gian ngắn:
+
+> Sau khi nhập học, Nhược Vũ và Tuyết Mai dần quen với cuộc sống ở Bắc Đô. Cuối tuần, ba người thỉnh thoảng gặp nhau. Có khi là một bữa cơm, có khi chỉ là một quán cà phê gần trường. Những cuộc gặp không còn kéo dài như kỳ nghỉ Tết trước đó, bởi Summer Light vừa thành lập, còn Nhược Vũ cũng bắt đầu cuộc sống đại học của mình.
+
+Không cần dựng những cuộc gặp này thành cảnh.
+
+### Lưu ý quan trọng
+
+Phần VII **không còn là sinh nhật Phong Vũ ngày 15/8**.
+
+Chi tiết này phải bỏ khỏi outline vì sinh nhật Phong Vũ đã được xác lập ở **mùa xuân**, từ Hồi 2. Không nên tạo thêm một ngày sinh nhật mới ở tháng 8.
+
+Có thể thay Phần VII bằng:
+
+## PHẦN VII — NHỮNG NGÀY ĐẦU TIÊN
+
+Cuối tháng 8, Summer Light đã có những giao dịch đầu tiên nhưng lượng người dùng vẫn còn rất nhỏ.
+
+Phong Vũ nhìn bảng thống kê.
+
+Công ty đã tồn tại.
+
+Website đã hoạt động.
+
+Nhưng con đường phía trước mới thực sự bắt đầu.
+
+---
+
+# HỒI 17 — THÁCH THỨC THƯƠNG TRƯỜNG
+
+### Thời gian
+
+**Tháng 9 năm đó → cuối tháng 2 năm sau.**
+
+Khoảng **5–6 tháng**, thay vì 8–9 tháng như outline cũ.
+
+Đây là thay đổi timeline quan trọng nhất.
+
+Hồi 17 không cần kéo dài đến tháng 5. Nó chỉ cần kể quá trình Summer Light từ một công ty mới thành lập trở thành một doanh nghiệp có lượng giao dịch đủ lớn để **mô hình cũ bắt đầu bộc lộ giới hạn**.
+
+### Chủ đề
+
+**Summer Light học cách sống trong thị trường thực tế — và nhận ra rằng thành công cũng có thể tạo ra một vấn đề mới.**
+
+---
+
+## PHẦN I — TỪ MỘT VÀI GIAO DỊCH ĐẾN DÒNG GIAO DỊCH
+
+**Tháng 9 → tháng 11.**
+
+Summer Light dần có:
+
+* người bán;
+* người mua;
+* sản phẩm;
+* đơn hàng;
+* doanh thu.
+
+Nhóm liên tục cải tiến hoạt động.
+
+Những vấn đề nhỏ về sản phẩm, cập nhật hàng hóa, giao nhận, quảng bá, chăm sóc khách hàng đều được xử lý.
+
+Công ty không thất bại.
+
+**Công ty đang tiến triển tốt.**
+
+Nhưng chính sự tăng trưởng ấy bắt đầu tạo ra những vấn đề mà quy mô nhỏ trước đây chưa nhìn thấy.
+
+---
+
+## PHẦN II — NHỮNG VẤN ĐỀ NHỎ ĐỀU ĐƯỢC GIẢI QUYẾT
+
+**Tháng 10 → tháng 12.**
+
+Giữ lại 2–3 tình huống tiêu biểu:
+
+* chi phí tìm khách;
+* người bán không cập nhật hàng;
+* giao hàng chậm;
+* thông tin sản phẩm thiếu;
+* khách hàng khiếu nại.
+
+Mỗi vấn đề đều được giải quyết bằng quy trình tốt hơn.
+
+Không cần biến thành khủng hoảng.
+
+Mục đích của phần này là chứng minh năng lực của nhóm.
+
+---
+
+## PHẦN III — NGƯỜI MUA VÀ NGƯỜI BÁN BẮT ĐẦU SỢ NHAU
+
+Khi số giao dịch tăng, xuất hiện một loại vấn đề khác.
+
+Người mua:
+
+> — Nếu tôi chuyển tiền rồi người bán không gửi hàng thì sao?
+
+Người bán:
+
+> — Nếu tôi gửi hàng rồi người mua nói hàng không đúng thì sao?
+
+Summer Light đứng giữa hai bên.
+
+Ban đầu số trường hợp rất ít.
+
+Sau đó tăng dần.
+
+---
+
+## PHẦN IV — CÁC GIẢI PHÁP TRUYỀN THỐNG
+
+Giữ lại ba hướng:
+
+### 1. Kiểm tra người bán kỹ hơn
+
+Có hiệu quả nhưng không giải quyết rủi ro của từng giao dịch.
+
+### 2. Tăng quy định
+
+Giảm rủi ro nhưng làm người bán mới ngại tham gia.
+
+### 3. Xếp hạng người bán
+
+Giúp người mua đánh giá người bán cũ, nhưng không giải quyết vấn đề người bán mới.
+
+---
+
+## PHẦN V — TẾT
+
+### Thời gian: cuối tháng 1 / đầu tháng 2
+
+Phong Vũ về quê **rất ngắn**.
+
+Tính cả đi đường khoảng **5 ngày**, trong đó chỉ có khoảng **3 ngày thực sự ở quê**.
+
+Lý do:
+
+**Summer Light đang ở giai đoạn rất bận.**
+
+Đây là **phân cảnh tình cảm duy nhất của Hồi 17**, khoảng 1.000–1.500 từ tối đa.
+
+Không lặp lại Hồi 14.
+
+Không cần quà cáp, đi chợ xuân, đàn, hồ nước hay những hoạt động đã dùng ở Hồi 14. Hồi 14 đã dành riêng cho kỳ nghỉ Tết và sự phát triển ban đầu của quan hệ hai người. 
+
+Hồi 17 chỉ cần cho thấy:
+
+* Nhược Vũ đã là sinh viên năm nhất.
+* Phong Vũ đã có công ty.
+* Hai người đã quen với sự hiện diện của nhau.
+* Nhưng thời gian của Phong Vũ rất ít.
+
+Có thể có một câu hỏi đơn giản:
+
+— Anh ở nhà mấy ngày?
+
+— Ba ngày.
+
+— Ít vậy?
+
+— Công ty có chút việc.
+
+Nhược Vũ gật đầu.
+
+— Vậy ba ngày cũng được.
+
+Không cần nói thêm.
+
+---
+
+## PHẦN VI — SAU TẾT
+
+**Tháng 2.**
+
+Summer Light tiếp tục tăng trưởng.
+
+Nhưng số vụ phải can thiệp vào tranh chấp cũng tăng.
+
+Phong Vũ bắt đầu nhìn thấy một quy luật:
+
+> **Mỗi khi giao dịch tăng, số việc con người phải đứng giữa hai bên cũng tăng.**
+
+---
+
+## PHẦN VII — NÚT THẮT
+
+Đến cuối tháng 2:
+
+Summer Light **không thất bại**.
+
+Ngược lại:
+
+* người dùng tăng;
+* người bán tăng;
+* giao dịch tăng;
+* doanh thu tăng.
+
+Nhưng nếu tiếp tục tăng theo cách này, công ty sẽ phải tăng nhân sự xử lý tranh chấp gần tương ứng.
+
+Đó mới là vấn đề.
+
+Phong Vũ nhìn bảng thống kê.
+
+Không phải:
+
+> Công ty làm chưa tốt.
+
+Mà là:
+
+> **Cách làm hiện tại không thể mở rộng mãi.**
+
+Đây là điểm kết của Hồi 17.
+
+---
+
+# HỒI 18 — CÚ BẺ LÁI LỊCH SỬ
+
+### Thời gian
+
+**Cuối tháng 2 → cuối tháng 3 năm sau.**
+
+Hồi 18 chỉ cần khoảng **một tháng**, nhưng là một tháng rất quan trọng.
+
+Không phải một tháng để công ty đã thành công.
+
+Mà là một tháng để:
+
+> **nhận ra vấn đề → thiết kế cơ chế mới → xây dựng → điều chỉnh → chuẩn bị đưa vào vận hành.**
+
+---
+
+## PHẦN I — CUỘC HỌP CUỐI THÁNG 2
+
+Giữ cấu trúc hiện tại.
+
+Nhìn vào:
+
+* giao dịch;
+* doanh thu;
+* người dùng;
+* số tranh chấp;
+* thời gian nhân viên phải xử lý.
+
+Bất Phàm đặt câu hỏi về khả năng mở rộng.
+
+---
+
+## PHẦN II — PHONG VŨ ĐẶT LẠI CÂU HỎI
+
+Giữ nguyên ý tưởng:
+
+> — Tại sao chúng ta phải đứng ra giải quyết sau khi chuyện đã xảy ra?
+
+Sau đó:
+
+> — Nếu ngay từ đầu tiền không đến tay người bán thì sao?
+
+Đây là điểm bẻ lái.
+
+---
+
+## PHẦN III — CƠ CHẾ MỚI
+
+Giữ sơ đồ:
+
+**Đặt hàng → Thanh toán → Giữ tiền → Giao hàng → Xác nhận → Giải phóng tiền.**
+
+Tranh chấp:
+
+**Khiếu nại → Giữ tiền → Phân xử → Hoàn tiền / Giải phóng tiền.**
+
+---
+
+## PHẦN IV — PHẢN BIỆN
+
+Giữ các câu hỏi của Bất Phàm, Hiểu Khánh, Thanh Thảo, Mẫn Nghi.
+
+Điểm quan trọng:
+
+**đây không phải một tính năng đơn giản.**
+
+Nó đòi hỏi:
+
+* hệ thống trạng thái;
+* quy tắc giao dịch;
+* xử lý ngoại lệ;
+* đối tác tài chính;
+* hoàn tiền;
+* tranh chấp.
+
+---
+
+## PHẦN V — MỘT THÁNG ĐIỀU CHỈNH
+
+Đây là phần **cần bổ sung vào outline cũ**.
+
+### Tháng 3
+
+Sau khi quyết định, cả nhóm bắt tay vào làm.
+
+Hiểu Khánh và Phong Vũ điều chỉnh hệ thống.
+
+Bất Phàm tìm kiếm đối tác tài chính.
+
+Mẫn Nghi xây dựng quy định và quy trình tranh chấp.
+
+Thanh Thảo tham gia phần giao tiếp với đối tác và tài liệu.
+
+Có thể phát sinh một số vấn đề kỹ thuật và vận hành, nhưng không cần biến thành khủng hoảng.
+
+Cuối tháng 3:
+
+**cơ chế mới sẵn sàng để vận hành.**
+
+Hồi 18 có thể kết thúc ở đây, hoặc kết thúc bằng những giao dịch đầu tiên chuẩn bị đi qua hệ thống mới nhưng **chưa có đủ dữ liệu để kết luận thành công**.
+
+---
+
+# PHẦN VI — SỰ THAY ĐỔI CỦA SUMMER LIGHT
+
+Giữ nguyên phần này.
+
+Trước:
+
+> **Summer Light giúp người mua tìm người bán.**
+
+Sau:
+
+> **Summer Light giúp hai người xa lạ có thể giao dịch với nhau.**
+
+Và câu:
+
+> — Người mua không cần tin người bán. Người bán cũng không cần tin người mua. Cả hai chỉ cần tin vào quy trình.
+
+Đây vẫn nên là một trong những câu quan trọng nhất của Hồi 18.
+
+---
+
+# KẾT HỒI 18
+
+Không kết bằng thành công.
+
+Kết bằng:
+
+**hệ thống mới bắt đầu vận hành.**
+
+Sau đó mở ra một khoảng thời gian chuyển tiếp:
+
+> **Tháng 4 → tháng 5:** vận hành và điều chỉnh.
+> **Tháng 6:** kết quả đã đủ rõ.
+
+Đây là phần **không nhất thiết phải thành một Hồi riêng**.
+
+Có thể dùng chuyển cảnh thời gian ở đầu Hồi 19.
+
+---
+
+# HỒI 19 — BẢO TÀNG NGHỆ THUẬT PHƯƠNG TÂY
+
+### Thời gian
+
+**Tháng 6 năm sau.**
+
+Nhược Vũ vừa hoàn thành **năm thứ nhất** tại Đại học Sư phạm Bắc Đô.
+
+Summer Light sau khoảng **2–3 tháng vận hành cơ chế mới** đã cho thấy kết quả hết sức tích cực.
+
+Phong Vũ cuối cùng có thể yên tâm rời công ty một thời gian.
+
+### Tuyến chính
+
+Phong Vũ đưa Nhược Vũ đến bảo tàng nghệ thuật phương Tây.
+
+Đây là **lần đầu tiên sau một thời gian dài hai người có một khoảng thời gian thực sự dành cho nhau**, chứ không phải tranh thủ một buổi tối hay một ngày cuối tuần.
+
+Danh sách Hồi hiện tại cũng xác định đúng chức năng này: Nhược Vũ đang học năm nhất khoa Văn hóa nghệ thuật và Phong Vũ đưa cô đến bảo tàng nghệ thuật phương Tây. 
+
+Đây là nơi tuyến tình cảm có thể **mở rộng trở lại** sau sự tiết chế của Hồi 15–18.
+
+---
+
+# HỒI 20 — DU SƠN NGOẠN THỦY Ở TRUNG SƠN LĨNH
+
+### Thời gian
+
+**Tháng 6–7 năm sau.**
+
+Sau khi Nhược Vũ hoàn thành năm nhất, Phong Vũ rủ cô đi Trung Sơn Lĩnh.
+
+Không gian chuyển từ:
+
+**Bắc Đô → bảo tàng → Trung Sơn Lĩnh.**
+
+Tuyến tình cảm tiếp tục tự nhiên, nhưng đồng thời bắt đầu mở sang tuyến **Cầm sư ẩn thế, Cổ Cầm và tu tâm dưỡng tính** của Nhược Vũ.
+
+Điều này phù hợp với outline tổng hiện tại: chuyến đi diễn ra sau một năm Nhược Vũ học đại học và tại Trung Sơn Lĩnh cô gặp vị Cầm sư ẩn thế. 
+
+---
+
+# TIMELINE CHỐT SAU KHI SỬA
+
+Tôi nghĩ đây là bảng nên đặt cuối outline để sau này chúng ta **không bị lệch thời gian khi viết**:
+
+| Mốc              | Phong Vũ                          | Nhược Vũ             | Hồi         |
+| ---------------- | --------------------------------- | -------------------- | ----------- |
+| **Tết năm 1**    | Dự án 3G                          | Lớp 12               | **14**      |
+| **Xuân → Hè**    | Nghĩ về khởi nghiệp               | Ôn thi → thi ĐH      | **15**      |
+| **Cuối tháng 6** | Thành lập Summer Light            | Đỗ ĐH                | **16**      |
+| **Tháng 9**      | Công ty bắt đầu vận hành thực tế  | Nhập học Bắc Đô      | **16 → 17** |
+| **Thu → Đông**   | Công ty tăng trưởng, xử lý vấn đề | Năm nhất             | **17**      |
+| **Tết**          | Về quê 3 ngày                     | Về quê               | **17**      |
+| **Cuối tháng 2** | Nhận ra giới hạn mô hình          | Năm nhất             | **17**      |
+| **Cuối tháng 2** | Đề xuất escrow                    | Năm nhất             | **18**      |
+| **Tháng 3**      | Xây dựng/điều chỉnh hệ thống      | Năm nhất             | **18**      |
+| **Tháng 4–5**    | Vận hành, kết quả ngày càng tốt   | Học kỳ cuối năm nhất | —           |
+| **Tháng 6**      | Có thể tạm rời công ty            | Kết thúc năm nhất    | **19**      |
+| **Tháng 6–7**    | Nghỉ một khoảng                   | Nghỉ hè              | **20**      |
+
+Và như vậy tuyến tình cảm có **nhịp rất tự nhiên**:
+
+**H14 — gặp nhau và tiến triển mạnh**
+→ **H15 — thi đại học, biết tin đỗ**
+→ **H16 — Phong Vũ ra ga đón hai cô**
+→ **H16–17 — thỉnh thoảng gặp nhau, chỉ lướt qua**
+→ **H17 — Tết ngắn ngủi**
+→ **H18 — chỉ còn một điểm chạm rất nhỏ nếu cần**
+→ **H19 — cuối cùng có một ngày thật sự dành cho nhau**
+→ **H20 — có hẳn một chuyến đi cùng nhau.**
+
+Như vậy **không cần thêm một Hồi tình cảm nào**, mà độc giả vẫn luôn biết Nhược Vũ đang ở đâu trong cuộc đời Phong Vũ. Quan trọng hơn, khoảng cách và thời gian bận rộn của hai người từ Hồi 15 đến Hồi 18 sẽ khiến **Hồi 19 có cảm giác “được chờ đợi”**, đúng như mục tiêu chúng ta vừa thống nhất.
