@@ -1,0 +1,552 @@
+
+# HỒI 15 — Ý TƯỞNG KHỞI NGHIỆP - v3
+
+
+**Trục thời gian:** Sau Tết → cuối dự án 3G → cuối tháng 5/đầu tháng 6.
+
+**Trục kịch bản:**
+
+> Kiếm được tiền → không biết nên làm gì → mỗi người đưa ra một con đường → lần lượt mổ xẻ các con đường → nhận ra lợi thế của chính mình → tranh luận B2C/B2B → quyết định thử TMĐT.
+
+---
+
+## PHẦN I — SAU TẾT
+
+### Phân cảnh: Trở lại Bắc Đô
+
+* Phong Vũ trở lại dự án 3G sau kỳ nghỉ.
+* Không khí trong dự án đã nhẹ hơn rất nhiều so với giai đoạn đầu.
+* Công việc chính gần hoàn thành.
+* Website 3G của nhóm vẫn hoạt động.
+* Doanh thu vẫn tốt nhưng hoa hồng bắt đầu giảm.
+* Những người khác cũng bắt đầu nhìn thấy cơ hội kiếm tiền từ mô hình này.
+
+**Chủ điểm:** Sau một năm làm việc, nhóm đã bước ra khỏi trạng thái “sinh viên làm dự án” và bắt đầu nhìn thấy **khả năng kinh doanh thực sự**.
+
+---
+
+# PHẦN II — TIỀN ĐỂ LÀM GÌ?
+
+### Phân cảnh: Một buổi tối sau giờ làm
+
+Ba người — Phong Vũ, Bất Phàm, Hiểu Khánh — nói chuyện về số tiền mình đang có.
+
+Không ai còn quá thiếu tiền.
+
+Nhưng câu hỏi xuất hiện:
+
+> “Sau khi dự án kết thúc thì sao?”
+
+Có người muốn đi làm.
+
+Có người muốn học tiếp.
+
+Có người muốn tự làm một thứ gì đó.
+
+Từ đây bắt đầu cuộc thảo luận về **khởi nghiệp**.
+
+**Chủ điểm:** Có tiền không đồng nghĩa với biết phải làm gì tiếp theo.
+
+---
+
+# PHẦN III — ĐEM TIỀN ĐI ĐẦU TƯ
+
+### Phân cảnh: Bất Phàm trình bày ý tưởng
+
+Bất Phàm đưa ra ý tưởng lập quỹ đầu tư.
+
+Anh nói về:
+
+* Warren Sterling;
+* đầu tư dài hạn;
+* doanh nghiệp tốt;
+* lợi nhuận kép;
+* cơ hội đang xuất hiện ở Trung Châu.
+
+Mọi người thấy ý tưởng có lý.
+
+### Phân cảnh: Phong Vũ bắt đầu đặt câu hỏi
+
+Không phản đối ngay.
+
+Anh hỏi:
+
+> “Cần bao nhiêu vốn?”
+
+> “Chúng ta có bao nhiêu?”
+
+> “Nếu vay thêm?”
+
+> “Nếu đầu tư sai?”
+
+Sau đó đến vấn đề kinh nghiệm và thời gian.
+
+### Phân cảnh: Những người khác tham gia
+
+Hiểu Khánh nhìn từ góc độ:
+
+> “Nếu có số tiền này, tại sao không dùng nó để xây một thứ gì đó?”
+
+Mẫn Nghi đặt câu hỏi về khả năng đánh giá doanh nghiệp và con người.
+
+Cuối cùng không ai phủ nhận đầu tư.
+
+Chỉ thống nhất:
+
+> **Có thể là một con đường tốt, nhưng chưa phải lúc.**
+
+**Chủ điểm:** Có tiền thì nên **đầu tư vào người khác hay đầu tư vào chính mình?**
+
+---
+
+# PHẦN IV — MỘT HỆ ĐIỀU HÀNH MỚI
+
+### Phân cảnh: Hiểu Khánh nói về điều cô thực sự muốn làm
+
+Hiểu Khánh đưa ra ý tưởng xây dựng hệ điều hành.
+
+Mục tiêu rất lớn:
+
+> cạnh tranh với Windows.
+
+Cô nói về mã nguồn mở, kỹ thuật và khả năng xây dựng từng bước.
+
+### Phân cảnh: Phong Vũ biến “có thể làm” thành một bài toán
+
+Anh hỏi:
+
+* bao nhiêu kỹ sư?
+* bao nhiêu năm?
+* bao nhiêu tiền?
+* driver?
+* phần cứng?
+* bảo mật?
+* cập nhật?
+* hỗ trợ?
+
+Hiểu Khánh có thể trả lời từng vấn đề.
+
+Cuối cùng:
+
+> **Làm được.**
+
+Nhưng Phong Vũ hỏi tiếp:
+
+> “Làm xong rồi thì cạnh tranh thế nào?”
+
+### Phân cảnh: Hệ sinh thái Windows
+
+Mọi người nhận ra vấn đề:
+
+* phần mềm;
+* nhà sản xuất máy tính;
+* phần cứng;
+* người dùng;
+* thói quen.
+
+Windows không chỉ là một chương trình.
+
+Nó là **một hệ sinh thái**.
+
+Hiểu Khánh không từ bỏ công nghệ, nhưng thừa nhận đây không phải chiến trường dễ dàng.
+
+**Chủ điểm:** **Có thể làm được một sản phẩm không có nghĩa là có thể thắng bằng sản phẩm đó.**
+
+---
+
+# PHẦN V — MỘT THỊ TRƯỜNG TRÊN INTERNET
+
+### Phân cảnh: Mẫn Nghi đưa ra ý tưởng
+
+Mẫn Nghi không muốn chỉ tiếp tục tranh luận.
+
+Cô nói:
+
+> “Nếu làm một thứ gì đó trên Internet thì sao?”
+
+Ý tưởng của cô:
+
+**TMĐT B2C.**
+
+Người bán đưa hàng lên mạng.
+
+Người tiêu dùng đặt mua.
+
+### Phân cảnh: Cả nhóm thử hình dung một khách hàng
+
+Một người ngồi ở nhà.
+
+Mở máy tính.
+
+Chọn một món hàng.
+
+Thanh toán.
+
+Chờ hàng được giao.
+
+Từ hình ảnh tưởng tượng đó, các vấn đề lần lượt xuất hiện.
+
+**Chủ điểm:** Một ý tưởng rất đơn giản trên giấy bắt đầu trở nên phức tạp khi đưa vào đời sống thực.
+
+---
+
+# PHẦN VI — NẾU TÔI LÀ NGƯỜI MUA
+
+### Phân cảnh: Cả nhóm đóng vai người tiêu dùng
+
+Mẫn Nghi tự đưa ra những câu hỏi khó nhất cho chính ý tưởng của mình:
+
+* Tôi có tin website không?
+* Nếu người bán lừa tôi?
+* Nếu hàng không giống hình?
+* Nếu hàng hỏng?
+* Tôi trả tiền thế nào?
+* Nếu muốn đổi trả?
+
+Sau đó đến câu hỏi lớn:
+
+> **“Hàng đi bằng cách nào?”**
+
+### Phân cảnh: Bài toán giao hàng
+
+Đặc biệt trong bối cảnh Lam Tinh đầu những năm 2000:
+
+* thành phố lớn có thể xử lý;
+* vùng xa khó hơn;
+* mạng lưới bưu cục chưa đủ rộng;
+* thời gian giao hàng;
+* chi phí vận chuyển;
+* địa chỉ.
+
+Mẫn Nghi tự nhận ra:
+
+> **B2C có tương lai, nhưng xã hội chưa hoàn toàn sẵn sàng.**
+
+**Chủ điểm:** **Thị trường có thể tồn tại trước khi hạ tầng cần thiết cho nó tồn tại.**
+
+---
+
+# PHẦN VII — B2B
+
+### Phân cảnh: Phong Vũ đổi câu hỏi
+
+Không hỏi:
+
+> “Làm sao để người dân mua hàng trên mạng?”
+
+Anh hỏi:
+
+> “Nếu người mua là doanh nghiệp thì sao?”
+
+Từ đó hình thành **B2B**.
+
+Doanh nghiệp tìm:
+
+* nhà cung cấp;
+* khách hàng;
+* nguyên liệu;
+* thiết bị;
+* dịch vụ;
+* đối tác.
+
+### Phân cảnh: So sánh hai thị trường
+
+Cả nhóm cùng phân tích:
+
+**B2C:**
+
+* thị trường cực lớn;
+* nhiều người dùng;
+* nhưng cần logistics mạnh;
+* cần thanh toán;
+* cần niềm tin;
+* cần thay đổi thói quen xã hội.
+
+**B2B:**
+
+* ít khách hàng hơn;
+* nhưng giá trị giao dịch lớn;
+* doanh nghiệp vốn đã quen giao dịch;
+* có thể bắt đầu ở thành phố;
+* không nhất thiết giao từng món hàng tới từng hộ gia đình;
+* có thể xây từng bước.
+
+**Chủ điểm:** Không chọn thị trường lớn nhất, mà chọn **thị trường phù hợp nhất với năng lực hiện tại**.
+
+---
+
+# PHẦN VIII — CUỘC TRANH LUẬN B2B HAY B2C
+
+Đây nên là **một cảnh tranh luận thực sự**, thay vì phân tích theo kiểu bài giảng.
+
+### Mẫn Nghi bảo vệ B2C
+
+Cô nói:
+
+> “Nếu thành công, B2C sẽ lớn hơn rất nhiều.”
+
+### Phong Vũ
+
+> “Tôi không phủ nhận.”
+
+### Bất Phàm
+
+Đặt vấn đề doanh thu và chi phí.
+
+### Hiểu Khánh
+
+Đặt vấn đề hạ tầng.
+
+### Thanh Thảo
+
+Đặt vấn đề thuyết phục người bán.
+
+Mỗi người có một lý do.
+
+Không ai hoàn toàn đúng.
+
+Không ai hoàn toàn sai.
+
+Cuối cùng Mẫn Nghi là người chủ động nói:
+
+> “Vậy B2C để sau.”
+
+**Chủ điểm:** **Không phải chọn đúng và sai, mà chọn thứ tự.**
+
+---
+
+# PHẦN IX — THỬ LÀM NHỎ
+
+### Phân cảnh: Phong Vũ đưa họ trở lại website 3G
+
+Phong Vũ chỉ ra thứ họ đã làm được.
+
+Một website.
+
+Một sản phẩm.
+
+Người mua.
+
+Giao dịch.
+
+Doanh thu.
+
+Lợi nhuận.
+
+Họ không cần xây ngay một đế chế.
+
+Họ có thể bắt đầu bằng một thị trường nhỏ.
+
+### Phân cảnh: Một câu hỏi mới
+
+Mẫn Nghi hỏi:
+
+> “Nếu thất bại?”
+
+Phong Vũ:
+
+> “Thì làm lại.”
+
+Nhưng lần này câu nói không còn mang tính động viên.
+
+Nó là **một lựa chọn có tính toán**.
+
+**Chủ điểm:** Biến một ý tưởng lớn thành **một thử nghiệm có thể thực hiện**.
+
+---
+
+# PHẦN X — NĂM THÁNG ĐI TÌM CÂU TRẢ LỜI
+
+### Phân cảnh montage kéo dài trong những tháng cuối dự án
+
+Không cần kể kiểu báo cáo.
+
+Có thể thông qua nhiều cảnh ngắn:
+
+* Phong Vũ gặp một chủ doanh nghiệp.
+* Bất Phàm hỏi về giá cả và dòng tiền.
+* Mẫn Nghi hỏi cách doanh nghiệp tìm khách hàng.
+* Hiểu Khánh quan sát cách họ sử dụng máy tính.
+* Thanh Thảo nói chuyện với đối tác nước ngoài.
+
+Các cuộc gặp ngày càng làm ý tưởng B2B rõ hơn.
+
+**Chủ điểm:** Ý tưởng không còn nằm trên giấy; nó bắt đầu được **kiểm nghiệm bằng thị trường thật**.
+
+---
+
+# PHẦN XI — NHỮNG NGƯỜI CÓ THỂ ĐI CÙNG NHAU
+
+### Phân cảnh: Phong Vũ nói chuyện riêng với Mẫn Nghi
+
+Phong Vũ mời cô tham gia.
+
+Không cần nói về chức vụ.
+
+Không cần nói CEO.
+
+Chỉ nói về việc cùng làm một thứ gì đó.
+
+Mẫn Nghi hỏi:
+
+> “Nếu thất bại thì sao?”
+
+Phong Vũ:
+
+> “Thì làm lại.”
+
+Mẫn Nghi không trả lời ngay.
+
+Cô bắt đầu nghiêm túc suy nghĩ.
+
+**Chủ điểm:** Mẫn Nghi lựa chọn **con đường sự nghiệp**, chứ không đơn thuần “được mời vào nhóm”.
+
+---
+
+# PHẦN XII — MỘT CUỘC NÓI CHUYỆN KHÁC
+
+### Phân cảnh: Thanh Thảo được mời
+
+Thanh Thảo được mời vì năng lực đối ngoại và ngoại ngữ.
+
+Cô không có tham vọng điều hành công ty.
+
+Cô nói rõ điều mình thích.
+
+Có thể pha một chút hài hước về tương lai:
+
+> Cô chỉ muốn có một công việc mình thích, kiếm đủ tiền và sau này có một gia đình tốt.
+
+Không biến thành một đoạn tuyên ngôn về “vợ hiền”.
+
+**Chủ điểm:** Không phải ai tài giỏi cũng muốn trở thành lãnh đạo.
+
+---
+
+# PHẦN XIII — NĂM NGƯỜI, NĂM CON ĐƯỜNG
+
+Đây là phần có thể rất ngắn nhưng có giá trị.
+
+Không phải giới thiệu từng người.
+
+Mà là **một cuộc trò chuyện về việc mỗi người muốn cuộc đời mình đi đâu**.
+
+* Bất Phàm nói về kinh tế và những thứ lớn hơn kinh doanh.
+* Hiểu Khánh nói về công nghệ.
+* Thanh Thảo nói về đời sống.
+* Mẫn Nghi nói về doanh nghiệp.
+* Phong Vũ không nói hết những gì mình đang nghĩ.
+
+Độc giả bắt đầu thấy:
+
+> **Những người này có thể cùng khởi nghiệp, nhưng họ không nhất thiết cùng đi đến cuối con đường.**
+
+**Chủ điểm:** Đặt nền cho sự phân hóa của nhóm trong tương lai.
+
+---
+
+# PHẦN XIV — TIỀN ĐÃ ĐỦ CHƯA?
+
+### Phân cảnh: Nhìn lại số tiền
+
+Dự án sắp kết thúc.
+
+Website 3G đã kiếm được một khoản lớn.
+
+Phong Vũ nhận thêm tiền thưởng.
+
+Cả nhóm bắt đầu tính:
+
+> Nếu dùng tiền này để làm một công ty thì có đủ không?
+
+Không cần đi vào con số vốn chính thức hay chia cổ phần.
+
+Chỉ cần nhận ra:
+
+> **Họ đã có đủ tiền để thử.**
+
+**Chủ điểm:** Từ “ý tưởng” chuyển thành **khả năng hành động thực tế**.
+
+---
+
+# PHẦN XV — DỰ ÁN 3G KHÉP LẠI
+
+### Phân cảnh: Hoàn thành sớm
+
+Dự án hoàn thành trước kế hoạch khoảng một tháng.
+
+Phong Vũ nhận thêm **1 triệu Kim Tệ**.
+
+Website 3G tiếp tục mang lại tổng lợi nhuận **hơn 6 triệu Kim Tệ**.
+
+Ba người đã có vốn.
+
+Nhưng điều quan trọng hơn:
+
+**Họ đã có một năm cùng làm việc.**
+
+Họ biết năng lực của nhau.
+
+Biết cách tranh luận.
+
+Biết ai mạnh ở đâu.
+
+Biết ai không thích điều gì.
+
+### Chi tiết chiếc Bavaria S-600
+
+Phong Vũ mua chiếc xe cũ.
+
+Đây là một chi tiết đời sống để khép lại một giai đoạn.
+
+**Chủ điểm:** Một chương đời kết thúc.
+
+---
+
+# PHẦN XVI — QUYẾT ĐỊNH
+
+### Phân cảnh cuối
+
+Năm người ngồi cùng nhau.
+
+Không cần tổng kết dài.
+
+Không cần diễn thuyết.
+
+Bất Phàm:
+
+> “Vậy chúng ta làm gì?”
+
+Hiểu Khánh:
+
+> “Tôi vẫn muốn làm công nghệ.”
+
+Mẫn Nghi:
+
+> “B2C tôi vẫn cho rằng có tương lai.”
+
+Thanh Thảo không có ý định tranh luận.
+
+Phong Vũ nhìn mọi người.
+
+> “Vậy bắt đầu bằng B2B.”
+
+Mẫn Nghi:
+
+> “Thương mại điện tử?”
+
+Phong Vũ:
+
+> “Ừ.”
+
+Một khoảng im lặng.
+
+> **“Thử làm thương mại điện tử.”**
+
+**Hết Hồi 15.**
+
+---
+
+Tôi nghĩ cấu trúc này **đúng chất Hồng Trần Mộng hơn bản outline trước**. Mỗi phần bây giờ đều có một **“cảnh hoặc câu hỏi trung tâm”**, còn nhân vật được bộc lộ trong quá trình xử lý vấn đề.
+
+Đặc biệt, tôi sẽ giữ nguyên một nguyên tắc cho khi viết sau này: **không biến Phần XIII thành đoạn tác giả giải thích “Bất Phàm sau này sẽ làm chính trị, Hiểu Khánh sau này làm CTO...”**. Độc giả chỉ cần thấy những lựa chọn của họ ở hiện tại. Những con đường tương lai sẽ tự nhiên hiện ra khi câu chuyện đi tiếp.

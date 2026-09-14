@@ -6,6 +6,7 @@
 
 * QUAN TRỌNG:
 
+1) Notes 1:
 Không được lạm dụng thói quen viết mỗi câu 1 dòng, mà nên gom các câu cùng nói về 1 ý nào đó vào 1 đoạn văn ngắn. Hãy coi việc mỗi cau lẻ một dòng để tạo nhịp là một thủ pháp đặc biệt, không phải cách trình bày mặc định. Trong một Hồi chỉ nên có khoảng 2–3 chỗ thực sự cần những câu đứng riêng để tạo lực cho cảnh; phần còn lại phải là văn xuôi liền mạch.
 
 Ví dụ như sau cần hết sức tránh, trừ trường hợp đó là bài thơ hoặc nhịp văn cần chậm để mô tả cảm xúc nhân vật:
@@ -49,6 +50,31 @@ Ví dụ như sau cần hết sức tránh, trừ trường hợp đó là bài 
 	Ngoài cửa sổ, đêm Bắc Đô đã rất yên. Ánh sáng từ màn hình hắt lên gương mặt anh. Phong Vũ ngồi như vậy rất lâu, rồi đeo tai nghe trở lại.
 
 	Bấm Play."
+
+
+2) Notes 2:
+
+Các lời thoại không dùng dấu nháy kép mà cần chuyển sang dùng dấu gạch đầu dòng.
+Vi dụ:
+
+*) Đang sai:
+“Lớn đến đâu?”
+
+“Không biết.”
+
+“Vậy mà cậu cũng dám nói.”
+
+“Không biết mới đáng nói.”
+
+*) Cần sửa thành:
+
+- Lớn đến đâu?
+
+- Không biết.
+
+- Vậy mà cậu cũng dám nói.
+
+- Không biết mới đáng nói.
 
 
 ---

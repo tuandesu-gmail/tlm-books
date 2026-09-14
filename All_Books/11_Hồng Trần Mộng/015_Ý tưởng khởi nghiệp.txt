@@ -1,0 +1,3047 @@
+
+
+HỒI 015: Ý TƯỞNG KHỞI NGHIỆP
+
+------------------------
+
+
+# PHẦN I — SAU TẾT
+
+---
+
+Tết qua đi nhanh hơn Phong Vũ tưởng.
+
+Mười ngày ở quê đủ để hắn tạm quên nhịp sống của Bắc Đô. Những ngày cuối năm, con đường trước nhà lúc nào cũng có người qua lại, tiếng xe, tiếng người gọi nhau mua bán, mùi khói bếp và pháo hoa hòa vào nhau. Đến ngày hắn lên đường trở lại, mọi thứ đã yên hơn. Những chiếc đèn đỏ treo trước cửa các gia đình vẫn còn đó, nhưng trên đường phố đã bắt đầu xuất hiện những biển hiệu mới. Một năm khác lại bắt đầu.
+
+Phong Vũ xuống tàu vào buổi sáng, mang theo một chiếc vali, một túi sách và hơn ba mươi cân sách đã mua trong dịp Tết. Hắn không vội đến thẳng khu làm việc mà đưa hành lý về ký túc xá trước.
+
+Căn phòng hơn hai mươi mét vuông vẫn giống hệt lúc hắn rời đi. Chiếc bàn làm việc, chiếc máy tính xách tay của dự án, mấy quyển sách còn mở dở trước Tết đều nằm nguyên chỗ cũ. Phong Vũ mở cửa sổ. Gió đầu xuân tràn vào, mang theo cái lạnh còn sót lại của mùa đông.
+
+Hắn đặt túi sách xuống, rửa mặt rồi bật máy tính.
+
+Hòm thư điện tử có hơn hai mươi thư mới. Phần lớn là những thông báo liên quan đến dự án 3G, một số báo cáo từ các nhóm triển khai ở những thành phố khác, vài tài liệu cần hắn kiểm tra. Công việc vẫn còn đó, nhưng cảm giác đã khác hẳn trước Tết.
+
+Không còn những thư đánh dấu khẩn cấp liên tiếp xuất hiện trong một đêm.
+
+Không còn những cuộc họp kéo dài đến gần sáng.
+
+Dự án đã đi đến đoạn cuối.
+
+Phong Vũ kéo xuống cuối danh sách thư. Một nhóm thư khác khiến hắn dừng lại.
+
+Thông báo giao dịch từ website bán dịch vụ 3G của nhóm.
+
+Hắn mở bảng thống kê.
+
+Trong mấy ngày Tết, số giao dịch không những không giảm mà còn tăng. Sau khi loại bỏ những ngày đặc biệt, lượng người truy cập vẫn cao hơn thời điểm trước kỳ nghỉ.
+
+Phong Vũ nhìn con số cuối cùng một lúc rồi đóng cửa sổ.
+
+Website ban đầu chỉ là một thử nghiệm.
+
+Bọn họ muốn chứng minh rằng một người có thể ngồi trước máy tính, lựa chọn gói dịch vụ 3G, thanh toán rồi nhận mã kích hoạt mà không cần đến cửa hàng. Không ai trong ba người nghĩ rằng một thử nghiệm đơn giản như vậy lại nhanh chóng biến thành một nguồn thu đáng kể.
+
+Nhưng khi một thứ chứng minh được rằng nó có thể kiếm tiền, người khác sẽ nhìn thấy nó.
+
+Và người khác đã bắt đầu nhìn thấy.
+
+Buổi chiều, Phong Vũ đến văn phòng dự án.
+
+Không khí trong khu làm việc đã nhẹ đi rất nhiều. Vẫn là tầng nhà rộng hàng nghìn mét vuông, vẫn hàng trăm chiếc máy tính nối mạng, vẫn những bảng biểu và sơ đồ kỹ thuật treo trên vách ngăn, nhưng số người ngồi trước màn hình đã ít hơn trước. Một bộ phận được điều sang các nhóm triển khai, một bộ phận bắt đầu chuẩn bị báo cáo tổng kết. Những người còn lại cũng không còn vẻ căng thẳng của những tháng đầu tiên.
+
+Có người vừa làm việc vừa nói chuyện. Có người tranh thủ đọc báo. Một kỹ sư còn đặt cả tách trà lên bàn, vừa uống vừa nhìn màn hình hồi lâu mà không gõ thêm một dòng mã.
+
+Phong Vũ đi ngang qua dãy bàn kỹ thuật thì một người nhận ra hắn.
+
+- Phong Vũ, về rồi à?
+
+- Ừ.
+
+- Quê ăn Tết thế nào?
+
+- Cũng được.
+
+Người kia nhìn chiếc túi sách trong tay hắn, cười.
+
+- Lại mang sách về à?
+
+Phong Vũ gật đầu. Người kia lắc đầu, quay lại màn hình.
+
+- Đúng là người không bình thường.
+
+Phong Vũ không đáp, chỉ mang hành lý về chỗ ở rồi quay lại làm việc.
+
+Bất Phàm đã có mặt trong văn phòng. Anh ngồi trước một chồng tài liệu, tay cầm bút, bên cạnh là tờ báo kinh tế mở đến trang thị trường.
+
+Thấy Phong Vũ, anh ngẩng đầu.
+
+- Cuối cùng cũng về.
+
+- Cậu về trước tôi?
+
+- Hai ngày.
+
+Bất Phàm đặt bút xuống, hỏi:
+
+- Website thế nào?
+
+- Vẫn tốt.
+
+- Không phải vẫn tốt.
+
+Anh xoay màn hình máy tính về phía Phong Vũ.
+
+- Rất tốt.
+
+Phong Vũ nhìn bảng thống kê. Bất Phàm chỉ vào những con số.
+
+- Trong mấy ngày Tết, lượng giao dịch không giảm như tôi dự đoán. Sau khi mọi người quay lại làm việc, còn tăng thêm.
+
+- Đối thủ?
+
+- Có.
+
+Bất Phàm lấy một tờ giấy khác, đặt lên bàn.
+
+- Ba website mới. Hai cái đã bắt đầu quảng cáo. Một cái còn đang thử nghiệm.
+
+Phong Vũ nhìn qua.
+
+- Giá?
+
+- Thấp hơn chúng ta.
+
+- Bao nhiêu?
+
+Bất Phàm nói ra một con số.
+
+Phong Vũ tính nhẩm.
+
+- Thấp hơn gần một phần năm.
+
+- Ừ.
+
+- Vậy mà doanh thu vẫn tăng?
+
+Bất Phàm dựa lưng vào ghế.
+
+- Vì thị trường đang lớn lên.
+
+Phong Vũ nhìn anh.
+
+Bất Phàm chỉ vào danh sách trước mặt.
+
+- Không chỉ chúng ta nhận ra.
+
+Trên tờ giấy là bảng giá hoa hồng mới của một số đại lý. So với thời điểm trước Tết, mức hoa hồng đã giảm rõ rệt.
+
+- Trước đây, mỗi giao dịch chúng ta kiếm được khá nhiều. Bây giờ người khác đã vào, các đại lý bắt đầu có thêm lựa chọn. Nếu cứ tiếp tục như vậy, lợi nhuận sẽ giảm rất nhanh.
+
+Phong Vũ cầm tờ giấy lên xem.
+
+Điều này không khó đoán.
+
+Bọn họ không sở hữu sản phẩm độc quyền. Website cũng không có công nghệ thần kỳ nào mà người khác không thể làm theo. Khi mô hình đã chứng minh được khả năng kiếm tiền, cạnh tranh xuất hiện chỉ là chuyện sớm hay muộn.
+
+Hiểu Khánh đến vào lúc ấy. Cô đặt một tập tài liệu xuống bàn, kéo ghế ngồi bên cạnh.
+
+- Các anh đang nói chuyện gì?
+
+- Tiền.
+
+Bất Phàm đáp rất nhanh.
+
+Hiểu Khánh nhìn anh.
+
+- Vậy tôi không tham gia.
+
+- Cậu ngồi xuống rồi còn nói không tham gia?
+
+- Tiền không phải lĩnh vực của tôi.
+
+Cô mở máy tính, kiểm tra vài dòng dữ liệu rồi nói:
+
+- Website có vấn đề kỹ thuật.
+
+Phong Vũ quay sang.
+
+- Vấn đề gì?
+
+- Không nghiêm trọng. Nhưng lượng truy cập tăng nhanh hơn dự kiến. Nếu tiếp tục tăng, phải sửa một số phần của hệ thống.
+
+- Bao lâu?
+
+- Hai ngày.
+
+- Làm đi.
+
+Hiểu Khánh gật đầu, cúi xuống màn hình.
+
+Ba người tiếp tục công việc của mình. Chuyện tiền bạc nhanh chóng chuyển sang chuyện máy chủ, dữ liệu và những phần còn lại của hệ thống. Không ai nhắc đến Tết nữa.
+
+Nhưng trong những ngày tiếp theo, Phong Vũ bắt đầu nhận ra website đã trở thành một thứ khác trong mắt những người xung quanh.
+
+Trước đây, người ta hỏi về nó vì tò mò.
+
+Sau Tết, người ta hỏi vì muốn làm theo.
+
+Một kỹ sư trong nhóm triển khai ở phía Nam gửi thư hỏi cách xây dựng một website tương tự. Một người khác hỏi họ đang dùng phương thức thanh toán nào. Có người đứng bên cạnh bàn Phong Vũ, giả vờ hỏi về một vấn đề kỹ thuật rồi vòng sang chuyện kinh doanh.
+
+- Các cậu tự làm à?
+
+- Ừ.
+
+- Ba người?
+
+- Ừ.
+
+Người kia nhìn hắn một lúc rồi hỏi:
+
+- Có kiếm được tiền thật không?
+
+Phong Vũ đáp:
+
+- Có.
+
+Người kia im lặng vài giây.
+
+- Nếu tôi có sản phẩm, các cậu có thể bán giúp không?
+
+Phong Vũ không trả lời ngay.
+
+Câu hỏi ấy không còn giống sự tò mò của một người muốn biết chuyện. Nó giống một lời đề nghị.
+
+Ba ngày sau lại có một thư khác.
+
+Rồi thêm một thư nữa.
+
+Những người này bắt đầu nhìn website không còn như một sản phẩm kỹ thuật mà giống một cửa hàng không có mặt bằng. Họ có sản phẩm, có khách hàng, nhưng không nhất thiết phải thuê thêm một cửa hàng ở từng nơi để bán.
+
+Phong Vũ đọc những bức thư ấy vào một buổi tối.
+
+Ngoài cửa sổ, ánh đèn trong khu ký túc xá lần lượt sáng lên. Hắn mở lại bảng thống kê của website, nhìn những con số đã quen thuộc suốt mấy tháng qua.
+
+Một loại dịch vụ.
+
+Một nhóm khách hàng.
+
+Một vài gói cước.
+
+Một website đơn giản.
+
+Vậy mà có người thật sự bỏ tiền mua.
+
+Phong Vũ dựa lưng vào ghế.
+
+Nếu thứ được bán không phải mã kích hoạt 3G thì sao?
+
+Sách?
+
+Đồ điện tử?
+
+Quần áo?
+
+Thiết bị văn phòng?
+
+Nguyên liệu?
+
+Hay một thứ gì đó mà hắn chưa nghĩ tới?
+
+Hắn đóng bảng thống kê.
+
+Ý nghĩ ấy chưa thành hình, nhưng cũng không biến mất.
+
+---
+
+Cuối tháng hai, dự án bước vào một giai đoạn có phần kỳ lạ.
+
+Công việc chính càng gần hoàn thành thì thời gian rảnh của mọi người càng nhiều. Nhưng chính khoảng thời gian đó lại khiến họ bắt đầu quan tâm đến những chuyện xảy ra bên ngoài dự án.
+
+Các doanh nghiệp tìm đến hỏi kế hoạch tiếp theo. Nhà cung cấp thiết bị muốn biết thị trường sau khi mạng 3G được phủ rộng sẽ phát triển thế nào. Các đại lý bắt đầu điều chỉnh cách làm ăn. Những câu chuyện trước đây xoay quanh tốc độ truyền dữ liệu, thiết bị và vùng phủ sóng, giờ dần chuyển sang khách hàng, doanh thu và lợi nhuận.
+
+Một buổi trưa, Phong Vũ ngồi trong nhà ăn, vừa đặt đũa xuống thì nghe hai người ở bàn phía sau nói chuyện.
+
+- Bên Giang Hải đã có mấy công ty làm rồi.
+
+- Không chỉ Giang Hải. Bắc Đô cũng có.
+
+- Nghe nói có người làm website bán đồ điện tử.
+
+- Thật à?
+
+- Ừ. Tôi có xem qua.
+
+- Có ai mua không?
+
+- Có.
+
+Hai người im lặng một lúc.
+
+Một người nói:
+
+- Internet rồi sẽ thành một chuyện lớn.
+
+Người kia hỏi:
+
+- Lớn đến đâu?
+
+- Không biết.
+
+- Vậy mà cậu cũng dám nói.
+
+- Không biết mới đáng nói.
+
+Phong Vũ ngồi cách đó không xa, vẫn cúi xuống nhìn bát cơm.
+
+Hắn không quay lại.
+
+Nhưng câu nói cuối cùng khiến hắn nhớ khá lâu.
+
+Không biết mới đáng nói.
+
+Buổi tối hôm ấy, khi trở về phòng, hắn lại mở chiếc máy tính.
+
+Lần này hắn không xem số liệu 3G.
+
+Hắn mở một tập tin mới, viết xuống vài chữ.
+
+"Internet."
+
+Bên dưới là một dòng khác.
+
+"Bán hàng."
+
+Phong Vũ nhìn hai dòng chữ một lúc rồi lưu lại.
+
+---
+
+Một tuần sau, Bất Phàm chủ động tìm hắn.
+
+Hai người rời khu làm việc khi trời đã tối. Bắc Đô cuối đông vẫn còn lạnh. Những hàng cây hai bên đường bắt đầu nhú chồi, mặt đất còn giữ hơi lạnh của những ngày trước. Người qua lại không đông, ánh đèn từ các tòa nhà kéo thành từng mảng sáng trên mặt đường.
+
+Bất Phàm đi bên cạnh hắn một lúc rồi hỏi:
+
+- Cậu có định tiếp tục làm website không?
+
+- Có.
+
+- Sau khi dự án kết thúc?
+
+Phong Vũ suy nghĩ vài giây.
+
+- Có lẽ.
+
+Bất Phàm cười.
+
+- Vậy là cậu cũng đang nghĩ giống tôi.
+
+Phong Vũ quay sang.
+
+- Cậu nghĩ gì?
+
+- Chúng ta không thể cứ bán mã 3G mãi.
+
+Phong Vũ không nói.
+
+Bất Phàm chậm rãi nói tiếp:
+
+- Thứ đáng giá không phải cái mã.
+
+Anh nhìn những dãy cửa hàng đang sáng đèn phía trước.
+
+- Là cách chúng ta bán nó.
+
+Phong Vũ im lặng một lúc.
+
+Hai người tiếp tục đi.
+
+Đến gần ký túc xá, Bất Phàm mới hỏi:
+
+- Cậu đã nghĩ sau này sẽ làm gì chưa?
+
+Phong Vũ nhìn con đường phía trước.
+
+- Chưa.
+
+- Thật?
+
+- Thật.
+
+Bất Phàm cười.
+
+- Vậy thì tốt.
+
+Phong Vũ cũng cười.
+
+Nhưng trong đầu hắn đã bắt đầu xuất hiện một câu hỏi khác. Nếu không tiếp tục dự án 3G, không quay về làm một công việc văn phòng bình thường, cũng không chỉ dùng số tiền kiếm được để đầu tư, thì họ có thể tự mình xây dựng thứ gì?
+
+Câu hỏi ấy không có câu trả lời ngay trong đêm hôm đó. Nó chỉ nằm lại trong đầu hắn, chưa rõ hình dạng, nhưng cũng không biến mất.
+
+Phong Vũ tắt máy, đứng dậy khỏi bàn, trong lòng tự nhủ:
+
+- Ngày mai vẫn còn công việc. Còn chuyện sau khi dự án kết thúc, để sau rồi tính.
+
+
+------------------------------------------------------------
+
+
+
+# PHẦN II — TIỀN ĐỂ LÀM GÌ?
+
+Sau Tết, công việc trong dự án 3G nhẹ đi trông thấy.
+
+Những vấn đề khó nhất đã lần lượt được giải quyết. Hệ thống vận hành ổn định, các khu vực trọng điểm đã hoàn thành triển khai, phần việc còn lại chủ yếu là kiểm tra, điều chỉnh và hoàn thiện báo cáo. Không còn những đêm cả tầng làm việc sáng đèn đến gần sáng, cũng không còn cảnh một nhóm người vây quanh một chiếc máy tính chỉ để chờ một thử nghiệm kéo dài vài giờ cho ra kết quả.
+
+Những người từng bận đến mức ăn vội một bữa ngay tại bàn bắt đầu có thời gian uống trà, đọc báo hoặc nói chuyện với nhau. Có người tranh thủ tìm hiểu công việc sau khi dự án kết thúc, có người liên hệ với các công ty đang tuyển dụng, cũng có người bắt đầu tính chuyện học tiếp.
+
+Phong Vũ cũng có nhiều thời gian hơn.
+
+Hắn vẫn xử lý những phần việc của mình, vẫn theo dõi website bán dịch vụ 3G cùng Bất Phàm và Hiểu Khánh, nhưng không còn bị công việc cuốn đi từ sáng đến tối. Chính những khoảng thời gian trống ấy khiến hắn bắt đầu quan sát những thứ trước đây không có thời gian để ý.
+
+Bất Phàm cũng vậy.
+
+Hiểu Khánh thì đơn giản hơn. Khi không có việc gì gấp, cô lại vùi đầu vào những tài liệu công nghệ mà mình thích.
+
+Một buổi tối, sau khi phần việc trong ngày đã hoàn thành, ba người vẫn ngồi lại trong phòng làm việc.
+
+Bên ngoài, những dãy bàn vốn luôn kín người giờ chỉ còn lác đác vài chiếc máy tính sáng màn hình. Hiểu Khánh vừa kiểm tra xong một phần của website, đóng máy lại rồi dựa vào ghế. Bất Phàm mang ba cốc trà đến đặt lên bàn. Phong Vũ xem xong bảng thống kê của website, lưu lại rồi gập máy tính.
+
+Bất Phàm cầm cốc trà lên, thổi nhẹ.
+
+- Dạo này nhàn thật.
+
+Hiểu Khánh gật đầu.
+
+- Ừ.
+
+Cô nhìn quanh phòng.
+
+- Hồi trước tôi còn nghĩ một ngày không đủ dùng.
+
+- Bây giờ một ngày lại hơi dài.
+
+Bất Phàm cười. Phong Vũ cũng cầm cốc trà lên, nhưng chưa uống.
+
+Một lúc sau, Bất Phàm hỏi:
+
+- Hai người sau này định làm gì?
+
+Hiểu Khánh suy nghĩ một chút rồi đáp:
+
+- Tìm một công việc về công nghệ.
+
+- Ở công ty nào?
+
+- Chưa biết. Công ty nào có việc phù hợp thì làm.
+
+Bất Phàm nhìn cô.
+
+- Không định tự làm à?
+
+Hiểu Khánh lắc đầu.
+
+- Làm cái gì?
+
+Bất Phàm cười.
+
+- Tôi cũng chưa biết.
+
+Anh quay sang Phong Vũ.
+
+- Còn cậu?
+
+Phong Vũ im lặng vài giây.
+
+- Chưa biết.
+
+- Không định đi làm?
+
+- Có thể.
+
+- Học tiếp?
+
+- Cũng có thể.
+
+Bất Phàm nhìn hắn.
+
+- Vậy rốt cuộc cậu định làm gì?
+
+Phong Vũ đặt cốc trà xuống.
+
+- Tôi cũng đang nghĩ.
+
+Hiểu Khánh nhìn hắn, hơi nhướng mày.
+
+- Tôi tưởng anh lúc nào cũng biết mình muốn gì.
+
+Phong Vũ bật cười.
+
+- Tôi cũng tưởng thế.
+
+Bất Phàm dựa lưng vào ghế. Một năm trước, ba người còn chưa quen biết nhau. Bây giờ mỗi người đều đã có một khoản tiền mà trước đây chưa từng nghĩ mình có thể kiếm được khi còn trẻ như vậy.
+
+Nhưng có tiền lại khiến một câu hỏi trở nên rõ ràng hơn.
+
+Nếu không cần lập tức đi làm để kiếm sống, họ muốn dùng khoảng thời gian và số tiền mình đang có để làm gì?
+
+Bất Phàm cầm cốc trà lên, nhấp một ngụm rồi nói:
+
+- Tôi có vài ý tưởng.
+
+Hiểu Khánh nhìn sang.
+
+- Gì?
+
+Bất Phàm lắc đầu.
+
+- Mới chỉ là ý tưởng thôi. Tôi cũng chưa nghĩ sâu hơn. Để tôi nghĩ thêm ít ngày nữa rồi gửi qua email cho hai người xem trước.
+
+Phong Vũ gật đầu.
+
+- Được.
+
+Hiểu Khánh cũng không có ý kiến.
+
+Chuyện này quả thực không cần phải quyết định ngay trong một buổi tối. Dự án vẫn đang vận hành, bọn họ cũng còn thời gian. Nếu thật sự muốn tự mình làm một việc gì đó, trước hết mỗi người nên nghĩ cho rõ mình muốn làm gì.
+
+Ba người không nói thêm về chuyện ấy.
+
+Nhưng từ hôm đó, mỗi người đều bắt đầu suy nghĩ theo cách riêng của mình.
+
+Bất Phàm đọc thêm tài liệu về đầu tư, doanh nghiệp và thị trường. Những lúc rảnh, anh thường mang theo một cuốn sách kinh tế hoặc một xấp báo cáo, ngồi ở góc bàn đọc rất lâu.
+
+Hiểu Khánh tiếp tục nghiên cứu công nghệ. Cô vốn đã thích những thứ này, nhưng lần đầu tiên bắt đầu tự hỏi nếu không làm thuê cho một công ty khác thì mình muốn xây dựng thứ gì.
+
+Còn Phong Vũ dành nhiều thời gian hơn để quan sát những doanh nghiệp mà hắn gặp trong công việc. Hắn để ý cách họ tìm khách hàng, cách họ mua hàng, bán hàng, tìm nhà cung cấp, xử lý đơn hàng và sử dụng Internet. Có những chuyện trước đây hắn nghe qua rồi bỏ đó, bây giờ lại nhớ kỹ hơn.
+
+Vài ngày sau, email của Bất Phàm được gửi đến.
+
+Tiêu đề chỉ có bốn chữ: "Một ý tưởng".
+
+Phong Vũ mở thư ngay khi nhìn thấy. Nội dung không dài, chỉ vài trang ghi chép về tình hình kinh tế Trung Châu, những doanh nghiệp tư nhân đang nổi lên và những thay đổi mà Bất Phàm quan sát được trên thị trường. Cuối cùng, anh viết về một mô hình mà mình đã suy nghĩ từ lâu: tập hợp vốn, tìm những doanh nghiệp có tiềm năng, đầu tư dài hạn và cùng họ phát triển.
+
+Ở cuối thư, Bất Phàm viết:
+
+> Nếu chúng ta có một khoản vốn đủ lớn, tôi nghĩ có thể thử làm một quỹ đầu tư nhỏ. Không cần chạy theo lợi nhuận ngắn hạn. Tìm doanh nghiệp tốt, mua vào khi giá còn thấp, rồi kiên nhẫn chờ nhiều năm.
+
+Phong Vũ đọc hết một lần, sau đó đọc lại từ đầu.
+
+Ý tưởng không tệ.
+
+Thậm chí nếu chỉ xét bản thân mô hình, hắn thấy có khá nhiều điểm hấp dẫn. Bất Phàm có kiến thức kinh tế, lại dành không ít thời gian nghiên cứu cách Warren Sterling xây dựng tài sản bằng đầu tư dài hạn. Nếu tìm được vài doanh nghiệp thực sự tốt, chỉ cần một hoặc hai khoản đầu tư thành công cũng có thể tạo ra lợi nhuận lớn hơn rất nhiều so với việc tự mình mở một cửa hàng nhỏ.
+
+Nhưng Phong Vũ không trả lời ngay.
+
+Hắn lưu email lại.
+
+Hai ngày sau, Hiểu Khánh gửi thư.
+
+Email của cô ngắn hơn rất nhiều. Phần lớn là những ý tưởng về công nghệ mà cô đang quan tâm, nhưng cuối thư cô viết rằng mình đã đọc ý tưởng của Bất Phàm, thấy có lý, nhưng muốn nghe mọi người phân tích trước khi quyết định.
+
+Phong Vũ nhìn màn hình một lúc rồi trả lời:
+
+- Tôi cũng nghĩ chúng ta nên ngồi lại với nhau một lần. Tôi có vài người bạn rất giỏi ở Đại học Thanh Châu, họ cũng sắp tốt nghiệp. Tôi muốn mời họ đến cùng thảo luận những ý tưởng này. Hai người không có ý kiến gì chứ?
+
+Hiểu Khánh đồng ý. Bất Phàm cũng không phản đối.
+
+Phong Vũ nghĩ đến hai người bạn của mình ở Thanh Châu. Một người có khả năng nhìn vấn đề từ góc độ thị trường và người tiêu dùng, một người giỏi ngoại ngữ, giao tiếp và đối ngoại. Cả hai đều sắp tốt nghiệp, cũng đang đứng trước câu hỏi giống bọn họ: sau khi rời trường thì sẽ làm gì?
+
+Hắn gửi email cho Hứa Mẫn Nghi và Tô Thanh Thảo.
+
+Không lâu sau, cả hai đều đồng ý tham gia.
+
+Phong Vũ không nói thêm nhiều. Hắn chỉ forward email của Bất Phàm và Hiểu Khánh cho hai cô, để họ có thể đọc trước rồi tự suy nghĩ.
+
+Tối hôm đó, năm người thống nhất sẽ tìm một địa điểm bên ngoài khu dự án để gặp nhau vào cuối tuần. Khu làm việc của dự án 3G chỉ dành cho thành viên dự án, mà Mẫn Nghi và Thanh Thảo cũng không liên quan đến công việc ở đó. Một quán trà yên tĩnh bên bờ hồ được Mẫn Nghi đề nghị.
+
+Trước khi gặp mặt, mỗi người đều đã có thời gian đọc ý tưởng của những người còn lại.
+
+Bây giờ chỉ còn việc ngồi xuống và nói chuyện.
+
+
+
+
+---------------------------------------------------------------------
+
+
+# PHẦN III — ĐEM TIỀN ĐI ĐẦU TƯ
+
+Tối thứ sáu, năm người hẹn nhau tại một quán trà yên tĩnh bên bờ hồ ở phía đông Bắc Đô. Quán nằm hơi khuất sau một hàng cây, cách đường lớn không xa nhưng bên trong khá yên tĩnh. Những chiếc bàn gỗ đặt sát cửa sổ nhìn ra mặt hồ, ánh đèn từ bờ đối diện phản xuống mặt nước thành từng vệt dài.
+
+Địa điểm do Mẫn Nghi đề nghị. Cô và Thanh Thảo đều lớn lên ở Bắc Đô, Bất Phàm cũng quen thuộc thành phố, Hiểu Khánh đã sống ở đây nhiều năm. Chỉ có Phong Vũ là người ngoài, nên hắn không có ý kiến gì về địa điểm.
+
+Bất Phàm và Hiểu Khánh đến trước. Khi Phong Vũ cùng Mẫn Nghi và Thanh Thảo bước vào, hắn chủ động giới thiệu hai bên. Đây là lần đầu Bất Phàm và Hiểu Khánh gặp hai người bạn học của Phong Vũ, nên câu chuyện ban đầu chỉ xoay quanh vài câu làm quen.
+
+Sau khi mọi người ngồi xuống, Phong Vũ nói:
+
+- Bất Phàm và Hiểu Khánh thì hai người đã biết qua email rồi. Đây là Hứa Mẫn Nghi, Khoa Kinh tế, và Tô Thanh Thảo, Khoa Ngoại ngữ của Đại học Thanh Châu. Hai người họ đều sắp tốt nghiệp. Tôi nghĩ mỗi người đều có những điểm mạnh khác nhau, nên muốn mời họ cùng tham gia bàn chuyện này.
+
+Hắn nhìn sang Mẫn Nghi và Thanh Thảo.
+
+- Tôi cũng đã forward email của hai người cho họ đọc trước rồi.
+
+Mẫn Nghi gật đầu.
+
+- Tôi đọc rồi.
+
+Thanh Thảo cũng cười.
+
+- Tôi cũng vậy.
+
+Hiểu Khánh nhìn quanh bàn.
+
+- Vậy bắt đầu từ ai?
+
+Bất Phàm đặt cốc trà xuống.
+
+- Tôi trước đi.
+
+Anh lấy mấy tờ giấy trong cặp ra, đặt lên bàn. Những trang giấy ấy chính là bản ghi chép đã gửi qua email mấy ngày trước.
+
+- Ý tưởng của tôi khá đơn giản. Chúng ta có một khoản tiền trong tay, lại có thêm thời gian. Thay vì gửi ngân hàng hoặc dùng từng người một, chúng ta có thể gom vốn lại, tìm những doanh nghiệp tốt để đầu tư.
+
+Mẫn Nghi hỏi:
+
+- Đầu tư ngắn hạn hay dài hạn?
+
+- Dài hạn.
+
+Bất Phàm đáp rất nhanh.
+
+- Tôi không muốn làm kiểu mua hôm nay, bán ngày mai. Nếu đã làm thì nên tìm những doanh nghiệp thật sự tốt, có sản phẩm tốt, người quản lý tốt, thị trường còn tăng trưởng và có khả năng phát triển trong nhiều năm.
+
+Anh mở tập giấy.
+
+- Warren Sterling là ví dụ rõ nhất. Ông ấy không kiếm tiền bằng cách đoán giá cổ phiếu ngày mai tăng hay giảm. Ông ấy tìm doanh nghiệp tốt, mua vào khi giá còn hợp lý rồi kiên nhẫn chờ. Khi lợi nhuận được tái đầu tư, vốn tiếp tục sinh lời. Cái quan trọng nhất chính là lợi nhuận kép.
+
+Hiểu Khánh hỏi:
+
+- Nhưng Trung Châu có nhiều doanh nghiệp như vậy sao?
+
+- Có.
+
+Bất Phàm lấy một tờ báo ra khỏi cặp.
+
+- Mấy năm gần đây, doanh nghiệp tư nhân phát triển rất nhanh. Một số ngành đang mở cửa, sức mua trong nước tăng lên, Internet cũng bắt đầu thay đổi cách mọi người làm ăn. Có rất nhiều công ty còn nhỏ nhưng nếu chọn đúng, vài năm nữa có thể lớn hơn rất nhiều.
+
+Thanh Thảo nhìn những tờ giấy trước mặt.
+
+- Vậy chúng ta chỉ cần tìm đúng công ty rồi đầu tư?
+
+Bất Phàm cười.
+
+- Nói thì đơn giản như vậy.
+
+Phong Vũ cũng cười.
+
+- Nhưng chắc chắn không đơn giản.
+
+Bất Phàm nhìn hắn.
+
+- Đúng. Nhưng ít nhất tôi nghĩ đây là một con đường có thể nghiên cứu.
+
+Anh dừng lại một chút rồi nói tiếp:
+
+- Hơn nữa, chúng ta còn trẻ. Nếu bắt đầu từ bây giờ, mười năm sau số tiền ban đầu có thể đã khác rất nhiều.
+
+Mẫn Nghi hỏi:
+
+- Nếu phải chờ mười năm thì cậu có chấp nhận không?
+
+- Nếu khoản đầu tư đủ tốt, tại sao không?
+
+Mẫn Nghi không nói nữa.
+
+Phong Vũ cầm tập giấy lên, lật qua vài trang. Hắn không phản đối những gì Bất Phàm vừa nói. Ngược lại, càng nghe hắn càng thấy ý tưởng này có sức thuyết phục.
+
+Nhưng có một chuyện cần làm rõ trước.
+
+- Cần bao nhiêu vốn?
+
+Bất Phàm nhìn hắn.
+
+- Càng nhiều càng tốt.
+
+- Tôi hỏi mức tối thiểu.
+
+Bất Phàm suy nghĩ một lúc.
+
+- Nếu chỉ làm một danh mục đầu tư nhỏ thì vài triệu cũng được. Nhưng nếu muốn thành lập một quỹ đầu tư thực sự, có đội ngũ, có khả năng đầu tư vào nhiều doanh nghiệp thì ít nhất cũng phải vài chục triệu Kim Tệ.
+
+Hiểu Khánh nhìn sang Phong Vũ.
+
+Phong Vũ hỏi tiếp:
+
+- Chúng ta có bao nhiêu?
+
+Bất Phàm cười.
+
+- Không đủ.
+
+- Nếu gom hết tiền của chúng ta?
+
+- Vẫn không đủ.
+
+- Vậy vay thêm?
+
+Bất Phàm không trả lời ngay.
+
+Phong Vũ nói:
+
+- Giả sử chúng ta có năm triệu. Vay thêm năm triệu, có mười triệu để đầu tư. Nếu kiếm được tiền thì tốt. Nhưng nếu đầu tư sai thì sao?
+
+- Có thể chia nhỏ danh mục.
+
+- Tôi biết.
+
+Phong Vũ gật đầu.
+
+- Nhưng chia nhỏ không có nghĩa là không mất tiền.
+
+Bất Phàm im lặng.
+
+Phong Vũ đặt tập giấy xuống.
+
+- Tiền vay thì vẫn phải trả. Doanh nghiệp chúng ta đầu tư có thể mất ba năm, năm năm, thậm chí mười năm mới phát triển. Ngân hàng sẽ không nói rằng vì công ty chưa thành công nên cho chúng ta thêm vài năm.
+
+Thanh Thảo nghe đến đó, hỏi:
+
+- Vậy nếu không vay thì sao?
+
+- Thì số vốn của chúng ta quá nhỏ.
+
+Phong Vũ đáp.
+
+- Nếu đem toàn bộ tiền đang có đi đầu tư, chúng ta gần như không còn vốn để làm bất cứ việc gì khác.
+
+Bất Phàm gật đầu, nhưng vẫn chưa hoàn toàn bị thuyết phục.
+
+- Nhưng nếu đầu tư tốt, số tiền đó sẽ tăng.
+
+- Đúng.
+
+Phong Vũ nhìn anh.
+
+- Vấn đề tiếp theo là chúng ta có biết đầu tư tốt hay không.
+
+Lần này Mẫn Nghi lên tiếng.
+
+- Tôi cũng muốn hỏi chuyện đó.
+
+Cô đặt tay lên tập giấy của Bất Phàm.
+
+- Cậu nói phải tìm doanh nghiệp tốt, người quản lý tốt, thị trường tốt. Nhưng làm thế nào để biết một người quản lý có thực sự tốt?
+
+Bất Phàm đáp:
+
+- Xem lịch sử của họ, kết quả kinh doanh, cách họ điều hành công ty...
+
+- Nếu báo cáo đều đẹp?
+
+- Thì càng tốt.
+
+Mẫn Nghi lắc đầu.
+
+- Tôi không nghĩ đơn giản như vậy.
+
+Bất Phàm nhìn cô.
+
+- Ý cô là?
+
+- Một doanh nghiệp không chỉ có báo cáo tài chính.
+
+Mẫn Nghi nói chậm rãi:
+
+- Người sáng lập có thể rất giỏi khi công ty có mười người, nhưng khi công ty có một nghìn người thì sao? Một sản phẩm đang bán rất tốt hôm nay, năm năm nữa còn tốt không? Người quản lý có biết giữ người không? Có biết thay đổi khi thị trường thay đổi không? Có trung thực không? Khi gặp khủng hoảng thì họ sẽ làm gì?
+
+Bất Phàm không đáp.
+
+Mẫn Nghi tiếp:
+
+- Những thứ đó không phải cứ đọc vài quyển sách kinh tế là biết.
+
+Hiểu Khánh gật đầu.
+
+- Tôi đồng ý.
+
+Bất Phàm nhìn cô.
+
+- Cả cậu cũng vậy?
+
+- Tôi chỉ thấy cô ấy nói đúng.
+
+Hiểu Khánh nhấp một ngụm trà rồi nói:
+
+- Chúng ta vừa mới tốt nghiệp. Một năm làm dự án 3G cho chúng ta rất nhiều kinh nghiệm, nhưng đó vẫn là kinh nghiệm làm việc trong một dự án lớn. Chúng ta chưa từng điều hành một doanh nghiệp riêng.
+
+Phong Vũ không nói gì.
+
+Bất Phàm nhìn ba người trước mặt.
+
+- Vậy theo các cậu, phải bao nhiêu năm kinh nghiệm mới được đầu tư?
+
+- Tôi không biết.
+
+Hiểu Khánh lắc đầu.
+
+- Nhưng tôi biết hiện tại chúng ta chưa có nhiều.
+
+Mẫn Nghi nói:
+
+- Có thể đầu tư bằng tiền của chính mình. Sai thì coi như học phí. Nhưng nếu gom tiền của nhiều người rồi đứng ra quản lý, chuyện lại khác.
+
+Bất Phàm dựa lưng vào ghế.
+
+- Tôi chưa nói sẽ lập quỹ ngay ngày mai.
+
+- Tôi biết.
+
+Phong Vũ nói.
+
+- Tôi chỉ muốn xác định xem đây có phải con đường phù hợp với chúng ta lúc này hay không.
+
+Bất Phàm im lặng một lúc rồi hỏi:
+
+- Còn chuyện thời gian?
+
+Phong Vũ nhìn anh.
+
+- Cậu nói đầu tư dài hạn. Tôi nghĩ đó mới là vấn đề lớn nhất.
+
+- Vì sao?
+
+- Chúng ta đang ở độ tuổi có thể tự mình xây dựng một thứ gì đó. Nếu đầu tư vào một doanh nghiệp khác, phần lớn công việc của chúng ta sẽ là tìm kiếm, đánh giá rồi chờ.
+
+Bất Phàm cười.
+
+- Chờ cũng là một loại công việc.
+
+- Đúng.
+
+Phong Vũ gật đầu.
+
+- Nhưng tôi không chắc đó là công việc chúng ta nên làm bây giờ.
+
+Hắn nhìn ra mặt hồ.
+
+- Chúng ta có ít tiền. Nhưng chúng ta có một thứ khác mà vài chục năm nữa chưa chắc còn nhiều như bây giờ.
+
+Mẫn Nghi hỏi:
+
+- Thứ gì?
+
+- Thời gian để thử.
+
+Không ai nói ngay.
+
+Phong Vũ quay lại.
+
+- Nếu chúng ta đầu tư sai, chúng ta mất tiền. Nếu đầu tư đúng, có thể vài năm nữa mới nhìn thấy kết quả. Nhưng nếu dùng số tiền đó để tự mình làm một doanh nghiệp, ít nhất chúng ta còn trực tiếp tham gia vào quá trình tạo ra nó. Thành hay bại đều cho chúng ta kinh nghiệm.
+
+Bất Phàm suy nghĩ.
+
+- Cậu muốn nói tiền nên dùng để đầu tư vào chính mình?
+
+- Có thể nói như vậy.
+
+Hiểu Khánh đặt cốc trà xuống.
+
+- Tôi lại nghĩ đơn giản hơn.
+
+Mọi người nhìn cô.
+
+- Nếu có số tiền này, tại sao không dùng nó để xây dựng một thứ gì đó mà chúng ta thật sự muốn làm?
+
+Bất Phàm cười.
+
+- Cậu lúc nào cũng nghĩ đến công nghệ.
+
+- Vì tôi thích công nghệ.
+
+Hiểu Khánh đáp rất tự nhiên.
+
+- Tôi không thích ngồi nhìn tiền của mình nằm trong một doanh nghiệp khác.
+
+Thanh Thảo từ đầu đến giờ vẫn nghe nhiều hơn nói. Cô nhìn Bất Phàm rồi hỏi:
+
+- Nếu đầu tư dài hạn thật sự tốt như vậy, sau này chúng ta vẫn có thể làm mà?
+
+Bất Phàm gật đầu.
+
+- Đương nhiên.
+
+- Vậy có nhất thiết phải làm ngay không?
+
+Bất Phàm không trả lời.
+
+Thanh Thảo nói tiếp:
+
+- Có lẽ chúng ta còn chưa cần quyết định chuyện đó bây giờ.
+
+Phong Vũ nhìn cô một thoáng rồi gật đầu.
+
+- Tôi cũng nghĩ vậy.
+
+Bất Phàm dựa người ra sau, nhìn những tờ giấy trước mặt. Một lúc lâu sau, anh bật cười.
+
+- Được. Tôi thừa nhận các cậu nói có lý.
+
+Phong Vũ hỏi:
+
+- Ý tưởng vẫn giữ chứ?
+
+- Giữ.
+
+Bất Phàm đáp.
+
+- Tôi vẫn nghĩ đầu tư dài hạn là một con đường tốt. Chỉ là có lẽ chưa phải lúc.
+
+Mẫn Nghi gật đầu.
+
+- Tôi cũng nghĩ vậy.
+
+Hiểu Khánh không nói gì, chỉ cầm cốc trà lên.
+
+Bất Phàm thu những tờ giấy lại, bỏ vào cặp.
+
+- Tôi sẽ tiếp tục nghiên cứu. Nếu sau này chúng ta có đủ vốn và kinh nghiệm, biết đâu lại dùng đến.
+
+Phong Vũ cười.
+
+- Có thể.
+
+Cuộc tranh luận đầu tiên kết thúc mà không có ai thực sự thua.
+
+Bất Phàm vẫn giữ niềm tin vào đầu tư dài hạn. Chỉ có điều, sau buổi tối hôm đó, ý tưởng thành lập quỹ đầu tư được đặt sang một bên.
+
+Bọn họ còn quá trẻ, vốn chưa đủ lớn, kinh nghiệm chưa đủ dày.
+
+Và nếu phải lựa chọn giữa việc đem số tiền đầu tiên kiếm được đi đầu tư vào doanh nghiệp của người khác, với việc dùng nó để tự mình thử sức trên thương trường, thì ít nhất ở thời điểm này, chưa ai tìm được lý do đủ mạnh để chọn con đường thứ nhất.
+
+
+-----------------------------------------------------------
+
+
+
+# PHẦN IV — MỘT HỆ ĐIỀU HÀNH MỚI
+
+Hiểu Khánh là người thứ hai đưa ý tưởng của mình lên bàn.
+
+Cô không mang theo một bản kế hoạch dài như Bất Phàm. Trước khi đến, cô chỉ ghi vài trang vào máy tính, sau đó in ra một bản để mọi người cùng xem. Những trang đầu chủ yếu là sơ đồ kiến trúc hệ thống, các lớp phần mềm và những thành phần mà cô cho rằng có thể bắt đầu xây dựng từ đâu.
+
+Hiểu Khánh đẩy tập giấy về giữa bàn.
+
+- Tôi muốn làm một hệ điều hành.
+
+Bất Phàm hơi nhướng mày.
+
+Mẫn Nghi nhìn xuống những sơ đồ trước mặt.
+
+Thanh Thảo hỏi:
+
+- Cho máy tính cá nhân?
+
+- Ừ.
+
+Hiểu Khánh gật đầu.
+
+- Một hệ điều hành hoàn chỉnh, có thể cài đặt trên máy tính giống như Windows.
+
+Phong Vũ không nói gì.
+
+Hiểu Khánh tiếp tục:
+
+- Nếu làm từ đầu thì quá khó. Nhưng chúng ta không nhất thiết phải làm tất cả từ đầu. Có thể dựa trên mã nguồn mở, xây dựng nhân hệ điều hành và những thành phần cơ bản từ những thứ đã có, sau đó phát triển giao diện, hệ thống quản lý phần mềm, công cụ dành cho người dùng và các thành phần còn thiếu.
+
+Bất Phàm hỏi:
+
+- Mục tiêu là gì?
+
+Hiểu Khánh nhìn anh.
+
+- Cạnh tranh với Windows.
+
+Câu nói rất bình thản.
+
+Thanh Thảo bật cười khẽ.
+
+- Mục tiêu có vẻ hơi lớn.
+
+- Tôi biết.
+
+Hiểu Khánh cũng cười.
+
+- Nhưng nếu chỉ làm một hệ điều hành để vài người dùng thử thì chẳng có ý nghĩa gì.
+
+Phong Vũ cầm tập giấy lên. Hắn nhìn qua những sơ đồ kiến trúc, rồi hỏi:
+
+- Cậu nghĩ bao lâu có thể làm được một phiên bản đủ dùng?
+
+Hiểu Khánh suy nghĩ một lúc.
+
+- Nếu chỉ cần một phiên bản có thể cài đặt, khởi động và chạy những phần mềm cơ bản thì không quá lâu. Nhưng nếu muốn trở thành một hệ điều hành thương mại thì khác.
+
+- Khác bao nhiêu?
+
+- Rất nhiều.
+
+Cô lấy bút khoanh một vùng trên sơ đồ.
+
+- Đây chỉ là phần lõi. Còn giao diện, trình quản lý thiết bị, hệ thống cập nhật, bảo mật, mạng, âm thanh, đồ họa, quản lý phần mềm...
+
+Cô lần lượt chỉ vào từng phần.
+
+- Chưa kể driver.
+
+Phong Vũ hỏi:
+
+- Bao nhiêu kỹ sư?
+
+Hiểu Khánh suy nghĩ.
+
+- Giai đoạn đầu khoảng ba mươi đến năm mươi người là có thể bắt đầu. Nếu muốn làm nghiêm túc thì sau đó phải tăng lên.
+
+- Bao lâu?
+
+- Ba năm có thể có một sản phẩm tương đối hoàn chỉnh.
+
+Bất Phàm hỏi:
+
+- Ba năm?
+
+- Nếu mọi việc thuận lợi.
+
+- Còn nếu không thuận lợi?
+
+Hiểu Khánh nhìn anh.
+
+- Năm năm.
+
+Phong Vũ đặt tập giấy xuống.
+
+- Tiền?
+
+Hiểu Khánh không trả lời ngay.
+
+- Nếu đội ngũ nhỏ thì có thể tiết kiệm. Nhưng để làm thành một sản phẩm thương mại, phải nuôi đội ngũ kỹ sư trong nhiều năm. Còn phải có máy chủ, phòng thử nghiệm, máy tính, thiết bị, bản quyền của một số thành phần nếu cần, chi phí kiểm thử...
+
+Bất Phàm hỏi:
+
+- Khoảng bao nhiêu?
+
+- Tôi chưa tính chính xác.
+
+- Ước lượng.
+
+Hiểu Khánh cầm bút tính trên mặt giấy.
+
+- Nếu chỉ tính đội ngũ kỹ thuật và vận hành ban đầu, vài triệu Kim Tệ mỗi năm.
+
+Cô ngẩng đầu.
+
+- Nếu tính cả những thứ khác, có thể cao hơn rất nhiều.
+
+Phong Vũ gật đầu.
+
+- Driver thì sao?
+
+Hiểu Khánh đã đoán được hắn sẽ hỏi.
+
+- Đây là một trong những vấn đề khó nhất.
+
+Cô lấy một tờ giấy khác.
+
+- Một hệ điều hành không thể chỉ chạy được trên một loại máy. Người dùng sẽ cài nó lên nhiều loại máy tính khác nhau. Mỗi bo mạch chủ, card đồ họa, card âm thanh, máy in, modem, thiết bị ngoại vi... đều có thể cần driver.
+
+- Chúng ta tự viết?
+
+- Một phần.
+
+- Còn phần còn lại?
+
+- Phải hợp tác với nhà sản xuất hoặc chờ họ cung cấp tài liệu kỹ thuật.
+
+Phong Vũ hỏi:
+
+- Nếu họ không hợp tác?
+
+Hiểu Khánh im lặng vài giây.
+
+- Thì phải tự nghiên cứu.
+
+Bất Phàm cười.
+
+- Nghe không dễ.
+
+- Không dễ.
+
+Hiểu Khánh cũng không phủ nhận.
+
+- Nhưng về mặt kỹ thuật, không phải không thể làm.
+
+Phong Vũ nhìn cô.
+
+- Bảo mật?
+
+- Có thể làm.
+
+- Cập nhật?
+
+- Có thể làm.
+
+- Phần mềm?
+
+- Có thể xây dựng hệ thống để các nhà phát triển viết phần mềm cho chúng ta.
+
+- Hỗ trợ khách hàng?
+
+- Có thể tuyển người.
+
+Phong Vũ lần lượt hỏi từng vấn đề. Hiểu Khánh cũng lần lượt trả lời.
+
+Có những vấn đề cô cần suy nghĩ thêm, có những vấn đề cô thừa nhận chưa có lời giải hoàn chỉnh. Nhưng càng hỏi sâu, Phong Vũ càng nhận ra một chuyện.
+
+Nếu chỉ xét khả năng kỹ thuật, ý tưởng này thực sự có thể làm được.
+
+Không dễ.
+
+Không nhanh.
+
+Nhưng không phải chuyện viển vông.
+
+Phong Vũ đặt tay lên tập giấy.
+
+- Tôi tin là làm được.
+
+Hiểu Khánh hơi bất ngờ.
+
+- Thật?
+
+- Ừ.
+
+Cô dựa lưng vào ghế, vẻ mặt thoải mái hơn.
+
+Nhưng Phong Vũ chưa dừng lại.
+
+- Tôi có một câu hỏi khác.
+
+Hiểu Khánh nhìn hắn.
+
+- Gì?
+
+- Làm xong rồi thì sao?
+
+Cô không hiểu.
+
+- Sao là sao?
+
+- Chúng ta có một hệ điều hành có thể cài đặt, có thể chạy ổn định, có giao diện đẹp, có driver, có bảo mật, có cập nhật. Tất cả đều làm được.
+
+Phong Vũ nhìn thẳng vào cô.
+
+- Sau đó chúng ta cạnh tranh với Windows thế nào?
+
+Hiểu Khánh không trả lời ngay.
+
+Bất Phàm cũng cúi xuống nhìn tập giấy.
+
+Mẫn Nghi là người đầu tiên lên tiếng.
+
+- Người dùng sẽ phải bỏ Windows để cài hệ điều hành của chúng ta.
+
+- Đúng.
+
+- Nhưng tại sao họ phải làm vậy?
+
+Không ai trả lời.
+
+Phong Vũ hỏi tiếp:
+
+- Một người mua máy tính mới. Trên máy đã có Windows. Họ bật máy lên là dùng được. Tại sao họ phải xóa nó đi để cài một hệ điều hành của một công ty mà họ chưa từng nghe đến?
+
+Hiểu Khánh nói:
+
+- Nếu hệ điều hành của chúng ta tốt hơn?
+
+- Tốt hơn ở điểm nào?
+
+Cô suy nghĩ.
+
+- Nhanh hơn. Ổn định hơn. An toàn hơn.
+
+Bất Phàm hỏi:
+
+- Người dùng có biết điều đó không?
+
+Hiểu Khánh im lặng.
+
+Phong Vũ tiếp tục:
+
+- Giả sử chúng ta thật sự làm được một hệ điều hành tốt. Nhưng người dùng vẫn cần những phần mềm họ đang dùng hàng ngày.
+
+Mẫn Nghi nói:
+
+- Phần mềm văn phòng.
+
+- Đúng.
+
+Thanh Thảo tiếp lời:
+
+- Phần mềm kế toán, thiết kế, trò chơi...
+
+- Đúng.
+
+Phong Vũ gật đầu.
+
+- Nếu phần mềm họ cần không chạy trên hệ điều hành của chúng ta thì sao?
+
+Hiểu Khánh nói:
+
+- Chúng ta có thể xây dựng công cụ tương thích.
+
+- Cũng phải có người làm.
+
+- Ừ.
+
+- Và các nhà phát triển phần mềm phải chịu viết phiên bản dành cho hệ điều hành của chúng ta.
+
+Hiểu Khánh không nói nữa.
+
+Bất Phàm bắt đầu hiểu vấn đề.
+
+- Còn phần cứng.
+
+Phong Vũ gật đầu.
+
+- Đúng. Nhà sản xuất máy tính phải hỗ trợ chúng ta. Nhà sản xuất card đồ họa phải hỗ trợ. Các nhà sản xuất thiết bị ngoại vi cũng phải hỗ trợ.
+
+Mẫn Nghi nhìn những tờ giấy trên bàn.
+
+- Nhưng tại sao họ phải làm vậy nếu thị phần của chúng ta rất nhỏ?
+
+Không ai trả lời.
+
+Phong Vũ nói:
+
+- Chính xác.
+
+Hắn lấy cây bút trên bàn, viết một chữ lên tờ giấy trắng.
+
+"Windows."
+
+Bên cạnh, hắn viết thêm vài chữ.
+
+"Máy tính."
+
+"Phần mềm."
+
+"Phần cứng."
+
+"Nhà phát triển."
+
+"Người dùng."
+
+Rồi hắn đặt bút xuống.
+
+- Windows không chỉ là một chương trình được cài trong máy tính.
+
+Hiểu Khánh nhìn những chữ ấy.
+
+Phong Vũ nói tiếp:
+
+- Nó đã đứng giữa rất nhiều bên. Nhà sản xuất máy tính cài nó sẵn. Người dùng quen với nó. Nhà phát triển viết phần mềm cho nó. Nhà sản xuất phần cứng làm driver cho nó. Trường học dạy nó. Doanh nghiệp sử dụng nó.
+
+Bất Phàm gật đầu.
+
+- Một vòng tròn.
+
+- Ừ.
+
+Mẫn Nghi nhìn lại tập giấy của Hiểu Khánh.
+
+- Nếu muốn cạnh tranh, chúng ta phải phá được vòng tròn đó.
+
+Phong Vũ gật đầu.
+
+- Và không chỉ phá một chỗ.
+
+Hiểu Khánh ngồi im một lúc lâu.
+
+Cô không có vẻ thất vọng. Chỉ đang suy nghĩ.
+
+Một lúc sau, cô nói:
+
+- Nhưng nếu không làm thì cũng chẳng bao giờ có cơ hội.
+
+Phong Vũ nhìn cô.
+
+- Tôi không nói không nên làm.
+
+- Vậy?
+
+- Tôi chỉ nghĩ phải biết mình đang đánh nhau với cái gì.
+
+Hiểu Khánh cúi xuống nhìn bản thiết kế hệ điều hành trước mặt.
+
+Cô thích công nghệ.
+
+Cô muốn xây dựng một thứ của riêng mình.
+
+Nhưng đến lúc này, lần đầu tiên cô nhìn thấy khoảng cách giữa làm ra một sản phẩm và khiến cả một thị trường sử dụng sản phẩm đó.
+
+Hai chuyện ấy hoàn toàn khác nhau.
+
+Bất Phàm cầm cốc trà lên.
+
+- Nếu chỉ nói về kỹ thuật, tôi nghĩ cậu có thể làm.
+
+Hiểu Khánh gật đầu.
+
+- Tôi cũng nghĩ vậy.
+
+Mẫn Nghi nhìn cô.
+
+- Nhưng nếu mục tiêu là cạnh tranh với Windows, có lẽ chúng ta cần nhiều hơn kỹ sư.
+
+Hiểu Khánh cười.
+
+- Tôi biết.
+
+Cô thu lại mấy tờ giấy.
+
+- Dù sao tôi vẫn thích làm nó.
+
+Phong Vũ nhìn cô.
+
+- Cậu thật sự muốn làm?
+
+- Ừ.
+
+- Nếu không có ai dùng?
+
+Hiểu Khánh suy nghĩ vài giây rồi đáp:
+
+- Ít nhất tôi cũng muốn biết mình có thể làm đến đâu.
+
+Phong Vũ không nói thêm.
+
+Hắn hiểu câu trả lời ấy.
+
+Đối với Hiểu Khánh, điều hấp dẫn nhất vẫn là xây dựng công nghệ, chứ không phải chinh phục một thị trường khổng lồ. Cô muốn làm một hệ điều hành vì muốn biết một hệ điều hành có thể được tạo ra như thế nào, chứ chưa có tham vọng trở thành người đứng đầu một đế chế phần mềm.
+
+Bất Phàm nhìn cô rồi nhìn sang Phong Vũ.
+
+- Vậy ý tưởng này cũng chưa thể làm ngay.
+
+Phong Vũ gật đầu.
+
+- Nếu chỉ làm một sản phẩm công nghệ để thử sức, có thể. Nhưng nếu muốn biến nó thành một doanh nghiệp đủ sức cạnh tranh với Windows, bài toán lớn hơn rất nhiều.
+
+Hiểu Khánh không phản bác.
+
+Cô chỉ cất tập giấy vào túi.
+
+Trên mặt bàn, những chữ Phong Vũ viết vẫn còn đó.
+
+"Máy tính. Phần mềm. Phần cứng. Nhà phát triển. Người dùng."
+
+Một hệ điều hành có thể bắt đầu từ vài dòng mã.
+
+Nhưng để cả thế giới sử dụng nó, cần nhiều hơn thế.
+
+
+
+------------------------------------------------------------
+
+
+# PHẦN V — MỘT THỊ TRƯỜNG TRÊN INTERNET
+
+Mẫn Nghi là người tiếp lời sau khi ý tưởng của Hiểu Khánh được đặt sang một bên.
+
+Cô không nhìn những sơ đồ kỹ thuật trên bàn nữa mà cầm cốc trà lên, suy nghĩ một lúc.
+
+- Nếu làm một thứ gì đó trên Internet thì sao?
+
+Bất Phàm nhìn cô.
+
+- Ý cô là gì?
+
+- Bán hàng.
+
+Thanh Thảo hơi nghiêng người về phía trước.
+
+- Bán hàng trên Internet?
+
+Mẫn Nghi gật đầu.
+
+- Người bán đưa sản phẩm lên mạng. Người mua xem, chọn thứ mình cần rồi đặt hàng. Nếu thanh toán được trực tuyến thì càng tốt.
+
+Bất Phàm hỏi:
+
+- Giống một cửa hàng?
+
+- Nhưng cửa hàng không ở trên phố.
+
+Mẫn Nghi đặt cốc trà xuống.
+
+- Nó ở trên Internet.
+
+Hiểu Khánh lập tức hiểu ý cô.
+
+- Thương mại điện tử?
+
+- Đúng.
+
+Mẫn Nghi nói tiếp:
+
+- Trước mắt có thể làm B2C. Doanh nghiệp bán trực tiếp cho người tiêu dùng. Chúng ta xây dựng một nền tảng, để các cửa hàng hoặc nhà sản xuất đưa hàng lên đó, còn người mua vào tìm kiếm và đặt hàng.
+
+Phong Vũ không lên tiếng ngay.
+
+Hắn nhìn Mẫn Nghi.
+
+Đây là ý tưởng thứ ba được đưa lên bàn, nhưng khác với Bất Phàm và Hiểu Khánh, Mẫn Nghi không bắt đầu bằng công nghệ hay tiền vốn. Cô bắt đầu từ một người mua hàng.
+
+Mẫn Nghi nói:
+
+- Ví dụ một người ở nhà muốn mua một chiếc máy ảnh. Thay vì đi hết cửa hàng này đến cửa hàng khác, anh ta chỉ cần mở máy tính, vào website của chúng ta, tìm chiếc máy ảnh mình muốn, xem giá, xem thông tin rồi đặt mua.
+
+Thanh Thảo hỏi:
+
+- Sau đó cửa hàng gửi hàng đến nhà?
+
+- Đúng.
+
+- Nếu ở Bắc Đô thì có thể làm được.
+
+Mẫn Nghi gật đầu.
+
+- Nhưng không nhất thiết chỉ bán cho người ở Bắc Đô. Nếu người bán ở Bắc Đô mà người mua ở Giang Hải thì sao? Hoặc ở một thành phố khác?
+
+Bất Phàm nhìn cô.
+
+- Vậy phải giao hàng.
+
+- Đúng.
+
+Câu trả lời rất đơn giản.
+
+Nhưng sau đó, không ai nói tiếp.
+
+Phong Vũ cầm cốc trà lên, hỏi:
+
+- Giao bằng cách nào?
+
+Mẫn Nghi suy nghĩ.
+
+- Bưu điện?
+
+- Nếu món hàng lớn?
+
+- Tìm công ty vận chuyển.
+
+- Có bao nhiêu công ty?
+
+- Tôi chưa biết.
+
+Phong Vũ gật đầu.
+
+- Nếu người bán không chịu giao?
+
+Mẫn Nghi nhìn hắn.
+
+- Chúng ta có thể quy định.
+
+- Nếu người bán nhận tiền rồi không gửi hàng?
+
+Mẫn Nghi im lặng một chút.
+
+- Có thể giữ tiền của người mua, đến khi xác nhận giao hàng rồi mới chuyển cho người bán.
+
+Bất Phàm lập tức hỏi:
+
+- Tiền giữ ở đâu?
+
+Mẫn Nghi không trả lời ngay.
+
+Hiểu Khánh cười.
+
+- Cậu vừa nghĩ ra mô hình thôi mà họ đã bắt đầu phá rồi.
+
+Mẫn Nghi cũng cười.
+
+- Tôi biết.
+
+Phong Vũ không có ý làm khó cô. Hắn chỉ muốn thử đặt ý tưởng ấy vào một tình huống thật.
+
+Hắn hỏi:
+
+- Chúng ta thử từ đầu.
+
+Mọi người nhìn hắn.
+
+- Một người ngồi ở nhà. Anh ta muốn mua một món đồ.
+
+Mẫn Nghi gật đầu.
+
+- Anh ta có máy tính và Internet.
+
+Hiểu Khánh nói:
+
+- Mở website.
+
+- Sau đó?
+
+Mẫn Nghi đáp:
+
+- Tìm sản phẩm.
+
+- Tìm ở đâu?
+
+- Trên website của chúng ta.
+
+- Nếu có một trăm nghìn sản phẩm?
+
+Mẫn Nghi nhìn Hiểu Khánh.
+
+- Phải có công cụ tìm kiếm.
+
+Hiểu Khánh gật đầu.
+
+- Cái đó làm được.
+
+Phong Vũ tiếp:
+
+- Anh ta tìm thấy sản phẩm.
+
+- Xem thông tin.
+
+- Ai đảm bảo thông tin đó đúng?
+
+Mẫn Nghi suy nghĩ.
+
+- Người bán.
+
+- Nếu người bán nói quá lên?
+
+- Chúng ta phải kiểm tra.
+
+- Ai kiểm tra?
+
+Mẫn Nghi không trả lời ngay.
+
+Bất Phàm cười.
+
+- Đây mới chỉ là một sản phẩm.
+
+Mẫn Nghi nhìn anh.
+
+- Tôi biết.
+
+Phong Vũ nói:
+
+- Tiếp tục.
+
+Mẫn Nghi nhìn xuống bàn.
+
+- Người mua thấy sản phẩm phù hợp, chọn mua.
+
+- Thanh toán thế nào?
+
+- Thẻ ngân hàng.
+
+Bất Phàm lắc đầu.
+
+- Không phải ai cũng có thẻ.
+
+Thanh Thảo nói:
+
+- Có thể chuyển khoản.
+
+Hiểu Khánh hỏi:
+
+- Chuyển khoản xong làm sao website biết tiền đã đến?
+
+Không ai trả lời ngay.
+
+Mẫn Nghi chống tay lên bàn.
+
+- Vậy trước mắt có thể cho phép thanh toán khi nhận hàng.
+
+Phong Vũ gật đầu.
+
+- Được. Nhưng nếu người mua không nhận thì sao?
+
+Mẫn Nghi nhìn hắn.
+
+- Người bán mất chi phí vận chuyển.
+
+- Nếu tỷ lệ không nhận cao?
+
+- Người bán sẽ không muốn bán trên nền tảng của chúng ta.
+
+Mẫn Nghi nói xong, tự mình nhận ra vấn đề.
+
+Cô ngồi im vài giây rồi nói:
+
+- Vậy phải có cách giảm rủi ro cho cả hai bên.
+
+Phong Vũ không nói gì.
+
+Mẫn Nghi tiếp tục suy nghĩ.
+
+Trên giấy, ý tưởng chỉ có vài bước rất đơn giản.
+
+Người bán đưa hàng lên mạng.
+
+Người mua chọn hàng.
+
+Thanh toán.
+
+Giao hàng.
+
+Nhận hàng.
+
+Nhưng khi từng bước được đặt vào một người thật, một món hàng thật và một khoản tiền thật, mỗi bước lại kéo theo một câu hỏi khác.
+
+Thanh Thảo hỏi:
+
+- Nếu người mua nhận được hàng rồi phát hiện không giống hình trên website thì sao?
+
+Mẫn Nghi đáp:
+
+- Có thể cho phép trả lại.
+
+Bất Phàm hỏi:
+
+- Ai chịu phí?
+
+Mẫn Nghi không trả lời.
+
+Hiểu Khánh nói:
+
+- Nếu sản phẩm bị người mua làm hỏng rồi trả lại thì sao?
+
+Mẫn Nghi nhìn cô.
+
+- Phải có quy định.
+
+Phong Vũ hỏi:
+
+- Ai giải quyết tranh chấp?
+
+Lần này Mẫn Nghi chỉ cười.
+
+- Cậu cứ hỏi tiếp đi.
+
+Phong Vũ cũng cười.
+
+- Được.
+
+Hắn nhìn ra mặt hồ ngoài cửa sổ.
+
+- Nếu một cửa hàng nhỏ muốn bán hàng trên website của chúng ta, họ phải tự chụp ảnh, viết thông tin sản phẩm, cập nhật giá, kiểm tra đơn hàng. Nếu một ngày có một nghìn cửa hàng thì sao?
+
+Hiểu Khánh nói:
+
+- Phải làm công cụ quản lý cho họ.
+
+- Cậu làm được?
+
+- Được.
+
+- Một vạn cửa hàng?
+
+Hiểu Khánh suy nghĩ.
+
+- Vẫn làm được. Chỉ là hệ thống phải thiết kế khác.
+
+Bất Phàm hỏi:
+
+- Còn hàng hóa?
+
+Mẫn Nghi quay sang.
+
+- Hàng hóa thế nào?
+
+- Người bán ở đâu?
+
+- Ở cửa hàng của họ.
+
+- Vậy chúng ta có kho không?
+
+- Chưa cần.
+
+- Nếu không có kho, chúng ta làm sao biết còn hàng?
+
+Mẫn Nghi im lặng.
+
+Bất Phàm tiếp:
+
+- Một người đặt mua một sản phẩm trên website. Người bán kiểm tra kho rồi phát hiện đã bán hết từ sáng. Nhưng chưa kịp cập nhật lên mạng.
+
+Mẫn Nghi nói:
+
+- Phải cập nhật tồn kho.
+
+- Nếu họ không cập nhật?
+
+- Chúng ta có thể phạt.
+
+- Nếu họ cứ làm sai?
+
+Mẫn Nghi suy nghĩ một lúc.
+
+- Thì loại khỏi nền tảng.
+
+Phong Vũ gật đầu.
+
+Ý tưởng ban đầu của Mẫn Nghi vẫn còn đó.
+
+Nhưng nó đã không còn đơn giản như lúc mới nói ra.
+
+Một website bán hàng không chỉ là một website.
+
+Nó cần người bán, người mua, thanh toán, vận chuyển, kiểm soát chất lượng, xử lý khiếu nại, quản lý hàng hóa và rất nhiều quy tắc mà ban đầu không ai nhìn thấy.
+
+Mẫn Nghi nhìn những tờ giấy trên bàn, rồi nói:
+
+- Nhưng những vấn đề này đều có thể giải quyết từng bước.
+
+Phong Vũ nhìn cô.
+
+- Tôi đồng ý.
+
+Mẫn Nghi hơi bất ngờ.
+
+- Thật?
+
+- Ý tưởng này có cơ sở.
+
+Hắn dừng một chút rồi nói:
+
+- Nhưng tôi muốn biết một chuyện khác.
+
+Mẫn Nghi chờ hắn.
+
+- Người mua có thật sự muốn mua hàng trên Internet không?
+
+Câu hỏi khiến cả bàn yên lặng.
+
+Mẫn Nghi nhìn ra ngoài cửa sổ.
+
+Một lúc sau, cô nói:
+
+- Tôi nghĩ sẽ có người thử.
+
+- Bao nhiêu người?
+
+- Tôi không biết.
+
+- Một phần trăm?
+
+- Có thể.
+
+- Mười phần trăm?
+
+Mẫn Nghi lắc đầu.
+
+- Có lẽ chưa đến.
+
+Phong Vũ gật đầu.
+
+Đó mới là vấn đề.
+
+Không phải họ có thể xây dựng một website như vậy hay không.
+
+Mà là có bao nhiêu người sẵn sàng tin tưởng nó ngay từ đầu.
+
+Một người đang ngồi ở nhà, cầm tiền trong tay, nhìn một món hàng trên màn hình máy tính. Anh ta chưa từng gặp người bán, chưa từng nhìn thấy cửa hàng, cũng không biết món hàng có thật sự tồn tại hay không.
+
+Vì sao anh ta phải trả tiền?
+
+Vì sao anh ta tin rằng hàng sẽ được gửi đến?
+
+Và nếu món hàng không giống như mình tưởng tượng, anh ta sẽ làm gì?
+
+Mẫn Nghi không trả lời được ngay.
+
+Nhưng cô cũng không rút lại ý tưởng.
+
+Cô chỉ cầm cốc trà lên, nhìn mặt hồ bên ngoài rồi nói:
+
+- Có lẽ chúng ta phải xây dựng niềm tin trước.
+
+Phong Vũ nhìn cô.
+
+Lần đầu tiên trong buổi tối hôm đó, hắn không hỏi thêm.
+
+Bởi câu trả lời ấy đã chạm đúng vào vấn đề lớn nhất của thương mại điện tử.
+
+Không phải đưa hàng lên mạng.
+
+Mà là khiến một người xa lạ dám bỏ tiền ra mua một món hàng mà họ chưa từng nhìn thấy tận mắt.
+
+
+--------------------------------------------------------------
+
+
+
+# PHẦN VII — B2B
+
+Sau câu nói của Mẫn Nghi, mọi người im lặng một lúc.
+
+Phong Vũ không nhìn ra mặt hồ nữa. Hắn cúi xuống, lấy cây bút trên bàn, xoay nhẹ giữa hai ngón tay.
+
+- Nếu người mua không phải là người tiêu dùng thì sao?
+
+Mẫn Nghi nhìn hắn.
+
+- Ý anh là gì?
+
+- Nếu người mua là doanh nghiệp?
+
+Bất Phàm lập tức hiểu.
+
+- B2B?
+
+Phong Vũ gật đầu.
+
+- Đúng.
+
+Hắn lấy một tờ giấy trắng kéo về phía mình.
+
+- Chúng ta đang cố nghĩ cách khiến một người ngồi ở nhà mua một món hàng trên Internet. Nhưng doanh nghiệp thì khác. Họ vốn đã phải mua hàng mỗi ngày.
+
+Phong Vũ viết vài chữ lên giấy.
+
+- Một nhà máy cần nguyên liệu. Một cửa hàng cần hàng hóa. Một công ty cần thiết bị văn phòng. Một nhà hàng cần thực phẩm. Một doanh nghiệp cần tìm nhà cung cấp, một nhà cung cấp lại cần tìm khách hàng.
+
+Bất Phàm nhìn những dòng chữ trên giấy.
+
+- Tức là đưa những giao dịch vốn đã tồn tại lên Internet.
+
+- Không nhất thiết phải đưa toàn bộ lên ngay.
+
+Phong Vũ nói.
+
+- Chỉ cần giúp họ tìm thấy nhau trước.
+
+Mẫn Nghi nhìn hắn.
+
+- Nhưng doanh nghiệp cũng phải tin nhau.
+
+- Đúng.
+
+- Cũng phải thanh toán.
+
+- Đúng.
+
+- Cũng phải giao hàng.
+
+- Đúng.
+
+- Vậy những vấn đề lúc nãy vẫn còn.
+
+Phong Vũ gật đầu.
+
+- Vẫn còn. Nhưng mức độ khác nhau.
+
+Bất Phàm bắt đầu suy nghĩ theo hướng đó.
+
+- Ví dụ một công ty ở Bắc Đô muốn mua một trăm máy tính cho văn phòng. Trước đây họ phải tìm nhà cung cấp, gọi điện hỏi giá, gặp nhau, xem hàng rồi thương lượng.
+
+- Nếu có một nền tảng trên Internet, họ có thể tìm kiếm nhiều nhà cung cấp cùng lúc.
+
+Phong Vũ nói.
+
+- Xem sản phẩm, thông số, giá cả, sau đó liên hệ trực tiếp.
+
+Hiểu Khánh lập tức nói:
+
+- Cái này về mặt kỹ thuật đơn giản hơn B2C.
+
+- Vì sao?
+
+Mẫn Nghi hỏi.
+
+- Không cần ngay từ đầu phải xây dựng một hệ thống xử lý hàng triệu đơn hàng của người tiêu dùng. Có thể bắt đầu bằng việc đăng thông tin doanh nghiệp và sản phẩm, tìm kiếm, gửi yêu cầu, liên hệ.
+
+Hiểu Khánh nghĩ thêm.
+
+- Sau này muốn thêm đặt hàng trực tuyến, thanh toán trực tuyến, quản lý đơn hàng cũng có thể làm từng bước.
+
+Bất Phàm gật đầu.
+
+- Nhưng số người dùng sẽ ít hơn B2C rất nhiều.
+
+- Ít hơn.
+
+Phong Vũ nói.
+
+- Nhưng một giao dịch có thể lớn hơn rất nhiều.
+
+Mẫn Nghi cầm lấy cây bút.
+
+- Một doanh nghiệp có thể mua một lần vài trăm triệu Kim Tệ hàng hóa. Một người tiêu dùng có thể chỉ mua một món đồ vài trăm hoặc vài nghìn.
+
+- Đúng.
+
+- Vậy doanh thu của nền tảng có thể không cần dựa vào số lượng người dùng quá lớn.
+
+- Đó là điều tôi đang nghĩ.
+
+Phong Vũ nói.
+
+Bất Phàm nhìn tờ giấy trước mặt.
+
+- Nhưng nếu chỉ làm ở Bắc Đô thì thị trường vẫn nhỏ.
+
+- Không sao.
+
+Phong Vũ đáp.
+
+- Chúng ta không cần ngay lập tức có cả Trung Châu.
+
+Mẫn Nghi nhìn hắn.
+
+- Bắt đầu từ thành phố?
+
+- Có thể bắt đầu từ vài thành phố lớn.
+
+Phong Vũ chỉ vào những chữ trên giấy.
+
+- Doanh nghiệp ở thành phố đã quen với việc dùng điện thoại, fax, máy tính, email để liên hệ với nhau. Họ không cần thay đổi hoàn toàn thói quen mua bán. Chúng ta chỉ cho họ thêm một cách để tìm đối tác.
+
+Bất Phàm hỏi:
+
+- Còn nông thôn?
+
+Phong Vũ lắc đầu.
+
+- Chưa cần.
+
+Mẫn Nghi hiểu ý.
+
+- Vì hạ tầng Internet?
+
+- Một phần.
+
+Phong Vũ nói:
+
+- Cả doanh nghiệp lẫn người sử dụng đều cần thời gian. Nếu ngay cả việc kết nối Internet còn chưa thuận tiện thì bảo họ đưa toàn bộ hoạt động mua bán lên mạng sẽ quá sớm.
+
+Thanh Thảo từ nãy vẫn nghe nhiều hơn nói, lúc này mới lên tiếng:
+
+- B2C thì khác hẳn.
+
+Mọi người nhìn cô.
+
+- Người mua ở nhà phải có máy tính, có Internet, biết sử dụng Internet, rồi còn phải tin website. Sau đó nếu mua một món hàng thì phải có người giao đến tận nhà.
+
+Cô suy nghĩ một chút rồi nói tiếp:
+
+- Nếu ở thành phố còn có thể tưởng tượng được. Nhưng ở những vùng xa thì sao? Một đơn hàng vài chục nghìn Kim Tệ mà phải đi một quãng đường rất xa chỉ để giao tận tay một gia đình, chi phí vận chuyển có khi còn cao hơn lợi nhuận.
+
+Mẫn Nghi gật đầu.
+
+- Đúng.
+
+Cô nhìn lại những gì mình vừa trình bày lúc trước.
+
+- Ý tưởng B2C của tôi vẫn có thể làm. Nhưng nếu làm ngay bây giờ, phần khó nhất có lẽ không nằm ở website.
+
+Phong Vũ hỏi:
+
+- Mà nằm ở đâu?
+
+- Ở phía sau website.
+
+Mẫn Nghi đặt bút xuống.
+
+- Kho hàng, vận chuyển, thanh toán, đổi trả, chăm sóc khách hàng, giải quyết tranh chấp. Tất cả đều phải hoạt động cùng nhau.
+
+Bất Phàm tiếp lời:
+
+- Và quan trọng nhất là người tiêu dùng phải quen với việc mua hàng như vậy.
+
+Phong Vũ gật đầu.
+
+- Đó là thứ không thể xây bằng vài dòng mã.
+
+Hiểu Khánh cười.
+
+- Cũng không thể sửa bằng cách nâng cấp máy chủ.
+
+Mọi người cùng cười.
+
+Không khí trở nên nhẹ hơn.
+
+Nhưng những gì họ vừa nói lại khiến hai mô hình hiện ra khá rõ ràng trên mặt bàn.
+
+Bất Phàm lấy một tờ giấy, chia đôi.
+
+Một bên anh viết "B2C", bên kia "B2B".
+
+- B2C có thị trường lớn hơn rất nhiều.
+
+Mẫn Nghi gật đầu.
+
+- Và về lâu dài, người tiêu dùng chắc chắn sẽ mua hàng trên Internet.
+
+- Có thể.
+
+Phong Vũ nói.
+
+- Nhưng không nhất thiết phải là bây giờ.
+
+Bất Phàm viết tiếp dưới chữ B2C: "thanh toán, giao hàng, niềm tin, thói quen".
+
+Bên B2B, anh viết: "nhà cung cấp, khách hàng, sản phẩm, thông tin".
+
+Hiểu Khánh nhìn hai bên.
+
+- B2B có vẻ dễ bắt đầu hơn.
+
+- Không phải dễ.
+
+Phong Vũ sửa.
+
+- Chỉ là phù hợp hơn với những thứ chúng ta hiện tại có thể làm được.
+
+Mẫn Nghi nhìn hắn.
+
+- Nhưng nếu sau này B2C phát triển thì sao?
+
+Phong Vũ đáp:
+
+- Khi đó làm cả hai.
+
+Không ai phản đối.
+
+Bất Phàm nhìn lại tờ giấy.
+
+- Vậy trước mắt, nếu thật sự làm thương mại điện tử, chúng ta ưu tiên B2B?
+
+Phong Vũ gật đầu.
+
+- Tôi nghĩ vậy.
+
+Mẫn Nghi không nói thêm. Cô nhìn hai chữ "B2B" trên mặt giấy một lúc rồi gật đầu.
+
+Ý tưởng mà chính cô đưa ra ban đầu là B2C.
+
+Nhưng sau khi đem nó đặt cạnh điều kiện thực tế của Trung Châu lúc này, cô cũng thấy lựa chọn B2B hợp lý hơn. Không phải vì B2C không có tương lai, mà vì muốn đi đến tương lai ấy cần một nền móng lớn hơn nhiều.
+
+Phong Vũ dựa lưng vào ghế.
+
+Hắn nhìn mặt hồ ngoài cửa sổ rồi nói:
+
+- Chúng ta không cần chọn thị trường lớn nhất.
+
+Mẫn Nghi hỏi:
+
+- Vậy chọn gì?
+
+Phong Vũ nhìn lại tờ giấy trước mặt.
+
+- Chọn thị trường mà chúng ta có khả năng bước vào trước.
+
+Không ai nói thêm.
+
+Trên bàn, hai chữ "B2B" vẫn nằm cạnh "B2C".
+
+Không phải một bên đúng, một bên sai.
+
+Chỉ là ở thời điểm này, một cánh cửa gần họ hơn cánh cửa còn lại.
+
+
+--------------------------------------------------------------------
+
+
+
+# PHẦN VIII — CUỘC TRANH LUẬN B2B HAY B2C
+
+Những tờ giấy trên bàn đã được kéo lại gần nhau. Hai chữ "B2B" và "B2C" nằm ở hai phía, giữa chúng là những dòng ghi chú chằng chịt.
+
+Mẫn Nghi vẫn nhìn về phía B2C.
+
+- Tôi vẫn chưa hoàn toàn đồng ý.
+
+Bất Phàm ngẩng đầu.
+
+- Với B2C?
+
+- Ừ.
+
+Mẫn Nghi dùng đầu bút gõ nhẹ lên mặt bàn.
+
+- Nếu thành công, B2C sẽ lớn hơn rất nhiều.
+
+- Tôi không phủ nhận.
+
+Phong Vũ nói.
+
+- Nhưng lớn hơn không có nghĩa là nên làm trước.
+
+- Tôi biết.
+
+Mẫn Nghi nhìn hắn.
+
+- Nhưng nếu chúng ta bắt đầu bằng B2B, liệu có bỏ mất cơ hội không?
+
+Phong Vũ chưa trả lời.
+
+Bất Phàm cầm tờ giấy lên.
+
+- Tôi nghĩ phải nhìn cả doanh thu.
+
+Mẫn Nghi quay sang.
+
+- Nói đi.
+
+- Một giao dịch B2B có thể rất lớn, nhưng số lượng giao dịch sẽ ít. Nếu chúng ta chỉ thu một khoản phí nhỏ trên mỗi giao dịch, doanh thu ban đầu chưa chắc đã cao.
+
+Anh chỉ sang phía B2C.
+
+- B2C thì khác. Một người mua một món hàng có thể không đáng bao nhiêu, nhưng nếu có một triệu người dùng thì tổng giá trị giao dịch sẽ rất lớn.
+
+Mẫn Nghi gật đầu.
+
+- Đó là điều tôi muốn nói.
+
+Phong Vũ hỏi:
+
+- Cậu đã tính chi phí chưa?
+
+Bất Phàm lắc đầu.
+
+- Chưa.
+
+- Vậy thử tính xem.
+
+Bất Phàm suy nghĩ.
+
+- B2C cần nhiều đơn hàng hơn, nghĩa là cần nhiều người dùng hơn.
+
+- Và mỗi đơn hàng đều phải xử lý.
+
+Hiểu Khánh nói.
+
+- Tìm kiếm sản phẩm, đặt hàng, thanh toán, xác nhận, giao hàng, đổi trả...
+
+Bất Phàm gật đầu.
+
+- Tôi biết.
+
+Hiểu Khánh lấy cây bút, viết thêm một dòng dưới chữ B2C.
+
+"Hệ thống phải chịu tải rất lớn."
+
+- Nếu có một trăm nghìn người cùng sử dụng thì không sao. Nhưng nếu một triệu người thì sao? Mười triệu người?
+
+Mẫn Nghi hỏi:
+
+- Không thể nâng cấp máy chủ dần dần à?
+
+- Có thể.
+
+Hiểu Khánh đáp.
+
+- Nhưng không chỉ là máy chủ. Hệ thống thanh toán, cơ sở dữ liệu, quản lý đơn hàng, tìm kiếm sản phẩm, lưu trữ hình ảnh... tất cả đều phải tăng theo.
+
+Cô dừng lại một chút.
+
+- Và tôi còn chưa nói đến việc hỗ trợ các thiết bị khác nhau.
+
+Bất Phàm nhìn sang Phong Vũ.
+
+- Cậu thấy thế nào?
+
+Phong Vũ không trả lời ngay.
+
+Hắn cầm bút viết thêm một dòng dưới B2C.
+
+"Một đơn hàng = một lần vận chuyển."
+
+- Đây mới là thứ tôi quan tâm nhất.
+
+Mẫn Nghi nhìn dòng chữ.
+
+- Logistics?
+
+- Ừ.
+
+Phong Vũ nói:
+
+- Nếu một doanh nghiệp mua một lô hàng, họ vốn đã có cách vận chuyển hàng hóa. Có thể là nhà cung cấp tự giao, có thể thuê xe, cũng có thể dùng một công ty vận tải. Chúng ta chỉ cần giúp hai bên tìm thấy nhau.
+
+Hắn chỉ sang phía B2C.
+
+- Nhưng nếu là người tiêu dùng, mỗi đơn hàng đều phải đi đến một địa chỉ cụ thể.
+
+Thanh Thảo nói:
+
+- Có thể cùng một thành phố có hàng nghìn người mua.
+
+- Đúng.
+
+- Khi đó có thể gom hàng rồi giao một lượt.
+
+Phong Vũ gật đầu.
+
+- Có thể. Nhưng chúng ta vẫn phải có mạng lưới.
+
+Thanh Thảo im lặng.
+
+Phong Vũ nói tiếp:
+
+- Hiện tại mạng lưới bưu cục ở các thành phố lớn có thể giúp chúng ta xử lý một phần. Nhưng nếu người mua ở một huyện xa, một thị trấn nhỏ, hoặc một vùng nông thôn thì sao?
+
+Bất Phàm nhìn tờ giấy.
+
+- Chi phí giao hàng sẽ tăng.
+
+- Và thời gian giao hàng cũng tăng.
+
+Mẫn Nghi không phản bác.
+
+Cô suy nghĩ một lúc rồi nói:
+
+- Nhưng những vấn đề đó có thể giải quyết khi thị trường lớn lên.
+
+Phong Vũ gật đầu.
+
+- Tôi đồng ý.
+
+- Vậy tại sao phải chờ?
+
+Phong Vũ nhìn cô.
+
+- Vì chúng ta chưa có gì trong tay để giải quyết chúng.
+
+Mẫn Nghi im lặng.
+
+Thanh Thảo từ nãy đến giờ vẫn ngồi nghe, lúc này mới nói:
+
+- Tôi nghĩ còn một vấn đề khác.
+
+Mọi người quay sang cô.
+
+- Người bán.
+
+Mẫn Nghi hỏi:
+
+- Người bán thì sao?
+
+- Chúng ta muốn họ đưa hàng lên website.
+
+Thanh Thảo nói.
+
+- Nhưng tại sao họ phải làm vậy?
+
+Bất Phàm đáp:
+
+- Vì có thêm khách hàng.
+
+- Nếu lúc đầu website không có người mua thì sao?
+
+Bất Phàm không nói.
+
+Thanh Thảo tiếp:
+
+- Một cửa hàng đang bán hàng bình thường. Họ đã có khách quen, có cửa hàng, có nhân viên. Bây giờ chúng ta đến bảo họ chụp ảnh sản phẩm, nhập thông tin, cập nhật giá, kiểm tra đơn hàng trên máy tính rồi chờ một khách hàng nào đó trên Internet mua.
+
+Cô nhìn Mẫn Nghi.
+
+- Họ phải bỏ công sức. Nhưng chúng ta chưa chắc mang khách hàng đến cho họ.
+
+Mẫn Nghi gật đầu.
+
+- Đúng.
+
+- Nếu là B2B thì cũng phải thuyết phục người bán.
+
+Thanh Thảo nói.
+
+- Nhưng có thể khác.
+
+Cô cầm cây bút lên.
+
+- Một nhà sản xuất muốn tìm đại lý mới. Một cửa hàng muốn tìm nguồn hàng rẻ hơn. Một doanh nghiệp muốn mua một loại thiết bị mà trước đây phải gọi điện hỏi từng nhà cung cấp. Nếu chúng ta giúp họ tìm được đối tác, họ có lý do để sử dụng ngay cả khi số người dùng chưa nhiều.
+
+Bất Phàm gật gù.
+
+- Có giao dịch thật thì họ sẽ ở lại.
+
+- Đúng.
+
+Thanh Thảo nói.
+
+- B2C cần rất nhiều người mua để tạo thành một thị trường. B2B có thể bắt đầu từ một vài giao dịch có giá trị lớn.
+
+Mẫn Nghi nhìn cô.
+
+- Nhưng B2B cũng cần người bán và người mua cùng tham gia.
+
+- Đúng.
+
+Thanh Thảo cười.
+
+- Tôi đâu nói nó dễ.
+
+Mọi người cùng cười.
+
+Không khí căng thẳng lúc đầu cũng dịu xuống.
+
+Mẫn Nghi cúi xuống nhìn tờ giấy trước mặt. Cô dùng bút viết thêm vài chữ bên cạnh B2C:
+
+"Người mua → Người bán → Thanh toán → Vận chuyển → Đổi trả."
+
+Bên cạnh B2B, cô viết:
+
+"Doanh nghiệp → Doanh nghiệp."
+
+Rồi cô nhìn hai bên.
+
+- Tôi vẫn thấy B2C có tương lai lớn hơn.
+
+Phong Vũ gật đầu.
+
+- Tôi cũng nghĩ vậy.
+
+- Nhưng hiện tại B2B dễ bắt đầu hơn?
+
+- Không phải dễ hơn.
+
+Phong Vũ sửa lại.
+
+- Ít nhất chúng ta có thể kiểm soát từng bước tốt hơn.
+
+Bất Phàm hỏi:
+
+- Ví dụ?
+
+- Chúng ta có thể bắt đầu bằng một số ngành cụ thể.
+
+Phong Vũ nói.
+
+- Không cần đưa tất cả hàng hóa lên ngay. Chọn một vài nhóm sản phẩm mà doanh nghiệp thường xuyên mua bán, tìm những nhà cung cấp sẵn sàng tham gia, sau đó tìm khách hàng cho họ.
+
+Mẫn Nghi hỏi:
+
+- Nghĩa là không cần xây cả một cái chợ ngay từ đầu?
+
+- Đúng.
+
+- Chỉ cần xây một con đường để hai bên tìm thấy nhau.
+
+- Chính xác.
+
+Hiểu Khánh nhìn những dòng chữ trên bàn.
+
+- Nếu vậy phần công nghệ ban đầu cũng không cần quá phức tạp.
+
+Phong Vũ gật đầu.
+
+- Đó là điều tôi muốn.
+
+Bất Phàm suy nghĩ một lúc.
+
+- Nhưng nếu sau này B2B thành công, chúng ta vẫn có thể làm B2C.
+
+- Đương nhiên.
+
+Mẫn Nghi nhìn hắn.
+
+- Và khi đó chúng ta có thể đã có hệ thống thanh toán, mạng lưới vận chuyển, người dùng, thương hiệu...
+
+- Những thứ mà B2C cần.
+
+Phong Vũ nói.
+
+- Đúng.
+
+Mẫn Nghi im lặng khá lâu.
+
+Cô vốn là người đưa ra ý tưởng B2C. Cô vẫn tin vào tiềm năng của nó, thậm chí càng phân tích càng thấy thị trường ấy lớn đến mức nào. Nhưng chính vì nhìn thấy nó lớn, cô càng nhận ra khoảng cách từ hiện tại đến thị trường đó không hề ngắn.
+
+Cuối cùng cô đặt bút xuống.
+
+- Vậy B2C để sau.
+
+Không ai nói gì.
+
+Mẫn Nghi nhìn từng người.
+
+- Không phải bỏ. Chỉ là làm B2B trước.
+
+Phong Vũ gật đầu.
+
+- Tôi nghĩ đó là lựa chọn hợp lý nhất.
+
+Bất Phàm thu lại những tờ giấy.
+
+- Vậy chúng ta thống nhất?
+
+Hiểu Khánh gật đầu.
+
+Thanh Thảo cũng gật.
+
+Mẫn Nghi nhìn hai chữ B2B trên mặt bàn lần cuối rồi nói:
+
+- Thống nhất.
+
+Ngoài cửa sổ, mặt hồ vẫn phẳng lặng. Cuộc tranh luận kéo dài gần hai giờ, nhưng cuối cùng họ không tìm ra một mô hình thắng tuyệt đối.
+
+B2C lớn hơn.
+
+B2B gần hơn.
+
+Vấn đề không còn là mô hình nào tốt hơn, mà là mô hình nào nên được làm trước.
+
+Và lần đầu tiên từ khi bắt đầu cuộc trò chuyện, năm người đã có chung một câu trả lời.
+
+
+-----------------------------------------------------------------
+
+
+# PHẦN IX — THỬ LÀM NHỎ
+
+Phong Vũ lấy một tờ giấy trắng, đặt lên giữa bàn.
+
+- Thực ra chúng ta đã làm rồi.
+
+Bất Phàm nhìn hắn.
+
+- Làm gì?
+
+Phong Vũ chỉ vào những con số trong bảng thống kê.
+
+- Website 3G.
+
+Hắn lần lượt viết xuống mấy chữ: **sản phẩm, người mua, giao dịch, doanh thu, lợi nhuận.**
+
+- Chúng ta có một website, có người vào mua hàng, có giao dịch thật và có tiền thật. Quy mô còn nhỏ, mô hình cũng đơn giản, nhưng ít nhất nó đã chứng minh một chuyện: người ta có thể mua một thứ họ cần qua Internet và chúng ta có thể kiếm tiền từ việc kết nối giao dịch đó.
+
+Hiểu Khánh gật đầu.
+
+- Vậy không cần bắt đầu bằng một thứ quá lớn.
+
+- Đúng.
+
+Phong Vũ đặt bút xuống.
+
+- Chúng ta không cần ngay từ đầu phải xây dựng một thị trường cho cả Trung Châu. Chọn một lĩnh vực nhỏ, tìm một số doanh nghiệp muốn tham gia, làm một website đơn giản rồi xem người ta có thật sự sử dụng hay không.
+
+Mẫn Nghi hỏi:
+
+- Nếu thất bại?
+
+Phong Vũ nhìn cô.
+
+- Thì làm lại.
+
+Không ai cười.
+
+Câu nói ấy lần này không phải để động viên ai. Với số tiền họ đang có, một thử nghiệm nhỏ vẫn nằm trong khả năng chịu đựng của cả nhóm. Nếu mô hình không phù hợp, họ có thể dừng lại. Nếu có dấu hiệu tốt, họ mở rộng từng bước.
+
+Bất Phàm gật đầu.
+
+- Ít nhất như vậy chúng ta không phải đặt cược tất cả ngay từ đầu.
+
+- Đúng.
+
+Phong Vũ nhìn những dòng chữ trên giấy.
+
+- Trước tiên phải tìm xem mình có thể làm được đến đâu. Sau đó mới nghĩ đến chuyện làm lớn.
+
+
+--------------------------------------------------------
+
+
+# PHẦN X — NĂM THÁNG ĐI TÌM CÂU TRẢ LỜI
+
+Những tháng cuối của dự án 3G trôi qua nhẹ hơn nhiều so với lúc đầu.
+
+Phần lớn những vấn đề kỹ thuật quan trọng đã được giải quyết. Phong Vũ không còn phải ngồi trước máy tính đến tận khuya mỗi ngày. Bất Phàm cũng có thêm thời gian, còn Hiểu Khánh thường tranh thủ những khoảng trống để làm những việc mình thích.
+
+Nhưng cả ba không vì thế mà ngồi yên.
+
+Cuối tuần nọ, Phong Vũ theo Bất Phàm đến gặp một chủ doanh nghiệp chuyên phân phối thiết bị văn phòng. Cửa hàng không lớn, phía sau là một kho hàng chật kín những thùng giấy.
+
+Bất Phàm cầm quyển sổ, hỏi rất lâu về giá nhập, giá bán, công nợ và thời gian thu tiền.
+
+Chủ doanh nghiệp ban đầu còn hơi ngạc nhiên.
+
+- Cậu hỏi những chuyện này để làm gì?
+
+Bất Phàm cười.
+
+- Cháu chỉ muốn biết một doanh nghiệp nhỏ kiếm tiền như thế nào.
+
+Người đàn ông nhìn hai người trẻ trước mặt, rồi cũng dần nói nhiều hơn.
+
+Họ phát hiện phần khó nhất không nằm ở việc bán một món hàng. Có những tháng doanh thu rất cao nhưng tiền vẫn nằm ngoài thị trường vì khách hàng chưa thanh toán. Có những nhà cung cấp tốt nhưng rất khó tìm. Có những khách hàng muốn mua số lượng lớn nhưng doanh nghiệp lại không biết tìm nguồn hàng ở đâu.
+
+Một lần khác, Mẫn Nghi cùng Phong Vũ đến gặp một chủ cửa hàng chuyên bán đồ gia dụng.
+
+Cô không hỏi doanh thu.
+
+Câu hỏi đầu tiên của cô là:
+
+- Khách hàng của anh đến từ đâu?
+
+Người chủ suy nghĩ một lúc rồi kể về khách quen, người quen giới thiệu, các đại lý và vài mối hàng cũ.
+
+Mẫn Nghi lại hỏi:
+
+- Nếu muốn tìm thêm một trăm khách hàng mới thì anh sẽ tìm ở đâu?
+
+Người đàn ông bật cười.
+
+- Nếu tôi biết thì đã chẳng phải ngồi đây.
+
+Mẫn Nghi cũng cười theo, nhưng trong đầu lại ghi nhớ câu trả lời ấy.
+
+Hiểu Khánh thì quan tâm đến một chuyện khác.
+
+Mỗi khi đến một doanh nghiệp, cô thường chú ý đến những chiếc máy tính đặt trên bàn.
+
+Có nơi chỉ dùng máy tính để soạn văn bản. Có nơi dùng để lập bảng tính. Có nơi nhân viên phải vừa nghe điện thoại vừa mở nhiều cửa sổ để tra cứu thông tin.
+
+Một lần, cô đứng phía sau một nhân viên kho gần mười phút, nhìn người này nhập đi nhập lại từng dòng dữ liệu.
+
+- Nếu có một phần mềm làm việc này tự động thì sao?
+
+Nhân viên quay lại.
+
+- Có thì tốt quá.
+
+Hiểu Khánh không nói gì thêm.
+
+Còn Thanh Thảo bắt đầu giúp họ liên hệ với một vài đối tác nước ngoài mà cô quen biết. Những cuộc trò chuyện thường xoay quanh một vấn đề rất đơn giản: doanh nghiệp tìm đối tác mới bằng cách nào, kiểm tra đối tác ra sao, và mất bao lâu để đi từ lần liên hệ đầu tiên đến một giao dịch thực sự.
+
+Mỗi cuộc gặp chỉ để lại một mảnh nhỏ.
+
+Không có cuộc gặp nào đủ để chứng minh rằng ý tưởng của họ chắc chắn thành công.
+
+Nhưng sau vài tháng, những mảnh nhỏ ấy bắt đầu ghép lại.
+
+Một doanh nghiệp cần tìm nhà cung cấp.
+
+Một doanh nghiệp khác muốn tìm khách hàng mới.
+
+Có người muốn tìm đối tác ở thành phố khác.
+
+Có người có hàng nhưng không biết bán cho ai.
+
+Có người có nhu cầu nhưng không biết tìm nguồn ở đâu.
+
+Buổi tối nọ, năm người ngồi quanh chiếc bàn trong quán trà cũ. Trên bàn là những quyển sổ đã đầy chữ.
+
+Mẫn Nghi lật vài trang rồi nói:
+
+- Hình như vấn đề không phải là doanh nghiệp không có nhu cầu.
+
+Bất Phàm gật đầu.
+
+- Mà là họ không biết tìm nhau.
+
+Phong Vũ nhìn những ghi chép trước mặt.
+
+- Nếu đưa họ lên cùng một nơi thì sao?
+
+Không ai trả lời ngay.
+
+Nhưng lần này, câu hỏi ấy không còn giống một ý tưởng được nghĩ ra trên giấy.
+
+Họ đã nhìn thấy nó ngoài đời.
+
+
+--------------------------------------------------------------
+
+
+# PHẦN XI — NHỮNG NGƯỜI CÓ THỂ ĐI CÙNG NHAU
+
+Một buổi chiều cuối tháng, sau khi tan làm, Phong Vũ gọi Mẫn Nghi ở lại.
+
+Hai người đi bộ một đoạn dọc theo hồ.
+
+Mẫn Nghi nhìn mặt nước phẳng lặng, rồi hỏi:
+
+- Có chuyện gì?
+
+Phong Vũ không vòng vo.
+
+- Tôi muốn mời cô cùng làm.
+
+Mẫn Nghi quay sang nhìn hắn.
+
+- Làm chuyện B2B?
+
+- Ừ.
+
+Cô im lặng một lúc.
+
+- Còn Bất Phàm, Hiểu Khánh và Thanh Thảo?
+
+- Họ đều có ý định tham gia.
+
+Mẫn Nghi cúi đầu, đá nhẹ một viên sỏi trên đường.
+
+- Cậu đã nghĩ kỹ chưa?
+
+- Rồi.
+
+- Nếu thất bại thì sao?
+
+Phong Vũ không trả lời ngay.
+
+Hắn nhìn về phía bên kia hồ, nơi vài sinh viên đang ngồi dưới hàng cây.
+
+Rồi hắn nói:
+
+- Thì làm lại.
+
+Mẫn Nghi bật cười.
+
+- Cậu nói nghe nhẹ thật.
+
+- Không nhẹ.
+
+Phong Vũ nhìn cô.
+
+- Nhưng chúng ta còn trẻ. Nếu bây giờ không thử, sau này muốn thử có khi lại không còn dễ như vậy.
+
+Mẫn Nghi không nói nữa.
+
+Cô hiểu Phong Vũ không mời mình vì thiếu một người.
+
+Nếu chỉ cần thêm một người, trong trường có rất nhiều sinh viên giỏi.
+
+Điều hắn muốn là năm người với những thứ họ đã có: kinh tế, công nghệ, ngoại ngữ, đầu tư, và những trải nghiệm ít ỏi nhưng thật sự có được trong những tháng qua.
+
+Cô ngẩng lên.
+
+- Cho tôi suy nghĩ thêm vài ngày.
+
+Phong Vũ gật đầu.
+
+- Được.
+
+Hai người tiếp tục đi.
+
+Mặt hồ vẫn phẳng lặng như cũ. Nhưng trong đầu Mẫn Nghi, câu hỏi về việc sau khi tốt nghiệp sẽ làm gì đã không còn giống như trước.
+
+
+
+-----------------------------------------------------------
+
+
+
+# PHẦN XII — MỘT CUỘC NÓI CHUYỆN KHÁC
+
+Hai ngày sau, Phong Vũ gặp Thanh Thảo ở một quán cà phê gần trường.
+
+Thanh Thảo vừa đặt cốc xuống đã nhìn hắn.
+
+- Mẫn Nghi nói với tôi rồi.
+
+Phong Vũ hơi ngạc nhiên.
+
+- Cô ấy đồng ý à?
+
+- Chưa. Nhưng cô ấy nói cậu đã tìm cô ấy.
+
+Thanh Thảo chống cằm.
+
+- Còn tôi thì sao?
+
+Phong Vũ nhìn cô.
+
+- Tôi cũng muốn mời cô.
+
+- Vì tiếng Anh?
+
+- Ngoại ngữ, giao tiếp, quan hệ với đối tác nước ngoài. Những thứ đó đều cần.
+
+Thanh Thảo im lặng một lúc rồi hỏi:
+
+- Nếu tôi tham gia thì tôi phải làm gì?
+
+- Chưa biết.
+
+- Chưa biết?
+
+- Ừ. Chúng ta còn chưa thành lập công ty, cũng chưa có sản phẩm hoàn chỉnh. Bây giờ chỉ đang xem năm người có thể làm được gì cùng nhau.
+
+Thanh Thảo bật cười.
+
+- Nghe chẳng giống lời mời làm việc chút nào.
+
+- Vốn dĩ chưa phải lời mời làm việc.
+
+Cô nhìn Phong Vũ một lúc rồi hỏi:
+
+- Cậu thật sự muốn làm chuyện này?
+
+- Muốn thử.
+
+Thanh Thảo khuấy nhẹ cốc cà phê.
+
+Cô thích ngoại ngữ, thích giao tiếp với người khác, thích những cuộc trò chuyện mà mỗi người đến từ một nơi khác nhau. Nhưng cô chưa bao giờ nghĩ mình phải xây dựng một công ty thật lớn.
+
+- Tôi nói trước nhé. Tôi không thích quản lý người khác.
+
+- Được.
+
+- Cũng không có ý định trở thành một bà chủ lớn.
+
+- Được.
+
+Thanh Thảo bật cười.
+
+- Cậu cái gì cũng được.
+
+Phong Vũ nhún vai.
+
+- Vì tôi cũng chưa biết sau này mình sẽ làm gì.
+
+Cô nhìn hắn thêm một lúc, rồi nói:
+
+- Thật ra tôi cũng không có tham vọng gì lớn. Tôi chỉ muốn có một công việc mình thích, kiếm đủ tiền để sống thoải mái. Sau này nếu có một gia đình tốt thì càng tốt.
+
+Phong Vũ gật đầu.
+
+- Nghe hợp lý.
+
+- Đúng không?
+
+- Ừ.
+
+Thanh Thảo cười.
+
+- Vậy tôi tham gia.
+
+
+---------------------------------------------------------------------
+
+
+# PHẦN XIII — NĂM NGƯỜI, NĂM CON ĐƯỜNG
+
+Cuối tuần, cả năm người lại ngồi trong quán trà bên hồ.
+
+Không ai mang theo tài liệu.
+
+Trên bàn chỉ có một ấm trà và vài chiếc cốc.
+
+Bất Phàm là người mở đầu câu chuyện.
+
+- Nếu thật sự làm, tôi muốn sau này không chỉ làm một công ty.
+
+Mẫn Nghi nhìn sang.
+
+- Cậu muốn làm gì?
+
+- Kinh doanh trước. Nhưng tôi thích kinh tế. Tôi muốn hiểu nền kinh tế vận hành thế nào, vì sao một quốc gia giàu lên, vì sao một quốc gia khác lại nghèo đi.
+
+Hắn dừng một chút.
+
+- Có lẽ sau này tôi còn muốn làm những chuyện lớn hơn.
+
+Hiểu Khánh ngồi đối diện, hai tay ôm cốc trà.
+
+- Tôi thì đơn giản hơn. Tôi muốn làm công nghệ. Có một thứ gì đó thật sự do mình làm ra, chạy được trên máy tính, có người sử dụng. Thế là đủ thú vị rồi.
+
+Thanh Thảo bật cười.
+
+- Hai người đều nghĩ xa quá.
+
+- Còn cô?
+
+- Tôi à?
+
+Thanh Thảo suy nghĩ một lúc.
+
+- Tôi muốn cuộc sống bình thường một chút. Có công việc mình thích, có thời gian cho gia đình, thỉnh thoảng đi đâu đó chơi. Không phải ngày nào cũng họp đến tối.
+
+Mẫn Nghi nhìn ba người trước mặt.
+
+- Tôi lại muốn xây dựng một doanh nghiệp thật tốt.
+
+Bất Phàm nhướng mày.
+
+- Thật tốt là thế nào?
+
+- Kiếm được tiền, tồn tại lâu dài, có người giỏi muốn làm việc cùng, sản phẩm có ích cho khách hàng. Không phải chỉ lớn thật nhanh rồi vài năm sau biến mất.
+
+Hiểu Khánh gật đầu.
+
+- Nghe giống cậu.
+
+Mẫn Nghi cười.
+
+- Tôi học kinh tế mà.
+
+Ba người cùng nhìn sang Phong Vũ.
+
+Hắn đang nhìn mặt hồ ngoài cửa sổ.
+
+- Còn cậu?
+
+Phong Vũ không trả lời ngay.
+
+Hắn có rất nhiều điều đang nghĩ đến.
+
+Về võ đạo.
+
+Về những thứ hắn đã nhìn thấy trong những giấc mộng kỳ lạ.
+
+Về tiền bạc.
+
+Về Nhược Vũ.
+
+Về những con đường mà ngay cả chính hắn cũng chưa biết sẽ dẫn tới đâu.
+
+Nhưng những chuyện đó không cần phải nói ra lúc này.
+
+Hắn nâng cốc trà lên.
+
+- Tôi muốn thử xem năm người chúng ta có thể đi được bao xa.
+
+Không ai hỏi thêm.
+
+Ngoài cửa sổ, mặt hồ lặng gió.
+
+Năm người ngồi quanh một chiếc bàn, nói về tương lai như thể trước mặt chỉ có một con đường.
+
+Nhưng trong lòng mỗi người, con đường ấy lại dẫn về một nơi khác.
+
+
+-----------------------------------------------------------
+
+
+
+# PHẦN XIV — TIỀN ĐÃ ĐỦ CHƯA?
+
+Dự án 3G đã bước vào những ngày cuối.
+
+Công việc không còn dồn dập như trước. Hệ thống vận hành ổn định, việc mở rộng mạng lưới cũng đang được triển khai theo kế hoạch. Phần lớn thời gian của nhóm bây giờ dành cho những việc kiểm tra cuối cùng và xử lý các vấn đề phát sinh.
+
+Website bán 3G vẫn hoạt động.
+
+Những con số trong tài khoản khiến Bất Phàm bắt đầu chú ý.
+
+Một buổi tối, hắn mở sổ, tính lại doanh thu và lợi nhuận trong mấy tháng qua.
+
+- Không ít.
+
+Phong Vũ ngồi đối diện.
+
+- Bao nhiêu?
+
+Bất Phàm đưa quyển sổ sang.
+
+- Tính sơ bộ thì phần lợi nhuận của chúng ta đã hơn hai triệu Kim Tệ mỗi người.
+
+Hiểu Khánh nhìn qua.
+
+- Nhiều như vậy sao?
+
+- Website vẫn đang kiếm tiền mà.
+
+Phong Vũ không nói gì. Hắn nhìn những con số trên giấy một lúc rồi hỏi:
+
+- Nếu dùng tiền này làm công ty thì sao?
+
+Bất Phàm ngẩng đầu.
+
+Hiểu Khánh cũng nhìn sang.
+
+Không ai trả lời ngay.
+
+Trước đây, chuyện thành lập một công ty chỉ là một ý tưởng. Khi ấy họ nói về thị trường, về sản phẩm, về B2B hay B2C, nhưng tất cả vẫn nằm trên giấy.
+
+Bây giờ thì khác.
+
+Trước mặt họ đã có tiền thật.
+
+Không quá nhiều nếu muốn xây dựng một doanh nghiệp lớn ngay từ đầu, nhưng đủ để thuê một văn phòng nhỏ, thuê người, xây dựng một hệ thống đơn giản và thử nghiệm thị trường.
+
+Bất Phàm tính thêm một lúc.
+
+- Nếu chỉ thử thì đủ.
+
+Mẫn Nghi nói:
+
+- Quan trọng là chúng ta không cần bắt đầu quá lớn.
+
+Thanh Thảo gật đầu.
+
+- Vậy ít nhất chuyện tiền bạc không còn là lý do để không làm.
+
+Phong Vũ khép quyển sổ lại.
+
+- Ừ.
+
+Không ai nói thêm.
+
+Nhưng từ lúc ấy, câu hỏi trước mặt họ đã thay đổi.
+
+Không còn là **có nên làm hay không**.
+
+Mà là **làm thế nào**.
+
+
+---------------------------------------------------------------
+
+
+# PHẦN XV — DỰ ÁN 3G KHÉP LẠI
+
+Dự án 3G hoàn thành sớm hơn kế hoạch gần một tháng.
+
+Ngày nghiệm thu cuối cùng, khu làm việc vốn luôn đầy tiếng bàn phím và tiếng người trao đổi bỗng trở nên yên tĩnh hơn hẳn.
+
+Những chiếc máy tính được kiểm tra lần cuối. Tài liệu được sắp xếp lại. Một số người bắt đầu thu dọn đồ đạc.
+
+Phong Vũ cũng nhận được khoản tiền thưởng cuối cùng.
+
+**Một triệu Kim Tệ.**
+
+Hắn nhìn con số trong tài khoản hồi lâu rồi tắt máy.
+
+Website 3G vẫn tiếp tục hoạt động sau khi dự án kết thúc. Mức hoa hồng dần giảm xuống khi có thêm người tham gia, nhưng lượng giao dịch vẫn đủ lớn để mang lại lợi nhuận đáng kể.
+
+Tổng lợi nhuận của website đã vượt quá sáu triệu Kim Tệ.
+
+Ba người nhìn nhau.
+
+Bất Phàm cười.
+
+- Vậy là chúng ta thật sự có vốn rồi.
+
+Hiểu Khánh sửa lại:
+
+- Có tiền để thử.
+
+Phong Vũ gật đầu.
+
+- Đúng.
+
+Một năm trước, ba người gần như không quen biết nhau.
+
+Bất Phàm biết tính toán và thích nghiên cứu kinh tế. Hiểu Khánh có năng lực kỹ thuật, thích máy tính và những vấn đề mà người khác thường thấy phức tạp. Phong Vũ thường là người đặt câu hỏi, tìm cách nối những thứ tưởng như không liên quan lại với nhau.
+
+Một năm làm việc chung đã khiến họ hiểu nhau hơn những gì vài năm học đại học có thể mang lại.
+
+Họ từng tranh luận.
+
+Từng bất đồng.
+
+Từng ngồi cùng nhau đến khuya để tìm cách giải quyết một vấn đề.
+
+Họ biết lúc nào Bất Phàm sẽ bắt đầu lấy giấy ra tính toán. Biết Hiểu Khánh có thể ngồi trước máy tính hàng giờ nếu gặp một vấn đề khiến cô hứng thú. Biết Phong Vũ thường im lặng rất lâu trước khi đưa ra một câu hỏi mới.
+
+Không ai cần phải nói những điều ấy thành lời.
+
+Dự án kết thúc.
+
+Mỗi người thu dọn đồ đạc của mình.
+
+Vài ngày sau, Phong Vũ mua một chiếc **Bavaria S-600** cũ.
+
+Chiếc xe không mới, nhưng còn khá tốt. Sau một năm làm việc, hắn cuối cùng cũng thực hiện lời mình từng nói với Nhược Vũ: có tiền thì học lái xe, rồi mua một chiếc xe để đi lại.
+
+Ngày đầu tiên lái xe ra khỏi cửa hàng, Phong Vũ ngồi trong khoang lái một lúc lâu trước khi khởi động máy.
+
+Hắn nhìn qua kính chắn gió.
+
+Một năm.
+
+Từ một dự án 3G, một khoản tiền thưởng, một chiếc website nhỏ, đến những cuộc trò chuyện về một công ty chưa tồn tại.
+
+Hắn nổ máy.
+
+Chiếc Bavaria S-600 chậm rãi lăn bánh.
+
+
+---------------------------------------------------------------
+
+
+# PHẦN XVI — QUYẾT ĐỊNH
+
+Cuộc gặp cuối cùng diễn ra tại một quán trà.
+
+Năm người ngồi quanh chiếc bàn quen thuộc.
+
+Lần này không có giấy tờ chất đầy trên bàn.
+
+Cũng không có những bản phân tích dài.
+
+Bất Phàm nhìn từng người.
+
+- Vậy chúng ta làm gì?
+
+Hiểu Khánh đáp trước:
+
+- Tôi vẫn muốn làm công nghệ.
+
+Mẫn Nghi nhìn cô rồi nói:
+
+- B2C tôi vẫn cho rằng có tương lai.
+
+Thanh Thảo không tham gia tranh luận. Cô chỉ rót thêm trà cho mọi người.
+
+Bất Phàm cười.
+
+- Vậy là lại quay về từ đầu.
+
+Phong Vũ nhìn ba người, rồi nhìn sang Mẫn Nghi.
+
+Những cuộc gặp trong mấy tháng qua lần lượt hiện lên trong đầu hắn.
+
+Những chủ doanh nghiệp nhỏ.
+
+Những kho hàng.
+
+Những người cần tìm nguồn hàng.
+
+Những người có hàng nhưng không biết tìm khách.
+
+Những cuộc điện thoại với đối tác nước ngoài.
+
+Và những câu hỏi vẫn chưa có lời giải.
+
+Hắn nói:
+
+- Vậy bắt đầu bằng B2B.
+
+Mẫn Nghi hỏi:
+
+- Thương mại điện tử?
+
+Phong Vũ gật đầu.
+
+- Ừ.
+
+Cả bàn im lặng.
+
+Không ai nói về một công ty lớn.
+
+Không ai nói về việc trở thành người giàu nhất.
+
+Cũng không ai biết năm người có thể đi được bao xa.
+
+Phong Vũ nhìn chiếc cốc trà trước mặt.
+
+Rồi hắn nói:
+
+- Thử làm thương mại điện tử.
+
+
+
+---------------------------------------------------------------
+
+
+
