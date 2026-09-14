@@ -3,9 +3,7 @@ HỒI 12: LẦN ĐẦU GẶP
 
 --------------------------------
 
-
-PHẦN I — TRỞ VỀ QUÊ
-
+# PHẦN I — TRỞ VỀ QUÊ
 
 Sau cuộc thi Hùng biện vào cuối tháng 3, Phong Vũ lại trở về với nhịp học tập thường ngày, tranh thủ hoàn thành nốt những môn học và bài luận cuối cùng để kịp tốt nghiệp vào mùa hè.
 
@@ -37,19 +35,15 @@ Ba năm ở Bắc Đô đủ lâu để anh quen với nhịp sống của thàn
 
 Phong Vũ xuống tàu, mang theo hành lý rồi bắt xe khách về thị trấn.
 
-Từ ga tàu đến thị trấn còn khoảng một trăm năm mươi cây số đường bộ.
-
-Xe chạy qua những con đường ngày càng nhỏ, khu dân cư cũng thưa dần. Những cửa hàng san sát ở thành phố biến mất, thay bằng ruộng đồng, những xóm làng thấp thoáng sau hàng cây và những con đường đất chạy vào các thôn xóm.
+Từ ga tàu đến thị trấn còn khoảng một trăm năm mươi cây số đường bộ. Xe chạy qua những con đường ngày càng nhỏ, khu dân cư cũng thưa dần. Những cửa hàng san sát ở thành phố biến mất, thay bằng ruộng đồng, những xóm làng thấp thoáng sau hàng cây và những con đường đất chạy vào các thôn xóm.
 
 Đến thị trấn, trời đã gần tối.
 
-Phong Vũ xuống xe, rồi tìm một chiếc xe chạy về phía quê nhà.
+Phong Vũ xuống xe rồi tìm một chiếc xe chạy về phía quê nhà.
 
 Từ thị trấn về đến nhà chỉ còn khoảng sáu cây số.
 
-Con đường ấy anh đã đi qua không biết bao nhiêu lần.
-
-Hai bên đường vẫn là những căn nhà thấp, những hàng cây và những mảnh ruộng quen thuộc. Chỉ có vài căn nhà mới mọc lên, còn những hàng cây ven đường dường như đã cao hơn trước.
+Con đường ấy anh đã đi qua không biết bao nhiêu lần. Hai bên đường vẫn là những căn nhà thấp, những hàng cây và những mảnh ruộng quen thuộc. Chỉ có vài căn nhà mới mọc lên, còn những hàng cây ven đường dường như đã cao hơn trước.
 
 Khi chiếc xe dừng trước cổng nhà, Phong Vũ vừa bước xuống đã nhìn thấy bố mẹ và Tuyết Mai đang đứng chờ.
 
@@ -149,11 +143,11 @@ Tuyết Mai lập tức lấy chiếc điện thoại di động ra, lần lư�
 
 — Tối mai sang nhà tớ nhé!
 
-...
+Một lúc sau:
 
 — Không cần mang gì đâu.
 
-...
+Rồi:
 
 — Anh hai tớ tài trợ.
 
@@ -265,15 +259,13 @@ Anh mở túi hành lý, lấy ra một cuốn sách đã đọc được hơn n
 
 Đó là một tiểu thuyết tiên hiệp tình cảm có cái tên khá dài:
 
-Phong Vân Hoán Đổi, Ngàn Năm Ta Chờ.
+"Phong Vân Hoán Đổi, Ngàn Năm Ta Chờ."
 
 Anh mua nó ở Bắc Đô chỉ để đọc giải trí trong những lúc rảnh rỗi.
 
-Phong Vũ cầm sách trở lại bên hiên, ngồi xuống chiếc ghế tre quen thuộc.
+Phong Vũ cầm sách trở lại bên hiên, ngồi xuống chiếc ghế tre quen thuộc. Anh mở đến trang đang đọc dở, tựa lưng vào ghế rồi tiếp tục đọc.
 
-Anh mở đến trang đang đọc dở, tựa lưng vào ghế rồi tiếp tục đọc.
-
-Ngoài sân, gió đêm thổi qua những tán cây. 
+Ngoài sân, gió đêm thổi qua những tán cây.
 
 
 -----------------------------------------------
@@ -1079,7 +1071,7 @@ Vị đại tiên ấy chính là Vô Cực Đạo Chủ.
 -----------------------------------------------------------------
 
 
-# PHẦN IX — HAI NGÀY SAU: PHONG VŨ CHỦ ĐỘNG TÌM ĐẾN
+PHẦN IX — HAI NGÀY SAU: PHONG VŨ CHỦ ĐỘNG TÌM ĐẾN
 
 Tối hôm đó, sau khi trở về nhà, Phong Vũ tắm rửa rồi đi ra ngoài.
 
@@ -1089,9 +1081,7 @@ Phong Vũ đi đến gần, thuận miệng hỏi:
 
 — Gửi anh số điện thoại của Nhược Vũ. Nãy anh quên chưa xin số cô ấy.
 
-Tuyết Mai lập tức ngẩng đầu lên.
-
-Cô trố mắt, chớp chớp nhìn thẳng vào anh, nhưng không trả lời ngay.
+Tuyết Mai lập tức ngẩng đầu lên. Cô trố mắt nhìn thẳng vào anh, nhưng không trả lời ngay.
 
 Phong Vũ bị nhìn đến khó chịu.
 
@@ -1105,7 +1095,7 @@ Phong Vũ cau mày.
 
 Tuyết Mai càng được thể:
 
-— Chẳng phải anh hay luôn miệng nói em phải lo học hành, còn nhỏ không được nghĩ đến chuyện yêu đương linh tinh sao?! Cô ấy bằng tuổi với em đó!
+— Chẳng phải anh hay luôn miệng nói em phải lo học hành, còn nhỏ không được nghĩ đến chuyện yêu đương linh tinh sao? Cô ấy bằng tuổi với em đó!
 
 Phong Vũ nghiêm sắc mặt.
 
@@ -1115,39 +1105,35 @@ Nói xong, anh quay mặt đi vào phòng.
 
 Tuyết Mai nhìn theo bóng anh, vẫn cười tủm tỉm.
 
-Một lúc sau, Phong Vũ tắm nhanh, đánh răng rồi nằm lên giường.
-
-Anh vừa mở điện thoại thì có một tin nhắn mới.
+Một lúc sau, Phong Vũ tắm xong, đánh răng rồi nằm lên giường. Anh vừa mở điện thoại thì có một tin nhắn mới.
 
 Là Tuyết Mai gửi.
 
-> Đây là số của Tiểu Vũ: 098765xxxx, anh hai cố lên nhé!! Hi hi.
+Đây là số của Tiểu Vũ: 098765xxxx, anh hai cố lên nhé!! Hi hi.
 
-Phong Vũ nhìn màn hình vài giây, không trả lời.
+Phong Vũ nhìn màn hình vài giây.
 
-Hai hôm sau, anh nhắn tin hẹn trước với Nhược Vũ, nói khoảng bốn giờ chiều sẽ đem cuốn tiểu thuyết sang cho cô mượn.
+Anh không trả lời, đặt điện thoại sang một bên.
+
+Hai ngày sau, anh nhắn tin hẹn trước với Nhược Vũ, nói khoảng bốn giờ chiều sẽ đem cuốn tiểu thuyết sang cho cô mượn.
 
 Đúng bốn giờ, Phong Vũ dắt xe đạp đến trước cổng nhà Nhược Vũ.
 
-Từ ngoài cổng, anh đã nhìn thấy một người đàn ông đang loay hoay lắp lại cánh cửa gỗ.
+Từ ngoài cổng, anh đã nhìn thấy một người đàn ông đang loay hoay lắp lại cánh cửa gỗ. Cánh cửa khá nặng. Người đàn ông phải vừa giữ vừa tìm cách đưa bản lề vào đúng vị trí.
 
-Cánh cửa khá nặng. Người đàn ông phải vừa giữ vừa tìm cách đưa bản lề vào đúng vị trí.
-
-Phong Vũ dắt xe sang một bên, bước nhanh tới.
+Phong Vũ dựng xe sang một bên rồi bước nhanh tới.
 
 — Bác đang cần lắp cửa vào bản lề ạ? Để cháu giúp một tay.
 
-Người đàn ông đang phải nhấc cánh cửa nên chỉ quay sang nhìn anh, rồi gật đầu.
+Người đàn ông đang phải nhấc cánh cửa nên chỉ quay sang nhìn anh rồi gật đầu.
 
 — Ừ, ừ.
 
 Phong Vũ xắn tay áo.
 
-Hai người cùng nâng cánh cửa, một người giữ, một người chỉnh phần bản lề. Sau một lúc loay hoay, cuối cùng cánh cửa cũng được đặt đúng vị trí.
+Hai người cùng nâng cánh cửa. Một người giữ, một người chỉnh phần bản lề. Sau một lúc loay hoay, cuối cùng cánh cửa cũng được đặt đúng vị trí.
 
-Người đàn ông thử mở ra rồi đóng lại vài lần.
-
-Thấy cánh cửa đã hoạt động bình thường, ông mới tươi tỉnh quay sang nhìn Phong Vũ.
+Người đàn ông thử mở ra rồi đóng lại vài lần. Thấy cánh cửa đã hoạt động bình thường, ông mới tươi tỉnh quay sang nhìn Phong Vũ.
 
 — Ổn rồi. Cảm ơn cháu! Mà cháu tên gì, người ở xóm nào?
 
@@ -1155,9 +1141,7 @@ Phong Vũ đáp:
 
 — Cháu tên Phong Vũ, là anh trai bạn học Tuyết Mai của Nhược Vũ nhà bác.
 
-Người đàn ông hơi ngạc nhiên.
-
-Ông nhìn kỹ Phong Vũ thêm một chút rồi hỏi:
+Người đàn ông hơi ngạc nhiên. Ông nhìn kỹ Phong Vũ thêm một chút rồi hỏi:
 
 — Ồ, là Phong Vũ ở xóm bên đây sao?!
 
@@ -1165,31 +1149,17 @@ Người đàn ông hơi ngạc nhiên.
 
 Người đàn ông nghe vậy, lại nhìn anh từ đầu đến chân một lượt rồi gật gù.
 
-— Chà, đúng là “anh hùng xuất thiếu niên”! Bác là bố của Nhược Vũ. Cháu vào nhà, vào nhà đi...
+— Chà, đúng là anh hùng xuất thiếu niên! Bác là bố của Nhược Vũ. Cháu vào nhà, vào nhà đi...
 
-Ông vừa nói vừa đưa tay mời.
+Ông vừa nói vừa đưa tay mời. Hai người cùng bước vào giữa sân.
 
-Hai người cùng bước vào giữa sân.
-
-Đúng lúc ấy, từ trong nhà vọng ra tiếng bước chân.
-
-Nhược Vũ đã nghe loáng thoáng giọng nói của Phong Vũ từ trước.
-
-Cô bước ra đến thềm nhà.
-
-Vừa nhìn thấy anh, cô dừng lại.
+Đúng lúc ấy, từ trong nhà vọng ra tiếng bước chân. Nhược Vũ đã nghe loáng thoáng giọng nói của Phong Vũ từ trước nên bước ra đến thềm nhà. Vừa nhìn thấy anh, cô dừng lại.
 
 Phong Vũ cũng nhìn sang.
 
-Bốn mắt nhìn nhau trong khoảnh khắc ngắn ngủi.
+Bốn mắt nhìn nhau trong khoảnh khắc ngắn ngủi. Cảm giác ấy lại xuất hiện, giống như lần đầu gặp nhau hai hôm trước. Không cần nói gì, cả hai cùng nhẹ mỉm cười.
 
-Cảm giác ấy lại xuất hiện.
-
-Giống như lần đầu gặp nhau hai hôm trước.
-
-Không cần nói gì, cả hai cùng nhẹ mỉm cười.
-
-Bố Nhược Vũ nhìn con gái, nói:
+Bố Nhược Vũ nhìn con gái rồi nói:
 
 — Tiểu Vũ, còn ngây ra đấy làm gì? Xuống bếp xem mẹ đang đun nước nóng xong chưa, rồi đem sang phòng khách pha trà.
 
@@ -1203,11 +1173,11 @@ Vừa qua bậc cửa, ánh mắt anh vô tình dừng lại trên bức tườn
 
 Nơi đó treo một bức hoành phi bằng gỗ gụ, chạm khắc rất chỉn chu.
 
-Bốn chữ Hán với nét mực trầm mặc, đĩnh đạc mang đậm khí chất Đạo gia:
+Bốn chữ Hán nằm giữa nền gỗ sẫm màu:
 
-**『上善若水』**
+『上善若水』
 
-**Thượng Thiện Nhược Thủy.**
+Thượng Thiện Nhược Thủy.
 
 
 --------------------------------------------------------------------
@@ -2028,17 +1998,9 @@ Một lúc sau, cô mới nói:
 
 — Em hiểu rồi.
 
-Phong Vũ cũng không nói thêm.
+Phong Vũ cũng không nói thêm. Anh cúi xuống xếp lại những cuốn sách trong thùng.
 
-Anh cúi xuống xếp lại những cuốn sách trong thùng.
-
-Còn Nhược Vũ ngồi bên cạnh, tay vẫn đặt trên cuốn Vạn dặm đường xa.
-
-Đó là lần đầu tiên cô nhận ra thế giới trong đầu người anh này rộng hơn rất nhiều so với những gì cô từng tưởng tượng.
-
-Không chỉ có những con số, những thành tích học tập hay câu chuyện về Đại học Thanh Châu.
-
-Trong những cuốn sách anh đọc, dường như mỗi trang giấy đều có thể dẫn sang một thế giới khác.
+Còn Nhược Vũ ngồi bên cạnh, tay vẫn đặt trên cuốn Vạn dặm đường xa. Đó là lần đầu tiên cô nhận ra thế giới trong đầu người anh này rộng hơn rất nhiều so với những gì cô từng tưởng tượng. Không chỉ có những con số, những thành tích học tập hay câu chuyện về Đại học Thanh Châu. Trong những cuốn sách anh đọc, dường như mỗi trang giấy đều có thể dẫn sang một thế giới khác.
 
 
 -----------------------------------------------
@@ -2047,52 +2009,31 @@ Trong những cuốn sách anh đọc, dường như mỗi trang giấy đều c
 
 # PHẦN XVI — MƯỜI LĂM NGÀY
 
-
 Những ngày sau đó trôi qua khá nhanh.
 
-Phong Vũ thường dành một khoảng thời gian mỗi ngày để hướng dẫn Tuyết Mai và Nhược Vũ sử dụng máy tính.
+Phong Vũ thường dành một khoảng thời gian mỗi ngày để hướng dẫn Tuyết Mai và Nhược Vũ sử dụng máy tính. Ban đầu chỉ là những thao tác rất đơn giản: cách đặt ngón tay lên bàn phím, nhớ vị trí từng phím, gõ cho đúng rồi mới luyện tốc độ.
 
-Ban đầu chỉ là những thao tác rất đơn giản.
+Sau đó là cách mở trình duyệt, tìm kiếm thông tin, đọc kết quả và phân biệt những nguồn đáng tin cậy với những thứ không nên mất thời gian. Rồi đến thư điện tử và trò chuyện trực tuyến.
 
-Cách đặt ngón tay lên bàn phím, nhớ vị trí từng phím, gõ cho đúng rồi mới luyện tốc độ.
+Tuyết Mai tiếp thu nhanh. Tính tình lại thích những thứ mới mẻ nên chẳng bao lâu đã có thể tự mình mò mẫm.
 
-Sau đó là cách mở trình duyệt, tìm kiếm thông tin, đọc kết quả, phân biệt những nguồn đáng tin cậy với những thứ không nên mất thời gian.
+Nhược Vũ chậm hơn một chút. Cô không quá hứng thú với những trò mới lạ trên máy tính, nhưng lại rất chăm chú khi tìm kiếm những thứ mình quan tâm. Những tài liệu về Cổ Cầm, văn học, lịch sử và các vấn đề liên quan đến việc học thường khiến cô ngồi trước màn hình lâu hơn.
 
-Rồi đến thư điện tử và trò chuyện trực tuyến.
-
-Tuyết Mai tiếp thu nhanh, tính tình lại thích những thứ mới mẻ nên chẳng bao lâu đã có thể tự mình mò mẫm.
-
-Nhược Vũ chậm hơn một chút.
-
-Cô không quá hứng thú với những trò mới lạ trên máy tính, nhưng lại rất chăm chú khi tìm kiếm những thứ mình quan tâm. Những tài liệu về Cổ Cầm, văn học, lịch sử và các vấn đề liên quan đến việc học thường khiến cô ngồi trước màn hình lâu hơn.
-
-Phong Vũ cũng không vội.
-
-Có những lúc anh chỉ ngồi bên cạnh, để cô tự thao tác. Khi cô gặp chỗ nào không hiểu, anh mới chỉ cho một lần.
+Phong Vũ cũng không vội. Có những lúc anh chỉ ngồi bên cạnh, để cô tự thao tác. Khi cô gặp chỗ nào không hiểu, anh mới chỉ cho một lần.
 
 Dần dần, Nhược Vũ đã có thể tự mình tìm kiếm tài liệu, đọc thư điện tử và trao đổi với bạn bè qua mạng.
 
-Những cuộc trò chuyện giữa cô và Phong Vũ cũng bắt đầu xuất hiện trên màn hình máy tính.
-
-Có khi chỉ là một câu hỏi về một cuốn sách.
-
-Có khi là một đoạn tài liệu cô vừa tìm được.
-
-Cũng có lúc chỉ vài câu rất ngắn.
+Những cuộc trò chuyện giữa cô và Phong Vũ cũng bắt đầu xuất hiện trên màn hình máy tính. Có khi chỉ là một câu hỏi về một cuốn sách, có khi là một đoạn tài liệu cô vừa tìm được, cũng có lúc chỉ vài câu rất ngắn.
 
 Không có gì đặc biệt.
 
-Nhưng những điều nhỏ nhặt ấy cứ lặp lại qua từng ngày.
-
-Khoảng cách giữa hai người vốn chỉ mới gặp nhau chưa lâu, chẳng biết từ lúc nào đã trở nên tự nhiên hơn rất nhiều.
+Nhưng những điều nhỏ nhặt ấy cứ lặp lại qua từng ngày. Khoảng cách giữa hai người vốn chỉ mới gặp nhau chưa lâu, chẳng biết từ lúc nào đã trở nên tự nhiên hơn rất nhiều.
 
 Đúng ngày thứ mười lăm kể từ khi Phong Vũ trở về quê nghỉ hè, một cuộc điện thoại từ Bắc Đô đến vào buổi sáng.
 
 Phong Vũ nghe máy.
 
-Đầu dây bên kia là người quen đang làm việc trong một đơn vị liên quan đến dự án viễn thông.
-
-Sau vài câu hỏi thăm, người đó đi thẳng vào vấn đề.
+Đầu dây bên kia là người quen đang làm việc trong một đơn vị liên quan đến dự án viễn thông. Sau vài câu hỏi thăm, người đó đi thẳng vào vấn đề.
 
 Dự án triển khai mạng 3G đang cần bổ sung một số nhân sự nòng cốt.
 
@@ -2100,9 +2041,7 @@ Phong Vũ nằm trong danh sách được mời tham gia.
 
 Thời gian dự kiến khoảng một năm.
 
-Điều kiện đưa ra khá tốt.
-
-Nhân sự tham gia dự án sẽ được trang bị những thiết bị tiên tiến phục vụ công việc, trong đó có laptop cao cấp. Mức lương cũng cao hơn đáng kể so với những sinh viên công nghệ mới tốt nghiệp. Ngoài ra còn có chỗ ở riêng trong khu đô thị dành cho cán bộ và nhân tài, cùng chính sách thưởng dựa trên đóng góp thực tế cho dự án.
+Điều kiện đưa ra khá tốt. Nhân sự tham gia dự án sẽ được trang bị những thiết bị tiên tiến phục vụ công việc, trong đó có laptop cao cấp. Mức lương cũng cao hơn đáng kể so với những sinh viên công nghệ mới tốt nghiệp. Ngoài ra còn có chỗ ở riêng trong khu đô thị dành cho cán bộ và nhân tài, cùng chính sách thưởng dựa trên đóng góp thực tế cho dự án.
 
 Phong Vũ ngồi nghe hết.
 
@@ -2112,9 +2051,7 @@ Anh không cần suy nghĩ quá lâu.
 
 Sau khi cúp máy, anh nhìn ra ngoài sân.
 
-Kỳ nghỉ hè vốn còn khá dài.
-
-Nhưng nếu dự án đã cần người thì không có lý do gì để anh tiếp tục ở nhà chỉ vì đã định nghỉ một tháng.
+Kỳ nghỉ hè vốn còn khá dài. Nhưng nếu dự án đã cần người thì không có lý do gì để anh tiếp tục ở nhà chỉ vì đã định nghỉ một tháng.
 
 Phong Vũ quyết định sáng hôm sau sẽ trở lại Bắc Đô.
 
@@ -2134,13 +2071,11 @@ Khoảng bốn giờ chiều, cô đạp xe sang.
 ----------------------------------------------------------------
 
 
-# PHẦN XVII — BỮA TỐI CUỐI CÙNG
+PHẦN XVII — BỮA TỐI CUỐI CÙNG
 
 Tuyết Mai đã có mặt trong phòng từ trước.
 
-Phong Vũ gọi cả hai cô gái ngồi lại trước chiếc máy tính.
-
-Anh không vòng vo.
+Phong Vũ gọi cả hai cô gái ngồi lại trước chiếc máy tính. Anh không vòng vo.
 
 — Ngày mai anh phải quay lại Bắc Đô.
 
@@ -2150,9 +2085,7 @@ Tuyết Mai lập tức hỏi:
 
 — Anh nhận được lời mời tham gia một dự án về 3G. Dự án đang cần người nên anh phải đi sớm.
 
-Tuyết Mai có vẻ hơi tiếc.
-
-Nhược Vũ ngồi yên lặng.
+Tuyết Mai có vẻ hơi tiếc. Nhược Vũ ngồi yên lặng.
 
 Phong Vũ nhìn chiếc máy tính trước mặt.
 
@@ -2174,9 +2107,7 @@ Tuyết Mai nghe một lúc rồi gật gù.
 
 — Em hiểu rồi.
 
-Phong Vũ nhìn sang Nhược Vũ.
-
-Cô cũng gật đầu.
+Phong Vũ nhìn sang Nhược Vũ. Cô cũng gật đầu.
 
 — Em sẽ nhớ.
 
@@ -2184,21 +2115,13 @@ Phong Vũ khép chiếc máy tính lại.
 
 — Tốt.
 
-Sau đó anh để hai cô gái tự thao tác thêm một lúc.
-
-Tuyết Mai nhanh chóng bị cuốn vào màn hình.
-
-Phong Vũ không làm phiền cô nữa.
-
-Anh bước ra ngoài hiên.
+Sau đó anh để hai cô gái tự thao tác thêm một lúc. Tuyết Mai nhanh chóng bị cuốn vào màn hình, hết thử chức năng này lại chuyển sang chức năng khác. Phong Vũ không làm phiền cô nữa mà bước ra ngoài hiên.
 
 Nhược Vũ ngồi lại thêm một lát rồi cũng theo anh ra ngoài.
 
 Buổi tối mùa hè ở quê rất yên tĩnh.
 
-Hai người ngồi cách nhau một khoảng vừa phải trên chiếc ghế dài ngoài hiên.
-
-Một lúc lâu, Nhược Vũ mới hỏi:
+Hai người ngồi cách nhau một khoảng vừa phải trên chiếc ghế dài ngoài hiên. Một lúc lâu, Nhược Vũ mới hỏi:
 
 — Phong Vũ ca, tại sao anh có thể học nhanh như vậy?
 
@@ -2210,7 +2133,7 @@ Phong Vũ nhìn ra khoảng sân trước mặt.
 
 — Thực ra không có bí quyết gì đặc biệt.
 
-Anh suy nghĩ một lát.
+Anh suy nghĩ một lát rồi nói:
 
 — Có lẽ chỉ là phương pháp.
 
@@ -2222,7 +2145,7 @@ Nhược Vũ chờ anh nói tiếp.
 
 Phong Vũ nhìn cô.
 
-— Người xưa có một cách nói, anh rất thích: **tâm lĩnh thần hội**.
+— Người xưa có một cách nói, anh rất thích: tâm lĩnh thần hội.
 
 Nhược Vũ lặp lại:
 
@@ -2234,7 +2157,7 @@ Phong Vũ giải thích:
 
 — Nghĩa là không chỉ hiểu bằng đầu, mà phải cảm nhận được cái thần bên trong.
 
-Anh ngừng một chút rồi nói:
+Anh ngừng một chút rồi nói tiếp:
 
 — Ví dụ như văn học. Nếu em đọc một cuốn tiểu thuyết mà chỉ nhớ nhân vật tên gì, xảy ra chuyện gì, cuối cùng kết thúc ra sao thì em mới chỉ biết nội dung.
 
@@ -2244,19 +2167,15 @@ Nhược Vũ gật đầu.
 
 Phong Vũ nhìn cô.
 
-— Hôm trước anh kể em nghe về *Vạn dặm đường xa*. Nếu đọc câu chuyện ấy bằng con mắt của một người đứng ngoài, em chỉ thấy một cô gái đi tìm người mình yêu giữa chiến tranh.
+— Hôm trước anh kể em nghe về Vạn dặm đường xa. Nếu đọc câu chuyện ấy bằng con mắt của một người đứng ngoài, em chỉ thấy một cô gái đi tìm người mình yêu giữa chiến tranh.
 
 Anh nói chậm rãi:
 
 — Nhưng nếu thử đặt mình vào vị trí của cô ấy, thử nghĩ xem một người con gái phải chờ đợi bao nhiêu năm, rồi một mình đi qua một quãng đường dài như vậy, không biết người mình tìm còn sống hay đã chết... lúc ấy những câu chữ trong sách sẽ không còn giống nhau nữa.
 
-Nhược Vũ im lặng.
+Nhược Vũ im lặng. Phong Vũ nhìn ra khoảng sân tối rồi nói:
 
-— Cũng như khi đọc thơ.
-
-Phong Vũ nhìn lên bầu trời.
-
-— Có những bài thơ viết về sông nước, về anh hùng, về thành bại. Nếu chỉ phân tích từng câu, em có thể tìm ra rất nhiều ý nghĩa. Nhưng nếu không bước vào tâm cảnh của người viết, em vẫn chỉ đang đứng ngoài tác phẩm.
+— Cũng như khi đọc thơ. Có những bài thơ viết về sông nước, về anh hùng, về thành bại. Nếu chỉ phân tích từng câu, em có thể tìm ra rất nhiều ý nghĩa. Nhưng nếu không bước vào tâm cảnh của người viết, em vẫn chỉ đang đứng ngoài tác phẩm.
 
 Nhược Vũ hỏi:
 
@@ -2308,13 +2227,7 @@ Phong Vũ nói:
 
 — Anh không nghĩ em cần phải trở thành người đứng đầu lớp. Nếu em thật sự thích văn học, thích Cổ Cầm, thì cứ tìm cách hiểu những thứ mình thích. Những môn khác cũng học cho tốt. Một năm vẫn còn đủ thời gian.
 
-Nhược Vũ cúi mắt nhìn cuốn sách đặt bên cạnh.
-
-Cô bỗng cảm thấy câu nói ấy khác với những lời động viên mà mình từng nghe.
-
-Không phải “em phải thi được trường nào”.
-
-Cũng không phải “em phải đạt bao nhiêu điểm”.
+Nhược Vũ cúi mắt nhìn cuốn sách đặt bên cạnh. Cô bỗng cảm thấy câu nói ấy khác với những lời động viên mà mình từng nghe. Không phải “em phải thi được trường nào”, cũng không phải “em phải đạt bao nhiêu điểm”.
 
 Anh chỉ nói rằng cô vẫn còn thời gian để tìm ra con đường của mình.
 
@@ -2324,92 +2237,45 @@ Hai người ngồi yên một lúc.
 
 Không ai nói thêm.
 
+
 ---------------------------------------------------------------
 
 
 # PHẦN XX — CHIA TAY
 
-Đêm hôm đó trời không có trăng.
+Đêm hôm đó không có trăng.
 
-Sau bữa tối, Phong Vũ cùng Nhược Vũ đi bộ về phía nhà cô.
+Sau bữa tối, Phong Vũ cùng Nhược Vũ đi bộ về phía nhà cô. Con đường làng tối hơn những lần trước. Khi hai người đi ra khỏi khu dân cư, ánh sáng từ những căn nhà hai bên đường cũng thưa dần, chỉ còn vài ô cửa sáng xa xa.
 
-Con đường làng tối hơn những lần trước. Ánh sáng từ những căn nhà hai bên đường thưa dần khi họ đi ra khỏi khu dân cư.
+Phong Vũ lấy điện thoại trong túi ra, bật đèn soi đường. Ánh sáng nhỏ chỉ đủ chiếu xuống khoảng đất ngay trước chân. Đi được một đoạn, anh tắt đèn. Mắt dần quen với bóng tối, rồi cả con đường hiện ra mờ mờ dưới bầu trời đầy sao.
 
-Phong Vũ lấy chiếc điện thoại trong túi ra, bật đèn soi đường.
+Hai người đi song song. Tiếng bước chân nhẹ vang lên trên mặt đường, thi thoảng xen vào là tiếng côn trùng từ những bụi cây ven lối. Không ai nói chuyện, nhưng khoảng lặng ấy cũng không khiến cả hai thấy khó chịu.
 
-Ánh sáng nhỏ chỉ đủ chiếu một khoảng trước chân.
+Đi thêm một lúc, Phong Vũ chậm bước. Nhược Vũ cũng chậm lại theo.
 
-Đi được một đoạn, anh tắt đèn.
-
-Mắt dần quen với bóng tối.
-
-Trên cao là một bầu trời đầy sao.
-
-Hai người đi song song trên con đường làng.
-
-Tiếng bước chân nhẹ nhàng vang lên giữa khoảng không yên tĩnh. Thi thoảng có tiếng côn trùng từ những bụi cây ven đường vọng ra.
-
-Không ai nói chuyện.
-
-Nhưng cả hai đều không cảm thấy khoảng lặng ấy khó chịu.
-
-Đi được một lúc, Phong Vũ chậm bước.
-
-Nhược Vũ cũng chậm lại.
-
-Anh nhìn con đường phía trước rồi đưa tay ra.
+Anh nhìn con đường phía trước rồi đưa tay sang.
 
 — Em đưa tay đây, chúng ta sẽ vững bước hơn.
 
-Nhược Vũ nhìn bàn tay anh.
-
-Cô không hỏi gì, chỉ nhẹ nhàng đưa tay mình sang.
+Nhược Vũ nhìn bàn tay anh một lát, không hỏi gì, chỉ nhẹ nhàng đưa tay mình sang.
 
 — Vâng.
 
 Phong Vũ nắm lấy tay cô.
 
-Hai người tiếp tục bước.
+Hai người tiếp tục bước. Con đường vẫn tối, những đoạn đất gồ ghề vẫn nằm dưới chân, nhưng bước đi của cả hai dường như tự nhiên hơn. Bàn tay đang nắm lấy nhau khiến chẳng ai còn phải để ý quá nhiều đến con đường trước mặt.
 
-Con đường vẫn tối.
+Phong Vũ im lặng đi bên cạnh cô. Những ngày qua, anh đã quen với việc nhìn thấy Nhược Vũ, nói chuyện với cô, nghe cô chơi Cổ Cầm, cùng cô đọc sách và hướng dẫn cô sử dụng máy tính. Nhưng chỉ đến lúc này, giữa con đường tối và bàn tay đang nằm trong tay mình, anh mới mơ hồ nhận ra một cảm giác khác đang lớn lên.
 
-Bầu trời vẫn đầy sao.
+Có lẽ đây chính là thứ người ta gọi là tình yêu.
 
-Bàn tay nắm lấy nhau khiến bước chân của cả hai trở nên tự nhiên hơn, chẳng ai còn phải để ý đến những đoạn đường gồ ghề dưới chân.
+Ý nghĩ ấy chỉ thoáng qua rồi chìm xuống. Anh không nói ra.
 
-Phong Vũ im lặng đi bên cạnh cô.
+Nhược Vũ cũng không biết nên gọi cảm xúc của mình là gì. Cô chỉ biết bàn tay đang nắm lấy tay mình khiến lòng cô rất yên. Không cần nói chuyện, cũng chẳng cần làm gì khác. Chỉ cần bước đi bên cạnh người này, cô đã thấy bình yên.
 
-Đây là lần đầu tiên anh nhận ra một cảm giác rất khác.
+Chẳng mấy chốc, con đường về nhà đã đi hết. Ánh sáng từ căn nhà phía trước dần hiện ra, rồi hai người dừng lại trước cổng.
 
-Trong những ngày qua, anh đã quen với việc nhìn thấy cô, nói chuyện với cô, nghe cô chơi Cổ Cầm, cùng cô đọc sách và hướng dẫn cô sử dụng máy tính.
-
-Nhưng chỉ đến lúc này, khi bàn tay hai người nắm lấy nhau giữa con đường tối, anh mới mơ hồ hiểu được thứ cảm xúc đang lớn lên trong lòng mình.
-
-Có lẽ...
-
-Đây chính là thứ người ta gọi là tình yêu.
-
-Ý nghĩ ấy chỉ thoáng qua.
-
-Anh không nói ra.
-
-Nhược Vũ cũng không biết phải gọi cảm xúc của mình là gì.
-
-Cô chỉ biết bàn tay đang nắm lấy tay mình khiến lòng cô rất yên.
-
-Không cần nói chuyện.
-
-Không cần phải làm gì khác.
-
-Chỉ cần bước đi bên cạnh người này, cô đã cảm thấy bình yên.
-
-Con đường về nhà chẳng mấy chốc đã đi hết.
-
-Ánh sáng từ căn nhà phía trước dần hiện ra.
-
-Hai người dừng lại trước cổng.
-
-Phong Vũ vẫn nắm tay cô thêm một lát rồi mới nhẹ nhàng buông ra.
+Phong Vũ vẫn nắm tay cô thêm một lát mới nhẹ nhàng buông ra.
 
 — Sáng mai anh đi Bắc Đô.
 
@@ -2421,31 +2287,16 @@ Nhược Vũ nhìn anh.
 
 — Em biết rồi.
 
-Phong Vũ lấy điện thoại ra, bật đèn.
-
-Ánh sáng chiếu xuống ổ khóa.
-
-Nhược Vũ lấy chìa khóa mở cổng.
-
-Cô bước vào trong sân, rồi quay đầu lại.
+Phong Vũ lấy điện thoại ra, bật đèn. Ánh sáng nhỏ chiếu xuống ổ khóa. Nhược Vũ lấy chìa khóa mở cổng rồi bước vào sân, đến khi đi được vài bước mới quay đầu lại.
 
 Phong Vũ vẫn đứng bên ngoài.
 
-Hai người nhìn nhau qua cánh cổng.
-
-Không ai nói thêm gì.
-
-Một lát sau, Nhược Vũ khẽ gật đầu.
-
-Phong Vũ cũng gật đầu.
+Hai người nhìn nhau qua cánh cổng. Không ai nói thêm gì. Một lát sau, Nhược Vũ khẽ gật đầu. Phong Vũ cũng gật đầu.
 
 Cô quay người đi vào nhà.
 
-Phong Vũ đứng ngoài cổng thêm một lúc rồi mới xoay người trở về.
+Phong Vũ đứng ngoài cổng thêm một lúc rồi mới xoay người trở về. Con đường phía trước vẫn tối, chỉ có bầu trời đầy sao ở trên đầu và tiếng bước chân của anh vang lên giữa đêm làng yên tĩnh.
 
-Con đường phía trước vẫn tối.
-
-Anh bước đi một mình dưới bầu trời đầy sao.
 
 
 ---------------------------------------------------
