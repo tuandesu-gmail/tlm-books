@@ -3,7 +3,27 @@
 
 # HỒI 017 — THÁCH THỨC THƯƠNG TRƯỜNG
 
-## Trục chính của Hồi
+## Thời gian
+
+**Tháng 9 năm đó → cuối tháng 2 năm sau.**
+
+Khoảng **5–6 tháng**.
+
+Hồi 17 bắt đầu sau khi Nhược Vũ và Tuyết Mai đã nhập học tại Đại học Sư phạm Bắc Đô.
+
+Trong khoảng thời gian này:
+
+* Summer Light từ một công ty mới thành lập bắt đầu có dòng giao dịch thực sự.
+* Các vấn đề vận hành xuất hiện và lần lượt được giải quyết.
+* Khi quy mô tăng lên, tranh chấp giữa người mua và người bán bắt đầu xuất hiện.
+* Công ty thử nhiều cách để giảm rủi ro.
+* Cuối cùng nhận ra vấn đề không nằm ở một vài lỗi vận hành, mà nằm ở **cơ chế giao dịch hiện tại**.
+
+Hồi kết thúc vào khoảng **cuối tháng 2**, khi Phong Vũ nhận ra mô hình hiện tại đã chạm giới hạn.
+
+---
+
+# Trục chính của Hồi
 
 Có thể chia thành 5 giai đoạn:
 
@@ -13,11 +33,29 @@ Có thể chia thành 5 giai đoạn:
 → **Có tranh chấp**
 → **Nhận ra quy trình hiện tại không thể mở rộng**
 
-Như vậy cuối Hồi 17 mới xuất hiện câu hỏi dẫn sang Hồi 18:
+Cuối Hồi 17 mới xuất hiện câu hỏi dẫn sang Hồi 18:
 
 > **Nếu số lượng giao dịch còn tiếp tục tăng thì sao?**
 
-Và Hồi 18 mới trả lời bằng cú bẻ lái sang escrow.
+---
+
+# TUYẾN PHONG VŨ — NHƯỢC VŨ TRONG HỒI 17
+
+Đây là tuyến phụ, chỉ dùng để **duy trì sự liên tục của mối quan hệ**, không cạnh tranh với tuyến Summer Light.
+
+### Nguyên tắc
+
+* Không có một tuyến tình cảm riêng.
+* Không dựng những cuộc hẹn cuối tuần thành cảnh.
+* Không lặp lại không khí của Hồi 14.
+* Hai người có thể vẫn gặp nhau bình thường ở Bắc Đô, nhưng chỉ cần **một câu hoặc một đoạn văn lướt qua**.
+* **Chỉ có một phân cảnh hoàn chỉnh:** kỳ nghỉ Tết.
+* Phong Vũ bận với Summer Light, Nhược Vũ bận với năm nhất đại học.
+* Mối quan hệ lúc này đã trở nên tự nhiên hơn, không cần liên tục xác nhận bằng lời nói.
+
+Điểm quan trọng:
+
+> **Họ vẫn ở trong cuộc sống của nhau, nhưng cuộc sống của mỗi người đã bắt đầu có những con đường riêng.**
 
 ---
 
@@ -52,6 +90,24 @@ Anh cùng Hiểu Khánh sửa lỗi, điều chỉnh chức năng, xem phản h�
 Nhưng khi Version 1 tương đối ổn định, Phong Vũ bắt đầu chuyển trọng tâm sang kinh doanh.
 
 Đây chính là điều đã được đặt nền ở Hồi 16.
+
+### Tuyến Nhược Vũ
+
+Đây cũng là khoảng thời gian Nhược Vũ bắt đầu quen với cuộc sống sinh viên ở Bắc Đô.
+
+Hai người thỉnh thoảng gặp nhau vào cuối tuần.
+
+Không cần dựng thành cảnh.
+
+Chỉ cần một đoạn chuyển rất ngắn, chẳng hạn:
+
+> Nhược Vũ nhập học được một thời gian, cuộc sống của cô dần đi vào nề nếp. Cuối tuần, cô và Tuyết Mai thỉnh thoảng gặp Phong Vũ. Có khi chỉ là một bữa cơm, có khi là một quán cà phê gần trường. Những cuộc gặp không kéo dài, bởi Summer Light vừa bắt đầu chạy, còn hai cô gái cũng có những ngày đầu tiên của đời sống đại học.
+
+Đoạn này chỉ có nhiệm vụ nói với độc giả:
+
+**Họ vẫn gặp nhau.**
+
+Không cần thêm tình tiết.
 
 ---
 
@@ -230,7 +286,15 @@ Phần lớn thời gian bắt đầu nằm ở:
 * chiến lược;
 * điều hành.
 
-Đây là lúc “Phong Vũ đa năng” hiện ra tự nhiên.
+### Tuyến Nhược Vũ — chỉ lướt qua
+
+Có thể ở đây thêm một câu chuyển thời gian rất ngắn:
+
+> Cuối tuần, Phong Vũ vẫn thỉnh thoảng gặp Nhược Vũ và Tuyết Mai, nhưng những cuộc gặp ngày càng ngắn. Có những lần vừa ngồi xuống chưa lâu, điện thoại của anh đã đổ chuông vì một việc ở công ty.
+
+Không cần dựng cảnh.
+
+Chi tiết này chỉ cho thấy **áp lực công việc đang tăng dần**, đồng thời giải thích tại sao kỳ nghỉ Tết sau đó cũng phải rất ngắn.
 
 ---
 
@@ -458,7 +522,7 @@ Phong Vũ gật đầu.
 
 # PHẦN XVI — SUMMER LIGHT KHÔNG THẤT BẠI
 
-Phần này tôi nghĩ nên giữ, bởi nó rất quan trọng.
+Phần này nên giữ.
 
 Có thể nhìn bảng số liệu:
 
@@ -521,7 +585,109 @@ Nhưng lần này chính cô cũng nhận ra:
 
 ---
 
-# PHẦN XIX — CÀNG TĂNG, CÀNG KHÓ
+# PHẦN XIX — KỲ NGHỈ TẾT
+
+### Thời gian
+
+**Cuối tháng 1 / đầu tháng 2.**
+
+Đây là **phân cảnh tình cảm duy nhất của Hồi 17**.
+
+Không cần kéo dài quá **1.000–1.500 từ**.
+
+### Hoàn cảnh
+
+Summer Light đang bước vào giai đoạn bận rộn.
+
+Phong Vũ quyết định vẫn về quê đón Tết, nhưng chỉ có khoảng **ba ngày ở quê**.
+
+Tính cả thời gian đi đường, toàn bộ kỳ nghỉ chỉ khoảng **năm ngày**.
+
+Điều này khác rõ với Hồi 14, khi Phong Vũ có một kỳ nghỉ dài và dành rất nhiều thời gian bên Nhược Vũ. Hồi 14 đã hoàn thành nhiệm vụ phát triển mạnh tuyến tình cảm, nên Hồi 17 không lặp lại các hoạt động như đi chợ xuân, tặng quà, nghe đàn hay những cuộc trò chuyện dài. 
+
+### Nội dung cảnh
+
+Phong Vũ về nhà.
+
+Có thể dành một phần cho gia đình.
+
+Sau đó sang nhà Nhược Vũ.
+
+Hai gia đình đã quen thuộc với nhau từ trước.
+
+Không còn không khí của lần gặp đầu tiên.
+
+Nhược Vũ lúc này đã là **sinh viên năm nhất**.
+
+Cô có thể hỏi:
+
+— Công ty của anh thế nào rồi?
+
+Phong Vũ nói ngắn gọn về tình hình.
+
+Cô hỏi:
+
+— Anh ở nhà mấy ngày?
+
+— Ba ngày.
+
+— Ít vậy?
+
+— Công ty còn nhiều việc.
+
+Nhược Vũ không trách.
+
+Có thể chỉ nói:
+
+— Vậy ba ngày cũng được.
+
+Điểm quan trọng của cảnh không phải là một bước tiến tình cảm mới.
+
+Mà là cho thấy:
+
+**hai người đã quen với việc có nhau trong cuộc sống.**
+
+### Một chi tiết nên giữ
+
+Nếu điện thoại của Phong Vũ đổ chuông vì công việc, anh có thể nhìn qua.
+
+Nhưng trong lúc đang ở cùng gia đình hoặc Nhược Vũ, anh không lập tức biến cuộc gặp thành một cuộc họp.
+
+Điều đó cho thấy anh vẫn biết **khi nào cần làm việc và khi nào cần sống cuộc sống của mình**.
+
+Nhưng cũng không nên lý tưởng hóa kỳ nghỉ.
+
+Chỉ vài ngày sau, anh đã phải trở lại Bắc Đô.
+
+---
+
+# PHẦN XX — SAU TẾT
+
+**Tháng 2.**
+
+Phong Vũ trở lại Bắc Đô.
+
+Summer Light tiếp tục tăng trưởng.
+
+Nhưng số vụ phải can thiệp vào tranh chấp cũng tăng.
+
+Phong Vũ bắt đầu nhìn thấy một quy luật:
+
+> **Mỗi khi giao dịch tăng, số việc con người phải đứng giữa hai bên cũng tăng.**
+
+Tuyến Nhược Vũ không cần xuất hiện nữa.
+
+Cô trở lại trường, tiếp tục năm nhất.
+
+Phong Vũ trở lại công ty.
+
+Hai người tiếp tục liên lạc như bình thường.
+
+**Không cần dựng thành cảnh.**
+
+---
+
+# PHẦN XXI — CÀNG TĂNG, CÀNG KHÓ
 
 Phong Vũ, Bất Phàm và Mẫn Nghi nhìn lại số liệu.
 
@@ -543,7 +709,7 @@ Phong Vũ gật đầu.
 
 ---
 
-# PHẦN XX — NÚT THẮT
+# PHẦN XXII — NÚT THẮT
 
 Đây là đoạn kết của Hồi 17.
 
@@ -591,20 +757,20 @@ Hết Hồi 17.
 
 ---
 
-## Tôi nghĩ điểm cần giữ nhất của Hồi 17
+## Timeline tình cảm sau khi chỉnh
 
-Hồi này **không nên có cảm giác “Summer Light gặp rất nhiều khó khăn”**.
+Như vậy riêng Hồi 17 sẽ có đúng **ba mức độ xuất hiện**:
 
-Mà phải có cảm giác:
+**Đầu Hồi:**
+Nhắc qua việc hai người thỉnh thoảng gặp nhau ở Bắc Đô.
 
-> **Summer Light đang thắng, nhưng chính chiến thắng đang buộc họ phải thay đổi.**
+**Giữa Hồi:**
+Có thể nhắc lại một lần rất ngắn rằng những cuộc gặp cuối tuần vẫn tồn tại nhưng ngày càng ít thời gian hơn.
 
-Đây sẽ làm Hồi 18 — **Cú bẻ lái lịch sử** — mạnh hơn rất nhiều.
+**Tết:**
+**Một phân cảnh duy nhất, 1.000–1.500 từ**, là lần hai người thực sự ở cạnh nhau trong Hồi.
 
-Bởi Phong Vũ không tìm giải pháp vì công ty sắp phá sản.
+**Sau Tết:**
+Không cần thêm cảnh. Chỉ cần biết mỗi người trở lại cuộc sống của mình.
 
-Anh tìm giải pháp vì:
-
-> **mô hình hiện tại tốt, nhưng không đủ tốt để phục vụ quy mô mà họ nhìn thấy phía trước.**
-
-Và như vậy khi sang Hồi 18, câu hỏi về escrow sẽ không xuất hiện như một “ý tưởng thiên tài từ trên trời rơi xuống”, mà là **kết quả tất yếu của 8–9 tháng Summer Light va chạm với thị trường**.
+Như vậy tuyến tình cảm trong Hồi 17 sẽ giống một **dòng chảy dưới mặt nước**: độc giả không quên Nhược Vũ, nhưng cũng không có cảm giác Hồi này đang kể chuyện tình yêu. Và chính vì Phong Vũ chỉ có ba ngày Tết, Hồi 19–20 sau này mới có lý do để mở rộng thành **một khoảng thời gian thực sự dành cho Nhược Vũ**, sau khi Summer Light đã có kết quả tích cực vào tháng 6.
