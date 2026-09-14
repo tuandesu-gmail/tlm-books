@@ -193,7 +193,13 @@ Khung này được thiết kế đầy đủ các mục chuẩn mực của m�
 
 	2. Tránh kết thúc mục/chương bằng "lời kết luận" hay bài học đạo đức.
 
-	3. Tránh dùng nhân vật làm "loa phát thanh" cho tư tưởng tác giả.
+	3. Tránh dùng nhân vật làm "loa phát thanh" cho tư tưởng tác giả: 
+	
+	Tác giả không trực tiếp bước vào câu chuyện để giảng giải hay kết luận thay nhân vật. Tuy nhiên, tư tưởng và quan niệm của tác giả có thể được biểu đạt thông qua lời nói, hành động và cách nhìn của các nhân vật, miễn là phù hợp với thân phận, tính cách, tri thức, trải nghiệm và hoàn cảnh của họ.
+
+	Đặc biệt, mỗi nhân vật có thể trở thành một “cửa sổ” để người đọc nhìn thấy một tầng tư tưởng khác nhau của thế giới. Một thiền sư có thể nói về thiền và sinh tử; một nhà đầu tư có thể nói về tiền bạc và con người; một học giả có thể nói về triết học; một chính trị gia có thể nói về quốc gia; một võ giả có thể nói về võ đạo. Những tư tưởng ấy không nhất thiết phải là điều Phong Vũ đã hiểu, càng không cần phải được tác giả đứng ra xác nhận.
+
+	Tác giả ẩn mình, nhưng tư tưởng của tác giả không nhất thiết phải ẩn.
 
 
 
@@ -326,6 +332,8 @@ Phần còn lại để lại thành khoảng trống.
 
 > **Lỗ hổng là tác giả không biết.**
 > **Khoảng trống nghệ thuật là tác giả biết nhưng chủ động không nói hết.**
+
+Lưu ý: Điều này không nên hiểu máy móc như vậy, tác giả sẽ không tự nhảy vào nói, nhưng tùy ngữ cảnh mà sẽ thông qua lời các nhân vật để biểu đạt ý tứ. Ví dụ, hồi nói về Thiền sư Minh Tuệ, thì nhân vật Minh Tuệ có thể nói bất kỳ điều gì nếu nó đang phù hợp với vai 1 thiền sư.
 
 ---
 

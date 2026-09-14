@@ -6,7 +6,9 @@
 
 * QUAN TRỌNG:
 
-Không được lạm dụng thói quen viết mỗi câu 1 dòng, mà nên gom các câu cùng nói về 1 ý nào đó vào 1 đoạn văn ngắn. Ví dụ như sau cần hết sức tránh, trừ trường hợp đó là bài thơ hoặc nhịp văn cần chậm để mô tả cảm xúc nhân vật:
+Không được lạm dụng thói quen viết mỗi câu 1 dòng, mà nên gom các câu cùng nói về 1 ý nào đó vào 1 đoạn văn ngắn. Hãy coi việc mỗi cau lẻ một dòng để tạo nhịp là một thủ pháp đặc biệt, không phải cách trình bày mặc định. Trong một Hồi chỉ nên có khoảng 2–3 chỗ thực sự cần những câu đứng riêng để tạo lực cho cảnh; phần còn lại phải là văn xuôi liền mạch.
+
+Ví dụ như sau cần hết sức tránh, trừ trường hợp đó là bài thơ hoặc nhịp văn cần chậm để mô tả cảm xúc nhân vật:
 
 - Ví dụ cách viết sai:
 
@@ -84,6 +86,8 @@ Quy ước bạn muốn không phải là:
 Mà đúng hơn phải là:
 
 Tác giả không được tự kết luận, phán xét hoặc giải thích thay cho nhân vật những điều mà bản thân nhân vật chưa thể hiện hoặc chưa có cơ sở để biết.
+
+Lưu ý: Điều này không nên hiểu máy móc như vậy, tác giả sẽ không tự nhảy vào nói, nhưng tùy ngữ cảnh mà sẽ thông qua lời các nhân vật để biểu đạt ý tứ. Ví dụ, hồi nói về Thiền sư Minh Tuệ, thì nhân vật Minh Tuệ có thể nói bất kỳ điều gì nếu nó đang phù hợp với vai 1 thiền sư.
 
 ---
 
