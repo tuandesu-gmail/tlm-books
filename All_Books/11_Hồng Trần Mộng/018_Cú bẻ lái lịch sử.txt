@@ -1,0 +1,3428 @@
+
+# HỒI 18 — CÚ BẺ LÁI LỊCH SỬ
+
+------------------------------------
+
+
+## PHẦN I — CUỘC HỌP CUỐI THÁNG HAI
+
+Cuối tháng hai, Bắc Đô bắt đầu có những ngày ấm hơn.
+
+Buổi sáng hôm ấy, nắng chiếu qua những ô cửa kính của căn nhà ba tầng, trải xuống nền gỗ những vệt sáng dài. Trong phòng làm việc ở tầng hai, tiếng bàn phím vẫn đều đều vang lên. Một nhân viên vừa nghe điện thoại vừa ghi lại địa chỉ giao hàng, người khác đang kiểm tra những sản phẩm mới được đưa lên hệ thống. Ở cuối phòng, máy in thỉnh thoảng lại chạy, kéo ra từng tờ giấy.
+
+Summer Light đã quen với nhịp sống ấy.
+
+Không còn cảnh mọi người cùng đứng quanh một chiếc máy tính để chờ một giao dịch đầu tiên như những tháng đầu. Cũng không còn chuyện mỗi người phải biết gần như mọi việc trong công ty. Những công việc lặp lại đã có người phụ trách, những vấn đề thường gặp đã có cách xử lý, còn những quyết định quan trọng mới được đưa lên nhóm sáng lập.
+
+Mẫn Nghi bước vào phòng họp sau chín giờ.
+
+Trên tay cô là một tập giấy khá dày.
+
+Phong Vũ đã ngồi trước bảng trắng. Bất Phàm ở phía đối diện đang xem một bản báo cáo, Hiểu Khánh mở máy tính, còn Thanh Thảo vừa đặt xuống bàn một cốc trà nóng.
+
+Mẫn Nghi kéo ghế ngồi xuống.
+
+— Mình bắt đầu nhé?
+
+Không ai phản đối.
+
+Cô đặt tập giấy trước mặt, lật đến trang đầu tiên.
+
+— Số người bán trong tháng này tăng khoảng hai mươi phần trăm so với tháng trước. Số sản phẩm mới cũng tăng. Lượng đơn hàng tăng nhanh hơn hai chỉ số đó một chút.
+
+Thanh Thảo cúi xuống nhìn bản báo cáo trước mặt mình.
+
+— Lượng người truy cập cũng tăng.
+
+— Ừ.
+
+Mẫn Nghi lật sang trang tiếp theo.
+
+— Doanh thu tăng theo số giao dịch. Tỷ lệ khách quay lại cũng không tệ.
+
+Bất Phàm khẽ gật đầu.
+
+Những con số này đều đáng mừng. Không có chỉ số nào cho thấy hoạt động của Summer Light đang chậm lại. Trái lại, vài tháng gần đây tốc độ tăng trưởng còn rõ hơn trước.
+
+Mẫn Nghi tiếp tục:
+
+— Có điều, số trường hợp phải can thiệp cũng tăng.
+
+Thanh Thảo ngẩng lên.
+
+— Tăng nhiều không?
+
+— Không nhiều nếu tính theo tỷ lệ.
+
+Mẫn Nghi dừng một chút rồi nói tiếp:
+
+— Nhưng nếu tính theo số lượng thì đã bắt đầu khác trước.
+
+Cô lật thêm vài trang.
+
+Những trường hợp cần nhân viên can thiệp không phải đều là tranh chấp nghiêm trọng. Phần lớn chỉ là những việc nhỏ: người mua hỏi về tình trạng đơn hàng, người bán chưa cập nhật thông tin, hàng giao chậm, hai bên hiểu khác nhau về mô tả sản phẩm. Có những trường hợp chỉ cần một cuộc điện thoại là xong.
+
+Nhưng cũng có những trường hợp không đơn giản như vậy.
+
+Một người mua nói sản phẩm không đúng mô tả.
+
+Người bán khẳng định đã gửi đúng sản phẩm.
+
+Một người khác nhận hàng muộn hơn dự kiến và muốn hủy đơn.
+
+Lại có người bán cho rằng khách hàng cố tình kéo dài thời gian xác nhận.
+
+Mẫn Nghi đã quen với việc xử lý những chuyện ấy. Cô biết phải kiểm tra thông tin nào trước, cần liên hệ với ai, khi nào nên gọi điện và khi nào chỉ cần gửi một email.
+
+Công ty chưa từng vì một vụ tranh chấp mà mất ngủ.
+
+Nhưng những vụ việc nhỏ cộng lại đang chiếm ngày càng nhiều thời gian.
+
+Bất Phàm xem hết mấy trang trước mặt, sau đó mới hỏi:
+
+— Một người xử lý được bao nhiêu trường hợp trong một ngày?
+
+Mẫn Nghi suy nghĩ.
+
+— Còn tùy loại.
+
+— Lấy mức trung bình.
+
+— Nếu chỉ là những việc đơn giản thì khá nhiều. Nhưng nếu phải xác minh hai bên, xem lại thông tin đơn hàng, gọi điện và theo dõi đến khi kết thúc thì không nhiều.
+
+Bất Phàm gật đầu.
+
+Anh không hỏi tiếp ngay.
+
+Phong Vũ vẫn ngồi yên, mắt nhìn những con số trên bảng.
+
+Hiểu Khánh dùng chuột kéo xuống phần báo cáo hệ thống.
+
+— Phần lớn dữ liệu đã có rồi — anh nói. — Nếu chỉ để nhân viên tìm thông tin nhanh hơn thì có thể cải thiện.
+
+Mẫn Nghi gật đầu.
+
+— Có thể giảm thời gian xử lý từng trường hợp.
+
+Thanh Thảo nói:
+
+— Nếu khách hàng tự xem được nhiều thông tin hơn thì cũng bớt phải hỏi.
+
+Không ai phản đối.
+
+Đó đều là những việc có thể làm.
+
+Bất Phàm dựa lưng vào ghế. Anh nhìn lại tập giấy trước mặt một lần nữa. Một lát sau, anh hỏi:
+
+— Nếu số giao dịch tăng gấp mười lần thì sao?
+
+Câu hỏi rơi xuống giữa căn phòng.
+
+Mẫn Nghi không trả lời ngay.
+
+Cô nhìn những con số trước mặt, rồi nhìn đến danh sách các trường hợp đã xử lý trong tháng. Nếu giao dịch tăng gấp mười lần mà tỷ lệ phát sinh vấn đề vẫn giữ nguyên, số trường hợp cần can thiệp cũng sẽ tăng theo.
+
+Có thể tuyển thêm người.
+
+Có thể xây thêm công cụ.
+
+Có thể chia công việc thành nhiều nhóm hơn.
+
+Nhưng đến một lúc nào đó, tất cả những thứ ấy vẫn phải dựa trên cùng một cách làm.
+
+Hiểu Khánh cũng không nói gì.
+
+Cậu nhìn màn hình, nhưng rõ ràng không còn nhìn những dòng dữ liệu trước mắt nữa.
+
+Thanh Thảo chống tay lên bàn.
+
+— Nếu tăng gấp mười lần thì chắc chắn không thể chỉ làm như hiện tại.
+
+Bất Phàm nhìn cô.
+
+— Ý em là gì?
+
+— Không phải không làm được. Nhưng lúc đó bộ phận xử lý sẽ trở thành một bộ phận rất lớn.
+
+Mẫn Nghi khẽ gật đầu.
+
+Cô hiểu điều ấy rõ hơn bất kỳ ai trong phòng.
+
+Một giao dịch có vấn đề không đáng kể.
+
+Mười giao dịch cũng không đáng kể.
+
+Nhưng nếu số giao dịch tăng lên rất nhiều, những trường hợp chỉ chiếm một phần nhỏ vẫn đủ trở thành một công việc riêng.
+
+Phong Vũ đứng dậy.
+
+Anh đi đến trước bảng trắng, nhìn những dòng số liệu Mẫn Nghi vừa viết.
+
+— Hiện tại mỗi ngày có bao nhiêu giao dịch?
+
+Hiểu Khánh trả lời con số.
+
+Phong Vũ hỏi tiếp:
+
+— Trong đó có bao nhiêu trường hợp cần người can thiệp?
+
+Mẫn Nghi đưa ra tỷ lệ gần đúng.
+
+Phong Vũ nhẩm tính trong đầu.
+
+Anh không nói gì.
+
+Bất Phàm nhìn anh.
+
+— Nếu chỉ tăng người thì vẫn giải quyết được.
+
+Phong Vũ gật đầu.
+
+— Với quy mô hiện tại.
+
+Bất Phàm không nói nữa.
+
+Căn phòng trở lại yên tĩnh. Ngoài cửa kính, một cành cây vừa nhú những chiếc lá non. Tiếng xe từ con đường phía dưới vọng lên rồi nhanh chóng chìm vào tiếng máy điều hòa.
+
+Mẫn Nghi thu lại những tờ giấy.
+
+— Em có thể tiếp tục cải thiện quy trình. Những trường hợp giống nhau xử lý nhanh hơn sẽ giảm được khá nhiều thời gian.
+
+— Làm đi — Phong Vũ nói. — Những thứ có thể cải thiện ngay thì cứ cải thiện.
+
+Mẫn Nghi gật đầu.
+
+Phong Vũ quay lại nhìn bảng.
+
+Không ai trong phòng cho rằng Summer Light đang gặp nguy hiểm. Công ty vẫn có thêm người bán, thêm khách hàng, thêm sản phẩm và thêm giao dịch. Những gì họ đã xây dựng trong gần một năm qua đang vận hành tốt hơn từng tháng.
+
+Chính vì vậy, câu hỏi của Bất Phàm mới đáng để giữ lại.
+
+Nếu mọi thứ tiếp tục tăng lên thì sao?
+
+Không phải ngày mai.
+
+Cũng chưa phải tháng sau.
+
+Nhưng nếu một ngày Summer Light có số giao dịch gấp mười lần hiện tại, cách làm hôm nay liệu còn phù hợp?
+
+Phong Vũ cầm bút, nhưng không viết gì lên bảng.
+
+Anh chỉ nhìn những con số thêm một lúc rồi đặt bút xuống.
+
+— Được rồi. Chúng ta chuyển sang việc tiếp theo.
+
+
+-------------------------------------------------------------
+
+
+# PHẦN II — LÀM TỐT HƠN CÓ ĐỦ KHÔNG?
+
+Cuộc họp không kết thúc ngay sau câu hỏi của Bất Phàm.
+
+Mẫn Nghi thu lại tập báo cáo, nhưng chưa đứng lên. Cô lật đến những trang ghi chép về các trường hợp đã xử lý trong tháng, đặt chúng cạnh máy tính rồi nói:
+
+— Nếu vấn đề nằm ở thời gian xử lý, chúng ta có thể giảm thời gian đó xuống.
+
+Hiểu Khánh nhìn sang cô.
+
+— Bằng cách nào?
+
+— Những trường hợp giống nhau thì xử lý theo cùng một quy trình. Hiện giờ có nhiều việc phải hỏi lại từ đầu vì thông tin nằm ở những chỗ khác nhau.
+
+Cô lấy một tờ giấy ra, viết vài dòng.
+
+— Người mua báo hàng chưa đến. Nhân viên phải kiểm tra đơn hàng, sau đó xem thông tin giao hàng, rồi mới liên hệ với người bán nếu cần. Nếu những thông tin này được gom lại một chỗ thì nhân viên không phải tìm từng thứ.
+
+Hiểu Khánh gật đầu.
+
+— Phần đó làm được.
+
+— Còn những câu hỏi thường gặp, chúng ta có thể để khách hàng tự xem trước. Nếu họ biết đơn hàng đang ở đâu, đã được gửi chưa, người bán đã xác nhận chưa, sẽ bớt rất nhiều cuộc gọi.
+
+Thanh Thảo lập tức tiếp lời:
+
+— Cái này em làm được. Phần thông tin dành cho khách hàng hiện tại còn khá đơn giản.
+
+Hiểu Khánh kéo chiếc máy tính về phía mình.
+
+— Nếu muốn làm vậy thì phải bổ sung thêm một số trạng thái cho đơn hàng.
+
+— Không cần quá nhiều — Thanh Thảo nói. — Người mua không cần biết hệ thống bên trong chạy thế nào. Họ chỉ cần biết hàng đang ở đâu và mình cần làm gì tiếp theo.
+
+Hiểu Khánh suy nghĩ một lúc rồi gật đầu.
+
+— Được. Có thể thiết kế lại phần hiển thị.
+
+Bất Phàm vẫn đang xem báo cáo.
+
+— Còn phía người bán?
+
+Mẫn Nghi nhìn anh.
+
+— Người bán cũng cần cải thiện.
+
+— Cụ thể?
+
+— Có những người không cập nhật tình trạng đơn hàng. Có người gửi hàng rồi nhưng quên thông báo. Có người mô tả sản phẩm quá sơ sài, đến lúc khách hỏi lại thì mất thời gian giải thích.
+
+Bất Phàm gõ nhẹ ngón tay lên mặt bàn.
+
+— Nếu yêu cầu họ điền quá nhiều thứ ngay từ đầu thì sao?
+
+Thanh Thảo nói:
+
+— Họ sẽ không muốn đăng sản phẩm.
+
+— Đúng.
+
+Bất Phàm đặt báo cáo xuống.
+
+— Người bán mới vốn đã phải học cách sử dụng hệ thống. Nếu mỗi sản phẩm đều phải qua quá nhiều bước, chúng ta sẽ tự làm khó mình.
+
+Mẫn Nghi suy nghĩ.
+
+— Nhưng nếu không yêu cầu đủ thông tin thì người mua lại gặp vấn đề.
+
+— Vậy phải tìm phần nào thực sự cần thiết.
+
+Cuộc nói chuyện tiếp tục xoay quanh những việc rất cụ thể.
+
+Có thể bắt người bán xác nhận đơn trước khi giao hàng. Có thể nhắc tự động nếu quá thời gian mà chưa cập nhật. Có thể để khách hàng đánh giá sau khi nhận hàng. Những người bán có lịch sử giao dịch tốt có thể được hiển thị rõ hơn. Những trường hợp bất thường có thể được hệ thống đánh dấu để nhân viên kiểm tra trước.
+
+Hiểu Khánh bắt đầu ghi lại từng đề xuất.
+
+Cậu không nói nhiều, nhưng cứ mỗi khi một ý tưởng xuất hiện, cậu lại hỏi thêm một hoặc hai câu để biết nó sẽ được đưa vào hệ thống như thế nào. Càng nói, danh sách việc cần làm càng dài.
+
+Phong Vũ vẫn ngồi nghe.
+
+Anh không phản đối bất kỳ đề xuất nào.
+
+Thực ra, phần lớn đều đáng làm.
+
+Nếu thông tin đầy đủ hơn, tranh chấp sẽ giảm. Nếu người mua nhìn thấy tình trạng đơn hàng rõ hơn, số cuộc gọi sẽ giảm. Nếu người bán được nhắc nhở đúng lúc, nhiều đơn hàng sẽ không bị chậm. Nếu những trường hợp giống nhau được xử lý theo cùng một cách, Mẫn Nghi và những người khác sẽ không phải mất thời gian suy nghĩ lại từ đầu.
+
+Summer Light hoàn toàn có thể làm tốt hơn.
+
+Mẫn Nghi nhìn những ghi chép trước mặt.
+
+— Nếu làm hết những việc này, khối lượng công việc của bộ phận em có thể giảm đáng kể.
+
+— Bao nhiêu? — Phong Vũ hỏi.
+
+Cô không đưa ra một con số cụ thể.
+
+— Khó nói. Nhưng chắc chắn sẽ giảm.
+
+Phong Vũ gật đầu.
+
+— Tốt.
+
+Anh không nói thêm.
+
+Cuộc họp tiếp tục sang một vấn đề khác.
+
+Bất Phàm đề nghị cải thiện thông tin dành cho người bán. Thanh Thảo muốn thử một cách đơn giản hơn để khách hàng đánh giá sau khi nhận hàng. Hiểu Khánh nói một số thay đổi có thể làm ngay, một số khác cần sửa phần lõi của hệ thống.
+
+Đến gần trưa, trên bảng trắng đã kín những dòng chữ.
+
+Không có đề xuất nào quá lớn. Phần lớn chỉ là những cải tiến nhỏ, nhưng cộng lại có thể khiến Summer Light vận hành trơn tru hơn rất nhiều.
+
+Mẫn Nghi nhìn bảng rồi nói:
+
+— Nếu cứ sửa từng chỗ như thế này, chắc chắn sẽ tốt hơn hiện tại.
+
+Phong Vũ nhìn những dòng chữ trước mặt.
+
+— Anh cũng nghĩ vậy.
+
+Bất Phàm cầm tập báo cáo lên, lật lại vài trang.
+
+— Vấn đề là chúng ta đang nói về hiện tại.
+
+Mọi người nhìn sang anh.
+
+Bất Phàm không giải thích ngay. Anh lấy bút tính nhanh vài con số ở góc tờ giấy, sau đó đặt bút xuống.
+
+— Những cách này đều giúp giảm công việc trên mỗi giao dịch. Nhưng nếu số giao dịch tăng rất mạnh thì tổng số việc vẫn tăng.
+
+Mẫn Nghi hiểu ngay ý anh.
+
+— Ý anh là tỷ lệ có thể giảm, nhưng số lượng tuyệt đối vẫn tăng?
+
+— Đúng.
+
+Hiểu Khánh nhìn lên bảng.
+
+— Nếu tỷ lệ trường hợp cần can thiệp giảm từ hai phần trăm xuống một phần trăm, nhưng số giao dịch tăng gấp mười lần, số trường hợp thực tế vẫn tăng gấp năm.
+
+— Chính xác.
+
+Thanh Thảo dựa lưng vào ghế.
+
+— Nhưng công ty vẫn có thể tuyển thêm người.
+
+Bất Phàm nhìn cô.
+
+— Có thể.
+
+Anh nói rất bình thản, không phủ nhận điều đó.
+
+— Với quy mô hiện tại, không có gì đáng lo. Nếu tăng lên vài lần, chúng ta vẫn có thể tuyển người. Nhưng nếu mỗi lần quy mô tăng thì chúng ta lại phải tăng số người xử lý theo, bộ phận đó sẽ lớn rất nhanh.
+
+Mẫn Nghi nhìn lại những trường hợp mình vừa xử lý trong tháng.
+
+Cô không thấy điều gì bất thường.
+
+Nhưng cô biết có những ngày chỉ vài việc nhỏ cũng đủ chiếm gần hết buổi sáng.
+
+Nếu số lượng tăng lên mười lần, những việc nhỏ ấy sẽ không còn nhỏ nữa.
+
+Phong Vũ đứng dậy, đi đến trước bảng. Anh nhìn những dòng chữ mà mọi người vừa viết lên, rồi cầm bút khoanh lại một nhóm.
+
+Thông tin sản phẩm.
+
+Theo dõi đơn hàng.
+
+Nhắc người bán.
+
+Đánh giá.
+
+Tự động hóa.
+
+Chuẩn hóa quy trình.
+
+Tất cả đều nằm ở những vị trí khác nhau, nhưng cùng có một điểm chung.
+
+Chúng làm cho **việc xử lý một giao dịch trở nên hiệu quả hơn**.
+
+Phong Vũ hỏi:
+
+— Nếu chúng ta làm tất cả những việc này, chuyện gì vẫn không thay đổi?
+
+Không ai trả lời ngay.
+
+Anh không thúc giục.
+
+Mẫn Nghi nhìn bảng một lúc lâu rồi nói:
+
+— Khi có tranh chấp, chúng ta vẫn phải đứng ra xử lý.
+
+Phong Vũ gật đầu.
+
+— Còn gì nữa?
+
+Bất Phàm nói:
+
+— Tiền vẫn đã chuyển cho người bán.
+
+Phong Vũ quay sang anh.
+
+— Đúng.
+
+Hiểu Khánh cũng nhìn lại sơ đồ giao dịch cũ đang nằm ở góc bảng.
+
+Người mua thanh toán.
+
+Người bán nhận tiền.
+
+Sau đó hàng mới được giao.
+
+Nếu mọi thứ thuận lợi, không có vấn đề gì.
+
+Nhưng nếu có vấn đề, Summer Light phải bước vào giữa.
+
+Phong Vũ đặt bút xuống.
+
+— Vậy những việc chúng ta vừa nói đều đáng làm. Nhưng chúng chỉ giúp chúng ta xử lý tốt hơn sau khi vấn đề xảy ra.
+
+Anh nhìn mọi người.
+
+— Có cách nào khiến chúng ta không phải xử lý nhiều vấn đề như vậy ngay từ đầu không?
+
+Lần này không ai trả lời ngay.
+
+Câu hỏi nằm lại giữa căn phòng lâu hơn những câu hỏi trước đó.
+
+
+---------------------------------------------------------
+
+
+## PHẦN III — PHONG VŨ ĐỔI CÂU HỎI
+
+Phong Vũ không trả lời câu hỏi của chính mình ngay.
+
+Anh kéo chiếc ghế gần bảng lại, ngồi xuống rồi lấy tập hồ sơ Mẫn Nghi vừa mang vào lúc đầu cuộc họp. Trong đó có vài trường hợp tranh chấp đã được giải quyết trong những tháng trước. Anh lật qua từng trang, dừng lại ở một đơn hàng rồi đưa cho Mẫn Nghi.
+
+— Trường hợp này đã xử lý thế nào?
+
+Mẫn Nghi nhìn qua.
+
+— Người mua nói sản phẩm không giống mô tả. Người bán khẳng định đã gửi đúng hàng. Bên em liên hệ với cả hai, yêu cầu người mua gửi hình ảnh, sau đó đối chiếu với thông tin người bán đăng trên hệ thống.
+
+— Cuối cùng?
+
+— Hai bên thống nhất đổi hàng.
+
+Phong Vũ nhìn xuống phần ghi chú.
+
+— Mất bao lâu?
+
+— Gần hai ngày.
+
+Anh gật đầu, lật sang trường hợp khác.
+
+Lần này người mua nói hàng chưa được giao. Người bán cho rằng đã gửi từ hôm trước. Nhân viên phải liên hệ với người bán, kiểm tra thông tin giao hàng rồi gọi lại cho người mua.
+
+Phong Vũ hỏi:
+
+— Trường hợp này?
+
+— Một ngày rưỡi.
+
+Anh tiếp tục xem.
+
+Có trường hợp chỉ mất vài giờ. Có trường hợp kéo dài ba ngày. Có trường hợp cuối cùng chẳng có tranh chấp gì nghiêm trọng, chỉ vì một bên không biết phải làm gì tiếp theo nên gọi cho Summer Light.
+
+Phong Vũ đặt tập hồ sơ xuống.
+
+Những trường hợp này khác nhau về nguyên nhân, nhưng trình tự phía sau lại khá giống nhau.
+
+Một giao dịch bắt đầu.
+
+Tiền được thanh toán.
+
+Người bán nhận tiền.
+
+Hàng được gửi đi.
+
+Sau đó mới xuất hiện vấn đề.
+
+Anh quay sang Mẫn Nghi.
+
+— Khi người mua khiếu nại, điều khó nhất là gì?
+
+Mẫn Nghi không cần xem lại hồ sơ.
+
+— Tiền đã chuyển rồi.
+
+Phong Vũ nhìn cô.
+
+Mẫn Nghi nói tiếp:
+
+— Nếu tiền chưa chuyển thì đơn giản hơn. Nhưng khi người bán đã nhận tiền, mà người mua lại nói hàng có vấn đề, bên em phải xử lý cả chuyện hàng hóa lẫn tiền.
+
+— Nếu người bán không đồng ý trả lại?
+
+— Thì phải tiếp tục làm rõ.
+
+Phong Vũ gật đầu.
+
+Anh cầm bút, trên bảng viết hai dòng ngắn.
+
+Người mua.
+
+Người bán.
+
+Bên dưới mỗi dòng, anh viết một chữ: tiền.
+
+Bất Phàm nhìn lên bảng.
+
+Phong Vũ hỏi:
+
+— Còn phía người bán?
+
+Bất Phàm hiểu câu hỏi.
+
+— Nếu người bán giao hàng trước mà chưa nhận được tiền thì họ cũng phải chịu rủi ro.
+
+— Rủi ro gì?
+
+— Không nhận được tiền, hoặc nhận chậm hơn dự kiến.
+
+Bất Phàm ngừng một chút rồi nói:
+
+— Đặc biệt với những người bán nhỏ, tiền hàng quay vòng rất quan trọng. Họ sẽ không muốn giao hàng cho một người mà họ không biết, nếu không chắc chắn mình sẽ được thanh toán.
+
+Phong Vũ không nói gì.
+
+Anh nhìn hai dòng chữ trên bảng.
+
+Người mua sợ mất tiền.
+
+Người bán sợ mất hàng.
+
+Một bên phải trả tiền trước khi biết chắc hàng sẽ đến đúng như mong muốn. Một bên phải giao hàng trước khi biết chắc tiền sẽ đến tay mình.
+
+Summer Light đứng giữa hai người.
+
+Trước đây, họ chỉ nghĩ nhiệm vụ của mình là giúp hai bên tìm thấy nhau.
+
+Khi có vấn đề, họ đứng ra giải quyết.
+
+Nhưng càng xem những trường hợp này, Phong Vũ càng thấy có điều không ổn.
+
+Anh lấy một hồ sơ khác.
+
+— Trường hợp này, người mua đã thanh toán lúc nào?
+
+Mẫn Nghi xem lại.
+
+— Ngay sau khi đặt hàng.
+
+— Người bán nhận tiền?
+
+— Cũng gần như ngay sau đó.
+
+Phong Vũ hỏi:
+
+— Hàng được giao lúc nào?
+
+— Ngày hôm sau.
+
+Anh gật đầu.
+
+Ba mốc thời gian.
+
+Thanh toán.
+
+Nhận tiền.
+
+Giao hàng.
+
+Không có gì bất thường nếu giao dịch diễn ra thuận lợi.
+
+Nhưng giữa lúc người mua thanh toán và lúc người mua thực sự nhận được hàng, giao dịch vẫn chưa hoàn tất. Trong khoảng thời gian đó, tiền đã rời khỏi tay người mua nhưng cũng đã đến tay người bán.
+
+Nếu xảy ra chuyện, Summer Light phải tìm cách đưa giao dịch quay trở lại trạng thái chưa hoàn tất.
+
+Phong Vũ đặt hồ sơ xuống.
+
+— Chúng ta đang xử lý tranh chấp ở đâu?
+
+Mẫn Nghi nhìn anh.
+
+— Sau khi nó xảy ra.
+
+— Còn tiền?
+
+— Đã chuyển.
+
+— Nghĩa là?
+
+Mẫn Nghi im lặng vài giây.
+
+— Muốn giải quyết thì phải xử lý cả khoản tiền đã chuyển.
+
+Phong Vũ gật đầu.
+
+Anh không nói rằng cách làm hiện tại sai. Bởi trong phần lớn giao dịch, nó vẫn hoạt động. Người mua trả tiền, người bán nhận tiền, hàng được gửi đi. Nếu mọi thứ thuận lợi thì không có vấn đề gì.
+
+Vấn đề chỉ xuất hiện ở khoảng thời gian giữa hai việc.
+
+Tiền đã được chuyển, nhưng giao dịch chưa thực sự kết thúc.
+
+Phong Vũ quay sang Bất Phàm.
+
+— Nếu người bán giao hàng rồi mà chưa nhận được tiền thì sao?
+
+Bất Phàm dựa người vào ghế.
+
+— Họ sẽ không muốn làm.
+
+— Tại sao?
+
+— Vì họ phải tin người mua.
+
+Phong Vũ hỏi:
+
+— Còn người mua?
+
+Bất Phàm nhìn lại những hồ sơ trên bàn.
+
+— Cũng phải tin người bán.
+
+Không ai nói thêm.
+
+Căn phòng yên tĩnh hơn lúc đầu.
+
+Hiểu Khánh khép màn hình máy tính lại một nửa, nhìn lên bảng. Thanh Thảo cũng không còn xem những ghi chú trước mặt.
+
+Phong Vũ đứng dậy.
+
+Anh đi đến cửa sổ, nhìn xuống con đường phía dưới. Một chiếc xe tải nhỏ vừa dừng trước cửa một cửa hàng. Người giao hàng mang hai thùng giấy xuống, đặt trước cửa rồi quay lại xe.
+
+Anh đứng đó vài giây rồi trở về bàn.
+
+— Chúng ta cứ nghĩ vấn đề nằm ở chỗ người mua và người bán không đủ tin nhau.
+
+Bất Phàm nói:
+
+— Thực tế đúng là như vậy.
+
+— Nhưng chúng ta không thể khiến họ tin nhau.
+
+Bất Phàm không trả lời.
+
+Phong Vũ ngồi xuống.
+
+— Cũng không thể đứng giữa từng giao dịch để giải quyết thay họ.
+
+Mẫn Nghi hiểu ý anh.
+
+— Nếu số lượng giao dịch tăng lên, việc đó sẽ càng nhiều.
+
+Phong Vũ gật đầu.
+
+Anh nhìn lại tập hồ sơ.
+
+Mỗi tranh chấp đều bắt đầu từ một người mua và một người bán không còn tin tưởng nhau. Nhưng trước khi tranh chấp xảy ra, cả hai đã phải chấp nhận một rủi ro nào đó.
+
+Người mua đưa tiền trước.
+
+Người bán giao hàng sau.
+
+Nếu có thể thay đổi khoảng thời gian đó thì sao?
+
+Phong Vũ cầm bút lên, nhưng lần này không viết.
+
+Anh hỏi:
+
+— Nếu người mua đã thanh toán, nhưng tiền chưa được chuyển cho người bán thì sao?
+
+Hiểu Khánh ngẩng lên.
+
+Bất Phàm cũng nhìn anh.
+
+Phong Vũ nói chậm rãi:
+
+— Tiền vẫn ở đó. Người bán biết người mua đã thanh toán, nhưng chưa thể lấy tiền. Người bán giao hàng. Khi giao dịch hoàn tất, tiền mới chuyển cho người bán.
+
+Mẫn Nghi nhìn anh.
+
+— Nếu người mua không nhận được hàng?
+
+— Tiền vẫn chưa chuyển.
+
+— Nếu người bán không giao?
+
+— Cũng vậy.
+
+— Nếu hai bên tranh chấp?
+
+Phong Vũ nhìn cô.
+
+— Tiền vẫn ở đó cho đến khi giải quyết xong.
+
+Hiểu Khánh đã mở hẳn máy tính trở lại.
+
+Cậu nhìn vào khoảng trống trên màn hình, như đang thử dựng lại quy trình trong đầu.
+
+Bất Phàm không nói ngay. Anh ngồi im vài giây rồi hỏi:
+
+— Như vậy người bán có thể nhìn thấy tiền đã được thanh toán, nhưng chưa được nhận?
+
+— Anh nghĩ sao?
+
+Bất Phàm suy nghĩ.
+
+— Nếu có một cơ chế đủ rõ ràng thì có thể. Nhưng lúc đó chúng ta phải giải thích cho người bán hiểu tại sao tiền chưa đến tay họ.
+
+Phong Vũ gật đầu.
+
+— Đúng.
+
+Anh nhìn sang Hiểu Khánh.
+
+— Và hệ thống phải biết lúc nào tiền được giữ, lúc nào được chuyển.
+
+Hiểu Khánh gật đầu.
+
+— Nếu làm như vậy thì trạng thái của tiền phải đi cùng trạng thái đơn hàng.
+
+Phong Vũ nhìn cậu.
+
+Hiểu Khánh không nói tiếp.
+
+Cậu đã bắt đầu suy nghĩ về nó.
+
+Trên bảng, hai dòng chữ “Người mua” và “Người bán” vẫn còn đó. Ở giữa chúng là khoảng trống mà trước đây Summer Light luôn phải tự mình bước vào mỗi khi có vấn đề.
+
+Lần này, Phong Vũ không nhìn khoảng trống ấy như một nơi công ty phải đứng.
+
+Anh nhìn nó như một phần của giao dịch cần được thiết kế lại.
+
+
+------------------------------------------------
+
+
+## PHẦN IV — NẾU TIỀN CHƯA ĐƯỢC CHUYỂN CHO NGƯỜI BÁN?
+
+Phong Vũ đứng trước bảng trắng một lúc rồi xóa phần sơ đồ cũ.
+
+Những mũi tên nối người mua với người bán lần lượt biến mất. Anh không xóa hết, chỉ giữ lại hai điểm ở hai đầu: người mua và người bán.
+
+Sau đó anh viết lại từ đầu.
+
+Người mua đặt hàng.
+
+Bên dưới, anh thêm một mũi tên.
+
+Người mua thanh toán.
+
+Phong Vũ dừng bút.
+
+— Đến đây thì không thay đổi.
+
+Hiểu Khánh gật đầu.
+
+— Nhưng tiền không chuyển thẳng cho người bán.
+
+Phong Vũ viết thêm một dòng ở giữa hai bên.
+
+**Tiền được giữ lại.**
+
+Mẫn Nghi nhìn bảng.
+
+— Giữ bao lâu?
+
+— Cho đến khi giao dịch hoàn tất.
+
+— Ai xác nhận?
+
+Phong Vũ quay sang cô.
+
+— Chúng ta phải quy định rõ.
+
+Mẫn Nghi không hỏi tiếp. Cô nhìn lại sơ đồ.
+
+Phong Vũ tiếp tục viết.
+
+Sau khi thanh toán, người bán nhận được thông báo rằng đơn hàng đã được thanh toán. Khoản tiền đã có trong hệ thống, nhưng chưa được chuyển cho người bán.
+
+Người bán biết chắc rằng người mua đã trả tiền.
+
+Điều đó khác với việc chỉ nhận một đơn hàng rồi tự mình đoán xem người mua có thực sự thanh toán hay không.
+
+Bất Phàm nhìn dòng chữ trên bảng.
+
+— Như vậy người bán có thể giao hàng mà không phải lo người mua không trả tiền?
+
+Phong Vũ gật đầu.
+
+— Nếu hệ thống xác nhận khoản tiền đã được thanh toán.
+
+Bất Phàm không nói gì.
+
+Phong Vũ viết tiếp.
+
+Người bán giao hàng.
+
+Người mua nhận hàng.
+
+Nếu không có vấn đề, giao dịch được xác nhận hoàn tất.
+
+Lúc đó tiền mới được chuyển cho người bán.
+
+Anh đặt bút xuống.
+
+Cả phòng nhìn sơ đồ.
+
+Một giao dịch vốn chỉ có vài bước, qua cách sắp xếp mới bỗng trở thành một chuỗi có thứ tự rõ ràng. Tiền không còn chạy song song với hàng hóa như trước. Nó đi chậm hơn một bước, chờ cho phần còn lại của giao dịch hoàn thành.
+
+Hiểu Khánh đứng dậy.
+
+Cậu cầm bút từ tay Phong Vũ, nhìn sơ đồ rồi hỏi:
+
+— Nếu người mua nhận hàng nhưng phát hiện sản phẩm có vấn đề thì sao?
+
+— Khi đó tiền vẫn chưa chuyển.
+
+Hiểu Khánh gật đầu.
+
+— Nếu người bán không giao hàng?
+
+— Tiền cũng chưa chuyển.
+
+— Nếu người mua không xác nhận?
+
+Phong Vũ nhìn Mẫn Nghi.
+
+— Cái đó phải có thời hạn.
+
+Mẫn Nghi hiểu ngay.
+
+— Không thể để tiền nằm đó mãi.
+
+— Đúng.
+
+Cô bước đến gần bảng, nhìn các bước của giao dịch.
+
+— Vậy chúng ta phải quy định thời gian xác nhận. Nếu người mua không phản hồi thì hệ thống phải có cách xử lý.
+
+Phong Vũ gật đầu.
+
+— Việc đó để sau.
+
+Anh không muốn đi quá xa khi cơ chế cơ bản còn chưa được xác định.
+
+Thanh Thảo nhìn sơ đồ.
+
+— Nhưng như vậy khách hàng sẽ thấy an tâm hơn.
+
+Bất Phàm quay sang cô.
+
+— Người mua thì có thể. Nhưng người bán chưa chắc.
+
+— Tại sao?
+
+— Vì họ phải giao hàng trước khi lấy được tiền.
+
+Thanh Thảo nhìn lại bảng.
+
+Cô không trả lời ngay.
+
+Bất Phàm nói tiếp:
+
+— Chúng ta đang chuyển một phần rủi ro từ người mua sang người bán.
+
+Phong Vũ lắc đầu.
+
+— Không hẳn.
+
+Bất Phàm nhìn anh.
+
+— Tiền vẫn ở đó. Người bán không phải giao hàng trong tình trạng không biết người mua có trả tiền hay không. Nhưng đúng là họ chưa được sử dụng khoản tiền đó.
+
+— Đúng — Bất Phàm nói. — Với người bán lớn, có thể không thành vấn đề. Nhưng với những cửa hàng nhỏ thì khác.
+
+Mẫn Nghi gật đầu.
+
+— Có những người phải lấy tiền đơn trước để nhập hàng tiếp.
+
+Bất Phàm chống hai tay lên bàn.
+
+— Nếu tiền bị giữ lâu, họ sẽ không thích.
+
+Phong Vũ nhìn sơ đồ thêm một lần.
+
+— Vậy cơ chế này phải làm được hai việc cùng lúc.
+
+Anh chỉ vào phía người mua.
+
+— Bảo vệ người mua khi giao dịch chưa hoàn tất.
+
+Rồi anh chỉ sang phía người bán.
+
+— Đồng thời phải cho người bán biết tiền của họ đang ở đâu và khi nào họ sẽ nhận được.
+
+Bất Phàm gật đầu.
+
+— Và phải đủ rõ để họ có thể tính được dòng tiền.
+
+Hiểu Khánh nói:
+
+— Vậy trạng thái tiền phải hiển thị cho người bán.
+
+— Không chỉ hiển thị — Bất Phàm nói. — Phải xác định được chính xác điều kiện để tiền được giải phóng.
+
+Phong Vũ nhìn anh.
+
+— Đúng.
+
+Bất Phàm quay lại chiếc ghế của mình.
+
+Anh không phản đối ý tưởng. Trái lại, càng nhìn sơ đồ, anh càng thấy nó có lý. Chỉ là từ góc độ người bán, một câu hỏi khác đang xuất hiện.
+
+Nếu trước đây bán được hàng là nhận tiền, thì bây giờ bán được hàng chưa có nghĩa là tiền lập tức đến tay.
+
+Summer Light phải khiến người bán chấp nhận sự thay đổi đó.
+
+Phong Vũ quay lại bảng.
+
+Anh khoanh tròn phần tiền đang được giữ lại.
+
+— Chúng ta chưa cần giải quyết hết ngay hôm nay.
+
+Mẫn Nghi hỏi:
+
+— Nhưng phải xác định nguyên tắc trước?
+
+— Ừ.
+
+Phong Vũ nhìn mọi người.
+
+— Tiền chỉ được chuyển khi giao dịch đạt đến điều kiện đã định. Nếu giao dịch có vấn đề, tiền chưa chuyển thì chúng ta còn cách xử lý.
+
+Không ai phản đối.
+
+Đó là điểm khác biệt căn bản so với cách làm cũ.
+
+Trước đây, khi xảy ra tranh chấp, tiền đã ở một phía. Summer Light phải tìm cách xử lý hậu quả.
+
+Bây giờ, ít nhất về mặt nguyên tắc, tiền vẫn nằm trong khoảng thời gian mà giao dịch chưa hoàn tất.
+
+Hiểu Khánh nhìn bảng thêm một lúc.
+
+— Nếu vậy, hệ thống có thể xử lý cả tiền lẫn đơn hàng theo cùng một chuỗi trạng thái.
+
+Phong Vũ quay sang.
+
+— Em nghĩ được đến đâu rồi?
+
+— Chưa rõ hết. Nhưng về mặt kỹ thuật, có thể thiết kế để tiền không được giải phóng trước khi đơn hàng đạt điều kiện.
+
+— Tốt. Em cứ nghĩ tiếp.
+
+Hiểu Khánh ngồi xuống, mở máy tính.
+
+Thanh Thảo vẫn nhìn bảng.
+
+— Em nghĩ phần khó nhất sẽ là giải thích cho người dùng.
+
+Bất Phàm cười nhẹ.
+
+— Chưa chắc. Phần khó nhất có thể là thuyết phục người bán.
+
+Mẫn Nghi nhìn anh.
+
+— Vì họ phải chờ tiền?
+
+— Không chỉ vậy. Họ phải tin rằng quy trình của chúng ta thực sự công bằng.
+
+Phong Vũ gật đầu.
+
+Anh nhìn hai phía của sơ đồ.
+
+Người mua muốn biết tiền của mình không biến mất trước khi nhận được hàng.
+
+Người bán muốn biết hàng của mình không biến mất trước khi nhận được tiền.
+
+Nếu Summer Light muốn đặt một lớp bảo đảm vào giữa hai bên, thì lớp bảo đảm đó phải khiến **cả hai phía cùng chấp nhận**.
+
+Bất Phàm cầm lấy bản báo cáo trên bàn, lật qua vài trang.
+
+— Cơ chế này có thể giải quyết một phần vấn đề.
+
+Phong Vũ nhìn anh.
+
+— Phần nào?
+
+— Rủi ro thanh toán trước khi giao dịch hoàn tất.
+
+Anh đặt báo cáo xuống.
+
+— Nhưng nó lại tạo ra một vấn đề mới.
+
+Phong Vũ chờ.
+
+Bất Phàm nhìn về phía sơ đồ.
+
+— Nếu tiền chưa đến người bán, họ có chấp nhận không?
+
+Câu hỏi khiến mọi người lại nhìn lên bảng.
+
+Lần này, vấn đề không còn nằm ở phía người mua nữa.
+
+Nó đã chuyển sang phía bên kia của giao dịch.
+
+
+
+-----------------------------------------------------------
+
+
+
+## PHẦN V — KHÔNG AI TIN AI, NHƯNG GIAO DỊCH VẪN CÓ THỂ DIỄN RA
+
+Bất Phàm vẫn nhìn sơ đồ trên bảng.
+
+— Nếu đứng ở phía người bán, em sẽ không thích chuyện này.
+
+Phong Vũ quay lại.
+
+— Vì tiền bị giữ?
+
+— Đúng. Trước đây bán xong thì tiền về ngay. Bây giờ bán xong, giao hàng xong, có khi vẫn phải chờ.
+
+Bất Phàm cầm bút, chỉ vào phần tiền đang được giữ trên sơ đồ.
+
+— Người bán sẽ hỏi rất đơn giản: Tôi đã làm phần của mình rồi, tại sao tiền vẫn chưa thuộc về tôi?
+
+Mẫn Nghi gật đầu.
+
+— Vậy phải có thời hạn.
+
+— Có thời hạn vẫn chưa đủ — Bất Phàm nói. — Họ còn phải biết điều kiện nào khiến tiền được chuyển.
+
+Hiểu Khánh quay màn hình về phía mọi người.
+
+— Cái này có thể đưa vào hệ thống. Khi đơn hàng chuyển sang trạng thái giao thành công, hệ thống bắt đầu tính thời gian xác nhận. Nếu người mua xác nhận thì tiền được giải phóng.
+
+— Còn nếu không xác nhận? — Bất Phàm hỏi.
+
+Hiểu Khánh dừng lại.
+
+— Phải có quy tắc khác.
+
+Mẫn Nghi nói:
+
+— Không thể để một đơn hàng treo mãi chỉ vì người mua không bấm xác nhận.
+
+— Đúng — Bất Phàm nói. — Nếu người bán giao hàng đầy đủ mà khách hàng không phản hồi, tiền vẫn phải có lúc được chuyển.
+
+Thanh Thảo gật đầu.
+
+— Nhưng nếu khách hàng không phản hồi vì thực sự chưa nhận được hàng thì sao?
+
+Bất Phàm nhìn cô.
+
+— Vậy hệ thống phải phân biệt được.
+
+— Phân biệt thế nào?
+
+— Thông tin giao hàng, thời gian giao, xác nhận của đơn vị vận chuyển...
+
+Thanh Thảo lắc đầu.
+
+— Nếu chỉ có những thông tin đó thì vẫn có trường hợp không rõ.
+
+Mẫn Nghi nói:
+
+— Đó là lúc nhân viên phải can thiệp.
+
+Căn phòng im lặng vài giây.
+
+Bất Phàm nhìn Mẫn Nghi rồi nhìn lại bảng.
+
+— Vậy thì chúng ta chưa loại bỏ được việc can thiệp.
+
+— Nhưng có thể giảm số trường hợp phải can thiệp — Mẫn Nghi nói.
+
+Phong Vũ gật đầu.
+
+— Đúng. Mục tiêu không phải khiến mọi tranh chấp biến mất.
+
+Anh chỉ vào khoản tiền đang được giữ.
+
+— Mà là khi có vấn đề, chúng ta không phải xử lý một giao dịch mà tiền đã đi sang một phía.
+
+Hiểu Khánh nhìn sơ đồ.
+
+— Như vậy trạng thái của tiền phải phụ thuộc vào trạng thái của đơn hàng.
+
+— Không hẳn phụ thuộc hoàn toàn — Mẫn Nghi nói. — Có những trường hợp đơn hàng đã giao nhưng vẫn có thể phát sinh khiếu nại.
+
+Hiểu Khánh suy nghĩ.
+
+— Vậy phải có thêm một lớp trạng thái cho tranh chấp.
+
+Phong Vũ gật đầu.
+
+— Đúng.
+
+Hiểu Khánh bắt đầu ghi lại.
+
+Bất Phàm vẫn chưa dừng.
+
+— Còn một chuyện nữa.
+
+Anh nhìn sang Thanh Thảo.
+
+— Nếu người mua nói hàng không đúng thì sao?
+
+— Khi đó họ có quyền khiếu nại.
+
+— Nếu người bán nói hàng đúng?
+
+Thanh Thảo nhún vai.
+
+— Thì phải xem bằng chứng.
+
+Mẫn Nghi nói:
+
+— Hình ảnh sản phẩm lúc đăng, mô tả, hình ảnh người mua gửi sau khi nhận, thông tin giao hàng. Những gì chúng ta có thể kiểm tra được thì kiểm tra.
+
+Bất Phàm hỏi:
+
+— Nếu hai bên đều có bằng chứng của mình?
+
+Mẫn Nghi không trả lời ngay.
+
+Cô đã gặp những trường hợp như vậy.
+
+— Khi đó phải có người xem xét.
+
+— Vẫn là nhân viên?
+
+— Có thể.
+
+Phong Vũ không xen vào.
+
+Anh để Mẫn Nghi tự nói hết những điều mình đang nghĩ.
+
+— Nhưng nếu số lượng giao dịch lớn, không thể mỗi trường hợp đều đưa cho một người ngồi đọc từ đầu đến cuối — cô nói. — Những trường hợp đơn giản phải tự giải quyết được. Nhân viên chỉ nên xử lý những trường hợp thật sự cần.
+
+Hiểu Khánh gật đầu.
+
+— Vậy hệ thống cần biết trường hợp nào có thể tự động xử lý và trường hợp nào phải chuyển sang người.
+
+— Đúng.
+
+Bất Phàm nhìn sang phía người mua.
+
+— Còn chuyện hoàn trả?
+
+Thanh Thảo đáp:
+
+— Nếu người mua có lý do chính đáng thì phải có.
+
+— Toàn bộ tiền?
+
+— Tùy trường hợp.
+
+Bất Phàm hỏi tiếp:
+
+— Ai trả chi phí vận chuyển khi hoàn hàng?
+
+Thanh Thảo im lặng.
+
+Mẫn Nghi cũng không nói.
+
+Một câu hỏi rất nhỏ nhưng lại mở ra một vấn đề khác.
+
+Nếu người bán giao sai hàng, người bán phải chịu.
+
+Nếu người mua đổi ý, chưa chắc người bán phải chịu.
+
+Nếu hàng có khuyết điểm nhưng hai bên tranh luận về nguyên nhân, lại càng khó.
+
+Hiểu Khánh nhìn bảng, rồi nhìn Mẫn Nghi.
+
+— Nếu mỗi tình huống đều có một cách xử lý khác nhau thì hệ thống sẽ rất phức tạp.
+
+— Nhưng nếu quy định quá đơn giản thì sẽ không công bằng — Mẫn Nghi nói.
+
+Phong Vũ vẫn im lặng.
+
+Anh nhìn những câu hỏi lần lượt xuất hiện trên bảng.
+
+Lúc đầu, họ chỉ muốn giữ tiền lại.
+
+Bây giờ họ phải nghĩ đến thời điểm giao hàng, xác nhận, khiếu nại, hoàn trả, thời hạn, bằng chứng và trách nhiệm của từng bên.
+
+Bất Phàm nói:
+
+— Em còn lo một chuyện.
+
+Phong Vũ nhìn anh.
+
+— Nếu người bán cần tiền quay vòng thì sao?
+
+Mẫn Nghi hiểu ngay.
+
+Một cửa hàng nhỏ có thể dùng tiền từ những đơn hàng hôm nay để nhập hàng cho ngày mai. Nếu tiền bị giữ thêm vài ngày sau khi giao hàng, họ sẽ phải tính toán lại.
+
+Bất Phàm nói tiếp:
+
+— Nếu cơ chế này khiến người bán mất nhiều thời gian mới nhận được tiền, những người bán tốt chưa chắc muốn tham gia.
+
+Thanh Thảo đáp:
+
+— Nhưng nếu người bán nhận tiền ngay thì chúng ta lại quay về vấn đề cũ.
+
+— Đúng.
+
+Bất Phàm dựa lưng vào ghế.
+
+— Cho nên phải tìm một điểm cân bằng.
+
+Phong Vũ hỏi:
+
+— Điểm cân bằng nào?
+
+Bất Phàm nhìn sơ đồ.
+
+— Chưa biết. Phải xem cách các bên khác đang làm và người bán của chúng ta thực sự cần gì.
+
+Phong Vũ gật đầu.
+
+Câu trả lời không làm cuộc thảo luận dừng lại. Ngược lại, nó khiến vấn đề rõ hơn.
+
+Họ không cần một cơ chế chỉ bảo vệ người mua.
+
+Cũng không thể có một cơ chế chỉ thuận lợi cho người bán.
+
+Nếu muốn thay đổi cách giao dịch, Summer Light phải khiến cả hai bên cảm thấy mình đang được bảo vệ mà không biến quy trình thành một chuỗi thủ tục nặng nề.
+
+Thanh Thảo nhìn lại bảng.
+
+— Em nghĩ còn một vấn đề.
+
+Phong Vũ quay sang.
+
+— Nếu người mua đã nhận hàng nhưng cố tình không xác nhận để giữ tiền của người bán thì sao?
+
+Mẫn Nghi gật đầu.
+
+— Đúng.
+
+Hiểu Khánh nói:
+
+— Có thể đặt thời hạn tự động.
+
+— Nếu họ khiếu nại ngay trước khi hết thời hạn thì sao? — Thanh Thảo hỏi.
+
+Hiểu Khánh im lặng.
+
+Bất Phàm cười nhẹ.
+
+— Đấy. Chúng ta mới chỉ bắt đầu.
+
+Phong Vũ cũng không cười.
+
+Anh nhìn những dòng chữ trên bảng.
+
+Không ai còn nghĩ đây chỉ là chuyện thêm một bước vào quy trình thanh toán.
+
+Giữ tiền lại nghe rất đơn giản.
+
+Nhưng một khi tiền được giữ lại, Summer Light phải trả lời câu hỏi tiền được giữ **đến khi nào**, **vì sao được giữ**, **ai có quyền yêu cầu giải phóng**, **khi nào phải hoàn lại**, và **nếu hai bên không đồng ý thì ai quyết định**.
+
+Hiểu Khánh đặt bút xuống.
+
+— Em nghĩ phần này phải thiết kế cùng với hệ thống đơn hàng. Không thể làm riêng.
+
+Mẫn Nghi nói:
+
+— Quy trình vận hành cũng phải làm cùng lúc.
+
+Thanh Thảo nhìn hai người rồi nói:
+
+— Phần hướng dẫn cho khách hàng cũng vậy.
+
+Bất Phàm nhìn Phong Vũ.
+
+— Nếu làm đến đây, chúng ta đang xây một thứ lớn hơn một chức năng của website.
+
+Phong Vũ nhìn lại sơ đồ.
+
+Anh không phủ nhận.
+
+Bởi lúc này, điều đó đã quá rõ.
+
+**Giữ tiền chỉ là phần dễ nhìn thấy nhất.**
+
+Phía sau nó là cả một cơ chế giao dịch.
+
+
+----------------------------------------------------------
+
+
+## PHẦN VI — TỪ MỘT Ý TƯỞNG THÀNH MỘT CƠ CHẾ
+
+Sau cuộc họp, những người khác lần lượt trở về công việc của mình. Hiểu Khánh vẫn ngồi trước máy tính.
+
+Trên bảng trắng, sơ đồ giao dịch vừa được viết lại vẫn còn nguyên. Cậu nhìn nó một lúc rồi kéo bàn phím lại gần.
+
+Trước đây, một đơn hàng trong hệ thống không cần quá nhiều trạng thái. Có người mua, có người bán, có sản phẩm, có giá tiền. Người mua đặt hàng, thanh toán, người bán xác nhận rồi giao hàng. Khi hoàn tất, đơn hàng được đóng lại. Nếu có vấn đề, nhân viên tìm đến những thông tin liên quan để xử lý.
+
+Cách đó phù hợp với quy mô hiện tại.
+
+Nhưng nếu tiền không còn chuyển ngay cho người bán, mọi thứ thay đổi.
+
+Hiểu Khánh mở phần quản lý đơn hàng.
+
+Cậu thử viết lại trình tự.
+
+Đơn hàng được tạo ra.
+
+Chờ thanh toán.
+
+Thanh toán thành công.
+
+Chờ người bán giao hàng.
+
+Đang giao.
+
+Đã giao.
+
+Chờ người mua xác nhận.
+
+Hoàn tất.
+
+Cậu dừng lại.
+
+Nếu người mua khiếu nại thì sao?
+
+Cậu thêm một trạng thái khác.
+
+Tranh chấp.
+
+Nhưng chỉ như vậy vẫn chưa đủ.
+
+Tiền cũng có một trạng thái riêng.
+
+Chưa thanh toán.
+
+Đã thanh toán.
+
+Đang được giữ.
+
+Được chuyển cho người bán.
+
+Được hoàn lại.
+
+Đang chờ xử lý.
+
+Hiểu Khánh dựa người vào ghế.
+
+Trước đây, hệ thống gần như chỉ cần biết đơn hàng đang ở đâu. Bây giờ, nó phải biết **tiền đang ở đâu**.
+
+Cậu lấy một tờ giấy đặt bên cạnh bàn phím, bắt đầu viết lại bằng tay.
+
+Nếu người mua thanh toán thành công, đơn hàng chuyển sang trạng thái đã thanh toán, nhưng tiền chưa được chuyển cho người bán.
+
+Nếu người bán không giao hàng trong thời gian quy định, đơn hàng có thể bị hủy và tiền được hoàn lại.
+
+Nếu người bán giao hàng, đơn hàng chuyển sang trạng thái chờ xác nhận.
+
+Nếu người mua xác nhận, tiền được giải phóng.
+
+Nếu người mua khiếu nại, tiền tiếp tục được giữ trong khi vụ việc được xử lý.
+
+Mỗi thay đổi của đơn hàng đều có thể kéo theo một thay đổi của tiền.
+
+Nhưng hai thứ không phải lúc nào cũng chuyển trạng thái cùng lúc.
+
+Hiểu Khánh nhìn dòng chữ vừa viết.
+
+Đó mới là phần khó.
+
+Cậu đứng dậy, đi đến bảng trắng rồi xóa một đoạn sơ đồ cũ.
+
+Phong Vũ vừa từ phòng bên cạnh trở lại. Anh nhìn bảng rồi hỏi:
+
+— Tìm được gì chưa?
+
+— Em đang thử tách hai thứ ra.
+
+— Đơn hàng và tiền?
+
+— Vâng.
+
+Hiểu Khánh chỉ vào phần sơ đồ.
+
+— Trước đây chúng ta gần như coi chúng là một việc. Khách hàng thanh toán thì người bán nhận tiền. Đơn hàng tiếp tục đi, hệ thống cũng không cần quan tâm nhiều đến khoản tiền nữa.
+
+Phong Vũ nhìn những dòng chữ trên bảng.
+
+— Còn bây giờ?
+
+— Bây giờ không được như vậy.
+
+Hiểu Khánh cầm bút viết thêm.
+
+— Đơn hàng có trạng thái của đơn hàng. Tiền có trạng thái của tiền. Nhưng hai bên phải liên kết với nhau.
+
+Phong Vũ gật đầu.
+
+— Cho anh xem một trường hợp.
+
+Hiểu Khánh quay sang.
+
+— Ví dụ người mua đã thanh toán, người bán chưa giao?
+
+— Đơn hàng là đã thanh toán. Tiền thì đang được giữ.
+
+— Đúng.
+
+— Người bán giao hàng?
+
+— Đơn hàng chuyển sang đã giao. Tiền vẫn được giữ.
+
+— Người mua xác nhận?
+
+Hiểu Khánh khoanh một điểm trên sơ đồ.
+
+— Lúc đó mới có thể giải phóng tiền.
+
+Phong Vũ nhìn cậu.
+
+— Nếu người mua khiếu nại?
+
+— Đơn hàng chuyển sang tranh chấp. Tiền vẫn giữ nguyên trạng thái.
+
+— Nếu người bán không giao?
+
+— Hủy đơn. Hoàn tiền.
+
+Phong Vũ suy nghĩ một lúc.
+
+— Còn nếu người mua không làm gì?
+
+Hiểu Khánh im lặng.
+
+Cậu nhìn sơ đồ.
+
+Đó chính là một trong những vấn đề Bất Phàm vừa đặt ra.
+
+— Phải có thời hạn — cậu nói.
+
+— Và sau thời hạn thì sao?
+
+— Cần quy tắc.
+
+Phong Vũ gật đầu.
+
+— Viết lại tất cả những trường hợp đó.
+
+Hiểu Khánh ngồi xuống.
+
+Cậu không còn chỉ nghĩ về giao diện của website nữa. Trong đầu cậu đã xuất hiện một hệ thống khác phía sau giao diện, nơi mỗi hành động của người mua và người bán đều làm thay đổi trạng thái của một giao dịch.
+
+Phong Vũ ngồi cạnh cậu.
+
+Hai người cùng nhìn màn hình.
+
+Hiểu Khánh mở một tài liệu mới.
+
+— Nếu làm theo cách này, phần lõi phải sửa khá nhiều.
+
+— Có ảnh hưởng đến những gì đang chạy không?
+
+— Có thể có. Em phải tách phần mới ra trước, không thể sửa thẳng vào hệ thống hiện tại.
+
+Phong Vũ gật đầu.
+
+— Cứ làm chắc trước.
+
+Hiểu Khánh nhìn anh.
+
+— Nếu sau này số giao dịch tăng rất lớn, phần này sẽ phức tạp hơn nhiều.
+
+— Anh biết.
+
+— Không chỉ là thêm máy chủ.
+
+Phong Vũ nhìn cậu.
+
+— Còn gì nữa?
+
+Hiểu Khánh chỉ vào sơ đồ.
+
+— Mỗi giao dịch sẽ có nhiều trạng thái hơn. Nếu tiền và đơn hàng không đồng bộ chính xác, chỉ cần một lỗi nhỏ cũng có thể tạo ra vấn đề rất lớn.
+
+Phong Vũ gật đầu.
+
+— Vậy thì ngay từ đầu phải thiết kế cho đúng.
+
+Hiểu Khánh quay lại màn hình.
+
+Một lúc sau, cậu nói:
+
+— Em nghĩ mình phải coi tiền là một phần của giao dịch, không phải thứ xảy ra sau giao dịch.
+
+Phong Vũ nhìn cậu.
+
+Câu nói đó khiến anh chú ý.
+
+Không phải vì nó phức tạp, mà vì nó thay đổi cách nhìn về toàn bộ hệ thống.
+
+Trước đây, Summer Light giúp người mua tìm người bán, rồi để hai bên hoàn thành giao dịch.
+
+Bây giờ, bản thân Summer Light phải xác định giao dịch được xem là hoàn tất vào thời điểm nào.
+
+Thanh toán không còn là điểm kết thúc của phần mua hàng.
+
+Nó trở thành một bước nằm giữa toàn bộ quá trình.
+
+Phong Vũ đứng dậy, đi đến bảng.
+
+Anh nhìn sơ đồ một lần nữa rồi nói:
+
+— Trước đây chúng ta quản lý đơn hàng.
+
+Hiểu Khánh gật đầu.
+
+— Bây giờ phải quản lý cả mối quan hệ giữa đơn hàng và tiền.
+
+— Đúng.
+
+Phong Vũ lấy bút, nối hai phần sơ đồ lại với nhau.
+
+Một bên là quá trình của hàng hóa.
+
+Một bên là quá trình của tiền.
+
+Giữa chúng là những điểm mà hệ thống phải biết chính xác điều gì đang xảy ra.
+
+Hiểu Khánh nhìn đường nối trên bảng.
+
+— Như vậy người mua và người bán không cần tự giải quyết tất cả với nhau.
+
+Phong Vũ quay lại.
+
+— Không phải hoàn toàn.
+
+— Ý em là...
+
+Hiểu Khánh suy nghĩ một chút rồi nói:
+
+— Trước đây nếu có vấn đề, hai bên phải tự giải quyết trước, còn Summer Light chỉ can thiệp khi họ không giải quyết được. Bây giờ ngay từ đầu, hệ thống đã đặt ra những bước mà cả hai bên đều phải đi qua.
+
+Phong Vũ gật đầu.
+
+Đó mới là thay đổi thực sự.
+
+Summer Light không chỉ đưa một người mua đến gặp một người bán.
+
+Nó bắt đầu thiết kế cách hai người xa lạ có thể giao dịch với nhau mà không phải đặt toàn bộ rủi ro lên vai một trong hai bên.
+
+Hiểu Khánh nhìn chiếc bảng đầy những mũi tên.
+
+Cậu xóa một đoạn rồi viết lại.
+
+— Nhưng để làm được thế này, chúng ta còn thiếu một thứ.
+
+— Tiền phải đi qua đâu — Phong Vũ nói.
+
+Hiểu Khánh quay sang nhìn anh.
+
+Phong Vũ không giải thích thêm.
+
+Cả hai đều biết sơ đồ trên bảng chỉ mới giải quyết được **cách giao dịch nên diễn ra**.
+
+Còn khoản tiền thật sự của khách hàng sẽ được giữ ở đâu, bằng cách nào, ai có quyền giải phóng và ai chịu trách nhiệm với nó, vẫn là một vấn đề hoàn toàn khác.
+
+
+
+-----------------------------------------------------------
+
+
+## PHẦN VII — BẤT PHÀM NHÌN THẤY MỘT THỊ TRƯỜNG KHÁC
+
+Buổi chiều, cuộc họp đã kết thúc từ lâu nhưng Bất Phàm vẫn chưa rời khỏi phòng.
+
+Anh ngồi một mình trước chiếc bàn, tập hồ sơ buổi sáng mở ra trước mặt. Những con số về giao dịch, doanh thu và người bán nằm cạnh nhau, nhưng anh không còn nhìn chúng theo cách của một người phụ trách thị trường nữa.
+
+Ánh mắt anh dừng ở phần sơ đồ Hiểu Khánh vừa vẽ lại.
+
+Một bên là đơn hàng.
+
+Một bên là tiền.
+
+Hai thứ trước đây gần như đi cùng nhau, bây giờ lại phải tách ra.
+
+Bất Phàm lấy một tờ giấy trắng, viết vài dòng rồi dừng lại.
+
+Nếu Summer Light giữ tiền của khách hàng, chuyện đó sẽ không còn đơn giản là thêm một chức năng vào website.
+
+Tiền của người mua không phải doanh thu của Summer Light. Nó chỉ đi qua hệ thống trong thời gian giao dịch chưa hoàn tất. Công ty phải biết từng khoản đang thuộc về giao dịch nào, khi nào được chuyển đi, khi nào phải hoàn lại và phải đối soát ra sao.
+
+Bất Phàm từng nghe gia đình nói về những chuyện tương tự trong các cuộc trao đổi liên quan đến ngân hàng và đầu tư. Những khoản tiền lớn có thể được quản lý bằng hệ thống, nhưng hệ thống phía sau chúng luôn gắn với quy trình và trách nhiệm rất chặt chẽ.
+
+Anh ngả người ra ghế.
+
+Nếu Summer Light tự làm tất cả, công ty sẽ phải bước sang một lĩnh vực khác trước khi kịp nhận ra mình đã đi quá xa khỏi việc kinh doanh ban đầu.
+
+Cửa phòng mở.
+
+Phong Vũ bước vào.
+
+Thấy Bất Phàm vẫn còn ở đó, anh hỏi:
+
+— Chưa về à?
+
+— Em đang nghĩ về chuyện tiền.
+
+Phong Vũ kéo ghế ngồi xuống.
+
+— Có gì chưa rõ?
+
+Bất Phàm đưa tờ giấy cho anh.
+
+— Em nghĩ nếu chỉ nói “giữ tiền” thì đơn giản quá.
+
+Phong Vũ nhìn qua những dòng chữ.
+
+— Em đang nghĩ đến phần nào?
+
+— Ai giữ.
+
+Phong Vũ đặt tờ giấy xuống.
+
+Bất Phàm nói tiếp:
+
+— Nếu Summer Light trực tiếp nhận tiền của khách hàng, chúng ta sẽ phải quản lý tất cả những khoản đó. Không chỉ là nhận vào rồi chuyển ra. Còn đối soát, hoàn tiền, xử lý tranh chấp, kiểm tra giao dịch...
+
+Anh dừng lại một chút.
+
+— Và cả những chuyện liên quan đến ngân hàng.
+
+Phong Vũ gật đầu.
+
+— Anh cũng nghĩ vậy.
+
+Bất Phàm nhìn sang bảng trắng.
+
+— Nếu chỉ giải quyết chuyện chuyển tiền, ngân hàng đã làm được từ lâu.
+
+Phong Vũ không nói.
+
+Bất Phàm đứng dậy, đi đến trước bảng. Anh nhìn sơ đồ Hiểu Khánh để lại, rồi chỉ vào phần giữa hai người mua và bán.
+
+— Nhưng thứ chúng ta cần không chỉ là chuyển tiền.
+
+Anh lấy bút khoanh phần giao dịch ở giữa.
+
+— Chúng ta cần một bên hiểu cả quá trình này. Khi nào tiền được giữ, khi nào được chuyển, khi nào phải hoàn lại, khi nào phải tạm dừng.
+
+Phong Vũ nhìn theo đầu bút.
+
+Bất Phàm nói:
+
+— Ngân hàng cung cấp hạ tầng để tiền đi qua. Nhưng quy tắc của giao dịch nằm ở đây.
+
+Anh chỉ vào phần còn lại của sơ đồ.
+
+Phong Vũ suy nghĩ.
+
+— Em đang nghĩ đến một công ty riêng?
+
+Bất Phàm quay lại.
+
+— Có thể.
+
+Anh không trả lời ngay như thể ý tưởng đã hoàn chỉnh. Chính anh cũng đang lần đầu đặt nó thành một khả năng cụ thể.
+
+— Nếu Summer Light cần một bên trung gian như vậy, tại sao nhất định phải là một công ty bên ngoài?
+
+Phong Vũ nhìn anh.
+
+— Em muốn tự làm?
+
+— Em muốn xem có làm được không.
+
+Bất Phàm trở lại bàn, ngồi xuống.
+
+Anh mở tập giấy, lấy một tờ khác.
+
+— Em có thể tìm hiểu chuyện này.
+
+Phong Vũ hỏi:
+
+— Em nghĩ công ty đó nên làm gì?
+
+Bất Phàm suy nghĩ một lúc.
+
+— Không nên làm thương mại. Không nên tham gia vào việc tìm người mua hay người bán. Nó chỉ nên xử lý phần thanh toán và những gì liên quan đến dòng tiền của giao dịch.
+
+— Chỉ phục vụ Summer Light?
+
+Bất Phàm ngẩng lên.
+
+Câu hỏi này khiến anh suy nghĩ lâu hơn.
+
+— Nếu chỉ phục vụ Summer Light thì nó giống một bộ phận bên trong công ty hơn.
+
+Phong Vũ không nói gì.
+
+Bất Phàm nhìn lại sơ đồ.
+
+— Nếu đã làm, em muốn xem liệu nó có thể phục vụ những nền tảng khác hay không.
+
+Phong Vũ nhìn anh một lúc.
+
+Bất Phàm tiếp tục:
+
+— Một công ty thương mại có thể có hệ thống thanh toán của riêng mình. Nhưng nếu hệ thống đó đủ tốt, những công ty khác cũng có thể cần.
+
+Anh không nói đến quy mô hay doanh thu.
+
+Chỉ là một khả năng.
+
+Nhưng chính khả năng ấy khiến anh chú ý hơn cả vấn đề của Summer Light.
+
+Từ nhỏ, Bất Phàm đã tiếp xúc với những cuộc nói chuyện về vốn, ngân hàng và đầu tư. Những thứ ấy trước đây đối với anh chủ yếu là công việc của gia đình. Anh thích chúng, nhưng chưa từng có một lý do đủ rõ để tự mình bước vào.
+
+Bây giờ thì có.
+
+Một vấn đề rất thực tế của Summer Light vừa mở ra một cánh cửa khác.
+
+Phong Vũ hỏi:
+
+— Em đã nghĩ đến chuyện này từ trước?
+
+— Không.
+
+Bất Phàm thành thật.
+
+— Chỉ là nhìn sơ đồ này, em thấy nếu chúng ta tự giải quyết phần tiền thì sẽ có quá nhiều thứ phải làm. Nếu tìm một bên khác, Summer Light sẽ phụ thuộc vào cách họ xây dựng hệ thống.
+
+Anh dừng lại.
+
+— Em không thích điều đó.
+
+Phong Vũ hơi nghiêng đầu.
+
+— Vì sao?
+
+— Vì giao dịch là thứ quan trọng nhất của chúng ta. Nếu phần tiền nằm trong một hệ thống mà chúng ta không kiểm soát được, sau này muốn thay đổi cũng rất khó.
+
+Phong Vũ nhìn anh.
+
+Lần này anh không trả lời ngay.
+
+Bất Phàm tiếp tục nhìn vào sơ đồ. Anh đã không còn nghĩ đến một giải pháp tạm thời cho vài nghìn giao dịch nữa.
+
+Anh đang nghĩ đến một hạ tầng có thể đứng phía sau nhiều giao dịch.
+
+Phong Vũ hỏi:
+
+— Nếu làm một công ty như vậy, em nghĩ cần bắt đầu từ đâu?
+
+Bất Phàm trả lời sau vài giây:
+
+— Tìm hiểu trước.
+
+— Những gì?
+
+— Ngân hàng, quy định, cách mở và quản lý tài khoản, đối soát, hoàn tiền, trách nhiệm của bên trung gian. Em muốn biết chính xác chúng ta có thể làm đến đâu trước khi nói chuyện thành lập.
+
+Phong Vũ gật đầu.
+
+— Được.
+
+Bất Phàm nhìn anh.
+
+— Anh không phản đối?
+
+— Anh đang chờ em nói hết.
+
+Bất Phàm cười.
+
+— Em chưa nói hết đâu.
+
+Phong Vũ cũng cười nhẹ.
+
+Bất Phàm nhìn lại tờ giấy.
+
+— Nếu chuyện này làm được, Summer Light sẽ không phải tự mình xử lý toàn bộ dòng tiền. Nhưng công ty mới cũng không nên chỉ tồn tại để giải quyết một vấn đề của Summer Light.
+
+Phong Vũ hỏi:
+
+— Em muốn nó trở thành một doanh nghiệp độc lập?
+
+— Em nghĩ nên như vậy.
+
+Căn phòng yên tĩnh một lúc.
+
+Phong Vũ nhìn sơ đồ trên bảng. Trước đây, anh chỉ thấy một khoảng trống cần được lấp giữa người mua và người bán. Bất Phàm lại nhìn thấy một lớp hạ tầng có thể tồn tại độc lập phía sau những giao dịch ấy.
+
+Hai người chưa có tên công ty.
+
+Chưa có mô hình pháp lý.
+
+Chưa có ngân hàng đối tác.
+
+Cũng chưa biết cần bao nhiêu vốn.
+
+Nhưng một ý tưởng mới đã xuất hiện.
+
+Bất Phàm thu lại những tờ giấy trên bàn.
+
+— Để em tìm hiểu.
+
+Phong Vũ gật đầu.
+
+— Ừ.
+
+Bất Phàm đứng lên, mang tập giấy theo.
+
+Đến cửa, anh quay lại nhìn bảng trắng một lần nữa.
+
+Sơ đồ của Hiểu Khánh vẫn nằm giữa hai phía của giao dịch.
+
+Lần đầu tiên, Bất Phàm không nhìn nó như một phần của Summer Light.
+
+Anh nhìn thấy phía sau nó một lĩnh vực hoàn toàn khác.
+
+
+-------------------------------------------------------------
+
+
+## PHẦN VIII — SUMMER LIGHT KHÔNG THỂ TỰ GIỮ TIỀN
+
+Chiều hôm sau, những người sáng lập lại ngồi với nhau trong phòng họp.
+
+Lần này trên bàn không có báo cáo doanh thu. Hiểu Khánh mang theo chiếc máy tính đã mở sẵn sơ đồ giao dịch mới. Mẫn Nghi đặt trước mặt mọi người những ghi chú về các trường hợp hoàn tiền và tranh chấp. Bất Phàm mang theo vài trang tài liệu anh vừa tìm được về hoạt động thanh toán.
+
+Phong Vũ nhìn qua từng thứ rồi hỏi:
+
+— Nếu Summer Light tự làm phần này thì cần những gì?
+
+Bất Phàm không trả lời ngay. Anh lật một trang trong tập tài liệu.
+
+— Trước hết phải có cách tiếp nhận tiền của khách hàng. Sau đó phải quản lý khoản tiền đó cho đến khi đủ điều kiện chuyển cho người bán.
+
+— Chỉ vậy thôi?
+
+— Không.
+
+Bất Phàm đặt tài liệu xuống.
+
+— Còn phải biết từng khoản tiền thuộc về giao dịch nào, đang ở trạng thái nào, khi nào được chuyển, khi nào phải hoàn lại. Nếu có giao dịch bị hủy hoặc tranh chấp thì phải xử lý riêng.
+
+Mẫn Nghi nói:
+
+— Nghĩa là mỗi đơn hàng đều có một khoản tiền phải theo dõi riêng?
+
+— Về mặt quản lý thì phải như vậy.
+
+Hiểu Khánh nhìn màn hình.
+
+— Nếu số lượng giao dịch lớn thì dữ liệu sẽ rất nhiều.
+
+— Dữ liệu không phải vấn đề lớn nhất — Bất Phàm nói. — Vấn đề là trách nhiệm.
+
+Anh ngẩng lên.
+
+— Đây là tiền của khách hàng, không phải tiền của Summer Light.
+
+Căn phòng yên lặng.
+
+Phong Vũ hỏi:
+
+— Nếu công ty dùng khoản tiền đó trong thời gian chờ thì sao?
+
+Bất Phàm lập tức lắc đầu.
+
+— Không nên nghĩ theo hướng đó.
+
+— Vì sao?
+
+— Vì chúng ta không có quyền coi tiền của khách hàng như tiền của mình. Ngay từ đầu phải tách bạch.
+
+Mẫn Nghi gật đầu.
+
+— Vậy tiền của khách hàng phải nằm riêng?
+
+— Ít nhất về mặt quản lý phải tách khỏi tiền vận hành của công ty. Còn cấu trúc cụ thể thế nào, phải hỏi người có chuyên môn.
+
+Phong Vũ không hỏi tiếp.
+
+Anh nhìn sang Hiểu Khánh.
+
+— Nếu phải quản lý hàng trăm nghìn giao dịch thì sao?
+
+— Hệ thống có thể làm được.
+
+Hiểu Khánh suy nghĩ thêm.
+
+— Nhưng phải thiết kế ngay từ đầu. Không thể dùng cách quản lý hiện tại rồi sau này mới sửa.
+
+Bất Phàm nói:
+
+— Và còn đối soát.
+
+Thanh Thảo nhìn anh.
+
+— Đối soát là gì?
+
+— Kiểm tra xem số tiền hệ thống ghi nhận có khớp với số tiền thực tế hay không. Mỗi ngày, mỗi giao dịch, mỗi khoản hoàn lại đều phải có thể kiểm tra.
+
+Thanh Thảo gật đầu.
+
+— Nghe có vẻ khá nặng.
+
+— Đúng là nặng.
+
+Bất Phàm nhìn tập tài liệu.
+
+— Nhưng đó là công việc của một hệ thống thanh toán. Không thể chỉ vì chúng ta muốn giao dịch thuận tiện hơn mà bỏ qua.
+
+Mẫn Nghi lật những ghi chú của mình.
+
+— Nếu có tranh chấp thì tiền phải được giữ lại. Nhưng ai có quyền quyết định giữ?
+
+Bất Phàm nhìn cô.
+
+— Phải dựa trên quy tắc.
+
+— Nếu hai bên đều khiếu nại?
+
+— Cũng phải có quy tắc.
+
+— Nếu nhân viên xử lý sai?
+
+Bất Phàm im lặng một lát.
+
+— Thì hệ thống phải lưu lại toàn bộ quá trình để còn kiểm tra.
+
+Hiểu Khánh lập tức ghi xuống.
+
+Phong Vũ nhìn cậu.
+
+— Phần này quan trọng.
+
+— Em biết.
+
+Hiểu Khánh tiếp tục gõ.
+
+— Mọi thay đổi liên quan đến tiền đều phải có lịch sử.
+
+Phong Vũ gật đầu.
+
+Cuộc thảo luận kéo dài thêm gần một giờ.
+
+Càng đi sâu, ý tưởng ban đầu càng trở nên khác với một chức năng đơn giản trên website.
+
+Nếu Summer Light trực tiếp giữ tiền, công ty không chỉ phải sửa hệ thống. Họ phải xây dựng cả một bộ máy phía sau hệ thống đó.
+
+Nhân viên.
+
+Quy trình.
+
+Kiểm soát.
+
+Đối soát.
+
+Bảo mật.
+
+Hoàn tiền.
+
+Xử lý tranh chấp.
+
+Và trên tất cả là trách nhiệm đối với tiền của người khác.
+
+Bất Phàm khép tập tài liệu.
+
+— Em nghĩ chúng ta không nên làm phần này bên trong Summer Light.
+
+Phong Vũ nhìn anh.
+
+— Vì quá phức tạp?
+
+— Không chỉ vì phức tạp.
+
+Bất Phàm chỉ vào sơ đồ.
+
+— Summer Light là công ty thương mại. Việc của chúng ta là xây dựng thị trường, thu hút người mua và người bán, quản lý giao dịch. Nếu vì muốn giải quyết chuyện thanh toán mà biến mình thành một tổ chức chuyên quản lý tiền, chúng ta sẽ phải gánh thêm một lĩnh vực hoàn toàn khác.
+
+Thanh Thảo hỏi:
+
+— Nhưng nếu không làm thì ai làm?
+
+Bất Phàm nhìn cô.
+
+— Đó mới là vấn đề.
+
+Phong Vũ dựa lưng vào ghế.
+
+Anh nhìn sơ đồ giao dịch một lúc lâu.
+
+Trước đây, họ nghĩ rằng chỉ cần thêm một bước vào quy trình: giữ tiền lại trước khi giao cho người bán.
+
+Bây giờ họ đã thấy phía sau bước đó là cả một hệ thống riêng.
+
+Nếu tự làm, Summer Light sẽ phải mang theo một gánh nặng không thuộc về năng lực cốt lõi của mình.
+
+Nếu giao toàn bộ cho một bên khác, họ lại phải phụ thuộc vào hệ thống của bên đó.
+
+Phong Vũ hỏi:
+
+— Có cách nào tách hai việc ra không?
+
+Bất Phàm trả lời:
+
+— Có lẽ.
+
+Phong Vũ nhìn anh.
+
+Bất Phàm không nói tiếp ngay. Anh lấy một tờ giấy mới, viết xuống vài dòng.
+
+— Summer Light giữ phần giao dịch.
+
+Anh viết thêm.
+
+— Một bên khác xử lý phần tiền.
+
+Hiểu Khánh nhìn qua.
+
+— Hai hệ thống kết nối với nhau?
+
+— Đúng.
+
+Mẫn Nghi hỏi:
+
+— Nhưng bên kia phải hiểu quy trình của chúng ta.
+
+— Không nhất thiết phải hiểu mọi thứ — Bất Phàm nói. — Nhưng phải có khả năng thực hiện những điều kiện mà hệ thống giao dịch yêu cầu.
+
+Phong Vũ hỏi:
+
+— Ví dụ?
+
+Bất Phàm chỉ vào sơ đồ.
+
+— Khi người mua thanh toán, khoản tiền được xác nhận và giữ lại. Khi giao dịch hoàn tất, bên thanh toán nhận được lệnh giải phóng. Nếu giao dịch bị hủy, tiền được hoàn lại. Nếu có tranh chấp, khoản tiền vẫn được giữ cho đến khi có quyết định.
+
+Hiểu Khánh nói:
+
+— Vậy Summer Light gửi trạng thái giao dịch sang bên thanh toán.
+
+— Và bên thanh toán trả lại trạng thái tiền.
+
+Phong Vũ gật đầu.
+
+Hai phần bắt đầu hiện ra rõ ràng hơn.
+
+Một bên quản lý **giao dịch**.
+
+Một bên quản lý **dòng tiền**.
+
+Bất Phàm đặt bút xuống.
+
+— Nếu làm được như vậy, Summer Light không cần tự giữ tiền.
+
+Phong Vũ nhìn anh.
+
+— Nhưng vẫn cần một bên giữ.
+
+— Đúng.
+
+— Và bên đó phải đủ năng lực.
+
+— Đúng.
+
+Phong Vũ hỏi:
+
+— Em đã nghĩ đến bên nào chưa?
+
+Bất Phàm lắc đầu.
+
+— Chưa có cái tên cụ thể.
+
+Anh ngừng một chút rồi nói:
+
+— Nhưng em không muốn chỉ tìm một nơi giúp chúng ta chuyển tiền. Em muốn tìm hiểu xem liệu chúng ta có thể xây dựng một công ty chuyên làm việc này hay không.
+
+Phong Vũ nhìn anh.
+
+Bất Phàm tiếp:
+
+— Nếu có thể, Summer Light sẽ là khách hàng đầu tiên của nó.
+
+Không ai nói gì.
+
+Ý tưởng ấy đã rõ ràng hơn hôm trước.
+
+Nhưng Bất Phàm vẫn chưa biến nó thành một kế hoạch chắc chắn. Anh biết phía trước còn rất nhiều việc phải tìm hiểu. Một công ty thanh toán không thể được dựng lên chỉ bằng một ý tưởng hay vài người có tiền.
+
+Phong Vũ hỏi:
+
+— Em định bắt đầu từ đâu?
+
+— Gặp những người đang làm trong lĩnh vực này. Tìm hiểu quy định, mô hình hoạt động, quan hệ với ngân hàng và những gì chúng ta thực sự có thể làm.
+
+— Cần bao lâu?
+
+Bất Phàm suy nghĩ.
+
+— Chưa biết. Nhưng em sẽ cố tìm cho ra câu trả lời trước khi chúng ta quyết định.
+
+Phong Vũ gật đầu.
+
+— Được.
+
+Anh đứng dậy, nhìn lại sơ đồ.
+
+— Vậy Summer Light không giữ tiền.
+
+Bất Phàm nhìn anh.
+
+— Nhưng chúng ta phải tìm ra người giữ.
+
+Phong Vũ gật đầu.
+
+— Làm rõ chuyện đó trước.
+
+Bất Phàm thu lại tài liệu.
+
+Anh không nói thêm về công ty mới. Nhưng khi bước ra khỏi phòng, tập giấy về ngân hàng và thanh toán vẫn nằm trong tay anh.
+
+Phong Vũ quay lại nhìn Hiểu Khánh.
+
+— Phần hệ thống cứ tiếp tục.
+
+— Còn phần tiền?
+
+Phong Vũ nhìn sang cánh cửa vừa khép lại.
+
+— Để Bất Phàm tìm.
+
+Hiểu Khánh gật đầu.
+
+Trên bảng trắng, sơ đồ giao dịch vẫn còn đó.
+
+Lần đầu tiên, giữa người mua và người bán không còn chỉ là Summer Light.
+
+Ở phía sau nó, một lớp khác đang bắt đầu hình thành.
+
+
+--------------------------------------------------------
+
+
+## PHẦN IX — MỘT CÔNG TY KHÁC
+
+Chiều hôm đó, Bất Phàm không trở về phòng làm việc ngay.
+
+Anh ngồi lại trong phòng họp, lấy một tờ giấy mới đặt trước mặt. Những ghi chép từ hai ngày qua đã được xếp thành từng nhóm. Anh không cố tìm một cái tên cho công ty, cũng chưa nghĩ đến chuyện đăng ký hay huy động vốn. Trước hết, anh muốn xác định chính xác mình đang muốn xây dựng thứ gì.
+
+Summer Light đã có một hệ thống thương mại tương đối rõ ràng. Người mua đến tìm sản phẩm, người bán đưa sản phẩm lên, đơn hàng được tạo ra, hai bên liên lạc thông qua nền tảng. Những việc đó thuộc về Summer Light.
+
+Nhưng tiền lại là một câu chuyện khác.
+
+Bất Phàm viết xuống hai chữ rồi gạch một đường ở giữa.
+
+**Giao dịch.**
+
+**Thanh toán.**
+
+Anh nhìn chúng một lúc rồi bắt đầu phân chia.
+
+Summer Light sẽ tiếp tục quản lý người mua và người bán. Sản phẩm vẫn nằm trên hệ thống của Summer Light. Đơn hàng, thông tin giao hàng, xác nhận nhận hàng, khiếu nại và những quy tắc liên quan đến giao dịch cũng phải nằm ở đó.
+
+Phần tiền có thể tách ra.
+
+Một công ty khác sẽ tiếp nhận yêu cầu thanh toán, giữ tiền trong thời gian giao dịch chưa hoàn tất, thực hiện việc chuyển tiền khi đủ điều kiện, hoàn lại tiền khi giao dịch bị hủy và đối soát các khoản phát sinh.
+
+Bất Phàm dừng bút.
+
+Anh viết thêm một dòng:
+
+**Không phải ngân hàng.**
+
+Đây là điều anh đã xác định từ đầu.
+
+Một ngân hàng có chức năng và phạm vi hoạt động của ngân hàng. Thứ họ cần không phải là một ngân hàng mới, mà là một tổ chức đứng giữa các giao dịch trên nền tảng thương mại, xử lý dòng tiền theo những điều kiện đã được xác định.
+
+Nhưng chỉ viết ra như vậy vẫn chưa đủ.
+
+Bất Phàm biết mình cần phải tìm hiểu rất nhiều thứ trước khi có thể biến ý tưởng thành một doanh nghiệp thật sự. Công ty sẽ hoạt động theo mô hình nào? Có những giới hạn gì? Phải đáp ứng những điều kiện nào? Phần nào có thể tự làm, phần nào phải thông qua ngân hàng? Những khoản tiền được giữ trong quá trình giao dịch sẽ được quản lý ra sao?
+
+Anh không có ý định tự trả lời những câu hỏi đó bằng suy đoán.
+
+Bất Phàm thu lại những tờ giấy, đứng dậy đi sang phòng họp bên cạnh.
+
+Phong Vũ đang cùng Hiểu Khánh xem lại phần hệ thống. Mẫn Nghi ngồi đối diện, trước mặt là một tập ghi chú về các trường hợp tranh chấp. Thanh Thảo vừa kết thúc một cuộc điện thoại.
+
+Bất Phàm kéo ghế ngồi xuống.
+
+— Em nghĩ thêm về chuyện hôm qua rồi.
+
+Phong Vũ ngẩng lên.
+
+— Thế nào?
+
+Bất Phàm đặt những tờ giấy trước mặt mọi người.
+
+— Em muốn tách phần thanh toán ra khỏi Summer Light.
+
+Hiểu Khánh nhìn xuống.
+
+— Thành một hệ thống riêng?
+
+— Có thể là một công ty riêng.
+
+Mẫn Nghi hỏi:
+
+— Công ty đó sẽ làm gì?
+
+Bất Phàm chỉ vào sơ đồ.
+
+— Summer Light vẫn làm tất cả những việc liên quan đến giao dịch. Người mua, người bán, sản phẩm, đơn hàng, giao hàng, xác nhận, tranh chấp. Công ty kia chỉ phụ trách phần tiền.
+
+Hiểu Khánh hỏi:
+
+— Hai hệ thống kết nối với nhau?
+
+— Đúng.
+
+— Khi người mua thanh toán, Summer Light gửi thông tin sang bên kia?
+
+— Không chỉ thông tin thanh toán. Còn trạng thái của giao dịch nữa.
+
+Hiểu Khánh nhìn Bất Phàm.
+
+— Nếu đơn hàng đã hoàn tất thì bên kia mới giải phóng tiền?
+
+— Đúng.
+
+— Nếu bị hủy?
+
+— Hoàn lại.
+
+— Nếu tranh chấp?
+
+— Giữ nguyên cho đến khi có quyết định.
+
+Hiểu Khánh gật đầu.
+
+Cậu không nói thêm. Rõ ràng trong đầu đã bắt đầu hình thành cách kết nối hai hệ thống.
+
+Phong Vũ hỏi:
+
+— Em định tìm một công ty có sẵn để hợp tác?
+
+Bất Phàm lắc đầu.
+
+— Em nghĩ đến chuyện đó trước. Nhưng nếu chỉ tìm một bên bên ngoài, chúng ta sẽ phụ thuộc vào hệ thống của họ.
+
+— Điều đó có nhất thiết là vấn đề không?
+
+— Với quy mô hiện tại thì chưa chắc. Nhưng nếu cơ chế này trở thành phần cốt lõi của Summer Light, em không muốn mỗi thay đổi sau này đều phải chờ một công ty khác đồng ý.
+
+Phong Vũ nhìn những tờ giấy trước mặt.
+
+— Vậy em muốn thành lập?
+
+Bất Phàm im lặng vài giây.
+
+— Em muốn nghiên cứu khả năng đó.
+
+Câu trả lời khiến Phong Vũ nhìn anh lâu hơn một chút.
+
+Bất Phàm nói tiếp:
+
+— Em chưa nói rằng chúng ta nên đăng ký công ty ngay. Trước hết phải biết việc này có khả thi đến đâu.
+
+Phong Vũ gật đầu.
+
+— Cần tìm hiểu những gì?
+
+— Phần pháp lý, mô hình hoạt động, ngân hàng, tài khoản, đối soát, quản lý tiền, hoàn tiền và trách nhiệm của bên trung gian.
+
+Anh dừng lại.
+
+— Còn một việc nữa.
+
+— Việc gì?
+
+— Vốn.
+
+Phong Vũ nhìn anh.
+
+Bất Phàm nói:
+
+— Nếu thật sự làm một công ty trong lĩnh vực này thì vốn ban đầu không phải vấn đề lớn với em. Nhưng có vốn không có nghĩa là có thể làm được. Em muốn biết trước cấu trúc cần thiết rồi mới tính tiếp.
+
+Phong Vũ không hỏi nguồn vốn từ đâu.
+
+Anh biết gia đình Bất Phàm có đủ tiềm lực để hỗ trợ một dự án như vậy, nhưng điều đó không có nghĩa họ sẽ bỏ tiền vào một ý tưởng chưa được kiểm chứng.
+
+Bất Phàm cũng không đề cập đến gia đình.
+
+Anh chỉ nói:
+
+— Nếu anh đồng ý, em muốn phụ trách việc này.
+
+Phong Vũ nhìn anh.
+
+— Em chắc chứ?
+
+— Vâng.
+
+Bất Phàm nói rất bình tĩnh.
+
+— Em thích lĩnh vực tài chính. Trước đây em chỉ nghĩ đến đầu tư, nhưng chuyện này làm em thấy có một thứ khác đáng để làm.
+
+Anh chỉ vào sơ đồ.
+
+— Nếu Summer Light muốn xây một thị trường đủ lớn, thanh toán sẽ không thể mãi là phần nằm bên ngoài.
+
+Phong Vũ hỏi:
+
+— Em nghĩ công ty đó chỉ nên phục vụ Summer Light?
+
+Bất Phàm lắc đầu.
+
+— Nếu chỉ phục vụ chúng ta, nó chẳng khác một bộ phận nội bộ.
+
+Anh nhìn sơ đồ một lúc rồi nói:
+
+— Nếu đã xây dựng, em muốn thiết kế sao cho sau này có thể phục vụ những nền tảng khác.
+
+Thanh Thảo ngẩng lên.
+
+— Những công ty thương mại khác?
+
+— Có thể. Hoặc những doanh nghiệp cần xử lý thanh toán theo một quy trình tương tự.
+
+Phong Vũ không bình luận về quy mô của ý tưởng.
+
+Anh chỉ hỏi:
+
+— Nếu sau này có người khác dùng thì sao?
+
+— Càng tốt.
+
+Bất Phàm cười nhẹ.
+
+— Nhưng trước hết phải làm cho Summer Light dùng được.
+
+Hiểu Khánh nói:
+
+— Nếu xây ngay từ đầu theo hướng đó thì kiến trúc sẽ khác.
+
+— Anh biết.
+
+Bất Phàm nhìn cậu.
+
+— Cho nên em mới muốn bàn trước khi bắt đầu.
+
+Phong Vũ dựa lưng vào ghế.
+
+Một lúc sau, anh hỏi:
+
+— Nếu làm công ty riêng, quan hệ giữa nó và Summer Light thế nào?
+
+Bất Phàm suy nghĩ.
+
+— Hai công ty độc lập. Nhưng Summer Light có thể là khách hàng đầu tiên và cũng là nơi kiểm nghiệm hệ thống.
+
+— Còn quyền sở hữu?
+
+Bất Phàm không trả lời ngay.
+
+Anh nhìn Phong Vũ.
+
+— Cái đó chúng ta có thể bàn sau khi biết chính xác mình đang xây thứ gì.
+
+Phong Vũ gật đầu.
+
+Đó là câu trả lời hợp lý.
+
+Chưa có sản phẩm hoàn chỉnh, chưa có mô hình pháp lý rõ ràng, cũng chưa biết chi phí vận hành sẽ đến đâu. Nói về tỷ lệ sở hữu lúc này chỉ khiến cuộc thảo luận đi quá xa.
+
+Phong Vũ cầm lấy một tờ giấy.
+
+— Vậy trước mắt em tìm hiểu.
+
+— Vâng.
+
+— Khi có đủ thông tin, chúng ta ngồi lại.
+
+Bất Phàm gật đầu.
+
+Anh thu những tờ giấy trên bàn.
+
+— Được.
+
+Cuộc nói chuyện kết thúc ở đó.
+
+Không có quyết định thành lập một công ty ngay trong ngày hôm ấy.
+
+Nhưng khi Bất Phàm bước ra khỏi phòng, anh đã không còn nhìn vấn đề thanh toán như một việc cần giải quyết cho Summer Light nữa.
+
+Anh bắt đầu nhìn nó như một lĩnh vực có thể tự đứng thành một doanh nghiệp.
+
+Còn trong phòng, Hiểu Khánh quay lại chiếc máy tính.
+
+— Nếu Bất Phàm thực sự làm một công ty riêng, phần giao tiếp giữa hai hệ thống phải được tính từ bây giờ.
+
+Phong Vũ nhìn sơ đồ trên bảng.
+
+— Vậy thì tính từ bây giờ.
+
+
+-----------------------------------------------------------
+
+
+## PHẦN X — Ý TƯỞNG KHÔNG CHỈ DÀNH CHO SUMMER LIGHT
+
+Bất Phàm không lập tức bắt tay vào việc thành lập công ty.
+
+Trong những ngày sau đó, anh dành phần lớn thời gian để tìm hiểu về hoạt động thanh toán. Những tài liệu đầu tiên anh đọc không có gì hấp dẫn. Phần lớn là những khái niệm về tài khoản, chuyển khoản, đối soát, quy trình xử lý và trách nhiệm của các bên. Nhưng càng đọc, anh càng nhận ra vấn đề không nằm ở việc có thể chuyển tiền từ người này sang người khác hay không.
+
+Ngân hàng đã làm việc đó từ lâu.
+
+Điều Summer Light cần là một hệ thống có thể gắn dòng tiền với từng giao dịch cụ thể.
+
+Người mua thanh toán cho đơn hàng nào.
+
+Khoản tiền đó đang được giữ vì lý do gì.
+
+Khi nào được chuyển cho người bán.
+
+Nếu đơn hàng bị hủy thì tiền đi đâu.
+
+Nếu hai bên tranh chấp thì khoản tiền phải được xử lý thế nào.
+
+Đó không còn đơn thuần là chuyện thanh toán.
+
+Bất Phàm bắt đầu nhìn lại ý tưởng ban đầu.
+
+Nếu công ty mới chỉ tồn tại để phục vụ Summer Light, nó thực chất chỉ là một bộ phận được tách ra khỏi công ty mẹ. Khi Summer Light phát triển, công ty đó sẽ phát triển theo. Nhưng nếu một ngày Summer Light có thêm những đối tác khác, những nền tảng khác cũng cần giải quyết vấn đề tương tự, thì nhu cầu đó không còn thuộc riêng về Summer Light nữa.
+
+Một công ty bán hàng cần người mua và người bán.
+
+Một nền tảng đấu giá cần người mua và người bán.
+
+Một công ty cung cấp dịch vụ trực tuyến cũng có thể cần thu tiền trước rồi chỉ chuyển tiền cho bên cung cấp khi dịch vụ hoàn tất.
+
+Nếu cơ chế mà họ đang nghĩ đến có thể dùng trong những trường hợp đó, thì thứ Bất Phàm đang nhìn thấy không phải một công cụ phía sau Summer Light.
+
+Nó có thể là một doanh nghiệp độc lập.
+
+Buổi tối, anh đem những ghi chép ấy đến phòng làm việc.
+
+Phong Vũ đang đọc tài liệu ở bàn bên cửa sổ. Bất Phàm kéo ghế ngồi xuống đối diện.
+
+— Em tìm hiểu được một số thứ.
+
+Phong Vũ đặt tài liệu xuống.
+
+— Có gì đáng chú ý?
+
+Bất Phàm đưa cho anh vài trang giấy.
+
+— Càng tìm hiểu, em càng thấy nếu làm thì không nên chỉ làm cho Summer Light.
+
+Phong Vũ đọc qua.
+
+— Vì thị trường lớn hơn?
+
+— Có thể nói như vậy.
+
+Bất Phàm lấy lại tập giấy, lật đến trang mình đánh dấu.
+
+— Nhưng trước hết phải xác định công ty này thực sự làm gì.
+
+Anh chỉ vào những dòng chữ.
+
+— Nếu nó chỉ nhận tiền rồi chuyển tiền thì ngân hàng đã làm được. Chúng ta không có lý do gì để xây thêm một công ty chỉ làm việc đó.
+
+Phong Vũ gật đầu.
+
+— Vậy điểm khác biệt nằm ở đâu?
+
+— Ở việc nó hiểu giao dịch.
+
+Bất Phàm nói chậm rãi hơn.
+
+— Ví dụ một khách hàng mua một sản phẩm trên Summer Light. Công ty thanh toán không chỉ biết khách hàng đã chuyển tiền. Nó phải biết khoản tiền đó đang gắn với một giao dịch chưa hoàn tất. Khi Summer Light xác nhận giao dịch đã đạt điều kiện, tiền mới được chuyển.
+
+Phong Vũ nhìn anh.
+
+— Nghĩa là công ty thanh toán phải kết nối được với hệ thống của bên bán hàng.
+
+— Đúng.
+
+— Nếu có nhiều nền tảng?
+
+— Thì mỗi nền tảng có thể có quy trình khác nhau. Nhưng phần xử lý tiền phía sau vẫn có những nguyên tắc chung.
+
+Phong Vũ không nói ngay.
+
+Bất Phàm nhìn anh.
+
+— Em nghĩ đó mới là phần có giá trị.
+
+Phong Vũ hỏi:
+
+— Nếu làm riêng, chúng ta phải giải quyết những gì?
+
+Bất Phàm đã chuẩn bị cho câu hỏi này.
+
+Anh lấy một tờ giấy khác ra, nhưng lần này không đọc từ giấy. Những thứ cần tìm hiểu đã nằm trong đầu anh.
+
+— Trước hết là pháp lý. Chúng ta phải biết loại hình công ty nào có thể làm những việc này, cần điều kiện gì và phần nào phải thông qua ngân hàng.
+
+Anh dừng lại rồi nói tiếp:
+
+— Sau đó là ngân hàng. Phải có ngân hàng hợp tác, tài khoản phù hợp và cơ chế chuyển tiền giữa các bên.
+
+Phong Vũ gật đầu.
+
+— Còn hệ thống?
+
+— Tài khoản và giao dịch phải đối soát được. Không thể có chuyện hệ thống của chúng ta ghi một con số mà phía ngân hàng lại là một con số khác.
+
+Hiểu Khánh vừa đi ngang qua cửa, nghe thấy câu cuối liền dừng lại.
+
+— Nếu làm như vậy thì ngay từ đầu phải có cơ chế đối soát tự động.
+
+Bất Phàm nhìn cậu.
+
+— Anh cũng nghĩ vậy.
+
+Hiểu Khánh bước vào.
+
+— Nhưng còn một vấn đề. Nếu có nhiều nền tảng kết nối vào thì dữ liệu của mỗi nền tảng sẽ khác nhau.
+
+— Đúng — Bất Phàm nói. — Cho nên phần giao tiếp phải được chuẩn hóa.
+
+Hiểu Khánh nhìn hai người.
+
+— Việc đó không nhỏ.
+
+— Anh biết.
+
+Hiểu Khánh gật đầu rồi đi tiếp.
+
+Bất Phàm quay lại với Phong Vũ.
+
+— Ngoài ra còn quản lý tiền, bảo mật, hoàn tiền, tranh chấp và rủi ro.
+
+Phong Vũ hỏi:
+
+— Em đã có câu trả lời cho những chuyện đó chưa?
+
+Bất Phàm lắc đầu.
+
+— Chưa.
+
+Anh nói rất bình tĩnh.
+
+— Nhưng em biết phải tìm ở đâu.
+
+Phong Vũ nhìn anh.
+
+Bất Phàm nói tiếp:
+
+— Phần pháp lý thì tìm luật sư và người có kinh nghiệm trong lĩnh vực này. Phần ngân hàng thì phải gặp người trong ngân hàng. Phần vận hành thì có thể học từ những hệ thống đang hoạt động. Phần kỹ thuật thì Hiểu Khánh có thể cùng em xác định.
+
+Phong Vũ gật đầu.
+
+Đó mới là điều quan trọng.
+
+Bất Phàm không cần phải biết hết mọi thứ ngay lúc này.
+
+Anh chỉ cần biết **những câu hỏi nào phải được trả lời và ai có thể trả lời chúng**.
+
+Phong Vũ cầm bút, gõ nhẹ lên mặt bàn.
+
+— Nếu sau này công ty này phục vụ nhiều nền tảng, Summer Light sẽ là gì?
+
+— Khách hàng đầu tiên.
+
+— Còn nếu Summer Light là khách hàng lớn nhất?
+
+— Vẫn là khách hàng.
+
+Phong Vũ nhìn anh.
+
+Bất Phàm hiểu ý.
+
+— Em muốn hai công ty có quan hệ chặt, nhưng không muốn công ty thanh toán chỉ tồn tại vì Summer Light.
+
+Phong Vũ gật đầu.
+
+— Như vậy sẽ dễ phát triển hơn.
+
+— Và cũng khó hơn.
+
+Bất Phàm cười.
+
+— Nếu chỉ phục vụ một công ty thì mọi thứ đơn giản hơn. Nhưng chẳng có lý do gì để làm một doanh nghiệp riêng chỉ vì một công ty.
+
+Phong Vũ nhìn tập giấy trước mặt.
+
+Một lát sau, anh hỏi:
+
+— Em định bắt đầu từ đâu?
+
+— Ngày mai em sẽ gặp một vài người trong ngành ngân hàng.
+
+— Người của gia đình?
+
+Bất Phàm gật đầu.
+
+— Có vài người quen.
+
+Anh không nói thêm. Những mối quan hệ đó không phải thứ anh thường xuyên sử dụng, nhưng lần này chúng có thể giúp anh nhanh chóng biết được đâu là chuyện có thể làm, đâu là chuyện không thể làm.
+
+Phong Vũ đứng dậy.
+
+— Vậy trước mắt cứ tìm hiểu cho rõ.
+
+Bất Phàm cũng đứng lên.
+
+— Vâng.
+
+Anh thu lại những tài liệu trên bàn rồi bước ra ngoài.
+
+Phong Vũ vẫn đứng bên cửa sổ.
+
+Trên bàn là sơ đồ giao dịch mà Hiểu Khánh đã vẽ từ hôm trước. Người mua ở một bên, người bán ở một bên. Ở giữa là khoản tiền chưa được chuyển.
+
+Cho đến vài ngày trước, khoảng trống ấy chỉ là một vấn đề của Summer Light.
+
+Bây giờ, nó đã mở ra một câu hỏi khác.
+
+Nếu có thể xây dựng một hệ thống đủ tốt để đứng giữa hàng nghìn, rồi hàng triệu giao dịch, thì hệ thống ấy có thể không chỉ phục vụ Summer Light.
+
+Phong Vũ không vội nghĩ xa hơn.
+
+Những câu hỏi trước mắt vẫn còn rất nhiều.
+
+Nhưng từ ngày hôm đó, Bất Phàm đã có một công việc mới để theo đuổi.
+
+Không phải tìm thêm người bán.
+
+Không phải tìm thêm khách hàng.
+
+Mà là tìm hiểu xem **một công ty thanh toán thực sự phải được xây dựng như thế nào**.
+
+
+--------------------------------------------------------------
+
+
+## PHẦN XI — THỬ LẠI MỘT GIAO DỊCH CŨ
+
+Sáng hôm sau, Mẫn Nghi mang một tập hồ sơ vào phòng họp.
+
+Cô không chọn trường hợp phức tạp nhất. Đó là một đơn hàng từng mất gần hai ngày để giải quyết, nhưng cuối cùng hai bên vẫn thống nhất được cách xử lý. Người mua cho rằng sản phẩm không giống mô tả. Người bán khẳng định mình đã gửi đúng sản phẩm. Sau khi nhân viên liên hệ với cả hai bên và xem lại thông tin, người bán đồng ý đổi hàng.
+
+Phong Vũ đặt hồ sơ xuống giữa bàn.
+
+— Thử lại từ đầu.
+
+Mẫn Nghi hiểu ý anh.
+
+— Theo quy trình mới?
+
+— Ừ.
+
+Hiểu Khánh mở máy tính. Bất Phàm kéo ghế lại gần hơn, còn Thanh Thảo cầm lấy một tờ giấy trắng.
+
+Mẫn Nghi bắt đầu đọc lại tình huống.
+
+— Người mua chọn sản phẩm, đặt hàng và thanh toán.
+
+Hiểu Khánh nói:
+
+— Tiền chưa chuyển cho người bán. Trạng thái là đang được giữ.
+
+— Người bán nhận được thông báo đã thanh toán.
+
+— Sau đó xác nhận giao hàng.
+
+Hiểu Khánh gõ vài dòng.
+
+— Đơn hàng chuyển sang đang giao. Tiền vẫn được giữ.
+
+Mẫn Nghi tiếp tục:
+
+— Người mua nhận hàng.
+
+Thanh Thảo hỏi:
+
+— Nếu sản phẩm đúng như mô tả?
+
+— Người mua xác nhận nhận hàng.
+
+Hiểu Khánh nói:
+
+— Giao dịch hoàn tất. Tiền được giải phóng.
+
+Bất Phàm gật đầu.
+
+— Đến đây thì đơn giản.
+
+Mẫn Nghi nhìn lại hồ sơ cũ.
+
+— Nhưng trường hợp này không đơn giản như vậy.
+
+Cô lật sang trang tiếp theo.
+
+— Người mua nói sản phẩm không giống mô tả.
+
+Hiểu Khánh dừng tay.
+
+— Trạng thái đơn hàng chuyển sang tranh chấp?
+
+Mẫn Nghi gật đầu.
+
+— Tiền vẫn giữ.
+
+Phong Vũ nhìn sơ đồ.
+
+— Rồi sao?
+
+Mẫn Nghi ngẩng lên.
+
+— Đó là câu hỏi.
+
+Không ai nói gì.
+
+Cô đặt hồ sơ xuống.
+
+— Theo cách cũ, em gọi cho người bán. Sau đó gọi cho người mua. Hai bên nói chuyện với nhau. Nếu không thống nhất thì em phải xem thông tin sản phẩm, hình ảnh, thời gian giao hàng và những thứ liên quan.
+
+Phong Vũ hỏi:
+
+— Với cách mới?
+
+Mẫn Nghi nhìn khoản tiền đang được giữ trên sơ đồ.
+
+— Vẫn phải làm.
+
+Phong Vũ gật đầu.
+
+— Đúng.
+
+Anh không cố biến cơ chế mới thành một thứ có thể giải quyết tất cả.
+
+Mẫn Nghi tiếp tục:
+
+— Nhưng ít nhất tiền chưa chuyển.
+
+— Vì vậy phần việc nào đã được thay đổi? — Phong Vũ hỏi.
+
+Mẫn Nghi suy nghĩ.
+
+— Không phải xử lý chuyện đòi tiền lại từ người bán.
+
+— Còn gì nữa?
+
+— Có thể tập trung giải quyết xem ai đúng.
+
+Bất Phàm gật đầu.
+
+— Đó là điểm quan trọng.
+
+Anh nhìn về phía Hiểu Khánh.
+
+— Nhưng muốn làm được như vậy thì phải quy định trước.
+
+Hiểu Khánh đặt tay lên bàn.
+
+— Quy định cái gì?
+
+Bất Phàm nhìn Mẫn Nghi.
+
+— Ai có quyền khiếu nại?
+
+— Người mua.
+
+— Trong bao lâu?
+
+Mẫn Nghi chưa trả lời.
+
+Cô nhìn hồ sơ.
+
+— Nếu ngắn quá, người mua chưa kịp kiểm tra hàng đã hết thời gian. Nếu dài quá, tiền của người bán bị giữ quá lâu.
+
+Bất Phàm gật đầu.
+
+— Đó là một trong những thứ phải thử.
+
+Thanh Thảo nói:
+
+— Và phải cho người mua biết thời hạn ngay từ đầu.
+
+Phong Vũ nhìn cô.
+
+— Đúng.
+
+Mẫn Nghi viết xuống một dòng.
+
+— Người mua khiếu nại trong thời hạn quy định.
+
+Cô ngẩng lên.
+
+— Sau đó thì người bán phải làm gì?
+
+Bất Phàm đáp:
+
+— Cung cấp thông tin chứng minh mình đã thực hiện đúng nghĩa vụ.
+
+Mẫn Nghi hỏi:
+
+— Cụ thể là gì?
+
+Bất Phàm suy nghĩ.
+
+— Thông tin sản phẩm. Thông tin giao hàng. Có thể là hình ảnh trước khi gửi nếu loại hàng đó cần.
+
+Mẫn Nghi lắc đầu.
+
+— Nếu yêu cầu quá nhiều, người bán nhỏ sẽ không muốn tham gia.
+
+Thanh Thảo nói:
+
+— Nhưng nếu không yêu cầu thì người mua lại khó chứng minh.
+
+Cả hai cùng nhìn Phong Vũ.
+
+Anh không đưa ra câu trả lời ngay.
+
+— Đừng quy định tất cả trong một lần. Trước hết xem mỗi loại giao dịch thực sự cần những thông tin nào.
+
+Hiểu Khánh gật đầu và ghi lại.
+
+Mẫn Nghi tiếp tục:
+
+— Giả sử người mua không có bằng chứng rõ ràng. Người bán cũng không có bằng chứng rõ ràng.
+
+— Thì sao? — Thanh Thảo hỏi.
+
+Mẫn Nghi nhìn cô.
+
+— Vẫn phải có người quyết định.
+
+Bất Phàm nói:
+
+— Đó là lúc hệ thống chuyển sang xử lý tranh chấp.
+
+— Ai xử lý?
+
+— Nhân viên.
+
+Mẫn Nghi gật đầu.
+
+— Vậy thì vẫn cần bộ phận này.
+
+Phong Vũ nói:
+
+— Nhưng quy mô của nó có thể khác.
+
+Mẫn Nghi nhìn anh.
+
+— Vì phần lớn giao dịch sẽ không đến đây.
+
+— Đúng.
+
+Cô hiểu ra.
+
+Trước đây, nhân viên thường phải bước vào sau khi một vấn đề đã xảy ra, và nhiều khi còn phải xử lý cả tiền đã chuyển.
+
+Nếu cơ chế mới hoạt động đúng, nhân viên chỉ cần xử lý những trường hợp mà quy tắc tự động không thể giải quyết.
+
+Mẫn Nghi nhìn hồ sơ cũ.
+
+— Được. Thử tiếp.
+
+Cô lật sang tình huống khác.
+
+— Người mua không phản hồi sau khi nhận hàng.
+
+Hiểu Khánh hỏi:
+
+— Bao lâu?
+
+— Chưa quy định.
+
+Bất Phàm nói:
+
+— Phải quy định.
+
+— Nếu người mua đi vắng thì sao? — Thanh Thảo hỏi.
+
+— Nếu để quá lâu thì người bán không nhận được tiền.
+
+Mẫn Nghi nói:
+
+— Có thể gửi thông báo trước khi hết hạn.
+
+Hiểu Khánh gật đầu.
+
+— Hệ thống tự nhắc.
+
+— Nếu vẫn không phản hồi?
+
+Mọi người nhìn nhau.
+
+Phong Vũ nói:
+
+— Nếu không có khiếu nại trong thời hạn, coi như giao dịch hoàn tất.
+
+Mẫn Nghi viết xuống.
+
+— Nhưng phải thông báo rõ từ đầu.
+
+— Đúng.
+
+Cô chuyển sang tình huống tiếp theo.
+
+— Người bán không giao hàng.
+
+Hiểu Khánh đáp:
+
+— Hết thời hạn thì đơn hàng bị hủy.
+
+— Tiền?
+
+— Hoàn lại cho người mua.
+
+— Còn người bán?
+
+Bất Phàm nói:
+
+— Phải ghi nhận việc không giao hàng.
+
+Thanh Thảo hỏi:
+
+— Ảnh hưởng đến tài khoản người bán?
+
+Bất Phàm nhìn sang Phong Vũ.
+
+Phong Vũ nói:
+
+— Cái đó cần dữ liệu trước khi quyết định.
+
+Mẫn Nghi gật đầu.
+
+Không ai muốn tùy tiện đặt ra một hình phạt rồi sau đó mới phát hiện nó khiến người bán không muốn sử dụng hệ thống.
+
+Cô lại lật một trang.
+
+— Người mua nhận hàng, sau đó nói muốn trả lại vì không thích nữa.
+
+Thanh Thảo nói:
+
+— Không thể trường hợp nào cũng trả.
+
+— Vậy phải phân biệt.
+
+— Đúng.
+
+Mẫn Nghi nhìn Phong Vũ.
+
+— Chúng ta lại cần thêm quy tắc.
+
+Phong Vũ gật đầu.
+
+— Viết ra tất cả.
+
+Căn phòng dần đầy những tờ giấy.
+
+Một giao dịch cũ vốn chỉ chiếm vài dòng trong hệ thống bây giờ được họ tháo ra thành từng đoạn nhỏ. Mỗi đoạn đều đặt ra một câu hỏi.
+
+Thanh toán.
+
+Giao hàng.
+
+Xác nhận.
+
+Khiếu nại.
+
+Hoàn tiền.
+
+Tranh chấp.
+
+Không phản hồi.
+
+Hủy đơn.
+
+Mỗi câu trả lời lại kéo theo một câu hỏi khác.
+
+Đến gần trưa, Hiểu Khánh dựa lưng vào ghế.
+
+— Em hiểu rồi.
+
+Phong Vũ nhìn cậu.
+
+— Hiểu gì?
+
+— Nếu chỉ thêm bước giữ tiền thì rất dễ.
+
+Cậu chỉ vào những tờ giấy trên bàn.
+
+— Nhưng để tiền được giữ một cách có ý nghĩa, chúng ta phải quy định cả giao dịch.
+
+Bất Phàm gật đầu.
+
+— Chính xác.
+
+Mẫn Nghi nhìn lại tập hồ sơ cũ.
+
+— Hồi trước em chỉ nghĩ mỗi tranh chấp là một việc riêng.
+
+Cô đặt tay lên hồ sơ.
+
+— Bây giờ nhìn lại thì chúng đều xuất phát từ những chỗ mà quy trình chưa nói rõ.
+
+Phong Vũ không trả lời.
+
+Anh nhìn những ghi chép trước mặt.
+
+Ý tưởng ban đầu chỉ là giữ tiền lại.
+
+Nhưng khi thử đưa một giao dịch thực tế vào cơ chế mới, họ mới thấy việc giữ tiền chỉ là điểm bắt đầu. Muốn cơ chế đó vận hành được, họ phải xác định trước quyền và trách nhiệm của người mua, người bán, thời hạn của từng bước, cách xử lý những tình huống bình thường và cả những trường hợp không ai muốn xảy ra.
+
+Hiểu Khánh nhìn màn hình rồi nói:
+
+— Nếu làm theo cách này, hệ thống không thể chỉ lưu đơn hàng nữa.
+
+Phong Vũ hỏi:
+
+— Vì sao?
+
+— Vì nó phải biết tại sao tiền đang được giữ.
+
+Bất Phàm nhìn sang.
+
+Hiểu Khánh nói tiếp:
+
+— Và khi tiền được chuyển đi, hệ thống cũng phải biết điều gì đã khiến nó được chuyển.
+
+Phong Vũ gật đầu.
+
+Cả nhóm im lặng.
+
+Trên bàn, tập hồ sơ cũ vẫn là một giao dịch duy nhất.
+
+Nhưng sau khi tháo nó ra từng bước, họ đã nhìn thấy phía sau nó cả một hệ thống quy tắc.
+
+Không ai còn nghĩ đây chỉ là một cách giữ tiền nữa.
+
+
+----------------------------------------------------------------
+
+
+# PHẦN XII — HAI LỚP CỦA SUMMER LIGHT
+
+Sau khi thử nghiệm lại giao dịch cũ trên giấy, căn phòng vẫn chưa ai đứng dậy.
+
+Trên bảng trắng, Hiểu Khánh đã viết lại toàn bộ quá trình từ lúc người mua đặt hàng cho đến khi người bán nhận được tiền. Những mũi tên chồng lên nhau, bên cạnh là các ghi chú về hủy đơn, hoàn tiền, tranh chấp và xác nhận. So với sơ đồ ban đầu của Summer Light, nó đã dài hơn rất nhiều.
+
+Thanh Thảo đứng phía dưới bảng, nhìn một lúc rồi nói:
+
+— Nếu làm theo cách này, Summer Light đâu còn chỉ là chỗ để hai bên tìm thấy nhau nữa.
+
+Mẫn Nghi gật đầu.
+
+— Trước đây khách hàng gặp vấn đề thì chúng ta xử lý đơn hàng. Bây giờ từ lúc họ trả tiền cho đến lúc giao dịch kết thúc, gần như bước nào cũng liên quan đến hệ thống của chúng ta.
+
+Hiểu Khánh cầm bút, khoanh vào phần đơn hàng.
+
+— Phần này vẫn là việc của Summer Light. Người mua chọn gì, người bán bán gì, hàng được gửi đi thế nào, khi nào được xác nhận, lúc nào được hủy, tranh chấp xử lý ra sao... tất cả đều nằm ở đây.
+
+Cô chỉ sang phần bên cạnh.
+
+— Nhưng tiền thì khác.
+
+Bất Phàm ngồi phía đối diện, từ nãy vẫn nhìn vào sơ đồ.
+
+— Đúng. Hai chuyện này có liên quan với nhau, nhưng không phải một chuyện.
+
+Phong Vũ nhìn lên bảng.
+
+Một giao dịch ban đầu chỉ có hai người. Người mua trả tiền cho người bán, người bán gửi hàng cho người mua. Summer Light đứng giữa để giúp hai người tìm thấy nhau.
+
+Nhưng khi số lượng giao dịch tăng lên, công ty không thể tiếp tục chỉ đứng giữa bằng con người.
+
+Một người mua đặt hàng.
+
+Một người bán gửi hàng.
+
+Một khoản tiền được thanh toán.
+
+Một đơn hàng thay đổi trạng thái.
+
+Mỗi thay đổi đều cần có quy tắc.
+
+Hiểu Khánh nói:
+
+— Em nghĩ hệ thống phải tách hai lớp. Một lớp quản lý giao dịch, một lớp quản lý tiền. Hai lớp này phải biết trạng thái của nhau, nhưng không nhất thiết phải do cùng một bộ phận thực hiện.
+
+Mẫn Nghi hỏi:
+
+— Ví dụ?
+
+— Đơn hàng đã thanh toán nhưng chưa giao hàng thì trạng thái giao dịch là đang chờ giao. Tiền đã nhận nhưng chưa được chuyển cho người bán thì trạng thái tiền là đang được giữ. Khi người mua xác nhận nhận hàng, giao dịch hoàn tất. Lúc đó bên tiền mới được phép chuyển sang trạng thái giải ngân.
+
+Thanh Thảo nhìn cô.
+
+— Nghĩa là khách hàng nhìn thấy một giao dịch, nhưng phía sau nó có hai thứ đang chạy cùng lúc?
+
+— Có thể hiểu như vậy.
+
+Bất Phàm chống tay lên bàn.
+
+— Và Summer Light không nhất thiết phải trực tiếp chạm vào tiền.
+
+Căn phòng im lặng vài giây.
+
+Câu nói ấy làm cho sơ đồ trên bảng thay đổi hẳn ý nghĩa.
+
+Nếu Summer Light quản lý đơn hàng, giao nhận, xác nhận và tranh chấp, công ty có thể tập trung vào việc xây dựng thị trường. Còn tiền của khách hàng cần một lớp khác chịu trách nhiệm tiếp nhận, giữ, chuyển, hoàn trả và đối soát.
+
+Phong Vũ hỏi:
+
+— Nếu tách ra như vậy, khách hàng có cảm thấy phức tạp hơn không?
+
+Thanh Thảo lắc đầu.
+
+— Nếu làm đúng thì họ thậm chí không cần biết phía sau có mấy công ty. Họ chỉ cần biết đặt hàng thế nào, thanh toán thế nào, khi nào người bán nhận được tiền và nếu có vấn đề thì phải làm gì.
+
+Phong Vũ gật đầu.
+
+— Đúng.
+
+Anh bước đến gần bảng, cầm bút lên.
+
+Phía dưới dòng chữ “Giao dịch”, anh viết thêm một dòng.
+
+“Tiền”.
+
+Rồi anh nối hai dòng bằng một mũi tên.
+
+— Chúng ta không cần làm cho người mua hiểu hết hệ thống. Chúng ta cần làm cho họ biết hệ thống sẽ làm gì khi họ thực hiện một hành động.
+
+Hiểu Khánh nhìn dòng chữ trên bảng.
+
+— Vậy giao diện cũng phải thay đổi.
+
+— Không chỉ giao diện.
+
+Phong Vũ đặt bút xuống.
+
+— Quy trình, quy tắc, hệ thống và cách chúng ta xử lý vấn đề đều phải thống nhất.
+
+Bất Phàm cười nhẹ.
+
+— Anh đang biến một trang bán hàng thành một hệ thống giao dịch rồi.
+
+Phong Vũ không trả lời ngay.
+
+Anh nhìn lại những đơn hàng từng được Mẫn Nghi xử lý trong mấy tháng qua. Có những chuyện trước đây chỉ mất vài cuộc điện thoại. Nhưng nếu một ngày có hàng chục nghìn đơn, vài cuộc điện thoại sẽ biến thành hàng nghìn cuộc.
+
+Không phải cứ tuyển thêm người là giải quyết được.
+
+Anh nói:
+
+— Chúng ta không thể bắt người mua tin người bán. Cũng không thể bắt người bán tin người mua.
+
+Mẫn Nghi nhìn lên bảng.
+
+— Nhưng nếu họ không tin nhau thì làm sao giao dịch?
+
+Phong Vũ quay lại.
+
+— Vậy thì đừng bắt họ phải tin nhau quá nhiều.
+
+Không ai nói gì.
+
+Bất Phàm cúi xuống nhìn lại những dòng ghi chú trước mặt. Hiểu Khánh chậm rãi gạch một đường dưới phần “tiền”. Thanh Thảo cầm tập giấy hướng dẫn người dùng, bắt đầu lật từng trang.
+
+Mỗi người đều đã hiểu phần việc của mình.
+
+Summer Light vẫn là nơi người mua gặp người bán.
+
+Nhưng từ lúc này, điều họ cần xây dựng không chỉ là một nơi để giao dịch.
+
+Mà là một cách để hai người xa lạ có thể giao dịch với nhau mà không phải đặt toàn bộ niềm tin vào đối phương.
+
+
+------------------------------------------------------------
+
+
+# PHẦN XIII — MỘT THÁNG BẮT ĐẦU
+
+Bước sang tháng ba, Summer Light không tổ chức thêm một cuộc họp lớn nào. Mỗi người mang phần việc của mình về chỗ làm, rồi bắt đầu sửa từng thứ một.
+
+Hiểu Khánh gần như ngày nào cũng ngồi trước máy tính. Cô bỏ cách quản lý đơn hàng cũ, thiết kế lại phần lõi để trạng thái giao dịch và trạng thái tiền có thể liên kết với nhau. Một đơn hàng đã hoàn tất thì hệ thống phải biết vì sao tiền được giải ngân; một đơn hàng bị hủy thì khoản tiền tương ứng phải chuyển sang quy trình hoàn trả. Không thể để hai bên tự chạy theo hai hướng khác nhau.
+
+Mẫn Nghi lấy toàn bộ những trường hợp từng xảy ra trong mấy tháng trước ra xem lại. Cô phân loại từng tình huống: người bán không giao hàng, người mua không xác nhận, hàng bị trả lại, đơn hàng bị hủy giữa chừng, hai bên cùng khiếu nại. Những quy trình mới được viết ra rồi sửa lại, có khi chỉ vì một câu chưa đủ rõ mà phải bỏ đi.
+
+Thanh Thảo không tham gia sâu vào phần kỹ thuật. Cô tập trung vào cách nói với khách hàng. Những từ như “giữ tiền”, “tranh chấp”, “tạm khóa” đều được cân nhắc rất kỹ. Cô muốn người mua hiểu rằng khoản tiền của họ vẫn thuộc về giao dịch, chỉ chưa được chuyển cho người bán khi các điều kiện chưa hoàn tất.
+
+Bất Phàm bắt đầu công việc của mình.
+
+Anh gọi cho vài người quen trong lĩnh vực ngân hàng và đầu tư, sau đó tiếp tục tìm hiểu về tài khoản, đối soát, thanh toán và những yêu cầu pháp lý liên quan. Có những vấn đề anh tưởng có thể hỏi một người là xong, nhưng càng hỏi lại càng xuất hiện thêm những câu hỏi khác.
+
+Nguồn lực gia đình giúp anh tiếp cận được những người bình thường rất khó gặp. Nhưng sau mỗi cuộc nói chuyện, trên bàn làm việc của Bất Phàm không phải là một phương án hoàn chỉnh, mà là thêm một tập giấy ghi những việc cần tìm hiểu.
+
+Còn Phong Vũ không ngồi ở giữa để làm thay từng người.
+
+Anh đi qua từng phòng, xem Hiểu Khánh đang sửa gì, hỏi Mẫn Nghi quy trình mới có khiến nhân viên thêm việc không, nghe Thanh Thảo thử cách giải thích với khách hàng, rồi cùng Bất Phàm xem những thông tin mới tìm được.
+
+Có lúc anh chỉ hỏi một câu.
+
+— Việc này có giúp giao dịch đơn giản hơn không?
+
+Nếu câu trả lời là không, họ lại quay về sửa.
+
+Một tháng cứ thế trôi qua.
+
+---------------------------------------------------------------------
+
+
+
+# PHẦN XIV — NHỮNG VẤN ĐỀ ĐẦU TIÊN
+
+Những bản thiết kế đầu tiên nhanh chóng gặp vấn đề.
+
+Mẫn Nghi từng đề nghị người mua phải xác nhận nhận hàng trong một khoảng thời gian nhất định. Nhưng Thanh Thảo lập tức phản đối.
+
+— Người mua có thể đi công tác hoặc không kiểm tra máy tính vài ngày. Nếu quá hạn mà tự động xử lý thì họ sẽ không hiểu chuyện gì xảy ra.
+
+Bất Phàm lại nhìn từ phía người bán.
+
+— Nếu không có thời hạn thì người bán cũng không biết bao giờ mới nhận được tiền.
+
+Hiểu Khánh nói:
+
+— Có thể đặt thời hạn dài hơn.
+
+Mẫn Nghi lắc đầu.
+
+— Thời hạn càng dài, càng nhiều đơn phải chờ.
+
+Một quy định tưởng như chỉ cần chọn một con số, cuối cùng lại liên quan đến cả bốn phía.
+
+Lần khác, Phong Vũ đề nghị tăng thêm một bước xác nhận trước khi người bán gửi hàng để giảm nhầm lẫn.
+
+Thanh Thảo xem thử quy trình rồi nói:
+
+— Người mua phải bấm quá nhiều lần. Với một món hàng nhỏ, họ có thể bỏ luôn.
+
+Bất Phàm cũng đồng ý.
+
+— Người bán mới vào hệ thống còn phiền hơn. Nếu mỗi đơn đều phải qua quá nhiều bước, họ sẽ quay lại cách bán cũ.
+
+Hiểu Khánh mở lại bản thiết kế.
+
+— Bước này cũng làm hệ thống phức tạp hơn.
+
+Phong Vũ nhìn màn hình một lúc rồi nói:
+
+— Bỏ bước đó đi.
+
+Không ai ngạc nhiên.
+
+Một số nguyên tắc được giữ lại. Một số bị sửa. Có những thứ sau khi thử mới phát hiện không cần thiết.
+
+Phong Vũ không cố bảo vệ ý kiến của mình chỉ vì nó xuất phát từ anh. Khi Mẫn Nghi đưa ra một trường hợp thực tế, anh xem lại. Khi Hiểu Khánh chỉ ra một vấn đề kỹ thuật, anh thay đổi. Khi Thanh Thảo nói khách hàng sẽ không hiểu, anh yêu cầu viết lại.
+
+Đến cuối tháng, bản thiết kế đã khác khá nhiều so với những gì họ vẽ trong cuộc họp đầu tiên.
+
+Nhưng lần này, mỗi thay đổi đều có một lý do phía sau.
+
+
+-----------------------------------------------------------------
+
+
+# PHẦN XV — BẤT PHÀM BẮT ĐẦU MỘT VIỆC MỚI
+
+Đến cuối tháng ba, Bất Phàm đã có những kết quả nghiên cứu đầu tiên.
+
+Trên bàn anh là một tập tài liệu dày hơn trước rất nhiều. Trong đó có những ghi chép về mô hình tổ chức, quan hệ với ngân hàng, tài khoản và đối soát, những vấn đề pháp lý cần tiếp tục tìm hiểu, phương án vốn ban đầu và cách một công ty thanh toán có thể kết nối với Summer Light.
+
+Chưa có công ty mới.
+
+Chưa có giấy phép.
+
+Cũng chưa có hệ thống thanh toán hoàn chỉnh.
+
+Nhưng Bất Phàm đã biết mình cần phải tìm đến những ai và cần giải quyết những vấn đề nào trước khi có thể bắt đầu.
+
+Anh mang tài liệu đến văn phòng Phong Vũ.
+
+Phong Vũ xem qua từng phần, thỉnh thoảng hỏi thêm một câu. Khi đọc xong, anh đặt tập giấy xuống.
+
+— Em muốn tự làm?
+
+— Vâng.
+
+Bất Phàm trả lời khá nhanh.
+
+Phong Vũ nhìn anh.
+
+— Tách khỏi Summer Light?
+
+Bất Phàm im lặng một lúc rồi nói:
+
+— Em nghĩ nên tách riêng. Nếu đặt nó trong Summer Light thì cuối cùng nó vẫn chỉ là một bộ phận của công ty. Nhưng nếu thành một công ty riêng, nó có thể xây dựng hệ thống của riêng mình và sau này phục vụ những nền tảng khác.
+
+Phong Vũ gật đầu.
+
+— Còn Summer Light?
+
+— Summer Light có thể là khách hàng đầu tiên.
+
+Anh dừng lại rồi nói thêm:
+
+— Nhưng hai bên vẫn phải giữ quan hệ rất chặt. Cơ chế này vốn xuất phát từ nhu cầu của chúng ta.
+
+Phong Vũ nhìn tập tài liệu thêm một lần.
+
+— Được. Em tiếp tục tìm hiểu đi.
+
+Bất Phàm cầm tài liệu đứng dậy.
+
+Lần đầu tiên kể từ khi Summer Light thành lập, anh không chỉ nghĩ đến việc công ty sẽ bán được bao nhiêu hàng.
+
+Anh bắt đầu nghĩ đến cách dòng tiền của cả một thị trường có thể vận hành.
+
+------------------------------------------------------------------
+
+
+# PHẦN XVI — NHỮNG NGÀY KHỞI SẮC
+
+Tháng tư, nhóm giao dịch thử nghiệm bắt đầu vận hành.
+
+Ban đầu chỉ có vài người bán quen thuộc và một số đơn hàng được chọn trước. Mẫn Nghi theo dõi từng trường hợp, Hiểu Khánh kiểm tra từng trạng thái trong hệ thống, Thanh Thảo quan sát phản ứng của người mua, còn Bất Phàm tiếp tục hoàn thiện phương án thanh toán bên ngoài.
+
+Những lỗi nhỏ vẫn xuất hiện.
+
+Có đơn hàng người mua quên xác nhận. Có người bán cập nhật sai trạng thái. Có trường hợp phải hoàn tiền vì hàng không được gửi đúng thời hạn.
+
+Nhưng lần này, khi một vấn đề xảy ra, họ không còn phải ngồi tìm cách xử lý riêng từng đơn như trước. Mỗi trường hợp đều được đưa trở lại quy trình, xem nó nằm ở đâu, vì sao hệ thống chưa xử lý được, rồi sửa đúng chỗ đó.
+
+Sau vài vòng thử nghiệm, số trường hợp phải can thiệp trực tiếp giảm xuống rõ rệt.
+
+Mẫn Nghi là người nhận ra điều đó trước.
+
+Một buổi chiều, cô đặt tập hồ sơ xuống bàn rồi nói:
+
+— Dạo này ít việc hơn thật.
+
+Thanh Thảo đang trả lời thư của khách hàng, ngẩng đầu lên.
+
+— Ít việc đến mức nào?
+
+— Những chuyện trước đây phải gọi điện hỏi từng bên, bây giờ phần lớn đều có cách xử lý rồi.
+
+Hiểu Khánh ngồi trước máy tính, không quay lại.
+
+— Vì hệ thống đang biết phải làm gì trước khi đến tay chúng ta.
+
+Bất Phàm cũng có tin tốt của riêng mình. Những cuộc trao đổi với ngân hàng và những người trong lĩnh vực tài chính dần mở ra một hướng đi rõ hơn. Công ty thanh toán vẫn chưa thành hình, nhưng những vấn đề quan trọng nhất đã có người cùng anh nghiên cứu.
+
+Summer Light tiếp tục tăng trưởng.
+
+Số người bán tăng lên. Hàng hóa nhiều hơn. Người mua quay lại thường xuyên hơn. Những người từng do dự trước đây bắt đầu giới thiệu người khác vào mua bán.
+
+Đến cuối tháng năm, văn phòng đã khác hẳn vài tháng trước.
+
+Điện thoại thường xuyên reo. Nhân viên mới được tuyển thêm. Những chồng giấy từng nằm trên bàn Mẫn Nghi dần được thay bằng những quy trình đã được chuẩn hóa.
+
+Phong Vũ vẫn giữ thói quen đi qua từng phòng vào cuối ngày.
+
+Anh không còn phải ngồi hàng giờ để giải quyết từng tranh chấp.
+
+Hiểu Khánh có thể tự xử lý phần lớn vấn đề của hệ thống. Mẫn Nghi đã có quy trình cho những tình huống thường gặp. Thanh Thảo không còn phải giải thích lại từng bước cho mỗi khách hàng. Bất Phàm thì ngày càng dành nhiều thời gian hơn cho công việc tài chính mới.
+
+Đầu tháng sáu, một buổi chiều sau giờ làm việc, Phong Vũ ngồi trong văn phòng nhìn ra ngoài cửa sổ.
+
+Điện thoại trên bàn không reo.
+
+Không có ai gõ cửa mang đến một vụ tranh chấp mới.
+
+Ngoài hành lang, tiếng nhân viên thu dọn đồ đạc thưa dần.
+
+Anh nhìn đồng hồ rồi đứng dậy.
+
+Đã lâu rồi anh mới có một buổi chiều không cần ở lại công ty đến tối.
+
+Phong Vũ cầm áo khoác bước ra ngoài.
+
+Lần này, anh không quay lại nhìn văn phòng nữa.
+
+
+-------------------------------------------------------
