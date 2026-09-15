@@ -1,0 +1,1163 @@
+
+---
+
+# HỒI 17 — THÁCH THỨC THƯƠNG TRƯỜNG
+
+## 1. Vị trí của Hồi 17 trong mạch truyện
+
+### Hồi 16
+
+**Thành lập Summer Light**
+
+Ý tưởng → đặt tên → thành lập công ty → góp vốn → văn phòng → Demo → Version 1 → mở website → giao dịch đầu tiên → những vấn đề đầu tiên.
+
+Hồi 16 đã chứng minh:
+
+> **Summer Light có thể thực sự vận hành.**
+
+Vì vậy Hồi 17 **không được kể lại**:
+
+* website ra mắt;
+* giao dịch đầu tiên;
+* tìm những người bán đầu tiên;
+* tìm những khách hàng đầu tiên;
+* Demo;
+* Version 1;
+* “lần đầu tiên có giao dịch”.
+
+Những việc đó đã thuộc Hồi 16. 
+
+---
+
+## 2. Thời gian
+
+**Tháng 9 năm đó → cuối tháng 2 năm sau.**
+
+Khoảng **5–6 tháng**.
+
+Đây là điểm đã chỉnh lại so với outline cũ 8–9 tháng. 
+
+### Mốc chính
+
+**Tháng 9**
+
+Summer Light đã có hoạt động tương đối ổn định.
+
+↓
+
+**Tháng 10–11**
+
+Số người bán, sản phẩm, khách hàng và giao dịch tăng.
+
+↓
+
+**Tháng 11–12**
+
+Công ty bắt đầu hình thành quy trình vận hành.
+
+↓
+
+**Tháng 12–tháng 1**
+
+Những vấn đề về niềm tin giữa người mua và người bán xuất hiện rõ hơn.
+
+↓
+
+**Tết**
+
+Phong Vũ về quê khoảng 3 ngày.
+
+↓
+
+**Tháng 2**
+
+Tranh chấp và công việc xử lý ngoại lệ trở thành nút thắt.
+
+↓
+
+**Cuối tháng 2**
+
+Phong Vũ nhận ra:
+
+> vấn đề không phải Summer Light xử lý chưa tốt, mà là **cơ chế giao dịch hiện tại vốn không thể mở rộng vô hạn**.
+
+Hết Hồi 17.
+
+---
+
+# 3. Chủ đề trung tâm
+
+Không phải:
+
+> Startup gặp rất nhiều khó khăn.
+
+Mà là:
+
+> **Một công ty có thể làm mọi thứ khá tốt, nhưng vẫn chạm phải giới hạn do chính mô hình kinh doanh của mình tạo ra.**
+
+Đây là điểm rất quan trọng.
+
+Summer Light **không thất bại**.
+
+Ngược lại:
+
+* người bán tăng;
+* người mua tăng;
+* sản phẩm tăng;
+* giao dịch tăng;
+* doanh thu tăng;
+* đội ngũ trưởng thành;
+* quy trình tốt hơn.
+
+Nhưng cùng lúc:
+
+* số trường hợp cần can thiệp tăng;
+* thời gian xử lý tăng;
+* con người ngày càng phải đứng giữa người mua và người bán.
+
+Vì vậy thành công của Summer Light lại chính là thứ **đưa nhược điểm của mô hình cũ ra ánh sáng**.
+
+---
+
+# 4. Cấu trúc mới của Hồi 17
+
+Tôi đề xuất **15 phần**, thay vì 22 phần.
+
+Trục:
+
+> **Dòng giao dịch hình thành**
+> → **Công ty trưởng thành**
+> → **Những ngoại lệ xuất hiện**
+> → **Niềm tin trở thành vấn đề**
+> → **Thử nhiều cách xử lý**
+> → **Nhận ra giới hạn của mô hình**
+> → **Câu hỏi mở sang Hồi 18**
+
+Như vậy mỗi phần có một chức năng riêng.
+
+---
+
+# PHẦN I — MỘT NGÀY BÌNH THƯỜNG
+
+### Thời gian
+
+**Đầu tháng 9.**
+
+Đây là cách mở Hồi 17 tôi thấy phù hợp nhất.
+
+Không mở bằng một cuộc họp.
+
+Không mở bằng một sự cố.
+
+Không mở bằng một câu tuyên bố “Summer Light đã phát triển”.
+
+Mở bằng **một ngày làm việc bình thường**.
+
+---
+
+### Cảnh
+
+Buổi sáng.
+
+Villa của gia đình Bất Phàm đã trở thành nơi làm việc quen thuộc của Summer Light.
+
+Mười người không còn cảm giác như những người đang thử nghiệm một ý tưởng nữa.
+
+Máy tính mở từ sớm.
+
+Điện thoại reo.
+
+Một nhân viên kiểm tra danh sách đơn hàng.
+
+Một người cập nhật thông tin sản phẩm.
+
+Có email từ người bán.
+
+Có khách hàng hỏi về đơn.
+
+Bất Phàm chuẩn bị ra ngoài gặp một cửa hàng.
+
+Hiểu Khánh đang sửa một chức năng nhỏ.
+
+Mẫn Nghi xem danh sách những việc cần xử lý trong ngày.
+
+Thanh Thảo theo dõi lượng người truy cập và phản hồi.
+
+Phong Vũ đi qua từng khu vực, nhưng không còn phải trực tiếp chạm vào mọi thứ.
+
+---
+
+### Điều cần thể hiện
+
+Hồi 16:
+
+> **Một giao dịch là một sự kiện.**
+
+Hồi 17:
+
+> **Giao dịch đã trở thành dòng công việc.**
+
+Không cần nói thẳng điều này.
+
+Để độc giả tự cảm nhận qua nhịp sống.
+
+---
+
+### Một chi tiết nhỏ rất quan trọng
+
+Có thể có một nhân viên hỏi:
+
+— Việc này xử lý thế nào?
+
+Mẫn Nghi không cần gọi Phong Vũ.
+
+Cô mở tài liệu/quy trình đã có và trả lời.
+
+Đây là dấu hiệu:
+
+> Summer Light đã bắt đầu **không cần Phong Vũ cho mọi quyết định nhỏ**.
+
+Đồng thời cũng cho thấy Mẫn Nghi đang trưởng thành rất nhanh trong vai trò vận hành.
+
+---
+
+# PHẦN II — THỊ TRƯỜNG NHỎ ĐANG LỚN LÊN
+
+Không cần một câu chuyện cụ thể quá dài.
+
+Dùng một chuỗi cảnh ngắn đan xen:
+
+* Bất Phàm gặp thêm người bán;
+* một cửa hàng bắt đầu đưa nhiều sản phẩm lên;
+* một người bán cũ giới thiệu người bán mới;
+* khách hàng quay lại mua lần thứ hai;
+* số lượng sản phẩm trên website tăng;
+* nhân viên phải kiểm tra nhiều thông tin hơn.
+
+Điểm quan trọng:
+
+**Summer Light bắt đầu có hiệu ứng mạng lưới rất sơ khai.**
+
+Người bán cần người mua.
+
+Người mua cần người bán.
+
+Mỗi phía tăng lên lại khiến phía kia có lý do tham gia.
+
+---
+
+### Bất Phàm
+
+Bất Phàm dần hiểu rằng:
+
+> tìm một trăm người bán chưa chắc bằng tìm mười người bán thực sự tạo ra giao dịch.
+
+Anh bắt đầu tập trung vào chất lượng người bán.
+
+Không phải “ký được càng nhiều càng tốt”.
+
+---
+
+# PHẦN III — TÌM KHÁCH HÀNG KHÔNG CÒN LÀ CHUYỆN THỬ CHO VUI
+
+Thanh Thảo phụ trách nhiều hơn ở phía người dùng.
+
+Cô thử nhiều kênh:
+
+* diễn đàn;
+* cộng đồng trực tuyến;
+* giới thiệu;
+* email;
+* quảng cáo nhỏ;
+* hoạt động offline.
+
+Nhưng lần này không nên viết lại Hồi 16.
+
+Không kể lại họ bắt đầu quảng bá thế nào.
+
+Mà tập trung vào **việc họ bắt đầu đo hiệu quả**.
+
+---
+
+### Một cuộc trao đổi ngắn giữa Thanh Thảo và Phong Vũ
+
+Thanh Thảo đưa ra một con số chi phí.
+
+Phong Vũ hỏi:
+
+— Một người dùng mới mất bao nhiêu?
+
+Cô trả lời.
+
+Anh lại hỏi:
+
+— Trong số đó, bao nhiêu người thực sự mua hàng?
+
+Từ đó chuyển sang một vấn đề rất tự nhiên:
+
+> Không phải người truy cập quan trọng nhất.
+
+> Người thực sự giao dịch mới quan trọng.
+
+Điều này cho thấy Summer Light đang dần học cách **đọc thị trường bằng số liệu**, chứ không chỉ bằng cảm giác.
+
+---
+
+# PHẦN IV — MỌI THỨ BẮT ĐẦU CÓ QUY TRÌNH
+
+Đây là phần dành cho **Mẫn Nghi**.
+
+Khi giao dịch còn ít, mọi người nhớ bằng đầu.
+
+Khi giao dịch nhiều hơn, trí nhớ không đủ nữa.
+
+Mẫn Nghi bắt đầu đưa mọi thứ thành quy trình:
+
+**Đơn mới**
+
+→ xác nhận
+
+→ người bán xử lý
+
+→ giao hàng
+
+→ khách nhận
+
+→ hoàn tất.
+
+Mỗi trạng thái đều có người phụ trách.
+
+---
+
+### Một số quy trình khác
+
+* người bán cập nhật sản phẩm;
+* thay đổi giá;
+* hết hàng;
+* khách hỏi đơn;
+* giao hàng chậm;
+* hủy đơn;
+* phản hồi của khách.
+
+Không cần biến thành danh sách dài trong văn.
+
+Chỉ cần cho thấy:
+
+> Một công ty đang chuyển từ **“mọi người cùng làm”** sang **“hệ thống vận hành”**.
+
+---
+
+# PHẦN V — MỘT LỖI NHỎ
+
+Đây là **một case duy nhất** về lỗi vận hành.
+
+Ví dụ:
+
+Một sản phẩm vẫn hiện còn hàng.
+
+Khách đặt.
+
+Nhưng người bán thực tế đã bán hết.
+
+Mẫn Nghi phát hiện.
+
+Cô gọi cho người bán.
+
+Xác nhận lại.
+
+Liên hệ khách.
+
+Cuối cùng giải quyết ổn thỏa.
+
+Không ai mất nhiều tiền.
+
+Không có scandal.
+
+---
+
+### Nhưng điều quan trọng nằm sau đó
+
+Một nhân viên nói đại ý:
+
+— May mà phát hiện sớm.
+
+Mẫn Nghi nhìn danh sách.
+
+Một lỗi đã xử lý.
+
+Nhưng còn hàng trăm đơn khác đang chạy.
+
+Cô bắt đầu hiểu:
+
+> **Một lỗi không đáng sợ. Hàng trăm lỗi nhỏ mới đáng sợ.**
+
+Đây là hạt giống cho vấn đề về quy mô.
+
+---
+
+# PHẦN VI — CÔNG TY ĐÃ THAY ĐỔI
+
+Một phần tương đối nhẹ.
+
+Không cần nhiều kịch tính.
+
+Chỉ cho thấy nhịp sống thay đổi.
+
+Villa trước đây còn rộng.
+
+Bây giờ:
+
+* bàn làm việc đã kín hơn;
+* điện thoại reo nhiều hơn;
+* người ra vào thường xuyên hơn;
+* Bất Phàm gần như ngày nào cũng có lịch gặp người bán;
+* Thanh Thảo có nhiều số liệu hơn;
+* Mẫn Nghi có nhiều việc hơn;
+* Hiểu Khánh phải lựa chọn tính năng nào làm trước.
+
+Phong Vũ cũng thay đổi.
+
+Anh không còn là người:
+
+> “có chuyện gì thì Phong Vũ giải quyết.”
+
+Anh bắt đầu trở thành người:
+
+> **“nhìn toàn bộ công ty để biết chuyện gì cần được giải quyết.”**
+
+Đây là bước trưởng thành của nhân vật.
+
+---
+
+# PHẦN VII — HAI NGƯỜI XA LẠ
+
+Đây là lúc chuyển từ **vận hành** sang **bản chất thị trường**.
+
+Một khách hàng muốn mua một món hàng.
+
+Người bán hoàn toàn xa lạ.
+
+Khách hàng hỏi:
+
+— Nếu tôi trả tiền rồi mà người bán không gửi thì sao?
+
+Mẫn Nghi giải thích cơ chế hiện tại.
+
+Summer Light có quy định.
+
+Có thông tin người bán.
+
+Có địa chỉ.
+
+Có số điện thoại.
+
+Có điều khoản.
+
+Nhưng người mua vẫn hỏi:
+
+— Nếu vẫn xảy ra thì sao?
+
+Mẫn Nghi không có câu trả lời hoàn hảo.
+
+---
+
+### Đây là lần đầu tiên câu hỏi “niềm tin” xuất hiện.
+
+Không cần Phong Vũ lập tức xuất hiện.
+
+Không cần anh nhìn ra vấn đề ngay.
+
+Hãy để vấn đề **tự xuất hiện trong đời sống của công ty**.
+
+---
+
+# PHẦN VIII — NGƯỜI BÁN CŨNG SỢ
+
+Ngay sau đó phải đổi góc nhìn.
+
+Bất Phàm gặp một người bán tương đối nghiêm túc.
+
+Người bán hỏi:
+
+— Nếu tôi giao hàng rồi mà khách nói hàng không đúng thì sao?
+
+Bất Phàm giải thích.
+
+Người bán hỏi tiếp:
+
+— Nếu khách không chịu thanh toán?
+
+Lúc này Bất Phàm không thể nói “Summer Light sẽ xử lý” như một câu trả lời tuyệt đối.
+
+Bởi anh hiểu:
+
+**Summer Light không thể đứng cạnh từng giao dịch.**
+
+---
+
+### Kết phần
+
+Bất Phàm mang vấn đề về công ty.
+
+Lúc này nhóm lần đầu nhìn thấy toàn bộ bức tranh:
+
+**Người mua sợ người bán.**
+
+**Người bán sợ người mua.**
+
+Summer Light đứng ở giữa.
+
+---
+
+# PHẦN IX — TRANH CHẤP
+
+Một giao dịch xảy ra tranh chấp.
+
+Không cần quá lớn.
+
+Ví dụ:
+
+Người mua nói hàng không đúng mô tả.
+
+Người bán khẳng định đã giao đúng.
+
+Không có bên nào rõ ràng là kẻ xấu.
+
+Đây là điều rất quan trọng.
+
+**Hai bên đều có lý do để tin rằng mình đúng.**
+
+---
+
+### Mẫn Nghi xử lý
+
+Cô:
+
+* kiểm tra dữ liệu;
+* xem mô tả;
+* liên hệ người bán;
+* liên hệ khách;
+* xem thông tin giao hàng;
+* xác minh các chi tiết.
+
+Cuối cùng đưa ra cách xử lý.
+
+Vụ việc kết thúc.
+
+---
+
+### Nhưng cái giá
+
+Không phải tiền.
+
+Mà là **thời gian của con người**.
+
+Mẫn Nghi mất nhiều giờ cho một giao dịch.
+
+Phong Vũ nhìn qua vụ việc.
+
+Không bình luận nhiều.
+
+Chỉ ghi nhận.
+
+---
+
+# PHẦN X — HỌ SỬA ĐƯỢC
+
+Đây là phần cần có để bảo vệ hình ảnh năng lực của Summer Light.
+
+Sau tranh chấp đầu tiên, họ không ngồi than.
+
+Họ sửa.
+
+Có thể:
+
+* yêu cầu mô tả sản phẩm rõ hơn;
+* lưu lại thông tin;
+* xác minh người bán;
+* quy định giao hàng;
+* quy định khiếu nại;
+* xây dựng cách xử lý tranh chấp.
+
+Những thay đổi này **có tác dụng**.
+
+Số vấn đề giảm.
+
+Độc giả phải thấy:
+
+> **Đây là một đội ngũ tốt.**
+
+Nếu có vấn đề, họ giải quyết được.
+
+---
+
+# PHẦN XI — NHƯNG QUY MÔ ĐỔI KHÁC MỌI THỨ
+
+Một thời gian trôi qua.
+
+Không cần thêm một “đại sự kiện”.
+
+Chỉ cần:
+
+> một tranh chấp nữa.
+
+Rồi:
+
+> một tranh chấp khác.
+
+Không phải vì các quy định thất bại.
+
+Mà vì số giao dịch đã tăng.
+
+Nếu có một tỷ lệ rất nhỏ giao dịch phát sinh vấn đề, thì:
+
+* 100 giao dịch → gần như không đáng kể;
+* 1.000 giao dịch → bắt đầu thấy;
+* 10.000 giao dịch → thành một công việc thực sự.
+
+Đây là lúc **quy mô** trở thành nhân vật vô hình của Hồi 17.
+
+---
+
+### Mẫn Nghi
+
+Cô bắt đầu có một danh sách riêng:
+
+**Các trường hợp cần can thiệp.**
+
+Danh sách không dài đến mức khủng khiếp.
+
+Nhưng nó ngày càng dài.
+
+Và điều đáng sợ là:
+
+> giao dịch tăng thì danh sách này cũng tăng.
+
+---
+
+# PHẦN XII — THỬ GIẢI QUYẾT BẰNG QUY TẮC
+
+Nhóm họp.
+
+Không phải để tìm “ý tưởng vĩ đại”.
+
+Mà để cải thiện những gì đang có.
+
+### Thử 1 — xác minh người bán
+
+Hiệu quả.
+
+Người mua yên tâm hơn.
+
+Nhưng không giải quyết được:
+
+> Một người bán thật vẫn có thể giao sai hàng.
+
+### Thử 2 — thêm điều khoản
+
+Giảm tranh chấp.
+
+Nhưng quy trình dài hơn.
+
+### Thử 3 — thêm điều kiện với người bán mới
+
+Rủi ro giảm.
+
+Nhưng người bán mới khó tham gia.
+
+---
+
+### Thanh Thảo
+
+Cô có thể nhận xét:
+
+— Nếu muốn chắc chắn tuyệt đối thì cuối cùng chẳng còn ai muốn bán hàng trên này.
+
+Câu nói rất đời thường.
+
+Không cần Phong Vũ giải thích triết lý.
+
+---
+
+# PHẦN XIII — NGƯỜI BÁN MỚI
+
+Nhóm thử thêm **đánh giá người bán**.
+
+Người bán có lịch sử tốt → đáng tin hơn.
+
+Cách này cũng hiệu quả.
+
+Nhưng ngay lập tức xuất hiện một khoảng trống:
+
+**người bán mới.**
+
+Một người vừa tham gia:
+
+* chưa có giao dịch;
+* chưa có đánh giá;
+* chưa có lịch sử.
+
+Không thể đánh giá họ thấp chỉ vì họ mới.
+
+Nhưng người mua cũng không có lý do để tin họ.
+
+---
+
+### Đây là điểm rất hay
+
+Nhóm đã thử:
+
+**thông tin**
+
+**quy định**
+
+**xác minh**
+
+**đánh giá**
+
+Tất cả đều có tác dụng.
+
+Nhưng **không phương pháp nào giải quyết được toàn bộ vấn đề**.
+
+---
+
+# PHẦN XIV — KỲ NGHỈ TẾT
+
+Đây là **phân cảnh đời sống duy nhất của Phong Vũ và Nhược Vũ trong Hồi 17**.
+
+### Thời gian
+
+Cuối tháng 1 / đầu tháng 2.
+
+### Thời lượng
+
+Phong Vũ chỉ ở quê khoảng **ba ngày**.
+
+Tính cả đi lại, toàn bộ kỳ nghỉ khoảng **năm ngày**.
+
+Điểm này rất quan trọng vì Hồi 14 đã có một kỳ nghỉ Tết dài và dành rất nhiều thời gian phát triển quan hệ. Không được lặp lại các mô-típ:
+
+* tặng quà;
+* đi chợ xuân;
+* nghe đàn;
+* đi dạo;
+* những cuộc nói chuyện dài;
+* những màn xác nhận tình cảm.
+
+---
+
+## Cảnh
+
+Phong Vũ về nhà.
+
+Sinh hoạt gia đình trước.
+
+Sau đó sang nhà Nhược Vũ.
+
+Không còn cảm giác của Hồi 12.
+
+Cũng không cần có sự ngượng ngùng của Hồi 14.
+
+Hai người đã quen thuộc.
+
+Nhược Vũ hỏi:
+
+— Công ty thế nào rồi?
+
+Phong Vũ trả lời ngắn gọn.
+
+Cô hỏi:
+
+— Anh ở nhà mấy ngày?
+
+— Ba ngày.
+
+Nhược Vũ hơi bất ngờ.
+
+— Ít vậy?
+
+— Công ty còn việc.
+
+Cô không trách.
+
+Chỉ đáp:
+
+— Ba ngày cũng được.
+
+---
+
+### Điểm cảm xúc
+
+Không cần một bước tiến tình cảm mới.
+
+Cái cần thể hiện là:
+
+> **Họ đã trở thành một phần tự nhiên trong cuộc sống của nhau.**
+
+Không cần nói “anh nhớ em”.
+
+Không cần nói “em chờ anh”.
+
+Không cần lời hứa.
+
+Chỉ cần sự tự nhiên.
+
+---
+
+### Một chi tiết rất nên giữ
+
+Điện thoại của Phong Vũ có thể đổ chuông.
+
+Anh nhìn qua.
+
+Nhưng không lập tức biến cuộc gặp thành cuộc họp.
+
+Sau đó khi cần, anh mới xử lý.
+
+Chi tiết này cho thấy:
+
+> Công việc quan trọng, nhưng Nhược Vũ không phải thứ bị công việc hoàn toàn nuốt mất.
+
+Rồi vài ngày sau anh trở lại Bắc Đô.
+
+**Kết thúc tuyến tình cảm của Hồi 17 tại đây.**
+
+---
+
+# PHẦN XV — SAU TẾT: NHẬN RA GIỚI HẠN
+
+Phong Vũ trở lại công ty.
+
+Không cần thêm cảnh Nhược Vũ.
+
+Không cần nhắc lại chuyện tình cảm.
+
+Summer Light tiếp tục chạy.
+
+Và lúc này, số liệu đã đủ lớn để Phong Vũ nhìn thấy một cấu trúc rõ ràng.
+
+Có thể đặt bảng:
+
+| Chỉ số                   | Xu hướng |
+| ------------------------ | -------- |
+| Người bán                | ↑        |
+| Người mua                | ↑        |
+| Sản phẩm                 | ↑        |
+| Giao dịch                | ↑        |
+| Doanh thu                | ↑        |
+| Trường hợp cần can thiệp | ↑        |
+
+Điều quan trọng nhất:
+
+**mọi thứ đều đang tăng.**
+
+Không có dấu hiệu phá sản.
+
+Không có khủng hoảng.
+
+---
+
+## Cuộc trao đổi
+
+Bất Phàm nói:
+
+— Nếu tiếp tục tăng thì chúng ta tuyển thêm người.
+
+Phong Vũ hỏi:
+
+— Bao nhiêu người?
+
+Bất Phàm không trả lời ngay.
+
+Phong Vũ nhìn bảng.
+
+— Nếu giao dịch tăng gấp mười?
+
+Bất Phàm:
+
+— Thì phải tăng người.
+
+Phong Vũ:
+
+— Gấp mười?
+
+Không ai nói.
+
+Bởi câu hỏi đã tự trả lời.
+
+---
+
+## Phong Vũ nhìn thấy cấu trúc
+
+Không phải:
+
+> “Mẫn Nghi làm việc quá nhiều.”
+
+Không phải:
+
+> “Công ty thiếu nhân viên.”
+
+Mà là:
+
+> **Mỗi giao dịch có vấn đề đều buộc Summer Light phải đưa một con người vào giữa.**
+
+Đó mới là vấn đề.
+
+---
+
+# PHẦN XVI — MỘT CÂU HỎI
+
+Tôi thực ra đề xuất **thêm một phần rất ngắn này làm đoạn kết**, thay vì kéo dài thêm các case.
+
+Phong Vũ đứng trước bảng.
+
+Anh viết:
+
+**GIAO DỊCH ↑**
+
+Bên dưới:
+
+**NGOẠI LỆ ↑**
+
+Bên dưới nữa:
+
+**THỜI GIAN XỬ LÝ ↑**
+
+Anh nhìn một lúc.
+
+Bất Phàm nói:
+
+— Tuyển thêm người vẫn giải quyết được.
+
+Phong Vũ gật đầu.
+
+— Với số lượng hiện tại.
+
+Anh dừng lại.
+
+Rồi hỏi:
+
+— Nếu nó tiếp tục tăng thì sao?
+
+Không ai trả lời.
+
+Phong Vũ xóa phần “tuyển thêm người”.
+
+Không viết giải pháp mới.
+
+Chỉ để lại:
+
+> **Nếu cứ tăng như thế này thì sao?**
+
+**Hết Hồi 17.**
+
+---
+
+# Một điểm tôi muốn thay đổi rất mạnh so với outline cũ
+
+Tôi nghĩ **không nên có riêng các phần XVII “cuộc gặp người bán” và XVIII “khách hàng hỏi ngược lại”** như outline cũ.
+
+Hai cảnh đó thực chất đã được sử dụng ở Phần VII và VIII.
+
+Nếu lặp lại lần nữa gần cuối Hồi, cảm giác sẽ thành:
+
+> người bán lo → khách lo → người bán lo → khách lo.
+
+Không cần.
+
+Chúng ta chỉ cần **một lần thật tốt ở mỗi phía**, sau đó để các tranh chấp chứng minh vấn đề.
+
+Tương tự, không cần hai hoặc ba “tranh chấp lớn”.
+
+Chỉ cần:
+
+**một tranh chấp đầu tiên → họ xử lý tốt → tranh chấp bắt đầu xuất hiện thường xuyên hơn.**
+
+Như vậy quy mô tự làm nhiệm vụ kể chuyện.
+
+---
+
+# Tuyến nhân vật trong Hồi 17
+
+## Phong Vũ
+
+Không nên biến anh thành người đã nhìn thấy escrow từ đầu.
+
+Đây là điểm tôi muốn giữ rất chặt để Hồi 18 có giá trị.
+
+Trong Hồi 17, Phong Vũ chỉ dần nhận ra:
+
+> vấn đề nằm ở **cấu trúc giao dịch**.
+
+Anh không cần nghĩ:
+
+> “Chúng ta cần escrow.”
+
+Escrow phải để **Hồi 18 mới bật ra**.
+
+Vai trò của Phong Vũ trong Hồi 17 là:
+
+**quan sát → đặt câu hỏi → loại bỏ giải pháp tình thế → nhìn thấy giới hạn.**
+
+---
+
+## Mẫn Nghi
+
+Đây có thể là nhân vật có đất diễn nhất sau Phong Vũ.
+
+Cô đại diện cho:
+
+> **vận hành.**
+
+Cô là người trực tiếp cảm nhận:
+
+> một ngoại lệ cần bao nhiêu công sức của con người.
+
+Qua đó độc giả sẽ hiểu vấn đề trước cả khi Phong Vũ gọi tên nó.
+
+---
+
+## Bất Phàm
+
+Đại diện cho:
+
+> **người bán và thị trường.**
+
+Anh nhìn thấy nỗi lo của người bán.
+
+Anh cũng là người hiểu rõ nhất:
+
+> nếu Summer Light muốn có nhiều người bán hơn, không thể bắt họ trải qua quá nhiều thủ tục.
+
+---
+
+## Thanh Thảo
+
+Đại diện cho:
+
+> **người dùng và tăng trưởng.**
+
+Cô quan tâm:
+
+* người dùng có vào không;
+* có mua không;
+* có quay lại không;
+* quy trình có quá phức tạp không.
+
+Cô cũng là người tự nhiên nhất để phản biện những quy định quá chặt.
+
+---
+
+## Hiểu Khánh
+
+Không nên để Hiểu Khánh tham gia quá sâu vào tuyến tranh chấp.
+
+Vai trò của cậu là:
+
+> **hệ thống kỹ thuật phải chạy được khi quy mô tăng.**
+
+Có thể cho cậu xuất hiện qua những vấn đề:
+
+* trạng thái đơn;
+* dữ liệu;
+* công cụ hỗ trợ;
+* báo cáo;
+* ưu tiên tính năng.
+
+Nhưng Hồi 18 mới là lúc Hiểu Khánh thực sự bước vào bài toán kiến trúc của cơ chế mới.
+
+---
+
+# Tuyến Nhược Vũ
+
+Tôi nghĩ phiên bản này là đủ.
+
+### Đầu Hồi
+
+Một đoạn rất ngắn:
+
+Nhược Vũ và Tuyết Mai đã quen với đời sống sinh viên ở Bắc Đô. Cuối tuần đôi khi gặp Phong Vũ.
+
+### Giữa Hồi
+
+Một lần nhắc rất ngắn rằng những cuộc gặp ngày càng khó sắp xếp vì công việc.
+
+### Tết
+
+**Một cảnh hoàn chỉnh 1.000–1.500 từ.**
+
+### Sau Tết
+
+Không xuất hiện nữa.
+
+Như vậy Hồi 17 không biến thành một Hồi tình cảm.
+
+---
+
+# Phân bổ dung lượng
+
+Nếu Hồi 17 vẫn giữ mục tiêu khoảng **13.000–15.000 từ**, tôi sẽ phân bổ đại khái:
+
+| Phần                       |         Dung lượng |
+| -------------------------- | -----------------: |
+| I. Một ngày bình thường    |          800–1.000 |
+| II. Thị trường nhỏ lớn lên |          800–1.000 |
+| III. Tìm khách hàng        |            700–900 |
+| IV. Quy trình              |          800–1.000 |
+| V. Một lỗi nhỏ             |            700–900 |
+| VI. Công ty thay đổi       |            700–900 |
+| VII. Hai người xa lạ       |          900–1.100 |
+| VIII. Người bán cũng sợ    |          800–1.000 |
+| IX. Tranh chấp             |        1.000–1.300 |
+| X. Họ sửa được             |            700–900 |
+| XI. Quy mô đổi khác        |          900–1.100 |
+| XII. Thử bằng quy tắc      |          900–1.100 |
+| XIII. Người bán mới        |            700–900 |
+| XIV. Tết                   |        1.000–1.500 |
+| XV–XVI. Sau Tết + kết      |        1.000–1.300 |
+| **Tổng**                   | **~12.000–15.000** |
+
+Không nhất thiết phải bám cứng từng con số.
+
+---
+
+# Và quan trọng nhất: ranh giới 16 → 17 → 18
+
+Sau khi đọc lại hai file, tôi nghĩ ba Hồi này nên có **ba tầng hoàn toàn khác nhau**:
+
+### HỒI 16 — THÀNH LẬP SUMMER LIGHT
+
+> **Có thể làm được không?**
+
+Kết quả:
+
+**Có.**
+
+Website chạy.
+Có người bán.
+Có người mua.
+Có giao dịch.
+
+---
+
+### HỒI 17 — THÁCH THỨC THƯƠNG TRƯỜNG
+
+> **Nếu làm được rồi, có thể làm lớn đến đâu?**
+
+Kết quả:
+
+**Có thể lớn. Nhưng mô hình hiện tại bắt đầu lộ giới hạn.**
+
+---
+
+### HỒI 18 — CÚ BẺ LÁI LỊCH SỬ
+
+> **Nếu vấn đề nằm trong chính cơ chế giao dịch thì sao?**
+
+Lúc đó Phong Vũ mới đặt câu hỏi:
+
+> **Tại sao tiền phải đến tay người bán trước khi giao dịch hoàn tất?**
+
+Và từ đó mới mở ra escrow/giao dịch bảo đảm.
+
+---

@@ -1899,7 +1899,7 @@ Phong Vũ đặt bút xuống.
 — Bây giờ mới tính xem số tiền này đến từ đâu.
 
 
-----------------------------------------------------
+--------------------------------------------------------------
 
 
 # PHẦN IV — AI SẼ BỎ SỐ TIỀN ĐÓ?
@@ -2010,9 +2010,7 @@ Phong Vũ gật đầu.
 
 — Được.
 
-Anh không thuyết phục cô.
-
-Cũng không nói rằng cơ hội này sẽ không quay lại.
+Anh không thuyết phục cô, cũng không nói rằng cơ hội này sẽ không quay lại.
 
 Chỉ hỏi thêm:
 
@@ -2056,13 +2054,9 @@ Phong Vũ gật đầu.
 
 Năm người ngồi quanh bàn.
 
-Không ai bị loại khỏi cơ hội góp vốn.
+Không ai bị loại khỏi cơ hội góp vốn. Chỉ là mỗi người có một lựa chọn khác nhau.
 
-Chỉ là mỗi người có một lựa chọn khác nhau.
-
-Bất Phàm có khả năng góp vốn nhưng chủ động giới hạn mức tham gia.
-
-Hiểu Khánh cũng có thể góp nhiều hơn, nhưng muốn giữ phần sở hữu ở mức mình thấy phù hợp với sự cam kết hiện tại.
+Bất Phàm có khả năng góp vốn nhưng chủ động giới hạn mức tham gia. Hiểu Khánh cũng có thể góp nhiều hơn, nhưng muốn giữ phần sở hữu ở mức mình thấy phù hợp với sự cam kết hiện tại.
 
 Mẫn Nghi không muốn dùng tiền gia đình.
 
@@ -2202,15 +2196,7 @@ Nhưng cả năm người đều ở lại.
 
 Những ngày sau đó, phần giấy tờ bắt đầu được hoàn tất.
 
-Tên công ty được xác nhận.
-
-Cơ cấu cổ phần được thống nhất.
-
-Sáu triệu Kim Tệ được chuẩn bị theo tỷ lệ đã quyết định.
-
-Căn villa của gia đình Bất Phàm được sắp xếp để Summer Light sử dụng làm văn phòng.
-
-Những thủ tục cần thiết lần lượt được xử lý.
+Tên công ty được xác nhận. Cơ cấu cổ phần được thống nhất. Sáu triệu Kim Tệ được chuẩn bị theo tỷ lệ đã quyết định. Căn villa của gia đình Bất Phàm được sắp xếp để Summer Light sử dụng làm văn phòng. Những thủ tục cần thiết lần lượt được xử lý.
 
 Không có lễ khai trương.
 
@@ -2220,9 +2206,7 @@ Không có một buổi tiệc lớn.
 
 Đến cuối tháng sáu, những thủ tục cuối cùng hoàn tất.
 
-Chiếc con dấu mới được đặt trên bàn.
-
-Bên cạnh là giấy đăng ký công ty, hồ sơ vốn và những tài liệu đầu tiên của Summer Light.
+Chiếc con dấu mới được đặt trên bàn. Bên cạnh là giấy đăng ký công ty, hồ sơ vốn và những tài liệu đầu tiên của Summer Light.
 
 Phong Vũ cầm tờ giấy lên.
 
@@ -2238,13 +2222,7 @@ Anh đặt tờ giấy xuống.
 
 Ngoài phòng khách, tiếng bàn ghế được kéo qua sàn.
 
-Hiểu Khánh đang cùng đội kỹ thuật sắp xếp máy tính.
-
-Bất Phàm vừa gọi điện vừa ghi chép.
-
-Mẫn Nghi ngồi trước máy tính, kiểm tra lại những tài liệu vận hành.
-
-Thanh Thảo đang phân loại danh sách cần xử lý.
+Hiểu Khánh đang cùng đội kỹ thuật sắp xếp máy tính. Bất Phàm vừa gọi điện vừa ghi chép. Mẫn Nghi ngồi trước máy tính, kiểm tra lại những tài liệu vận hành. Thanh Thảo đang phân loại danh sách cần xử lý.
 
 Không ai có vẻ giống những người vừa thành lập một công ty.
 
@@ -2270,28 +2248,19 @@ Một giao dịch.
 
 -----------------------------------------------------------
 
-
 # PHẦN V — DEMO
 
 Tháng bảy.
 
-Website demo vốn đã được Hiểu Khánh xây dựng từ trước khi công ty thành lập bắt đầu được đem ra sử dụng.
-
-Nhóm không ngồi chờ phiên bản hoàn chỉnh.
-
-Họ mang nó đi gặp những người bán đầu tiên.
+Website demo vốn đã được Hiểu Khánh xây dựng từ trước khi công ty thành lập bắt đầu được đem ra sử dụng. Nhóm không ngồi chờ phiên bản hoàn chỉnh mà mang nó đi gặp những người bán đầu tiên.
 
 Một chủ cửa hàng được mời ngồi trước máy tính. Phong Vũ mở trang web, chỉ cho ông ta cách đưa một sản phẩm lên.
 
 — Đây là chỗ nhập tên sản phẩm. Giá ở đây. Hình ảnh có thể thêm vào phần này.
 
-Sau đó họ chuyển sang phía người mua.
+Sau đó họ chuyển sang phía người mua: tìm kiếm sản phẩm, xem thông tin, đặt hàng.
 
-Tìm kiếm sản phẩm, xem thông tin, đặt hàng.
-
-Những thao tác trên màn hình nhìn qua khá đơn giản.
-
-Nhưng khi bắt đầu đưa cho người thật sử dụng, những vấn đề nhỏ lập tức xuất hiện.
+Những thao tác trên màn hình nhìn qua khá đơn giản. Nhưng khi bắt đầu đưa cho người thật sử dụng, những vấn đề nhỏ lập tức xuất hiện.
 
 — Nếu khách muốn hỏi trực tiếp thì sao?
 
@@ -2301,15 +2270,9 @@ Nhưng khi bắt đầu đưa cho người thật sử dụng, những vấn đ�
 
 — Nếu người bán muốn sửa giá thì làm thế nào?
 
-Mỗi câu hỏi được ghi lại.
+Mỗi câu hỏi được ghi lại. Không tranh luận quá lâu. Cái nào cần sửa thì sửa, cái nào chưa thể làm ngay thì đánh dấu lại.
 
-Không tranh luận quá lâu.
-
-Cái nào cần sửa thì sửa, cái nào chưa thể làm ngay thì đánh dấu lại.
-
-Hiểu Khánh và Phong Vũ cùng làm phần lớn những thay đổi trên sản phẩm.
-
-Hiểu Khánh thường bắt đầu từ hệ thống: dữ liệu phải lưu thế nào, quy trình xử lý ra sao, một thay đổi ở đây sẽ ảnh hưởng đến những phần nào.
+Hiểu Khánh và Phong Vũ cùng làm phần lớn những thay đổi trên sản phẩm. Hiểu Khánh thường bắt đầu từ hệ thống: dữ liệu phải lưu thế nào, quy trình xử lý ra sao, một thay đổi ở đây sẽ ảnh hưởng đến những phần nào.
 
 Phong Vũ lại thường đứng ở phía bên kia màn hình.
 
@@ -2327,13 +2290,9 @@ Hiểu Khánh nhìn màn hình.
 
 — Vậy giữ việc kiểm soát ở phía sau. Người dùng không cần biết.
 
-Hiểu Khánh im lặng vài giây, rồi quay lại bàn phím.
+Hiểu Khánh im lặng vài giây rồi quay lại bàn phím.
 
-Có những việc chỉ cần thêm một dòng code.
-
-Có những việc phải sửa cả cách vận hành.
-
-Và cũng có những vấn đề chỉ đến khi gặp người bán thật, người mua thật, họ mới biết mình chưa từng nghĩ đến.
+Có những việc chỉ cần thêm một dòng code. Có những việc phải sửa cả cách vận hành. Và cũng có những vấn đề chỉ đến khi gặp người bán thật, người mua thật, họ mới biết mình chưa từng nghĩ đến.
 
 Website cứ thế thay đổi từng ngày.
 
@@ -2344,22 +2303,15 @@ Còn Summer Light, từ một cái tên vừa được chọn trong một quán 
 
 ---------------------------------------------------------
 
-
 # PHẦN VI — THÁNG BẢY
 
 Tháng bảy trôi qua trong những ngày làm việc gần như không có ranh giới rõ ràng.
 
 Buổi sáng có thể bắt đầu bằng vài cuộc điện thoại cho các cửa hàng. Đến trưa, một nhóm nhỏ đã ngồi trên xe đi gặp người bán. Chiều trở về, những phản hồi mới được ghi lại rồi chuyển thẳng đến bàn làm việc của Hiểu Khánh và Phong Vũ. Có hôm cả nhóm ngồi đến tối chỉ để tìm một lỗi nhỏ trong quy trình đặt hàng.
 
-Website thay đổi liên tục.
+Website thay đổi liên tục. Một nút được đổi vị trí, một biểu mẫu được rút gọn, một bước xác nhận được thêm vào. Một lỗi vừa sửa xong lại kéo theo một lỗi khác.
 
-Một nút được đổi vị trí. Một biểu mẫu được rút gọn. Một bước xác nhận được thêm vào. Một lỗi vừa sửa xong lại kéo theo một lỗi khác.
-
-Trong lúc đó, Mẫn Nghi và Bất Phàm tiếp tục tìm người bán.
-
-Có cửa hàng đồng ý thử.
-
-Có cửa hàng nghe xong rồi từ chối.
+Trong lúc đó, Mẫn Nghi và Bất Phàm tiếp tục tìm người bán. Có cửa hàng đồng ý thử, có cửa hàng nghe xong rồi từ chối.
 
 — Internet thì tôi không hiểu.
 
@@ -2393,9 +2345,7 @@ Phong Vũ và Hiểu Khánh tiếp tục sửa sản phẩm.
 
 Công việc cứ nối tiếp công việc.
 
-Không ai còn hỏi hôm nay mình phải làm phần nào.
-
-Có vấn đề ở đâu thì người gần nó nhất giải quyết trước.
+Không ai còn hỏi hôm nay mình phải làm phần nào. Có vấn đề ở đâu thì người gần nó nhất giải quyết trước.
 
 Đến cuối tháng, họ đã có một nhóm người bán bắt đầu sử dụng hệ thống, một lượng truy cập nhỏ và rất nhiều ghi chú chưa kịp xử lý.
 
@@ -2403,8 +2353,8 @@ Chưa có gì đáng để gọi là thành công.
 
 Nhưng ít nhất, Summer Light không còn chỉ là một ý tưởng nằm trên giấy.
 
---------------------------------------------------------------
 
+--------------------------------------------------------------
 
 # PHẦN VII — VERSION 1
 
@@ -2412,27 +2362,7 @@ Nhưng ít nhất, Summer Light không còn chỉ là một ý tưởng nằm tr
 
 Website bước vào những ngày cuối cùng trước khi mở cửa chính thức.
 
-Cả nhóm kiểm tra lại từ đầu.
-
-Đăng ký tài khoản.
-
-Đăng nhập.
-
-Đăng sản phẩm.
-
-Tìm kiếm.
-
-Đặt hàng.
-
-Thông báo.
-
-Quản lý đơn.
-
-Mỗi chức năng đều được thử đi thử lại.
-
-Có lỗi thì sửa.
-
-Sửa xong lại thử lại.
+Cả nhóm kiểm tra lại từ đầu: đăng ký tài khoản, đăng nhập, đăng sản phẩm, tìm kiếm, đặt hàng, thông báo, quản lý đơn. Mỗi chức năng đều được thử đi thử lại. Có lỗi thì sửa, sửa xong lại thử lại.
 
 Không ai nói website đã hoàn hảo.
 
@@ -2442,25 +2372,17 @@ Nhưng đến một lúc, Hiểu Khánh đóng cửa sổ mã nguồn, nhìn san
 
 — Đủ rồi.
 
-Phong Vũ nhìn màn hình thêm một lúc.
-
-Rồi gật đầu.
+Phong Vũ nhìn màn hình thêm một lúc rồi gật đầu.
 
 Version 1 được hoàn thành.
 
-Không có lễ khai trương.
-
-Không có báo chí.
-
-Không có khách mời.
-
-Cũng chẳng có ai đứng trước một tấm biển để chụp ảnh.
+Không có lễ khai trương. Không có báo chí, không có khách mời. Cũng chẳng có ai đứng trước một tấm biển để chụp ảnh.
 
 Chỉ có một buổi sáng bình thường, khi họ mở hệ thống cho những người bên ngoài truy cập.
 
 Một dòng trạng thái thay đổi.
 
-"Website chính thức mở".
+"Website chính thức mở."
 
 Không ai vỗ tay.
 
@@ -2469,21 +2391,14 @@ Mọi người chỉ tiếp tục ngồi trước máy tính.
 Bởi từ khoảnh khắc ấy, những gì xảy ra trên màn hình không còn hoàn toàn nằm trong tay họ nữa.
 
 
-
------------------------------------------------------
+---------------------------------------------------------------
 
 
 # PHẦN VIII — WEBSITE KHÔNG TỰ SINH RA KHÁCH HÀNG
 
 Những ngày đầu sau khi website mở cửa không giống như cả nhóm từng tưởng tượng.
 
-Mỗi sáng, họ mở hệ thống, nhìn số liệu truy cập.
-
-Rồi nhìn lại vào buổi trưa.
-
-Chiều lại nhìn thêm lần nữa.
-
-Những con số vẫn nhỏ đến mức chẳng cần ai phải tính toán nhiều.
+Mỗi sáng, họ mở hệ thống, nhìn số liệu truy cập. Rồi nhìn lại vào buổi trưa, chiều lại nhìn thêm lần nữa. Những con số vẫn nhỏ đến mức chẳng cần ai phải tính toán nhiều.
 
 Một website có thể chạy ổn định, giao diện gọn gàng, sản phẩm được sắp xếp rõ ràng, quy trình đặt hàng không còn lỗi lớn.
 
@@ -2501,9 +2416,7 @@ Câu nói rất đơn giản.
 
 Nhưng từ hôm đó, một nửa thời gian của Summer Light bắt đầu dành cho việc đưa người khác đến website.
 
-Trên Internet, họ thử những nơi có thể tiếp cận người dùng vào thời điểm đó.
-
-Một số công cụ tìm kiếm cho phép đặt quảng cáo. Họ thử những từ khóa liên quan đến sản phẩm, theo dõi lượng người nhấp vào rồi tính xem có ai thực sự ở lại.
+Trên Internet, họ thử những nơi có thể tiếp cận người dùng vào thời điểm đó. Một số công cụ tìm kiếm cho phép đặt quảng cáo. Họ thử những từ khóa liên quan đến sản phẩm, theo dõi lượng người nhấp vào rồi tính xem có ai thực sự ở lại.
 
 Thanh Thảo tìm các diễn đàn có nhiều người trao đổi về mua bán và kinh doanh. Cô viết những bài giới thiệu ngắn, không cố biến chúng thành quảng cáo lộ liễu.
 
@@ -2517,15 +2430,9 @@ Nhưng Internet vẫn chưa đủ.
 
 Bọn họ bắt đầu ra ngoài.
 
-Đi gặp cửa hàng.
+Đi gặp cửa hàng, đi gặp nhà phân phối, đến các hội chợ thương mại, những hội thảo kinh doanh và các sự kiện liên quan đến công nghệ. Có những ngày cả nhóm đi từ sáng đến tối, mang theo tài liệu giới thiệu và một chiếc máy tính xách tay.
 
-Đi gặp nhà phân phối.
-
-Đến các hội chợ thương mại, những hội thảo kinh doanh và các sự kiện liên quan đến công nghệ.
-
-Có những ngày cả nhóm đi từ sáng đến tối, mang theo tài liệu giới thiệu và một chiếc máy tính xách tay.
-
-Một chủ cửa hàng xem xong bản demo, hỏi:
+Một chủ cửa hàng xem xong bản demo rồi hỏi:
 
 — Tôi đưa hàng lên thì các cậu làm gì để có người mua?
 
@@ -2547,9 +2454,7 @@ Người đàn ông bật cười, nhưng không đồng ý ngay.
 
 Cũng có người đồng ý.
 
-Họ không ký những hợp đồng lớn.
-
-Chỉ là từng cửa hàng một, từng nhà phân phối một.
+Họ không ký những hợp đồng lớn. Chỉ là từng cửa hàng một, từng nhà phân phối một.
 
 Một vài sản phẩm được đưa lên.
 
@@ -2561,15 +2466,7 @@ Người mua sẽ không vào một cửa hàng trực tuyến nếu bên trong 
 
 Vì vậy, tìm người bán trở thành công việc quan trọng không kém tìm người mua.
 
-Summer Light đưa ra chính sách ban đầu rất đơn giản.
-
-Đăng ký miễn phí.
-
-Có người của công ty hỗ trợ đưa sản phẩm lên.
-
-Người bán được dùng thử hệ thống.
-
-Chỉ khi có giao dịch thực sự, Summer Light mới thu phí.
+Summer Light đưa ra chính sách ban đầu rất đơn giản: đăng ký miễn phí, có người của công ty hỗ trợ đưa sản phẩm lên. Người bán được dùng thử hệ thống. Chỉ khi có giao dịch thực sự, Summer Light mới thu phí.
 
 Bất Phàm nhìn bảng tính rồi nói:
 
@@ -2583,11 +2480,7 @@ Không ai phản đối.
 
 Mẫn Nghi bắt đầu theo sát từng cửa hàng mới.
 
-Có nơi không biết chụp ảnh sản phẩm.
-
-Có nơi không biết nhập thông tin.
-
-Có nơi đưa cho họ một danh sách sản phẩm viết tay rồi bảo:
+Có nơi không biết chụp ảnh sản phẩm. Có nơi không biết nhập thông tin. Có nơi đưa cho họ một danh sách sản phẩm viết tay rồi bảo:
 
 — Các cậu làm giúp tôi đi.
 
@@ -2595,19 +2488,11 @@ Những việc ấy vốn không nằm trong một bản mô tả sản phẩm �
 
 Nhưng họ vẫn làm.
 
-Một nhân viên ngồi nhập dữ liệu.
-
-Một người khác xử lý hình ảnh.
-
-Có người gọi điện hỏi lại giá.
-
-Có người sửa thông tin sản phẩm ngay trên hệ thống.
+Một nhân viên ngồi nhập dữ liệu. Một người khác xử lý hình ảnh. Có người gọi điện hỏi lại giá. Có người sửa thông tin sản phẩm ngay trên hệ thống.
 
 Từng chút một, số lượng hàng hóa trên website tăng lên.
 
-Trang chủ bắt đầu có thứ để hiển thị.
-
-Danh mục bắt đầu có thứ để lựa chọn.
+Trang chủ bắt đầu có thứ để hiển thị. Danh mục bắt đầu có thứ để lựa chọn.
 
 Và lần đầu tiên, khi một người lạ bước vào website, họ không còn nhìn thấy một cửa hàng gần như trống rỗng.
 
@@ -2619,7 +2504,6 @@ Nhưng ít nhất, nó đã bắt đầu có một thứ mà một cửa hàng c
 
 
 ----------------------------------------------------
-
 
 # PHẦN IX — GIAO DỊCH ĐẦU TIÊN
 
@@ -2639,9 +2523,7 @@ Phong Vũ đứng dậy đi xuống.
 
 Trên màn hình là một đơn hàng mới.
 
-Không phải đơn dùng để kiểm tra hệ thống.
-
-Không phải đơn do bọn họ tự đặt để thử quy trình.
+Không phải đơn dùng để kiểm tra hệ thống. Không phải đơn do bọn họ tự đặt để thử quy trình.
 
 Có một cái tên xa lạ, một địa chỉ xa lạ, một sản phẩm của một cửa hàng đang hợp tác với Summer Light.
 
@@ -2659,9 +2541,7 @@ Phong Vũ nhìn màn hình vài giây rồi bảo:
 
 — Gọi cho người bán xác nhận.
 
-Cuộc điện thoại được thực hiện ngay sau đó.
-
-Người bán nhận được thông báo, kiểm tra sản phẩm rồi xác nhận đơn.
+Cuộc điện thoại được thực hiện ngay sau đó. Người bán nhận được thông báo, kiểm tra sản phẩm rồi xác nhận đơn.
 
 Đơn hàng chuyển sang bước tiếp theo.
 
@@ -2693,19 +2573,13 @@ Một nhân viên nhập mã vận chuyển vào hệ thống. Địa chỉ nh�
 
 Thêm một lần nữa, cả nhóm chờ.
 
-Không ai đứng quanh màn hình.
-
-Không ai tổ chức họp.
-
-Nhưng thỉnh thoảng lại có người đi qua, liếc vào trạng thái đơn hàng rồi tiếp tục công việc.
+Không ai đứng quanh màn hình. Không ai tổ chức họp. Nhưng thỉnh thoảng lại có người đi qua, liếc vào trạng thái đơn hàng rồi tiếp tục công việc.
 
 Hai ngày sau, thông báo mới xuất hiện.
 
 "Đã nhận hàng."
 
-Người phát hiện ra lần này vẫn là một nhân viên ngồi gần máy tính.
-
-Cậu ta nhìn dòng chữ vài giây rồi quay sang những người khác.
+Người phát hiện ra lần này vẫn là một nhân viên ngồi gần máy tính. Cậu ta nhìn dòng chữ vài giây rồi quay sang những người khác.
 
 — Đơn đầu tiên hoàn thành rồi.
 
@@ -2713,11 +2587,7 @@ Phong Vũ đang ngồi trước màn hình.
 
 Cậu dừng tay.
 
-Mẫn Nghi bước tới xem.
-
-Bất Phàm cũng đứng lên.
-
-Hiểu Khánh từ tầng trên đi xuống.
+Mẫn Nghi bước tới xem. Bất Phàm cũng đứng lên. Hiểu Khánh từ tầng trên đi xuống.
 
 Không ai nói gì trong vài giây.
 
@@ -2746,9 +2616,8 @@ Một người xa lạ có nhu cầu.
 Và giữa hai bên, Summer Light lần đầu tiên thực sự trở thành một cây cầu.
 
 
+
 ---------------------------------------------------------------
-
-
 # PHẦN X — NHỮNG VẾT NỨT ĐẦU TIÊN
 
 Đơn hàng đầu tiên hoàn thành chưa được bao lâu, những câu hỏi khác đã xuất hiện.
@@ -2771,9 +2640,7 @@ Ngày hôm sau, một khách hàng gửi thư hỏi:
 
 Lại thêm một vấn đề.
 
-Không lâu sau, Mẫn Nghi phát hiện một sản phẩm vẫn đang hiển thị trên trang dù cửa hàng đã bán hết từ hôm trước.
-
-Cô gọi cho người bán.
+Không lâu sau, Mẫn Nghi phát hiện một sản phẩm vẫn đang hiển thị trên trang dù cửa hàng đã bán hết từ hôm trước. Cô gọi cho người bán.
 
 — Anh quên cập nhật số lượng rồi.
 
@@ -2821,13 +2688,7 @@ Không ai coi đó là khủng hoảng.
 
 Mỗi vấn đề đều có cách xử lý.
 
-Sản phẩm hết hàng thì cập nhật lại.
-
-Đơn giao chậm thì gọi cho người bán.
-
-Khách hỏi thì trả lời.
-
-Chi phí quảng cáo cao thì giảm, đổi cách thử hoặc tìm kênh khác.
+Sản phẩm hết hàng thì cập nhật lại. Đơn giao chậm thì gọi cho người bán. Khách hỏi thì trả lời. Chi phí quảng cáo cao thì giảm, đổi cách thử hoặc tìm kênh khác.
 
 Nhưng những việc nhỏ ấy bắt đầu xuất hiện ngày càng nhiều.
 
@@ -2842,7 +2703,6 @@ Cả nhóm bắt đầu nhận ra điều đó, dù chưa ai nói thành lời.
 
 --------------------------------------------------------
 
-
 # PHẦN XI — NHỮNG NGÀY SAU KHI WEBSITE MỞ CỬA
 
 Những ngày sau đó, Summer Light dần quen với việc có những giao dịch thật sự chạy qua hệ thống.
@@ -2853,13 +2713,7 @@ Công việc bắt đầu có nhịp riêng.
 
 Nhưng cũng từ đó, những việc trước đây chỉ thỉnh thoảng xảy ra bắt đầu xuất hiện thường xuyên hơn.
 
-Một cửa hàng chưa cập nhật số lượng.
-
-Một khách hàng hỏi về tình trạng đơn hàng.
-
-Một người bán muốn thay đổi giá.
-
-Một đối tác gửi email cần trả lời ngay.
+Một cửa hàng chưa cập nhật số lượng. Một khách hàng hỏi về tình trạng đơn hàng. Một người bán muốn thay đổi giá. Một đối tác gửi email cần trả lời ngay.
 
 Có hôm Phong Vũ đang sửa code thì Mẫn Nghi gọi từ tầng dưới:
 
@@ -2899,17 +2753,14 @@ Buổi tối, khi mọi người đã thưa dần, Phong Vũ vẫn ngồi trư�
 
 Màn hình hiện website đang hoạt động.
 
-Ở đâu đó ngoài căn nhà này, vẫn có người đang xem sản phẩm.
-
-Có người bán đang chờ đơn.
-
-Có người mua đang chờ hàng.
+Ở đâu đó ngoài căn nhà này, vẫn có người đang xem sản phẩm. Có người bán đang chờ đơn. Có người mua đang chờ hàng.
 
 Hệ thống vẫn chạy.
 
 Nhưng phía sau mỗi giao dịch vẫn còn một người thật đang can thiệp.
 
 Phong Vũ nhìn màn hình thêm một lúc rồi tắt máy.
+
 
 ---------------------------------------------------------------
 
@@ -2920,15 +2771,7 @@ Cuối ngày, tầng dưới vẫn còn vài người chưa về.
 
 Một nhân viên đang nhập thêm sản phẩm mới. Bên cạnh là một chồng giấy ghi thông tin của những cửa hàng vừa liên hệ. Thanh Thảo ngồi trước máy tính trả lời email. Ở góc phòng, điện thoại thỉnh thoảng lại reo.
 
-Trên bảng trắng có những con số đầu tiên của Summer Light.
-
-Người bán.
-
-Sản phẩm.
-
-Đơn hàng.
-
-Doanh thu.
+Trên bảng trắng có những con số đầu tiên của Summer Light: người bán, sản phẩm, đơn hàng, doanh thu.
 
 Tất cả đều đã có.
 
@@ -2938,15 +2781,7 @@ Nhưng là những con số thật.
 
 Phong Vũ đứng trước bảng một lúc.
 
-Căn nhà này đã có người làm việc.
-
-Website đã có người truy cập.
-
-Có người bán hàng trên đó.
-
-Có người mua hàng.
-
-Tiền đã bắt đầu đi qua hệ thống.
+Căn nhà này đã có người làm việc. Website đã có người truy cập. Có người bán hàng trên đó, có người mua hàng. Tiền đã bắt đầu đi qua hệ thống.
 
 Summer Light đã trở thành một công ty thật.
 
@@ -2989,6 +2824,7 @@ Ngoài cửa sổ, đèn đường trong khu đô thị mới lần lượt sán
 Summer Light vẫn còn rất nhỏ.
 
 Nhưng từ ngày hôm đó, nó bắt đầu phải học cách lớn lên.
+
 
 ---------------------------------------
 
