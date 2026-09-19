@@ -6,6 +6,17 @@
 
 * QUAN TRỌNG:
 
+có hai thói quen mà bạn liên tục mắc phải:
+
+- hay viết mỗi câu 1 dòng riêng, trong khi hầu hết không có lý do cụ thể để buộc phải làm thế. Chúng ta đang viết tiểu thuyết, không phải làm thơ mà cần mỗi câu 1 dòng.
+
+- hay kết luận cuối mỗi phần, kiểu để tác giả vào nói.
+
+- tránh nói cộc lốc trong các lời thoại của nhân vật (trừ tình huống đặc thù buộc phải nói ngắn)
+
+Cụ thể:
+---
+
 1) Notes 1:
 Không được lạm dụng thói quen viết mỗi câu 1 dòng, mà nên gom các câu cùng nói về 1 ý nào đó vào 1 đoạn văn ngắn. Hãy coi việc mỗi cau lẻ một dòng để tạo nhịp là một thủ pháp đặc biệt, không phải cách trình bày mặc định. Trong một Hồi chỉ nên có khoảng 2–3 chỗ thực sự cần những câu đứng riêng để tạo lực cho cảnh; phần còn lại phải là văn xuôi liền mạch.
 
@@ -77,7 +88,94 @@ Vi dụ:
 - Không biết mới đáng nói.
 
 
+3) Notes 3:
+
+Đúng. Ví dụ **“Không biết!”** là một trường hợp rất điển hình, và hai lỗi bạn chỉ ra thực ra nằm ở **hai tầng khác nhau**.
+
+### 1. Sai về hình tượng Phong Vũ
+
+“Không biết!” không đơn thuần là câu trả lời ngắn. Khi đặt vào miệng Phong Vũ, nó dễ làm nhân vật **tụt khỏi vị trí trí tuệ và vai trò của anh**.
+
+Phong Vũ có thể **không biết một thông tin cụ thể**. Điều đó hoàn toàn hợp lý. Anh không phải người toàn tri.
+
+Nhưng cách phản ứng của anh khi gặp một khoảng trống tri thức phải thể hiện khả năng **nhận diện giới hạn → xác định nguyên nhân → đưa ra bước tiếp theo**.
+
+Ví dụ:
+
+> — Điều này tôi chưa biết. Có lẽ chúng ta cần thu thập thêm thông tin trước khi đưa ra kết luận.
+
+Hoặc nếu vấn đề phức tạp hơn:
+
+> — Hiện tại tôi chưa có đủ thông tin để trả lời câu hỏi này. Chúng ta cần kiểm tra thêm một số dữ liệu rồi mới có thể đưa ra kết luận.
+
+Hoặc trong một cuộc họp kinh doanh:
+
+> — Vấn đề này hiện chúng ta chưa nắm rõ. Bất Phàm, cậu kiểm tra lại số liệu và cho tôi biết sau.
+
+Như vậy, **“chưa biết” trở thành điểm bắt đầu của tư duy**, chứ không phải điểm kết thúc của câu trả lời.
+
+Đây cũng phù hợp với hình tượng Phong Vũ mà chúng ta đã xây dựng: anh không cần phải biết mọi thứ, nhưng **anh biết mình chưa biết gì và biết phải làm gì tiếp theo**.
+
 ---
+
+### 2. Sai về ngữ cảm tiếng Việt
+
+Ngay cả khi tình huống thực sự chỉ cần một câu trả lời ngắn, thì:
+
+> — Không biết!
+
+vẫn khác rất nhiều so với:
+
+> — Tôi không biết.
+
+Câu thứ hai vẫn ngắn, nhưng đã có chủ ngữ và không tạo cảm giác nói trống không.
+
+Tuy nhiên, với Phong Vũ, nhiều trường hợp thậm chí **“Tôi không biết” vẫn chưa phải lựa chọn tốt nhất**, vì nó chỉ xác nhận sự thiếu thông tin mà chưa thể hiện cách xử lý.
+
+Ví dụ:
+
+**Cộc:**
+
+> — Không biết!
+
+**Lịch sự nhưng đơn giản:**
+
+> — Tôi không biết.
+
+**Tự nhiên, có tư duy:**
+
+> — Điều này tôi chưa biết.
+
+**Phù hợp với Phong Vũ hơn:**
+
+> — Điều này tôi chưa biết. Chúng ta cần tìm hiểu thêm trước khi đưa ra kết luận.
+
+**Khi đang lãnh đạo một nhóm:**
+
+> — Hiện tại tôi chưa có đủ thông tin về vấn đề này. Bất Phàm, cậu kiểm tra thêm giúp tôi.
+
+Cấp độ cuối cùng không chỉ lịch sự hơn mà còn **cho thấy năng lực lãnh đạo**.
+
+---
+
+Vì vậy, tôi nghĩ chúng ta nên bổ sung thêm một nguyên tắc rất quan trọng cho văn phong của *Hồng Trần Mộng*:
+
+> **Phong Vũ không cần phải luôn biết câu trả lời, nhưng khi không biết, anh phải thể hiện được cách đối diện với điều mình chưa biết.**
+
+Và một nguyên tắc rộng hơn:
+
+> **Không dùng những câu trả lời cụt lủn như “Không biết!”, “Gì?”, “Sao?”, “Được!”, “Không!”, “Tiếp tục!”, “Mai tính!”... nếu chúng làm nhân vật trở nên cộc lốc, thiếu chủ ngữ hoặc thấp hơn tầm vóc nhân vật.**
+
+Đặc biệt với Phong Vũ, câu thoại cần đồng thời đạt **ba tiêu chí**:
+
+**đúng ý → đúng lễ → đúng tầm nhân vật.**
+
+Có những lúc anh chỉ cần nói một câu rất ngắn, nhưng câu ngắn ấy vẫn phải có trọng lượng.
+
+
+
+--------------------------------------------
+
 
 ## 1. Nguyên tắc cốt lõi: Tác giả phải ẩn mình
 
