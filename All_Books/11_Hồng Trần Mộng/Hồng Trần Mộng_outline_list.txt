@@ -116,14 +116,14 @@ DANH SÁCH CÁC HỒI (DỰ KIẾN):
 036_Cục trưởng An ninh:
 	Danh tiếng của Phong Vũ ngày càng lớn, khiến Cục trưởng An ninh phải kiêng kỵ. Thời gian đầu muốn lôi kéo Phong Vũ nhưng anh không có hứng thú gia nhập tổ chức nào. Cuối cùng Cục trưởng An ninh cũng ngấm ngầm tìm cách hại anh.
 	
-037_Luyện thành Giáng Long Chưởng:
-	Nhờ ngộ tính và thiên phú võ đạo cực cao, anh tự ngộ ra được "Giáng Long Chưởng" giống hệt như của Kiều Phong trong Thiên Long Bát Bộ. Chính vì vậy Đoàn Bát Thiên lại đinh ninh anh đã luyện thành môn võ bí truyền mà ông ta thèm khát bấy lâu nay.
+037_Luyện thành Giáng Long Nhất Chưởng:
+	Nhờ ngộ tính và thiên phú võ đạo cực cao, anh tự ngộ ra được "Giáng Long Nhất Chưởng" giống hệt như của Kiều Phong trong Thiên Long Bát Bộ. Chính vì vậy Đoàn Bát Thiên lại đinh ninh anh đã luyện thành môn võ bí truyền mà ông ta thèm khát bấy lâu nay.
 	
 038_Ván bài lật ngửa:
 	Đoàn Bát Thiên cuối cùng lật ngửa ván bài: lừa Phong Vũ và Triệu Lệ Thanh uống phải thuốc mê, sau đó điểm huyệt đạo rồi chói họ lại trong mật thất. Sau đó ông ta tự khai ra mọi việc và dùng cực hình để ép khai người khai ra bí kíp võ công.
 	
 039_Tụ hiền trang:
-	Trong đem khuê, Phong Vũ đã tự giải khai được các huyệt vị bị khóa, cùng Triệu Lệ Thanh trốn thoát.  Đoàn Bát Thiên dùng lại bài cũ, vu cáo cho 2 người lấy trộm bí tịch của ông ta rồi bỏ trốn, đồng thời là "dư nghiệt" nhà họ Triệu. Các cao thủ có người tin theo có người không, nhưng dù không tin theo thì cũng có nhiều cao thủ vì lòng tham muốn chiếm bị tịch mà hội tụ lại tìm kế sách diệt Phong Vũ và Lệ Thanh (gần giống vụ Tụ hiền trang khi các cao thủ tập hợp để diệt Kiều Phong).
+	Trong đem khuya, Phong Vũ đã tự giải khai được các huyệt vị bị khóa, cùng Triệu Lệ Thanh trốn thoát.  Đoàn Bát Thiên dùng lại bài cũ, vu cáo cho 2 người lấy trộm bí tịch của ông ta rồi bỏ trốn, đồng thời là "dư nghiệt" nhà họ Triệu. Các cao thủ có người tin theo có người không, nhưng dù không tin theo thì cũng có nhiều cao thủ vì lòng tham muốn chiếm bị tịch mà hội tụ lại tìm kế sách diệt Phong Vũ và Lệ Thanh (gần giống vụ Tụ hiền trang khi các cao thủ tập hợp để diệt Kiều Phong).
 
 040_Áp đảo quần hùng:
 	Phong Vũ ngang nhiên xuất hiện, mang phí phách giống Kiều Phong trong Thiên Long Bát Bộ (nhưng anh bảo Lệ Thanh ẩn náu tạm thời). Trong trận chiến đó anh áp đảo quần hùng.
