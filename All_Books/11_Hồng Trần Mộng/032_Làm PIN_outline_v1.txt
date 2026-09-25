@@ -1,0 +1,169 @@
+## PHẦN – PHÂN TÍCH SMARTPHONE VÀ QUYẾT ĐỊNH HƯỚNG ĐI
+
+### 1. Cuộc họp sau một tháng nghiên cứu
+
+Sau một tháng, Phong Vũ triệu tập ban giám đốc cùng những người phụ trách kinh doanh, chăm sóc kỹ thuật và đội kỹ thuật để tổng hợp kết quả nghiên cứu một trăm chiếc smartphone.
+
+Mục đích ban đầu chỉ là trả lời một câu hỏi: **Summer Light có nên tham gia vào lĩnh vực smartphone hay không, và nếu có thì nên tham gia ở mức nào?**
+
+Mọi người lần lượt báo cáo những gì đã trải nghiệm và nghiên cứu được.
+
+Ban giám đốc nhìn từ góc độ người sử dụng và nhận thấy smartphone có khả năng tích hợp rất nhiều chức năng vào một thiết bị nhỏ gọn.
+
+Bộ phận kinh doanh chú ý đến trải nghiệm khách hàng, nhu cầu sử dụng và tiềm năng thị trường.
+
+Bộ phận chăm sóc kỹ thuật quan tâm đến độ ổn định, những lỗi có thể phát sinh và các vấn đề mà người dùng dễ gặp phải.
+
+Đội kỹ thuật đi sâu hơn vào phần cứng, cấu trúc bên trong, linh kiện, khả năng xử lý, kết nối, màn hình, camera, bộ nhớ, nguồn điện và nhiều thành phần khác.
+
+### 2. Ý tưởng ban đầu: tự làm một chiếc smartphone
+
+Sau khi nghe báo cáo, Phong Vũ thừa nhận rằng ý tưởng ban đầu của mình vẫn còn khả thi trên lý thuyết.
+
+Summer Light hoàn toàn có thể thử nghiên cứu một chiếc smartphone của riêng mình.
+
+Nhìn vào thị trường lúc này, đã có những công ty lớn như Samsung, HTC và các hãng khác tham gia sản xuất điện thoại thông minh. Smartphone đang dần trở thành một loại thiết bị có khả năng thay thế nhiều thiết bị điện tử riêng lẻ.
+
+Nếu Summer Light có thể làm ra một sản phẩm đủ tốt, đây sẽ là một thị trường rất lớn.
+
+Nhưng sau một tháng nghiên cứu, mọi người cũng bắt đầu nhìn thấy mặt còn lại của vấn đề.
+
+Một chiếc smartphone không phải chỉ là màn hình, pin và một con chip đặt vào trong cùng một chiếc vỏ.
+
+Đằng sau nó là cả một hệ thống công nghệ gồm nhiều lĩnh vực khác nhau.
+
+### 3. Smartphone là một hệ thống quá phức tạp
+
+Đội kỹ thuật lần lượt phân tích các thành phần chính.
+
+**Chip xử lý** quyết định phần lớn hiệu năng và khả năng xử lý của thiết bị, đồng thời ảnh hưởng trực tiếp đến mức tiêu thụ năng lượng.
+
+**Màn hình** quyết định một phần rất lớn trải nghiệm sử dụng, nhưng muốn tự phát triển công nghệ màn hình cũng cần một nền tảng nghiên cứu và sản xuất riêng.
+
+**Camera** liên quan đến cảm biến, quang học, xử lý hình ảnh và phần mềm.
+
+**Bộ nhớ** liên quan đến tốc độ và khả năng lưu trữ.
+
+**Kết nối** đòi hỏi những công nghệ riêng về mạng di động, Wi-Fi và truyền dữ liệu.
+
+**Phần mềm** lại là một hệ thống hoàn toàn khác, cần đội ngũ phát triển và một hệ sinh thái đủ lớn để duy trì lâu dài.
+
+Mỗi thành phần đều quan trọng.
+
+Nhưng càng phân tích sâu, Phong Vũ càng nhận ra rằng nếu Summer Light muốn tự làm cả một chiếc smartphone thì công ty sẽ phải đồng thời bước vào quá nhiều lĩnh vực mà trước đây chưa có nền tảng sâu.
+
+### 4. Vấn đề của chip
+
+Chip đặc biệt khiến đội kỹ thuật chú ý.
+
+Không ai phủ nhận tầm quan trọng của nó. Một chiếc smartphone muốn có hiệu năng cao, tiêu thụ điện hợp lý và hỗ trợ nhiều chức năng thì chip xử lý là một trong những bộ phận quan trọng nhất.
+
+Nhưng chính vì vậy, việc tự làm chip lại càng khó.
+
+Summer Light vốn không phải một công ty bán dẫn. Công ty có đội ngũ kỹ thuật và khả năng nghiên cứu, nhưng nền tảng tích lũy trong lĩnh vực này chưa đủ sâu.
+
+Quan trọng hơn, làm chip không chỉ đơn giản là thiết kế một mạch điện rồi đem đi sản xuất.
+
+Đằng sau một con chip còn có kiến trúc, thiết kế, vật liệu, quy trình chế tạo, thiết bị sản xuất, kiểm thử, đóng gói và cả một chuỗi cung ứng phức tạp.
+
+Đây là một lĩnh vực đòi hỏi lượng vốn khổng lồ và quá trình tích lũy lâu dài.
+
+Với quy mô và tiềm lực tài chính hiện tại của Summer Light, nếu lập tức lao vào lĩnh vực này thì rủi ro quá lớn.
+
+Phong Vũ không phủ nhận giá trị của chip.
+
+Anh chỉ nhận ra rằng **một thứ rất quan trọng không đồng nghĩa với việc đó là thứ Summer Light nên tự mình làm**.
+
+### 5. Không phải thành phần nào cũng cần tự sản xuất
+
+Sau khi phân tích từng bộ phận, cuộc thảo luận dần chuyển sang một câu hỏi thực tế hơn:
+
+Nếu Summer Light không đủ sức tự làm tất cả, vậy công ty có thể tập trung vào một mắt xích nào?
+
+Một số linh kiện có thể mua từ bên ngoài.
+
+Một số công nghệ có thể hợp tác với những công ty khác.
+
+Một số lĩnh vực lại đòi hỏi nguồn vốn và nền tảng quá lớn.
+
+Phong Vũ không muốn Summer Light trở thành một công ty vừa làm chip, vừa làm màn hình, vừa làm camera, vừa phát triển hệ điều hành, cuối cùng lại không có thứ gì đủ sâu.
+
+Nếu tham gia, phải tìm được **một điểm mà Summer Light có thể tập trung nguồn lực để tạo ra năng lực thực sự**.
+
+### 6. Vấn đề năng lượng bắt đầu được chú ý
+
+Trong quá trình sử dụng thực tế, một vấn đề khác dần trở nên rõ ràng.
+
+Smartphone có thể làm rất nhiều việc, nhưng tất cả những chức năng đó đều cần năng lượng.
+
+Màn hình cần năng lượng.
+
+Chip cần năng lượng.
+
+Kết nối mạng cần năng lượng.
+
+Camera, bộ nhớ, xử lý dữ liệu và các chức năng khác cũng đều tiêu thụ năng lượng.
+
+Điện thoại càng mạnh, chức năng càng nhiều thì nhu cầu năng lượng càng lớn.
+
+Nhưng smartphone lại khác với laptop.
+
+Laptop thường được sử dụng trong trạng thái tương đối cố định. Người dùng có thể ngồi ở nhà, văn phòng hoặc quán cà phê; khi pin yếu, chỉ cần tìm một ổ điện và cắm sạc.
+
+Smartphone lại được thiết kế để mang theo bên người.
+
+Người dùng có thể đang đi đường, ngồi trên xe, đi công tác, du lịch hoặc ở một nơi hoàn toàn không có ổ điện. Trong những trường hợp đó, việc có thể tiếp tục sử dụng thiết bị hay không phụ thuộc trực tiếp vào lượng năng lượng mà nó mang theo.
+
+Một chiếc smartphone dù có màn hình tốt, chip mạnh, camera tốt hay phần mềm nhiều chức năng đến đâu, nếu hết pin thì những chức năng đó cũng không thể tiếp tục hoạt động.
+
+### 7. Pin không phải vấn đề duy nhất, nhưng là một vấn đề đặc biệt
+
+Phong Vũ không cho rằng pin là thành phần duy nhất quan trọng.
+
+Ngược lại, sau một tháng nghiên cứu, anh hiểu rằng mỗi bộ phận đều có vai trò riêng và đều có những khó khăn kỹ thuật nhất định.
+
+Nhưng khi đặt tất cả các yếu tố cạnh nhau, pin có một đặc điểm rất khác.
+
+Nó không chỉ ảnh hưởng đến một chức năng riêng lẻ mà ảnh hưởng trực tiếp đến **thời gian thiết bị có thể hoạt động độc lập với nguồn điện**.
+
+Nếu smartphone ngày càng mạnh, ngày càng nhiều chức năng và ngày càng được sử dụng thường xuyên, nhu cầu về năng lượng sẽ còn tăng lên.
+
+Điều đó khiến Phong Vũ bắt đầu đặt một câu hỏi khác:
+
+**Nếu không làm cả smartphone, Summer Light có thể tập trung giải quyết bài toán năng lượng cho những thiết bị như thế này hay không?**
+
+### 8. Thu hẹp phạm vi
+
+Phong Vũ yêu cầu đội kỹ thuật tiếp tục phân tích khả năng của Summer Light.
+
+Không phải cứ nhìn thấy một vấn đề lớn là lập tức đầu tư.
+
+Cần xem công ty hiện có những gì, đội ngũ có thể làm đến đâu, cần đầu tư bao nhiêu, mất bao lâu để xây dựng năng lực và kết quả có thể ứng dụng cho những sản phẩm nào.
+
+Nếu tự làm smartphone, Summer Light phải đồng thời giải quyết hàng loạt bài toán.
+
+Nếu chỉ tập trung vào một lĩnh vực linh kiện, công ty có thể tập trung nguồn lực sâu hơn.
+
+Sau khi cân nhắc nhiều hướng, Phong Vũ dần nghiêng về **công nghệ pin và lưu trữ năng lượng**.
+
+Không phải vì những thành phần khác không quan trọng, mà vì đây là một bài toán có nhu cầu thực tế rất rõ ràng, có thể ứng dụng cho smartphone và về lâu dài còn có thể mở rộng sang nhiều thiết bị khác.
+
+### 9. Quyết định cuối cùng
+
+Phong Vũ không quyết định Summer Light làm smartphone.
+
+Anh cũng không muốn công ty ngay lập tức trở thành một tập đoàn sản xuất đủ loại linh kiện.
+
+Hướng đi trước mắt được xác định rõ hơn:
+
+**Summer Light tập trung nghiên cứu công nghệ pin.**
+
+Trước mắt là phục vụ nhu cầu của các thiết bị điện tử nhỏ gọn, đặc biệt là smartphone.
+
+Về lâu dài, nếu công nghệ đủ tốt, phạm vi ứng dụng có thể mở rộng sang nhiều lĩnh vực khác.
+
+Đây là một hướng đi hoàn toàn khác với ý tưởng ban đầu của Phong Vũ khi lần đầu nhìn thấy chiếc smartphone.
+
+Ban đầu anh từng nghĩ đến việc Summer Light có thể tự làm một chiếc điện thoại.
+
+Sau một tháng trải nghiệm và nghiên cứu, anh nhận ra rằng thay vì cố gắng làm tất cả, **tập trung giải quyết một vấn đề quan trọng trong cả hệ thống có thể thực tế hơn**.

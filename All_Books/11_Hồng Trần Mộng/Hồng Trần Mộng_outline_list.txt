@@ -96,12 +96,12 @@ DANH SÁCH CÁC HỒI (DỰ KIẾN):
 030_Bi kịch Triệu gia:
 	Anh tình cờ găp được Triệu Lệ Thanh và được cô kể về thảm kịch bị diệt môn của Triệu gia.
 
-031_Tu luyện cùng Triệu Lệ Thanh
+031_Võ Đạo (tên cũ "Tu luyện cùng Triệu Lệ Thanh")
 	Khi gặp Triệu Lệ Thanh, mặc dù cô nắm giữ được vài bộ công pháp võ học do gia tộc truyền cho từ nhỏ, nhưng do ngộ tính và thể chất là nữa, nên cũng không tu luyện được đỉnh cao.
 	Phong Vũ thì ngược lại, chưa từng có được công pháp nào cao thâm như trong Cổ võ, nhưng ngộ tính và thiên phú rất phù hợp để tu luyện những bộ công pháp này. 
 	Cả hai người hỗ trợ nhau tu luyện khiến họ đều tiến bộ nhanh chóng.
 	
-032_Làm PIN cho SmartPhone:
+032_Làm PIN (cho SmartPhone, Laptop):
 	Anh bị kinh ngạc khi lần đầu nhìn thấy chiếc SmartPhone đầu tiên trên thế giới ra đời, do một "gã khổng lồ" ở Đại Mỹ quốc sản xuất. Anh quyết định phải nhánh chóng nhảy vào lĩnh vực này. Tuy nhiên, nếu cũng làm luôn SmartPhone thì sẽ phải đối đầu trực diện với gã khổng lồ kia, và anh dự đoán tới đây sẽ có nhiều công ty lớn nhảy vào mảng này, cạnh tranh sẽ càng khốc liệt. Cho nên anh tính lại: thay vì làm SmartPhone thì hãy đầu tư sản xuất PIN chất lượng cao cho các công ty sản xuất smartphone. Bởi anh thấy rằng, PIN là một trong những bộ phận quan trọng hàng đầu trong SmartPhone.
 	
 033_Thập diện mai phục:
@@ -116,7 +116,7 @@ DANH SÁCH CÁC HỒI (DỰ KIẾN):
 036_Cục trưởng An ninh:
 	Danh tiếng của Phong Vũ ngày càng lớn, khiến Cục trưởng An ninh phải kiêng kỵ. Thời gian đầu muốn lôi kéo Phong Vũ nhưng anh không có hứng thú gia nhập tổ chức nào. Cuối cùng Cục trưởng An ninh cũng ngấm ngầm tìm cách hại anh.
 	
-037_Luyện thành Giáng Long Nhất Chưởng:
+037_Giáng Long Nhất Chưởng:
 	Nhờ ngộ tính và thiên phú võ đạo cực cao, anh tự ngộ ra được "Giáng Long Nhất Chưởng" giống hệt như của Kiều Phong trong Thiên Long Bát Bộ. Chính vì vậy Đoàn Bát Thiên lại đinh ninh anh đã luyện thành môn võ bí truyền mà ông ta thèm khát bấy lâu nay.
 	
 038_Ván bài lật ngửa:

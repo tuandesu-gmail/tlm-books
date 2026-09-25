@@ -1287,7 +1287,7 @@ Lệ Thanh xem qua từng bộ.
 
 Nền tảng võ học của cô vốn đến từ Triệu gia, nhưng sau khi Triệu gia bị diệt, cô cũng không có người chỉ dẫn ổn định. Chu gia hiện tại có thể cho cô một môi trường tốt hơn để tiếp tục luyện võ.
 
-Cuối cùng, cô chọn một bộ kiếm pháp cao cấp của Chu gia.
+Cuối cùng, cô chọn một bộ kiếm pháp cao cấp của Chu gia, có tên là Thanh Trúc Kiếm Pháp.
 
 Bộ kiếm pháp này không phải bí truyền nguyên bản của Chu gia mà cũng là phiên bản đã được chỉnh sửa trước khi truyền cho các đệ tử bên ngoài.
 
@@ -1299,9 +1299,7 @@ Nhờ nền tảng võ học đã có từ trước, Lệ Thanh nhanh chóng n�
 
 Phong Vũ cũng được Chu gia mời lựa chọn một bộ võ học.
 
-Hắn không có hứng thú với kiếm pháp.
-
-Sau khi xem qua các loại võ học của Chu gia, hắn chọn một bộ đao pháp cao cấp.
+Sau khi xem qua các loại võ học của Chu gia, hắn chọn một bộ đao pháp cao cấp, tên là Tật Phong Đao Pháp.
 
 Bộ đao pháp này cũng đã được chỉnh sửa trước khi phổ truyền, không phải nguyên bản bí truyền của Chu gia.
 
@@ -1321,11 +1319,7 @@ Sau đó, hắn bắt đầu luyện từ những nguyên lý cơ bản nhất.
 
 Ban đầu, Chu Thần Phong không đặc biệt chú ý đến việc Phong Vũ luyện đao.
 
-Qua lời Lệ Thanh, ông chỉ biết Phong Vũ có thiên phú võ đạo rất cao, hơn nữa ở tuổi hai mươi tám đã có thực lực khá đáng nể.
-
-Nhưng Lệ Thanh chỉ nói sơ qua những điều đó.
-
-Cô không kể cụ thể Phong Vũ từng luyện võ ở Tôn gia nhanh đến mức nào, cũng không nói hắn đã đạt tới trình độ gì trong thời gian ngắn ra sao.
+Qua lời Lệ Thanh, ông chỉ biết Phong Vũ có thiên phú võ đạo rất cao, hơn nữa ở tuổi hai mươi tám đã có thực lực khá đáng nể. Nhưng Lệ Thanh chỉ nói sơ qua những điều đó. Nàng không kể cụ thể Phong Vũ từng luyện võ ở Tôn gia nhanh đến mức nào, cũng không nói anh đã đạt tới trình độ gì trong thời gian ngắn ra sao.
 
 Vì vậy, trong mắt Chu Thần Phong, Phong Vũ trước hết chỉ là một người trẻ tuổi có thiên phú rất tốt.
 
@@ -1333,19 +1327,11 @@ Còn tốt đến mức nào, ông muốn tự mình nhìn xem.
 
 Ngày đầu tiên Phong Vũ bắt đầu luyện đao pháp Chu gia, Chu Thần Phong chỉ đứng quan sát một lúc.
 
-Phong Vũ không vội luyện theo từng chiêu hoàn chỉnh.
+Phong Vũ không vội luyện theo từng chiêu hoàn chỉnh. Anh xem kỹ toàn bộ hệ thống đao pháp trước, sau đó mới bắt đầu từ những động tác cơ bản nhất.
 
-Hắn xem kỹ toàn bộ hệ thống đao pháp trước, sau đó mới bắt đầu từ những động tác cơ bản nhất.
+Mỗi chiêu đều được anh luyện chậm. Từ cách cầm đao, chuyển trọng tâm, phối hợp thân pháp và bộ pháp, cho đến cách phát lực ở cuối mỗi thế đao, anh đều quan sát rất kỹ.
 
-Mỗi chiêu đều được hắn luyện chậm.
-
-Từ cách cầm đao, chuyển trọng tâm, phối hợp thân pháp và bộ pháp, cho đến cách phát lực ở cuối mỗi thế đao, hắn đều quan sát rất kỹ.
-
-Có những động tác hắn chỉ cần luyện vài lần là có thể ghi nhớ.
-
-Nhưng hắn không dừng lại ở việc nhớ.
-
-Mỗi khi luyện lại, hắn đều tự điều chỉnh vị trí thân thể và cách vận lực sao cho các động tác nối với nhau tự nhiên hơn.
+Có những động tác chỉ cần luyện vài lần là Phong Vũ đã có thể ghi nhớ, nhưng anh không dừng lại ở việc nhớ. Mỗi khi luyện lại, anh đều tự điều chỉnh vị trí thân thể và cách vận lực sao cho các động tác nối với nhau tự nhiên hơn.
 
 Chu Thần Phong ban đầu chỉ thỉnh thoảng đi ngang qua nhìn một chút.
 
@@ -1353,21 +1339,17 @@ Nhưng vài ngày sau, ông bắt đầu nhận ra một chuyện.
 
 Phong Vũ tiến bộ quá nhanh.
 
-Những động tác ngày đầu còn có phần xa lạ, đến lần luyện tiếp theo đã trở nên tự nhiên hơn. Một số chỗ vốn cần người chỉ dẫn, hắn chỉ cần tự mình luyện vài lần đã tìm được cách điều chỉnh.
+Những động tác ngày đầu còn có phần xa lạ, đến lần luyện tiếp theo đã trở nên tự nhiên hơn. Một số chỗ vốn cần người chỉ dẫn, anh chỉ cần tự mình luyện vài lần đã tìm được cách điều chỉnh.
 
 Điều khiến Chu Thần Phong chú ý nhất là mỗi lần nhìn thấy Phong Vũ luyện lại, ông đều có thể nhận ra một chút thay đổi.
 
-Không phải thay đổi quá lớn.
-
-Nhưng lần nào cũng có.
+Không phải thay đổi quá lớn, nhưng lần nào cũng có.
 
 Động tác càng lúc càng gọn, lực phát càng lúc càng ổn định, những chiêu thức vốn tách rời dần dần được nối lại thành một hệ thống liền mạch.
 
 Chu Thần Phong bắt đầu đứng lại lâu hơn.
 
-Một ngày nọ, ông đứng bên ngoài sân luyện võ nhìn Phong Vũ luyện hết một lượt.
-
-Sau khi kết thúc, Phong Vũ không nghỉ ngay mà đứng yên suy nghĩ vài giây rồi tiếp tục luyện từ đầu.
+Một ngày nọ, ông đứng bên ngoài sân luyện võ nhìn Phong Vũ luyện hết một lượt. Sau khi kết thúc, Phong Vũ không nghỉ ngay mà đứng yên suy nghĩ vài giây rồi tiếp tục luyện từ đầu.
 
 Lần thứ hai, tốc độ nhanh hơn.
 
@@ -1375,105 +1357,72 @@ Lần thứ ba, những chuyển đổi giữa các chiêu thức đã gần nh�
 
 Chu Thần Phong khẽ nhíu mày.
 
-Ông từng gặp không ít người có thiên phú tốt.
+Ông từng gặp không ít người có thiên phú tốt, nhưng tốc độ lĩnh hội như vậy vẫn rất hiếm.
 
-Nhưng tốc độ lĩnh hội như vậy vẫn rất hiếm.
-
-Phong Vũ tiếp tục luyện.
-
-Sau một thời gian, hắn đã không còn chỉ bắt chước những chiêu thức được truyền lại. Hắn bắt đầu hiểu được mối liên hệ giữa thân pháp, bộ pháp và đao pháp, biết vì sao một động tác phải bắt đầu từ vị trí đó, vì sao lực cần chuyển qua thân thể theo hướng ấy.
+Phong Vũ tiếp tục luyện. Sau một thời gian, anh đã không còn chỉ bắt chước những chiêu thức được truyền lại. Anh bắt đầu hiểu được mối liên hệ giữa thân pháp, bộ pháp và đao pháp, biết vì sao một động tác phải bắt đầu từ vị trí đó, vì sao lực cần chuyển qua thân thể theo hướng ấy.
 
 Đến khi toàn bộ đao pháp dần trở nên quen thuộc, tốc độ tiến bộ càng nhanh hơn.
 
-Phong Vũ rất nhanh đạt đến Đại thành.
+Gần hai tháng sau, Phong Vũ đã đạt đến Đại thành.
 
-Chu Thần Phong đứng bên cạnh sân nhìn hắn thu đao.
+Chu Thần Phong đứng bên cạnh sân nhìn anh thu đao.
 
 Lần này ông không nói gì.
 
-Một bộ đao pháp cao cấp của Chu gia, một người mới tiếp xúc chưa lâu đã có thể luyện đến Đại thành.
+Một bộ đao pháp cao cấp của Chu gia, một người mới tiếp xúc chưa lâu đã có thể luyện đến Đại thành. Thành tích ấy đã vượt xa những gì ông từng chứng kiến ở phần lớn những người trẻ tuổi có thiên phú tốt.
 
-Đây đã vượt xa những gì ông từng chứng kiến ở phần lớn những người trẻ tuổi có thiên phú tốt.
+Nhưng chính lúc ấy, một vấn đề khác lại xuất hiện.
 
-Nhưng sau khi đạt Đại thành, tốc độ tiến bộ của Phong Vũ đột nhiên chậm lại.
+Sau khi đạt Đại thành, tốc độ tiến bộ của Phong Vũ đột nhiên chậm lại.
 
-Hắn vẫn luyện mỗi ngày, nhưng cảm giác ban đầu không còn nữa.
-
-Có những chỗ hắn luyện đi luyện lại mà không thể khiến toàn bộ hệ thống tiếp tục tiến lên.
+Anh vẫn thử luyện thêm, nhưng cảm giác thuận lợi ban đầu không còn nữa. Có những chỗ anh luyện đi luyện lại mà toàn bộ hệ thống vẫn không thể tiếp tục tiến lên.
 
 Phong Vũ không cưỡng ép.
 
-Hắn bắt đầu xem lại bộ đao pháp từ đầu.
+Anh bắt đầu xem lại bộ đao pháp từ đầu.
 
-Càng nghiên cứu, hắn càng nhận ra vấn đề.
+Càng nghiên cứu, anh càng nhận ra vấn đề.
 
-Bản thân đao pháp này rất cao cấp, ít nhất cũng vượt qua Thạch Phá Công mà hắn từng được Tôn gia truyền cho.
+Bản thân Tật Phong Đao Quyết rất cao cấp, ít nhất cũng vượt qua Thạch Phá Công mà anh từng được Tôn gia truyền cho. Nhưng giữa một số phần lại tồn tại những chỗ không hoàn toàn liền mạch.
 
-Nhưng giữa một số phần lại tồn tại những chỗ không hoàn toàn liền mạch.
-
-Một vài phương pháp vận lực dường như bị thay đổi.
-
-Một số khẩu quyết khi nối với phần trước thì hợp lý, nhưng khi tiếp tục đi sâu lại xuất hiện cảm giác thiếu hụt.
-
-Giống như một hệ thống vốn hoàn chỉnh đã bị lấy đi một phần quan trọng, sau đó người ta cố gắng chỉnh sửa những phần còn lại để chúng vẫn có thể được truyền xuống.
+Một vài phương pháp vận lực dường như đã bị thay đổi. Một số khẩu quyết khi nối với phần trước thì vẫn hợp lý, nhưng càng đi sâu lại càng xuất hiện cảm giác thiếu hụt.
 
 Phong Vũ thử suy nghĩ theo nhiều hướng.
 
-Nhưng càng suy diễn, hắn càng nhận ra vấn đề không nằm ở khả năng lĩnh hội của mình.
+Có những chỗ anh có thể đoán được nguyên lý ban đầu.
 
-Có những thứ đáng lẽ phải tồn tại, nhưng trong bộ đao pháp này lại không có.
+Nhưng cũng có những chỗ hoàn toàn không có đủ căn cứ.
 
-Hắn dừng lại.
+Giống như một con đường vốn từng nối liền từ đầu đến cuối, nhưng ở giữa đã bị lấy mất một đoạn. Người đi sau vẫn có thể tiếp tục đi bằng phần đường còn lại, thậm chí sửa sang đôi chút để con đường không bị đứt hẳn. Nhưng nếu muốn biết chính xác đoạn đường đã mất ban đầu đi như thế nào thì lại không dễ.
 
-Nếu công pháp không hoàn chỉnh, tiếp tục dựa vào phần còn lại để cưỡng ép suy diễn rất có thể sẽ dẫn đến sai lầm.
+Phong Vũ ngồi im một lúc lâu.
 
-Vì vậy, hắn không luyện tiếp.
+Anh không thích suy diễn khi trong tay thiếu dữ kiện.
 
-Chu Thần Phong đứng cách đó không xa, nhìn Phong Vũ đặt thanh đao xuống.
+Nếu công pháp thực sự đã bị thay đổi quá nhiều, việc cố gắng khôi phục nó chỉ bằng những phần còn lại rất có thể sẽ đưa mình sang một con đường khác mà bản thân cũng không nhận ra.
 
-Ông vốn chỉ chú ý đến tốc độ luyện đao của hắn.
+Anh thử thêm một lần.
 
-Nhưng lúc này, một chuyện khác khiến ông chú ý hơn.
+Sau đó thu đao.
 
-Phong Vũ đã tự mình nhận ra giới hạn của bộ đao pháp.
+Chu Thần Phong đứng cách đó không xa, nhìn thanh đao trong tay Phong Vũ chậm rãi hạ xuống.
 
-Không ai nói với hắn rằng bộ đao pháp này đã được chỉnh sửa.
+Ông biết bộ Tật Phong Đao Quyết mà Chu gia truyền ra ngoài không phải bản hoàn chỉnh.
 
-Không ai chỉ cho hắn những phần nào là nguyên bản, những phần nào đã thay đổi.
+Nhưng Phong Vũ không biết điều đó.
 
-Hắn chỉ dựa vào quá trình tu luyện để nhận ra những chỗ không hoàn chỉnh.
+Không ai từng nói cho anh biết.
 
-Chu Thần Phong nhìn Phong Vũ hồi lâu.
+Thế mà sau gần hai tháng luyện tập, anh vẫn tự mình nhận ra những chỗ không liền mạch trong công pháp.
 
-Lần đầu tiên, ông thực sự hiểu rằng lời Lệ Thanh nói về thiên phú võ đạo của người này vẫn chưa đủ.
+Chu Thần Phong nhìn anh hồi lâu.
 
-Thiên phú luyện võ là một chuyện.
+Lệ Thanh nói Phong Vũ có thiên phú võ đạo rất cao. Đến lúc này, ông mới hiểu câu nói ấy còn thiếu rất nhiều. Phong Vũ không chỉ học động tác nhanh. Anh còn có thể từ chính quá trình vận công và thi triển chiêu thức nhận ra những chỗ mà người khác đã quen mắt đến mức không còn để ý.
 
-Khả năng lĩnh hội công pháp lại là chuyện khác.
+Chu Thần Phong không bước tới hỏi. Ông chỉ đứng đó nhìn.
 
-Mà khả năng của Phong Vũ ở phương diện này rõ ràng cực kỳ hiếm thấy.
+Phong Vũ đặt thanh đao sang một bên rồi chậm rãi bước khỏi sân luyện võ.
 
-Từ hôm đó, mỗi khi Phong Vũ luyện võ, Chu Thần Phong thường âm thầm quan sát thêm một lúc.
-
-Ông không hỏi hắn đã nhìn ra điều gì.
-
-Phong Vũ cũng không chủ động nói.
-
-Hai người chỉ giữ nguyên sự im lặng ấy.
-
-Chu Thần Phong bắt đầu suy nghĩ nhiều hơn về người thanh niên trước mặt.
-
-Nếu một người như vậy được tiếp xúc với những truyền thừa tốt hơn, được nhìn thấy nhiều loại võ học hơn, lại có thêm những tài nguyên mà ông đã tích lũy trong hơn bốn mươi năm, hắn sẽ còn tiến xa đến đâu?
-
-Ý nghĩ ấy thỉnh thoảng xuất hiện trong đầu ông rồi lại được ông gác sang một bên.
-
-Hiện tại vẫn chưa cần phải nói gì.
-
-Vài ngày sau, Phong Vũ cũng không tiếp tục luyện bộ đao pháp ấy nữa.
-
-Hắn chuyển sang nghiên cứu những thứ khác của Chu gia.
-
-Còn Chu Thần Phong vẫn không nói cho hắn biết rằng, từ lúc nào đó, ông đã bắt đầu chú ý đến từng bước tiến của hắn.
 
 
 ---------------------------------------------------------
