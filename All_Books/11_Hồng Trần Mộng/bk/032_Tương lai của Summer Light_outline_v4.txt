@@ -1,0 +1,819 @@
+
+# HỒI 32 – TƯƠNG LAI CỦA SUMMER LIGHT
+
+---
+
+### Thời gian
+
+**Mùa Thu – Mùa Đông, Phong Vũ 28 tuổi**
+
+### Phân bổ nội dung
+
+* **~80% – Summer Light / Smartphone / Công nghệ PIN / Xe điện**
+* **~5% – Phong Vũ và Lệ Thanh tại Chu gia**
+* **~15% – Mạn Sương và bước đầu tiếp xúc Cổ võ**
+
+---
+
+# TUYẾN I – SUMMER LIGHT
+
+## PHẦN 1 – MỘT THÁNG SỬ DỤNG SMARTPHONE
+
+Sau khi mua 100 chiếc smartphone, Summer Light tiến hành sử dụng và nghiên cứu thực tế.
+
+Một số máy được giao cho:
+
+* ban giám đốc;
+* kinh doanh;
+* chăm sóc khách hàng;
+* các bộ phận thường xuyên làm việc với khách hàng.
+
+Đội kỹ thuật tháo một số máy để nghiên cứu:
+
+* cấu trúc;
+* chip;
+* màn hình;
+* camera;
+* bộ nhớ;
+* kết nối;
+* pin;
+* phần mềm.
+
+Phong Vũ muốn biết không chỉ chiếc điện thoại được thiết kế như thế nào mà còn **người dùng thực sự sử dụng nó như thế nào**.
+
+---
+
+# PHẦN 2 – NHÌN RA THỊ TRƯỜNG BÊN NGOÀI
+
+Summer Light đồng thời thu thập phản hồi từ bên ngoài.
+
+Không chỉ đọc những bài đánh giá chuyên nghiệp mà còn tìm:
+
+* diễn đàn công nghệ;
+* bình luận của người mua;
+* phản hồi sau thời gian sử dụng;
+* những vấn đề người dùng thường gặp;
+* thời lượng pin;
+* sạc;
+* nhiệt độ;
+* camera;
+* màn hình;
+* hiệu năng;
+* độ ổn định.
+
+Một tháng sau, Summer Light có được dữ liệu từ nhiều nguồn:
+
+**người dùng bên ngoài + người dùng nội bộ + đội kỹ thuật.**
+
+---
+
+# PHẦN 3 – MỌI NGƯỜI ĐỀ XUẤT SUMMER LIGHT NÊN LÀM GÌ?
+
+Phong Vũ yêu cầu những người đã sử dụng smartphone trong một tháng đưa ra ý kiến.
+
+Không chỉ đánh giá chiếc điện thoại mà phải trả lời:
+
+* Nếu Summer Light tham gia thị trường thì nên tham gia ở đâu?
+* Có nên làm smartphone không?
+* Nếu không làm smartphone thì có thể làm gì?
+
+Các ý kiến bắt đầu xuất hiện.
+
+Một số người cho rằng nên tự làm smartphone.
+
+Một số muốn xây dựng hệ điều hành.
+
+Một số đề nghị hợp tác với tập đoàn nước ngoài.
+
+Một số đề nghị nhận gia công.
+
+Một số muốn tập trung vào ứng dụng và game.
+
+Một số đề nghị xây dựng hệ sinh thái App Store.
+
+Một số lại cho rằng chỉ nên làm một mảng phần cứng.
+
+Phong Vũ không kết luận.
+
+Anh yêu cầu mọi người chuẩn bị đầy đủ lập luận cho cuộc họp sáng thứ Bảy.
+
+---
+
+# PHẦN 4 – CUỘC HỌP SÁNG THỨ BẢY
+
+Phong Vũ mở đầu bằng ba tầng câu hỏi.
+
+### Thứ nhất: Kỹ thuật
+
+* Nếu tự làm smartphone thì có làm được không?
+* Mất bao lâu?
+* Cần bao nhiêu nhân sự?
+* Hệ điều hành giải quyết thế nào?
+* Những công nghệ nào đang thiếu?
+
+### Thứ hai: Tài chính
+
+Nếu kỹ thuật giải quyết được:
+
+* cần bao nhiêu vốn?
+* bao lâu mới có sản phẩm?
+* chi phí sản xuất?
+* phân phối?
+* marketing?
+* bảo hành?
+
+Summer Light có phù hợp với mức đầu tư đó không?
+
+### Thứ ba: Cạnh tranh
+
+Nếu Summer Light làm được thì:
+
+* đối thủ hiện tại là ai?
+* các tập đoàn lớn sẽ phản ứng thế nào?
+* ba hoặc năm năm sau sẽ có thêm bao nhiêu đối thủ?
+* Summer Light có lợi thế gì?
+
+Phong Vũ đặt vấn đề:
+
+**Nếu smartphone là một chiếc bánh lớn, chắc chắn sẽ có rất nhiều người muốn ăn.**
+
+Nếu Summer Light không có lợi thế riêng thì cạnh tranh bằng gì?
+
+Cuộc họp bắt đầu chuyển sang các phương án.
+
+---
+
+# PHẦN 5 – TRANH LUẬN CÁC PHƯƠNG ÁN
+
+## 5.1. Tự nghiên cứu hệ điều hành
+
+Lập luận:
+
+* kiểm soát nền tảng;
+* không phụ thuộc bên ngoài;
+* có thể trở thành nền móng cho thiết bị tương lai.
+
+Phản biện:
+
+* hệ điều hành cần hệ sinh thái;
+* cần ứng dụng;
+* cần nhà phát triển;
+* cần người dùng;
+* bài toán con gà – quả trứng.
+
+---
+
+## 5.2. Hợp tác với tập đoàn nước ngoài
+
+Lập luận:
+
+* có công nghệ;
+* có kinh nghiệm;
+* giảm thời gian nghiên cứu;
+* giảm rủi ro.
+
+Phản biện:
+
+* phụ thuộc công nghệ;
+* lợi thế cốt lõi nằm ở đối tác;
+* Summer Light có thể trở thành người đi sau trong chính sản phẩm của mình.
+
+---
+
+## 5.3. Nhận gia công
+
+Lập luận:
+
+* học công nghệ;
+* học quy trình;
+* tiếp xúc chuỗi cung ứng;
+* tích lũy kinh nghiệm.
+
+Phản biện:
+
+* dễ trở thành nhà sản xuất giá rẻ;
+* khách hàng và thương hiệu nằm trong tay người khác;
+* chưa chắc tích lũy được công nghệ cốt lõi.
+
+---
+
+## 5.4. Làm ứng dụng và game
+
+Lập luận:
+
+* vốn thấp hơn;
+* thị trường lớn;
+* dễ mở rộng.
+
+Phản biện:
+
+* cạnh tranh khốc liệt;
+* phụ thuộc nền tảng;
+* sản phẩm dễ bị sao chép.
+
+---
+
+## 5.5. Xây dựng App Store
+
+Lập luận:
+
+* tạo hệ sinh thái;
+* có nguồn doanh thu;
+* thu hút nhà phát triển.
+
+Phản biện:
+
+* chưa có người dùng thì khó thu hút nhà phát triển;
+* chưa có ứng dụng thì khó thu hút người dùng.
+
+---
+
+## 5.6. Chỉ làm một mảng phần cứng
+
+Lập luận:
+
+* không cần đầu tư toàn bộ smartphone;
+* tập trung nguồn lực;
+* có thể cung cấp cho nhiều nhà sản xuất.
+
+Phong Vũ hỏi:
+
+* Tại sao chọn linh kiện đó?
+
+Câu trả lời:
+
+* Vì chúng ta có thể làm.
+
+Phong Vũ hỏi tiếp:
+
+* Chỉ làm được thôi đã đủ chưa?
+
+Cuộc thảo luận bắt đầu chuyển sang vấn đề:
+
+**Summer Light cần tìm một lĩnh vực vừa có nhu cầu lớn, vừa có khả năng tạo lợi thế dài hạn.**
+
+---
+
+# PHẦN 6 – BÓC TÁCH MỘT CHIẾC SMARTPHONE
+
+Đội kỹ thuật lần lượt phân tích:
+
+* chip;
+* màn hình;
+* camera;
+* bộ nhớ;
+* kết nối;
+* phần mềm;
+* pin;
+* linh kiện phụ trợ.
+
+Phong Vũ nhận ra một vấn đề:
+
+**Làm smartphone đồng nghĩa với việc cùng lúc bước vào quá nhiều ngành công nghệ.**
+
+Summer Light không cần phải tự làm tất cả.
+
+Câu hỏi trở thành:
+
+**Mắt xích nào đáng để Summer Light tập trung?**
+
+---
+
+# PHẦN 7 – CHIP
+
+Đội kỹ thuật phân tích sâu về chip.
+
+Chip rất quan trọng nhưng để tự làm cần:
+
+* kiến trúc;
+* thiết kế;
+* vật liệu;
+* chế tạo;
+* thiết bị;
+* kiểm thử;
+* đóng gói;
+* chuỗi cung ứng.
+
+Summer Light chưa có nền tảng đủ sâu.
+
+Phong Vũ đưa ra một nguyên tắc:
+
+**Một thứ rất quan trọng không có nghĩa Summer Light nhất định phải tự sản xuất nó.**
+
+---
+
+# PHẦN 8 – PIN XUẤT HIỆN TRONG TẦM NHÌN
+
+Khi phân tích toàn bộ smartphone, vấn đề năng lượng ngày càng rõ.
+
+Màn hình cần điện.
+
+Chip cần điện.
+
+Camera cần điện.
+
+Kết nối cần điện.
+
+Bộ nhớ và xử lý dữ liệu cũng cần điện.
+
+Nhưng smartphone lại là thiết bị di động.
+
+Khi không có nguồn điện bên ngoài, tất cả phụ thuộc vào năng lượng mà nó mang theo.
+
+Phong Vũ bắt đầu chú ý đến:
+
+**PIN.**
+
+Không phải vì pin quan trọng hơn chip.
+
+Mà vì nó là một mắt xích có thể liên quan trực tiếp đến rất nhiều thiết bị di động.
+
+---
+
+# PHẦN 9 – TỪ SMARTPHONE SANG LAPTOP
+
+Phong Vũ nhận ra pin không chỉ phục vụ smartphone.
+
+Laptop cũng cần pin.
+
+Nếu có một loại pin:
+
+* nhỏ hơn;
+* nhẹ hơn;
+* dung lượng tương đương hoặc cao hơn;
+* giá thành không tăng quá nhiều;
+
+thì giá trị thương mại rất lớn.
+
+Ví dụ:
+
+**Một viên pin laptop chỉ bằng khoảng 1/3 kích thước hiện tại nhưng có dung lượng tương đương hoặc cao hơn.**
+
+Nhà sản xuất có thể:
+
+* làm laptop mỏng hơn;
+* làm nhẹ hơn;
+* tăng thời lượng sử dụng;
+* dành không gian cho linh kiện khác.
+
+Phong Vũ bắt đầu nhìn xa hơn smartphone.
+
+Trong tương lai có thể xuất hiện rất nhiều thiết bị di động cần nguồn năng lượng riêng.
+
+**Smartphone chỉ có thể là điểm bắt đầu.**
+
+---
+
+# PHẦN 10 – NHƯNG PIN KHÔNG HỀ DỄ ĂN
+
+Ngay khi thấy thị trường rộng, Phong Vũ nhận ra vấn đề đối lập.
+
+Nếu pin dễ tham gia hơn chip thì:
+
+**số người có khả năng tham gia cũng sẽ nhiều hơn.**
+
+Đặc biệt là những công ty hiện đang sản xuất pin cho laptop.
+
+Họ đã có:
+
+* nhà máy;
+* công nghệ;
+* kỹ thuật;
+* khách hàng;
+* chuỗi cung ứng;
+* kinh nghiệm.
+
+Summer Light nếu bắt đầu từ con số gần như bằng không rất dễ trở thành người chạy sau.
+
+Nếu làm pin thì phải nghiên cứu thật kỹ.
+
+Không thể chỉ làm một sản phẩm “cũng được”.
+
+---
+
+# PHẦN 11 – KHÔNG NHẤT THIẾT PHẢI TỰ XÂY TỪ ĐẦU
+
+Phong Vũ đưa ra các khả năng:
+
+### Tự nghiên cứu
+
+Ưu điểm: chủ động công nghệ.
+
+Nhược điểm: mất nhiều năm.
+
+### Mua công nghệ
+
+Ưu điểm: rút ngắn thời gian.
+
+Nhược điểm: công nghệ mua được có thể không còn lợi thế.
+
+### Mua công ty
+
+Có thể mua một công ty đang có:
+
+* công nghệ;
+* đội ngũ;
+* nhà máy;
+* khách hàng.
+
+Sau đó Summer Light cải tổ và đầu tư thêm.
+
+Nhưng trước khi mua phải điều tra kỹ:
+
+* công nghệ;
+* đội ngũ;
+* nhà máy;
+* tài chính;
+* khách hàng;
+* khả năng phát triển tiếp.
+
+Chưa quyết định mua công ty nào.
+
+Chỉ bắt đầu lập danh sách và điều tra thị trường.
+
+---
+
+# PHẦN 12 – CÔNG NGHỆ MỚI LÀ TRỌNG TÂM
+
+Phong Vũ nhận ra:
+
+**Mua một công ty không phải mục tiêu cuối cùng.**
+
+Nếu chỉ mua công nghệ hiện tại rồi sản xuất, vài năm sau đối thủ có thể vượt qua.
+
+Mục tiêu thực sự phải là:
+
+**xây dựng năng lực nghiên cứu và cải tiến liên tục.**
+
+Mỗi thế hệ phải:
+
+* dung lượng cao hơn;
+* nhỏ hơn;
+* nhẹ hơn;
+* ổn định hơn;
+* sạc nhanh hơn;
+* giá thành thấp hơn.
+
+Không phải làm ra một viên pin tốt.
+
+Mà phải có khả năng:
+
+**liên tục làm ra viên pin tốt hơn.**
+
+---
+
+# PHẦN 13 – CÔNG NGHỆ PHẢI ĐI CÙNG GIÁ THÀNH
+
+Pin tốt nhưng quá đắt sẽ không có thị trường lớn.
+
+Do đó R&D phải nghiên cứu đồng thời:
+
+* vật liệu;
+* thiết kế cell;
+* quy trình;
+* tỷ lệ đạt chuẩn;
+* tiêu hao nguyên liệu;
+* tự động hóa;
+* năng suất.
+
+Mục tiêu:
+
+**chất lượng tăng nhưng giá thành không tăng tương ứng.**
+
+Nếu làm được cả hai, Summer Light mới có lợi thế lâu dài.
+
+---
+
+# PHẦN 14 – QUY MÔ
+
+Summer Light chưa cần xây nhà máy khổng lồ ngay.
+
+Nếu chưa có khách hàng lớn, đầu tư quá sớm sẽ làm chôn vốn.
+
+Giai đoạn đầu:
+
+* nghiên cứu;
+* sản xuất thử;
+* đơn hàng nhỏ;
+* kiểm chứng.
+
+Nhưng phải chuẩn bị trước phương án mở rộng.
+
+Phong Vũ đặt tình huống:
+
+* Một ông lớn smartphone đặt hàng thì sao?
+* Ba ông lớn cùng đặt thì sao?
+* Năm ông lớn cùng đặt thì sao?
+
+Khi đó vấn đề không còn là bán được hay không.
+
+Mà là:
+
+**có giao đủ hàng hay không.**
+
+Phải tính trước:
+
+* dây chuyền;
+* thiết bị;
+* nguyên liệu;
+* nhân sự;
+* đào tạo;
+* nhà máy thứ hai;
+* khả năng nhân bản công nghệ.
+
+---
+
+# PHẦN 15 – LỢI THẾ B2B VÀ B2C CỦA SUMMER LIGHT
+
+Một người trong bộ phận kinh doanh đưa ra một điểm.
+
+Summer Light không phải một công ty pin mới thành lập.
+
+Công ty đã có:
+
+**B2C**
+
+→ tiếp cận người dùng.
+
+**B2B**
+
+→ quan hệ với doanh nghiệp.
+
+**Thương hiệu**
+
+→ nhiều doanh nghiệp đã biết đến Summer Light.
+
+Điều này giúp Summer Light có lợi thế khi đưa một sản phẩm pin mới ra thị trường.
+
+Đặc biệt, khi công nghệ đủ tốt, công ty có thể chủ động tiếp cận các nhà sản xuất smartphone, laptop và những thiết bị khác.
+
+Phong Vũ đồng ý nhưng nhấn mạnh:
+
+* Kênh bán hàng chỉ giúp chúng ta tiếp cận khách hàng. Nó không thay thế được công nghệ.
+
+- Tôi muốn chèn 1 đoạn ngắn nói về quy mô hiện tại của Summer Light đã tăng lên trên 8.000 nhân sự.
+
+---
+
+# PHẦN 16 – SUMMER LIGHT MUỐN TRỞ THÀNH AI TRONG NGÀNH PIN?
+
+Phong Vũ gom lại toàn bộ vấn đề.
+
+Nếu làm pin, Summer Light cần:
+
+### Công nghệ
+
+Liên tục cải tiến.
+
+### Giá thành
+
+Đủ cạnh tranh để khách hàng có lý do chuyển sang.
+
+### Quy mô
+
+Có thể mở rộng nhanh khi đơn hàng tăng.
+
+### Thị trường
+
+Có B2B và B2C để tiếp cận khách hàng.
+
+### Thương hiệu
+
+Khi một nhà sản xuất cần tìm pin chất lượng cao, Summer Light phải nằm trong danh sách đầu tiên họ nghĩ đến.
+
+Mục tiêu không phải:
+
+**“Summer Light cũng sản xuất pin.”**
+
+Mà là:
+
+**“Khi nhắc đến pin chất lượng cao, Summer Light phải là một trong những cái tên đầu tiên xuất hiện.”**
+
+---
+
+# PHẦN 17 – PHONG VŨ NHẬN RA SUMMER LIGHT ĐANG CHẠY THEO
+
+Sau khi cuộc họp kết thúc, Phong Vũ tiếp tục suy nghĩ.
+
+Smartphone khiến anh nhận ra một điều mà trước đây anh chưa thực sự chú ý.
+
+Summer Light đang có tiền.
+
+Đang có người.
+
+Đang có hệ thống kinh doanh.
+
+Nhưng khi một công nghệ mới xuất hiện trên thị trường quốc tế, công ty vẫn phải:
+
+**nhìn thấy người khác làm → mua sản phẩm → nghiên cứu → phân tích → rồi mới nghĩ xem mình có nên làm hay không.**
+
+Nếu cứ như vậy, Summer Light sẽ luôn là người chạy theo.
+
+Hôm nay là smartphone.
+
+Ngày mai có thể là một công nghệ khác.
+
+Phong Vũ không muốn tương lai của Summer Light tiếp tục như vậy.
+
+Anh bắt đầu nghĩ:
+
+**Nếu muốn chủ động, công ty phải nghiên cứu những thứ có thể trở thành xu hướng trước khi thị trường buộc mình phải chạy theo.**
+
+---
+
+# PHẦN 18 – TỪ PIN NGHĨ ĐẾN XE ĐIỆN
+
+Từ bài toán pin, suy nghĩ của Phong Vũ đi xa hơn.
+
+Nếu công nghệ lưu trữ năng lượng ngày càng tốt, những thứ sử dụng năng lượng di động sẽ ngày càng nhiều.
+
+Trong đó có một lĩnh vực rất lớn:
+
+**xe điện.**
+
+Phong Vũ từng biết đến những công ty đang theo đuổi xe điện ở Đại Mỹ quốc.
+
+Nhưng điều anh quan tâm không phải lập tức sản xuất xe.
+
+Summer Light hiện chưa có năng lực để sản xuất xe điện quy mô lớn.
+
+Vấn đề là:
+
+**có cần đợi đến khi thị trường xe điện bùng nổ rồi mới bắt đầu nghiên cứu hay không?**
+
+Phong Vũ nghĩ là không.
+
+Nếu từ bây giờ bắt đầu:
+
+* nghiên cứu công nghệ xe điện;
+* nghiên cứu hệ thống truyền động;
+* pin cho xe;
+* hệ thống quản lý năng lượng;
+* thiết kế;
+* vật liệu;
+* an toàn;
+* quy trình sản xuất;
+
+thì vài năm sau Summer Light mới có thể hình thành năng lực thực sự.
+
+Anh bắt đầu nghĩ đến một mục tiêu vừa sức hơn.
+
+**Không cần lập tức sản xuất hàng loạt.**
+
+Trong khoảng ba năm, Summer Light có thể nghiên cứu và chế tạo một mẫu xe điện hoàn chỉnh đầu tiên.
+
+Không cần bán ngay.
+
+Không cần có nhà máy khổng lồ.
+
+Trước mắt có thể đưa chiếc xe đó đi triển lãm.
+
+Để chứng minh:
+
+**Summer Light không chỉ chạy theo thị trường. Công ty đã bắt đầu chuẩn bị cho thị trường tiếp theo.**
+
+Đây sẽ là hạt giống cho dự án xe điện sau này.
+
+---
+
+# TUYẾN II – LỆ THANH
+
+## PHẦN 19 – THANH TRÚC KIẾM PHÁP TIẾN BỘ
+
+Tuyến Lệ Thanh chỉ chiếm khoảng 5% nên không cần kéo dài.
+
+Trong thời gian Phong Vũ bận với Summer Light, Lệ Thanh vẫn tiếp tục luyện Thanh Trúc Kiếm Pháp.
+
+Phong Vũ thỉnh thoảng quan sát và chỉ ra những vấn đề về:
+
+* khoảng cách;
+* góc độ;
+* lực;
+* chuyển tiếp;
+* sự liên kết giữa thân pháp và kiếm pháp.
+
+Anh không trực tiếp dạy kiếm pháp.
+
+Lệ Thanh tự sửa, tự luyện.
+
+Sau một thời gian:
+
+**Thanh Trúc Kiếm Pháp đạt Đại thành.**
+
+Phong Vũ chỉ đứng bên ngoài nhìn cô hoàn thành bước tiến của chính mình.
+
+---
+
+# TUYẾN III – MẠN SƯƠNG
+
+## PHẦN 20 – NGƯỜI ĐỘT NHẬP TRONG ĐÊM
+
+Hơn một năm qua, Phong Vũ không còn cho Mạn Sương đi theo khi anh luyện võ.
+
+Mạn Sương chưa từng biết đến Cổ võ.
+
+Cô chỉ biết tầng võ đạo nhân gian mà mình đã luyện.
+
+Thời gian gần đây công việc của cô khá nhàn.
+
+Có lúc cô quay về võ đường cũ để luyện tập.
+
+Có lúc cô ở lại Summer Light trực đêm thay đồng nghiệp.
+
+Một đêm muộn, Phong Vũ muốn đến Phòng Kỹ thuật lấy một chiếc smartphone về tự tháo ra nghiên cứu.
+
+Tầng một đã khóa.
+
+Anh không muốn gọi bảo vệ mở cửa.
+
+Phong Vũ nổi hứng thử dùng võ công leo từ bên ngoài lên tầng hai rồi tầng ba.
+
+Một cửa sổ tầng ba đang hé.
+
+Nhưng Mạn Sương đang đi tuần.
+
+Cô phát hiện người lạ.
+
+Nép ở cửa phòng, chờ người đó bước vào.
+
+Phong Vũ vừa xuất hiện, cô lập tức ra tay.
+
+Phong Vũ nhanh chóng khống chế.
+
+Đến lúc đó hai người mới nhận ra nhau.
+
+---
+
+# PHẦN 21 – MẠN SƯƠNG ĐÒI ĐI THEO
+
+Hai người nói chuyện.
+
+Mạn Sương hỏi vì sao Phong Vũ không còn cho cô đi theo.
+
+Phong Vũ không nói dài.
+
+Mạn Sương cuối cùng nói:
+
+Nếu anh vẫn không cho cô đi theo, cô sẽ xin nghỉ việc.
+
+Phong Vũ suy nghĩ.
+
+Cuối cùng đồng ý:
+
+**sau này nếu có thời điểm thích hợp, anh sẽ cho cô đi cùng.**
+
+Anh chưa nói gì về Cổ võ.
+
+---
+
+# PHẦN 22 – XIN CHO MẠN SƯƠNG HỌC CỔ VÕ
+
+Sau đó Phong Vũ hỏi Tiểu Long:
+
+**Mạn Sương có thể học những thứ căn bản của Cổ võ hay không?**
+
+Tiểu Long không tự quyết.
+
+Anh hỏi Tôn Kiên.
+
+Tôn Kiên đồng ý.
+
+Nhưng quan trọng hơn, ông thay đổi cách nhìn về việc tuyển đệ tử.
+
+Trước đây:
+
+**Tôn Kiên tự mình tìm đệ tử, chủ yếu giới hạn dưới 20 tuổi.**
+
+Sau hơn một năm quan sát Phong Vũ, ông nhận ra cách này quá hẹp.
+
+Từ nay:
+
+* đệ tử có thể tự phát hiện người phù hợp;
+* tự cân nhắc có nên dạy hay không;
+* trước tiên chỉ dạy những thứ căn bản;
+* theo dõi khoảng 6 tháng đến 1 năm;
+* sau đó mới quyết định có chính thức tiếp nhận hay không.
+
+Chỉ có một nguyên tắc không thay đổi:
+
+**Không được công khai mở lớp Cổ võ.**
+
+Mạn Sương vì thế bắt đầu có cơ hội tiếp xúc với Cổ võ.
+
+Nhưng cô chưa phải đệ tử chính thức của Tôn gia.
+
+---
+
+# KẾT THÚC HỒI 32
+
+Ba tuyến của Hồi 32 cùng bước sang một giai đoạn mới:
+
+**Summer Light:** bắt đầu nghiên cứu PIN và đặt mục tiêu chủ động nghiên cứu công nghệ tương lai, trong đó có xe điện.
+
+**Lệ Thanh:** đạt Đại thành Thanh Trúc Kiếm Pháp.
+
+**Mạn Sương:** bắt đầu được phép học những thứ cơ bản của Cổ võ.
+
+Hồi 32 kết thúc với việc Phong Vũ đã bắt đầu nghĩ đến một cách vận hành mới cho Summer Light:
+
+**không chỉ nhìn thấy thị trường rồi mới bước vào, mà phải bắt đầu nghiên cứu từ trước khi thị trường thực sự hình thành.**
