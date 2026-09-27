@@ -113,7 +113,7 @@ DANH SÁCH CÁC HỒI (DỰ KIẾN):
 035_Đối chiến Mạc Vô Cực:
 	Dưới ấm mưu của Đoàn Bát Thiên, anh phải phải thiên tài số một trong Cổ võ, trận chiến sinh tử khiến anh chỉ may nắm thắng nửa chiêu. Mạc Vô Cực cũng là người quân tử, anh ta đến để đấu võ phân cao thấp chứ không phải diết người (nhưng thực ra anh ta cũng không biết mình bị Mạc Vô Cực lợi dụng).
 	
-036_Cục trưởng An ninh:
+036_Ám Vệ Cảnh:
 	Danh tiếng của Phong Vũ ngày càng lớn, khiến Cục trưởng An ninh phải kiêng kỵ. Thời gian đầu muốn lôi kéo Phong Vũ nhưng anh không có hứng thú gia nhập tổ chức nào. Cuối cùng Cục trưởng An ninh cũng ngấm ngầm tìm cách hại anh.
 	
 037_Giáng Long Nhất Chưởng:
