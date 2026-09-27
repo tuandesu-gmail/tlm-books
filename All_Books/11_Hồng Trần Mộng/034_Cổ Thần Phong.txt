@@ -1,24 +1,2723 @@
-* **Cổ Thần Phong (Xuất hiện năm 28 tuổi):** 
-	- Ông là Chưởng môn Tàng Long Môn – 藏龙门, bậc tiền bối công minh, công nhận nhãn quan võ học áp chế của Phong Vũ.
-	- Nhưng thực ra ông chính là Chu Thần Phong, gia chủ của Chu gia.
-	- Tàng Long Môn – 藏龙门 là môn phái quy quy tụ đến hơn 200 những cao thủ giả trả được Chu Thần Phong  bí mật tuyển mộ vào đào tạo từ khi ông còn trẻ độ tuổi 20 đến nay đã hơn 60 tuổi. Khi ông chưa là gia chủ, nó vốn chỉ là một lực lượng riêng của ông, và khi đã làm gia chủ, ông vẫn giữ nó như một thế lực bí mật và độc lập với Chu gia.
-	- Thực lực của Tàng Long Môn – 藏龙门 mạnh hơn Chu gia rất nhiều, theo ước tính của Chu Thần Phong thì Tàng Long Môn có thể nằm trong top 5, thậm chí top 3 thế lực mạnh nhất giới cổ võ hiện nay.
-	- Trong Tàng Long Môn thì công pháp nhiều tới trên 150 bộ công pháp cao thấp khác nhau. Nó thực ra không phải cho Chu Thần Phong tự có được, mà do chính các thành viên gom góp của mình vào chung môn phái.
-	- Hầu hết công pháp đều là công pháp đã bị sửa đổi (tất nhiên các thành viên trong môn cũng không biết đó là bản sửa đổi, còn Chu Thần Phong có thể nghi ngờ nhưng cũng không phân biệt được đó là bản gốc hay bản sửa đổi), nhưng trong đó còn 4 bộ công pháp cao cấp mà họ tin là bản gốc nguyên bản thì được chia sẽ lẫn nhau trong nhóm tinh anh của Tàng Long Môn.
-	- Khi Phong Vũ đến Chu gia, anh đã lọt vào tầm quan sát của Chu Thần Phong. Sau đó anh được Chu Thần Phong mời tham gia Tàng Long Môn. Nội quy của Tàng Long Môn rất đơn giản: tham gia thì phải chia sẻ ít nhất 1 trong số các công pháp võ học mà mình sở hữu, hoặc chia sẻ thể ngộ với đồng môn khác. Còn không ép buộc phải làm bất kể việc gì khác mà mình không muốn.
-	- Giai đoạn đầu, Phong Vũ cũng chỉ được giới hạn lựa chọn 2 bộ công pháp bình thường (nhóm thấp nhất) trong hơn 150 bộ công pháp để tu luyện. Vì thường phải có cống hiến lớn hoặc đổi công pháp của mình qua thì mới nhận được thêm công pháp khác.
-	- Phong Vũ chọn là 1 bộ thương pháp. Anh luyện đồng thời trong 2 tháng thì đạt đến viễn mãn, và thêm 2 tuần sau thì anh lại khám phá ra cấp trên viên mãn của bộ này, cũng chính là tự ngộ ra được bản gốc. 
-	- Khi đó, uy lực thực sự của bộ thương pháp này tuy chỉ tương đương cấp độ tiểu thành của 4 bộ công pháp cao cấp hoàn chỉnh mà nhóm tinh anh Chu Thần Phong nắm giữ, nhưng việc khám phá ra cấp độ trên viên mãn cũng gây tiếng váng lớn trong Tàng Long Môn, điều này cũng đóng góp thêm vào kho tàng của môn phái 1 bản công pháp hoàn chỉnh nữa.
-	- Phong Vũ càng được Chu Thần Phong và nhóm tinh anh chú ý. Anh lại được phép chọn tối đa thêm 2 bộ nữa, lần này là 2 bộ thuộc top 50~70. Anh vẫn chỉ chọn 1 bộ thương.
-	- Lần này anh cũng chỉ mất khoảng 2 tháng để đạt được cấp độ trên viên mãn (tức là khám phá ra bản gốc của 1 bộ công pháp). Uy lực của công pháp này tương đương với mức đại thành của 4 công pháp hoàn chỉnh kia. Mà trong nhóm khoảng 10 người tinh anh thì đa số họ chỉ mới luyện đến đại thành, chỉ có Chu Thần Phong và 2 người nữa tu luyện đến viên mãn 1 trong 4 công pháp cao cấp hoàn chỉnh kia. 
-	- Điều này có nghĩa Phong Vũ hiện có thực lực gần tương đương nhóm tinh anh của Tàng Long Môn. Lúc này Chu Thần Phong thực sự càng thêm kinh ngạc về tốc đọ tu luyện và ngộ tính của Phong Vũ. Ông chủ động mời anh vào nhóm tinh anh, Phong Vũ đồng ý.
-	- Quyền lợi của nhóm tinh anh lơn hơn nhiều: đó là được chọn tối đa 2 công pháp cao cấp hoàn chỉnh (trong 4 công pháp cap cấp nhất) và tùy ý chọn thêm tối đa 3 công pháp khác nữa.
-	- Phong Vũ đầu tiên chọn 1 bộ đao pháp (trong 4 bộ cao cấp hoàn chỉnh kia) và một bộ thương pháp bị sửa đổi nhưng được xếp vào top 10.
-	- Với đao pháp, cũng chính là bộ Bá Thiên Đao Pháp mà Chu Thần Phong đã tu luyện đến cấp độ viên mãn, uy lực rất lớn, cũng là con át chủ bài của Chu Thần Phong, giúp ông giữ vững vị thế cao thủ hàng đầu của Tàng Long Môn.
-	- Khi Phong Vũ tu luyện được ông chỉ điểm rất nhiều, nên tiến bộ càng nhanh. Anh cũng nhanh chóng nhận ra đây chính là bản gốc của bộ đao pháp mà anh từng luyện ở Chu gia (bản bị sửa đổi kia anh chỉ luyện được đến đại thành thì không tiến bộ tiếp được nữa). Sau hơn 1 tháng anh đã đạt được cấp viên mãn như Chu Thần Phong. Tức là, nếu lúc này 2 người cùng dùng Bá Thiên Đao Pháp đối chiến thì sẽ khó phân thắng bại ngay được.
-	- Nhưng Chu Thần Phong đã luyện được 2 môn công pháp cao cấp đến viên mãn, nên có thể nói ông ta là cao thủ số 1 ở Tàng Long Môn.
-	- Còn bộ thương pháp top 10 kia tên là Thanh Long Thương Pháp, anh luyện 2 tháng trời mới chỉ đạt được cấp đại thành. Có vẻ nó cũng giống Triệu Bá Công của triệu gia, bị sửa đổi khá nhiều nên rất khó luyện lên cao hơn, mà anh mãi vẫn chưa ngộ ra được phần bị sửa đổi.
-	- Phong Vũ cũng nhận ra một điều, chính việc các gia tộc và môn phải thi nhau sửa đổi công pháp cũng là một nguyên nhân dẫn đến giới cổ võ ngày càng suy tàn. Thời xưa, khi hưng thịnh, các môn phái lớn có hàng vạn đệ tử thì việc công pháp bị sửa đổi thì hầu như không có.
-	
-	
+
+
+HỒI 034: CỔ THẦN PHONG
+
+---
+
+
+# PHẦN I — BƯỚC ĐẦU TIÊN TRONG TÀNG LONG MÔN
+
+Hai tháng trôi qua rất nhanh.
+
+Sau khi nghiên cứu Triệu Bá Công trong một thời gian dài, Phong Vũ cuối cùng cũng tạm gác quyển công pháp ấy sang một bên.
+
+Trên bàn vẫn còn những ghi chép anh viết trong quá trình luyện công. Có những chỗ đã được sửa đi sửa lại nhiều lần, có những dòng chỉ còn vài chữ ngắn gọn.
+
+Phong Vũ nhìn chúng một lúc rồi khép quyển sổ lại.
+
+Anh đã có được thứ mình muốn.
+
+Không phải một bộ võ công mới.
+
+Mà là một cách nhìn khác về võ đạo.
+
+Nhưng những điều vừa lĩnh ngộ vẫn cần thời gian kiểm chứng.
+
+Phong Vũ đứng dậy, lấy bộ thương pháp cấp thấp mà anh đã lựa chọn từ trước ra khỏi ngăn kéo.
+
+Quyển bí tịch này đã nằm ở đó suốt hai tháng.
+
+Lúc mới chọn nó, anh chỉ nghĩ đơn giản rằng mình chưa từng thực sự luyện một bộ thương pháp hoàn chỉnh. Tàng Long Môn có hơn một trăm năm mươi bộ võ học, mà bộ này lại nằm trong nhóm cấp thấp, không có gì đặc biệt nổi bật.
+
+Bây giờ nhìn lại, suy nghĩ của anh đã khác.
+
+Một bộ võ công được xếp vào cấp thấp không có nghĩa là anh đã hiểu hết nó.
+
+Phong Vũ mở trang đầu tiên.
+
+Anh không lập tức luyện chiêu.
+
+Ánh mắt chậm rãi đi qua từng dòng trong bí tịch.
+
+Sau hai tháng nghiên cứu Triệu Bá Công, lần đầu tiên anh đọc một môn võ học khác bằng một cách hoàn toàn khác trước.
+
+Không chỉ nhìn xem chiêu thức đánh thế nào.
+
+Anh bắt đầu tìm kiếm thứ nằm phía sau những chiêu thức ấy.
+
+Trọng tâm đặt ở đâu.
+
+Khoảng cách giữa hai bước chân thay đổi thế nào.
+
+Khi mũi thương tiến về phía trước, lực từ chân truyền lên eo rồi tới vai ra sao.
+
+Một chiêu kết thúc thì chiêu tiếp theo bắt đầu từ đâu.
+
+Nếu đối thủ không đứng yên chờ mình xuất chiêu, những chuyển thế ấy còn giữ được bao nhiêu tác dụng?
+
+Phong Vũ đọc rất chậm.
+
+Đến giữa buổi, anh mới khép bí tịch lại.
+
+Anh cầm cây thương đặt bên cạnh tường lên.
+
+Trong sân luyện võ phía sau Chu gia, tiếng gió lướt qua những tán cây.
+
+Phong Vũ đứng yên một lúc.
+
+Sau đó, mũi thương bắt đầu chuyển động.
+
+
+------------------------------------------------------------
+
+
+# PHẦN II — THƯƠNG PHÁP CẤP THẤP
+
+## 2. Tiếp tục môn thương pháp đã chọn ở Hồi 33
+
+Mấy ngày đầu, Phong Vũ không luyện thương liên tục.
+
+Anh dành phần lớn thời gian đọc lại toàn bộ công pháp một lần nữa, nhưng lần này không còn nhìn từng chiêu như những động tác độc lập.
+
+Sau hai tháng nghiên cứu Triệu Bá Công, cách nhìn của anh đã khác trước.
+
+Một thức đâm thẳng không chỉ là đưa mũi thương về phía trước. Nó bắt đầu từ vị trí hai chân, từ trọng tâm của cơ thể, từ khoảng cách giữa mình và đối phương. Khi thương đã ra khỏi tay, lực truyền qua thân người như thế nào, đối phương đang đứng ở đâu, bước chân tiếp theo của mình có thể đặt vào vị trí nào — tất cả đều liên quan với nhau.
+
+Phong Vũ cầm thương đứng giữa sân.
+
+Anh thử lại thức đầu tiên.
+
+Mũi thương đi ra rất chậm.
+
+Không phải vì anh không đủ nhanh, mà bởi mỗi lần xuất thương, anh đều dừng lại ở giữa chừng để quan sát vị trí của hai chân, độ nghiêng của thân người và hướng mà cơ thể sẽ tiếp tục di chuyển nếu chiêu thức được nối sang thức kế tiếp.
+
+Một lần.
+
+Hai lần.
+
+Đến lần thứ mười, anh đột nhiên thu thương về.
+
+Ánh mắt dừng ở khoảng đất cách mũi chân chưa đầy một bước.
+
+Nếu đối phương tiến lên từ bên phải vào đúng thời điểm này, khoảng cách giữa hai người sẽ ngắn lại rất nhanh. Chiêu thương hiện tại vẫn có thể tiếp tục, nhưng thân người của anh sẽ phải chuyển trọng tâm sau khi mũi thương đã đi quá xa.
+
+Khi đó, đối phương có thể đánh vào khoảng trống bên cạnh.
+
+Phong Vũ thử lại.
+
+Lần này, trước khi thương rời khỏi tay, anh dịch chân sau nửa bước.
+
+Đường thương gần như không thay đổi.
+
+Nhưng trọng tâm đã khác.
+
+Nếu đối phương tiến vào, anh có thể tiếp tục đẩy thương tới. Nếu đối phương lùi lại, anh cũng có thể thu thương mà không cần mất thêm một nhịp.
+
+Phong Vũ nhìn cây thương trong tay.
+
+— Không phải chiêu thức thay đổi.
+
+Anh nói rất khẽ.
+
+— Là vị trí của người sử dụng thay đổi.
+
+Từ đó, tốc độ luyện tập của anh chậm lại.
+
+Nhưng mỗi lần luyện đều có mục đích rõ ràng hơn.
+
+Anh không chỉ hỏi một chiêu thức có thể đánh được đối phương hay không.
+
+Anh bắt đầu quan sát điều xảy ra **trước và sau** mỗi chiêu.
+
+Khi mình chuẩn bị đâm, đối phương có thể nhìn thấy điều gì?
+
+Khi mình thu thương, đối phương sẽ tiến vào khoảng nào?
+
+Nếu đối phương tránh sang trái, mình có thể nối sang thức nào?
+
+Nếu đối phương không né mà tiến thẳng vào, trọng tâm của mình có còn đủ ổn định để chống lại hay không?
+
+Có những lúc Phong Vũ đứng yên rất lâu giữa sân, cây thương vẫn nằm trong tay nhưng không hề động đậy.
+
+Lệ Thanh từng đi ngang qua, thấy anh đứng như vậy thì dừng lại nhìn một lúc.
+
+— Anh đang luyện thương hay đứng ngẩn người?
+
+Phong Vũ quay đầu.
+
+— Đang luyện.
+
+— Đứng yên cũng luyện được?
+
+— Nếu không biết mình muốn luyện cái gì thì múa cả ngày cũng chưa chắc có ích.
+
+Lệ Thanh nhìn cây thương trong tay anh, rồi nhìn khoảng sân trước mặt.
+
+Cô không hỏi thêm.
+
+Phong Vũ tiếp tục.
+
+Ban đầu, tiến bộ của anh vẫn nhanh.
+
+Nhưng điều khiến người khác chú ý không phải tốc độ.
+
+Nếu chỉ nhìn những động tác bên ngoài, đó vẫn là bộ thương pháp cấp thấp mà Tàng Long Môn đã lưu giữ từ lâu.
+
+Chỉ có điều, cách Phong Vũ sử dụng nó ngày càng khác với những gì được viết trong sách.
+
+Anh không bỏ chiêu.
+
+Không tự ý thêm chiêu.
+
+Anh chỉ liên tục kiểm tra những khoảng trống giữa các chiêu thức.
+
+Dần dần, một bộ thương pháp vốn có số lượng chiêu thức không nhiều bắt đầu trở nên linh hoạt trong tay anh.
+
+Một thức có thể nối sang nhiều hướng.
+
+Một khoảng dừng tưởng như chỉ để kết thúc động tác lại trở thành thời điểm chuyển trọng tâm.
+
+Một bước chân vốn không được chú ý trong công pháp lại quyết định việc chiêu tiếp theo có thể phát huy được bao nhiêu lực.
+
+Phong Vũ càng luyện, càng cảm thấy bộ thương pháp này không hề đơn giản như đánh giá ban đầu của Tàng Long Môn.
+
+Hoặc ít nhất, cái gọi là “cấp thấp” có lẽ chỉ nói đến mức độ mà người đời sau có thể luyện được.
+
+Còn bản thân công pháp rốt cuộc có thể đi đến đâu, vẫn chưa có ai trả lời được.
+
+---
+
+## 3. Đạt viên mãn
+
+Khoảng thời gian tiếp theo trôi qua rất nhanh.
+
+Phong Vũ không còn cần phải lần lượt luyện từng chiêu theo thứ tự trong sách.
+
+Anh bắt đầu kết hợp các chiêu thức với nhau, thay đổi khoảng cách, thay đổi hướng di chuyển và thử những tình huống khác nhau.
+
+Có lúc anh luyện một mình.
+
+Có lúc tìm người trong Tàng Long Môn giao thủ.
+
+Mỗi lần giao thủ xong, anh lại quay về sân tập, không vội hỏi người khác mình thắng hay thua.
+
+Anh nhớ lại từng khoảnh khắc.
+
+Lúc nào trọng tâm bị lệch.
+
+Lúc nào mũi thương đi quá sâu.
+
+Lúc nào có thể tiến thêm một bước nhưng lại thu thương.
+
+Lúc nào đối phương để lộ sơ hở nhưng bản thân không thể lập tức tận dụng.
+
+Những điều ấy dần dần được anh ghép lại thành một hệ thống.
+
+Đến một ngày, khi mũi thương dừng trước mục tiêu, Phong Vũ không tiếp tục ra chiêu nữa.
+
+Anh đứng yên.
+
+Cả bộ thương pháp đã đi qua trong đầu một lần.
+
+Không còn thức nào khiến anh cảm thấy xa lạ.
+
+Không còn đoạn chuyển thế nào khiến anh phải dừng lại suy nghĩ xem nên làm gì tiếp theo.
+
+Phong Vũ hạ thương.
+
+Viên mãn.
+
+Anh đã luyện đến cảnh giới mà công pháp ghi nhận là cao nhất.
+
+Nhưng chỉ sau vài ngày, cảm giác thỏa mãn ấy biến mất.
+
+Buổi tối, Phong Vũ ngồi một mình trong phòng, cuốn thương phổ đặt trên bàn.
+
+Anh lật đến trang cuối.
+
+Không có gì phía sau.
+
+Phong Vũ nhìn dòng chữ cuối cùng rất lâu.
+
+Rồi anh khép sách.
+
+Nếu viên mãn là giới hạn của công pháp, vậy tại sao khi đạt đến đó, anh vẫn cảm thấy có những chỗ chưa được giải thích?
+
+Câu hỏi ấy khiến anh nhớ đến hai tháng nghiên cứu Triệu Bá Công.
+
+Có những thứ người đời sau ghi lại rất rõ ràng, nhưng càng luyện sâu lại càng thấy phần quan trọng nhất không nằm trên giấy.
+
+Phong Vũ đặt tay lên quyển thương phổ.
+
+— Viên mãn...
+
+Anh lẩm bẩm.
+
+— Là giới hạn của công pháp, hay giới hạn của người từng luyện nó?
+
+Không ai trả lời.
+
+Vậy thì anh tự tìm câu trả lời.
+
+---
+
+## 4. Vượt qua viên mãn
+
+Sau khi đạt viên mãn, Phong Vũ không luyện nhiều hơn.
+
+Anh luyện chậm hơn.
+
+Mỗi một thức đều được tách ra.
+
+Đường thương bắt đầu ở đâu.
+
+Lực truyền qua đâu.
+
+Trọng tâm chuyển lúc nào.
+
+Và quan trọng nhất, sau khi kết thúc một thức, cơ thể đang ở trạng thái nào để bước sang thức tiếp theo.
+
+Có những đoạn trước đây anh cho rằng chỉ đơn giản là chuyển thế.
+
+Bây giờ nhìn lại, anh nhận ra nếu thay đổi rất nhỏ vị trí của bàn chân hoặc thời điểm chuyển trọng tâm, toàn bộ đường thương phía sau cũng thay đổi.
+
+Phong Vũ thử từng khả năng.
+
+Có cái thất bại.
+
+Có cái khiến lực phát ra yếu hơn.
+
+Có cái khiến bản thân mất thăng bằng.
+
+Anh bỏ chúng đi.
+
+Không phải cứ khác với công pháp là đúng.
+
+Đó chính là điều anh đặc biệt cẩn thận.
+
+Nếu chỉ tùy ý sửa đổi động tác theo cảm giác của mình, rất dễ biến một bộ công pháp hoàn chỉnh thành một thứ hoàn toàn khác.
+
+Vì vậy, mỗi lần thay đổi, anh đều quay lại kiểm tra từ đầu.
+
+Một thức có thể thay đổi, nhưng nguyên lý phía sau nó có còn giữ nguyên hay không?
+
+Nếu thay đổi đường thương, khoảng cách có còn phù hợp không?
+
+Nếu thay đổi bước chân, lực có còn truyền được qua toàn bộ cơ thể không?
+
+Nếu nối hai thức theo cách khác, điểm yếu mới có xuất hiện hay không?
+
+Anh thử đi thử lại.
+
+Cho đến một ngày, trong một lần chuyển thế, cây thương đột nhiên đi theo một đường mà trong thương phổ hoàn toàn không ghi lại.
+
+Phong Vũ dừng lại.
+
+Anh không lập tức cho rằng mình đã phát hiện điều gì đặc biệt.
+
+Anh lặp lại.
+
+Một lần.
+
+Hai lần.
+
+Mười lần.
+
+Kết quả vẫn giống nhau.
+
+Đường thương ấy không phá vỡ khuôn mẫu của cả bộ công pháp.
+
+Ngược lại, nó khiến những thức trước và sau liên kết với nhau tự nhiên hơn.
+
+Phong Vũ đứng giữa sân, im lặng rất lâu.
+
+Sau đó anh tiếp tục thử.
+
+Một thay đổi nhỏ.
+
+Rồi thêm một thay đổi nhỏ khác.
+
+Cuối cùng, anh nhận ra mình đã bước sang một trạng thái mà trước đây chưa từng đạt tới.
+
+Không còn đơn thuần là thực hiện chính xác những gì được viết trong thương phổ.
+
+Nhưng cũng chưa thể nói đó là một công pháp mới.
+
+Phong Vũ thu thương.
+
+Anh nhìn quyển thương phổ đặt bên cạnh sân.
+
+Không có bản gốc để đối chiếu.
+
+Không ai biết người sáng lập bộ thương pháp năm xưa thực sự đã luyện nó đến đâu.
+
+Những gì Tàng Long Môn đang lưu giữ chỉ là một bản truyền lại qua nhiều thế hệ.
+
+Có thể phần nguyên lý anh vừa tìm thấy từng tồn tại trong bản gốc rồi bị bỏ qua.
+
+Cũng có thể những người đầu tiên sáng tạo ra công pháp chưa từng đi xa đến mức này, còn thứ anh vừa tìm được thực sự là một hướng phát triển mới.
+
+Phong Vũ không thể xác định.
+
+Và anh cũng không cần phải xác định ngay.
+
+Điều quan trọng là phương pháp của anh đã có thêm một lần kiểm chứng.
+
+Từ Triệu Bá Công đến bộ thương pháp này, cùng một cách quan sát lại cho ra những kết quả tương tự.
+
+Công pháp không chỉ nằm ở những chiêu thức được ghi trên giấy.
+
+Phía sau nó còn có một cấu trúc.
+
+Và nếu có thể nhìn thấy cấu trúc ấy, người luyện có thể hiểu được vì sao một chiêu thức tồn tại, vì sao nó nối với chiêu thức khác, cũng như giới hạn thực sự của nó nằm ở đâu.
+
+Phong Vũ không biết mình đã khôi phục lại thứ từng tồn tại trong quá khứ, hay đã tự mở ra một con đường mới.
+
+Nhưng anh biết một điều.
+
+Cách nhìn này không chỉ dùng được cho một bộ công pháp.
+
+
+-------------------------------------------------------------
+
+
+# PHẦN III — TRAO ĐỔI VÕ ĐẠO
+
+## 5. Phong Vũ và Chu Thần Phong bắt đầu trao đổi sâu hơn
+
+Chu Thần Phong biết Phong Vũ đã luyện xong bộ thương pháp.
+
+Nhưng ông không lập tức hỏi kết quả.
+
+Mãi đến một buổi chiều, khi hai người ngồi trong thư phòng, Chu Thần Phong mới đặt chén trà xuống.
+
+— Cậu nghĩ thế nào về bộ thương pháp đó?
+
+Phong Vũ không trả lời ngay.
+
+Anh suy nghĩ một lát rồi nói:
+
+— Tôi nghĩ nó không đơn giản như cấp bậc ghi trong danh mục.
+
+Chu Thần Phong khẽ gật đầu.
+
+— Vì sao?
+
+— Tôi không chắc.
+
+Phong Vũ nhìn ra ngoài cửa sổ.
+
+— Nếu nói nó vốn là một bộ công pháp cao cấp rồi bị đánh giá thấp, tôi không có bằng chứng. Nếu nói tôi đã phát triển nó lên một tầng khác thì cũng chưa chắc đúng.
+
+Chu Thần Phong nhìn anh.
+
+— Vậy cậu vừa luyện được thứ gì?
+
+— Có thể coi là một cách sử dụng khác.
+
+Câu trả lời khiến Chu Thần Phong hơi nhướng mày.
+
+Phong Vũ tiếp tục:
+
+— Trước đây tôi nghĩ công pháp giống như một bộ động tác. Luyện đúng từng chiêu, luyện đến mức không còn sai thì là viên mãn. Nhưng càng luyện sâu, tôi càng thấy phần quan trọng không nằm ở từng chiêu riêng lẻ.
+
+Anh dùng ngón tay đặt lên mặt bàn.
+
+— Nó nằm ở quan hệ giữa các chiêu.
+
+— Khoảng cách, trọng tâm, hướng truyền lực, thời điểm chuyển thế... những thứ đó quyết định một chiêu thức có thể phát huy được bao nhiêu.
+
+Chu Thần Phong im lặng một lúc.
+
+— Nếu vậy, theo cậu, viên mãn có phải điểm cuối không?
+
+Phong Vũ nhìn ông.
+
+— Tôi nghĩ chưa chắc.
+
+— Tại sao?
+
+— Bởi vì “viên mãn” chỉ có thể chứng minh người luyện đã hoàn toàn nắm được những gì công pháp truyền lại. Nó không chứng minh công pháp chỉ có thể đi đến đó.
+
+Chu Thần Phong không nói.
+
+Ông cầm chén trà lên, nhưng không uống.
+
+Phong Vũ nói tiếp:
+
+— Nhưng cũng không thể vì thế mà tùy ý sửa công pháp.
+
+— Vì sao?
+
+— Bởi vì người luyện không biết mình đang sửa một chỗ đã bị thất truyền, hay đang phá hỏng thứ vốn hoàn chỉnh.
+
+Chu Thần Phong đặt chén trà xuống.
+
+Lần này ông hỏi chậm hơn:
+
+— Vậy cậu dựa vào đâu để phân biệt?
+
+Phong Vũ suy nghĩ.
+
+— Tôi xem kết quả.
+
+Chu Thần Phong nhìn anh.
+
+— Chỉ dựa vào kết quả?
+
+— Không chỉ.
+
+Phong Vũ lắc đầu.
+
+— Nếu một thay đổi khiến chiêu thức mạnh hơn nhưng phá vỡ sự liên kết với những phần còn lại thì chưa chắc đúng. Tôi phải xem toàn bộ công pháp có trở nên hợp lý hơn không.
+
+— Hợp lý theo cách nào?
+
+— Trước và sau phải nối được với nhau. Khi thay đổi một chỗ, những phần khác không được trở nên vô nghĩa. Nếu một động tác mới xuất hiện nhưng phải bỏ đi quá nhiều thứ cũ mới sử dụng được, vậy có lẽ vấn đề nằm ở chính người sửa.
+
+Chu Thần Phong nhìn Phong Vũ hồi lâu.
+
+— Cậu đang xem cả bộ công pháp như một chỉnh thể.
+
+— Vâng.
+
+— Không phải từng chiêu?
+
+— Từng chiêu vẫn quan trọng. Nhưng nếu chỉ nhìn từng chiêu thì không thấy được vì sao chúng được đặt cạnh nhau.
+
+Chu Thần Phong tựa lưng vào ghế.
+
+Ông đã từng gặp không ít người có thiên phú.
+
+Có người nhớ công pháp rất nhanh.
+
+Có người luyện một năm bằng người khác luyện mười năm.
+
+Có người chỉ cần nhìn vài lần đã có thể bắt chước được động tác.
+
+Phong Vũ lại khác.
+
+Anh không chỉ muốn biết một chiêu phải đánh như thế nào.
+
+Anh muốn biết **vì sao nó phải được đánh như vậy**.
+
+Chu Thần Phong hỏi:
+
+— Nếu một ngày cậu gặp một công pháp hoàn toàn khác thì sao?
+
+— Tôi sẽ thử xem cách nhìn này có còn dùng được không.
+
+— Nếu không dùng được?
+
+— Vậy thì sửa cách nhìn.
+
+Câu trả lời rất bình thường.
+
+Chu Thần Phong lại bật cười.
+
+— Ít nhất cậu không cố bảo vệ suy nghĩ của mình.
+
+Phong Vũ cũng cười.
+
+— Nếu cách nhìn sai thì giữ làm gì?
+
+Ngoài sân, tiếng binh khí va vào nhau vọng đến rồi nhanh chóng chìm xuống.
+
+Hai người không tiếp tục nói về bộ thương pháp nữa.
+
+Nhưng từ hôm đó, những cuộc trao đổi giữa họ dần thay đổi.
+
+Chu Thần Phong không còn chỉ trả lời những câu hỏi Phong Vũ đưa ra.
+
+Ông bắt đầu đưa ngược lại những vấn đề chưa có đáp án, lấy những trường hợp từng gặp trong Tàng Long Môn để hỏi Phong Vũ xem anh sẽ nhìn chúng như thế nào.
+
+Có những vấn đề Phong Vũ trả lời được.
+
+Có những vấn đề anh không biết.
+
+Những lúc như vậy, anh không cố đưa ra một đáp án.
+
+Hai người cùng tìm.
+
+Một người có kinh nghiệm của nhiều thập niên.
+
+Một người đang thử dùng một cách nhìn hoàn toàn mới để đọc lại những thứ đã tồn tại từ rất lâu.
+
+Và chính trong những cuộc trao đổi ấy, Phong Vũ bắt đầu nhìn Tàng Long Môn không chỉ như nơi có nhiều công pháp để luyện.
+
+Mà như một kho tư liệu khổng lồ về Võ Đạo.
+
+Còn với Chu Thần Phong, điều đáng chú ý nhất không phải việc Phong Vũ luyện một bộ thương pháp cấp thấp đến mức nào.
+
+Mà là anh đã bắt đầu đem cùng một phương pháp, lần lượt kiểm chứng trên những công pháp khác nhau.
+
+
+
+-------------------------------------------------------------
+
+# PHẦN IV — THƯƠNG PHÁP CẤP TRUNG
+
+## 6. Phong Vũ tiếp cận tầng công pháp cao hơn
+
+Sau những cuộc trao đổi với Chu gia chủ, Phong Vũ không lập tức lựa chọn một công pháp mới. Anh dành thêm một khoảng thời gian để suy nghĩ về bộ thương pháp vừa luyện xong.
+
+Bộ thương pháp cấp thấp đã giúp anh xác nhận một điều: cùng một công pháp, nếu chỉ luyện theo từng động tác có sẵn thì có thể đạt đến viên mãn, nhưng viên mãn chưa chắc đã là giới hạn cuối cùng của những gì công pháp đó có thể biểu đạt.
+
+Muốn biết nhận thức này có thực sự đúng hay không, anh cần thử trên một công pháp khác.
+
+Vì vậy, khi quyền hạn được mở rộng, Phong Vũ không chọn quyền pháp hay kiếm pháp.
+
+Anh vẫn chọn thương.
+
+Danh mục công pháp được đặt trước mặt anh. Lần này, phạm vi lựa chọn đã khác. Những công pháp ở tầng thấp hơn không còn phù hợp với mục đích nghiên cứu hiện tại. Sau khi xem qua từng bộ, Phong Vũ dừng lại ở một cái tên.
+
+**Tru Long Thương Pháp.**
+
+Một bộ thương pháp thuộc nhóm công pháp cấp trung, nằm trong khoảng top 50–70 của danh mục.
+
+Phong Vũ đọc từ đầu đến cuối.
+
+Số lượng chiêu thức nhiều hơn bộ thương pháp trước. Các thức nối với nhau cũng phức tạp hơn. Không ít chiêu có thể chuyển sang nhiều hướng khác nhau, tùy thuộc vào khoảng cách và vị trí của đối thủ.
+
+Có những đoạn nếu chỉ nhìn động tác bên ngoài, gần như không thể hiểu tại sao tác giả lại thiết kế như vậy.
+
+Phong Vũ khép danh mục lại.
+
+— Tôi chọn bộ này.
+
+Anh không có ý định mở thêm một hệ thống võ công khác. Ít nhất trong giai đoạn này, anh muốn tiếp tục đào sâu vào thương pháp.
+
+Một loại võ công nếu đã có đủ không gian để nghiên cứu, với anh còn có giá trị hơn việc học nhiều loại nhưng mỗi loại chỉ dừng ở mức biết sử dụng.
+
+---
+
+## 7. Tiếp tục dùng cùng một phương pháp
+
+Tru Long Thương Pháp khó hơn bộ thương pháp trước rất nhiều.
+
+Nhưng lần này, Phong Vũ không bắt đầu bằng việc cố nhớ toàn bộ chiêu thức. Anh trước tiên đọc cả bộ công pháp, sau đó mới quay lại từng đoạn.
+
+Hình thức bên ngoài vẫn là điểm bắt đầu.
+
+Thương đi theo đường nào, thân người xoay ra sao, chân đặt ở đâu, trọng tâm chuyển vào thời điểm nào, lực bắt đầu từ đâu rồi truyền đến mũi thương như thế nào.
+
+Nhưng sau những thứ đó, Phong Vũ còn nhìn thêm một tầng.
+
+**Ý đồ của người sử dụng.**
+
+Một thức thương đâm thẳng có thể là tấn công, nhưng cũng có thể ép đối phương lùi. Một thức quét ngang có thể dùng để đánh vào người, cũng có thể chỉ nhằm khống chế khoảng cách, buộc đối phương phải lựa chọn một hướng né.
+
+Một lần chuyển thế tưởng như để nối sang chiêu tiếp theo, nhưng nếu đối phương không né mà áp sát, chính quá trình chuyển thế ấy lại có thể trở thành điểm yếu.
+
+Phong Vũ bắt đầu thử từng khả năng.
+
+Anh không còn chỉ đứng một mình luyện thương. Sau mỗi đoạn, anh hình dung một đối thủ đang ở trước mặt.
+
+Đối thủ tiến, anh lùi.
+
+Đối thủ lùi, anh tiến.
+
+Đối thủ né sang trái, đường thương thay đổi.
+
+Đối thủ đột ngột áp sát, trọng tâm lại thay đổi.
+
+Một bộ thương pháp có hàng chục chiêu thức, qua cách nhìn ấy dần biến thành một hệ thống liên kết chặt chẽ hơn.
+
+So với lần trước, tốc độ lĩnh hội của Phong Vũ nhanh hơn rõ rệt.
+
+Không phải vì Tru Long Thương Pháp đơn giản.
+
+Ngược lại, nó phức tạp hơn rất nhiều.
+
+Nhưng anh không còn phải tự mình tìm lại toàn bộ phương pháp. Những gì từng mất hàng tháng để hiểu trong bộ thương pháp trước, lần này anh có thể nhận ra chỉ sau vài lần thử.
+
+Đến một đoạn, Phong Vũ dừng thương.
+
+Anh nhìn lại ba chiêu liên tiếp trong thương phổ.
+
+Ba chiêu này nhìn bề ngoài gần như không có liên hệ. Nhưng khi đặt chúng vào một tình huống giao thủ cụ thể, anh nhận ra chiêu thứ nhất thực chất đang ép đối phương dịch chuyển, chiêu thứ hai khóa hướng tránh, còn chiêu thứ ba mới là đòn kết thúc.
+
+Nếu chỉ luyện từng chiêu riêng biệt, rất khó nhận ra điều đó. Nhưng khi nhìn cả ba như một chuỗi, ý đồ lập tức trở nên rõ ràng.
+
+Phong Vũ thử lại.
+
+Lần này, ba chiêu liên tiếp gần như không có khoảng trống.
+
+Anh thu thương, ánh mắt trở nên trầm xuống.
+
+Bộ thương pháp này quả nhiên không chỉ phức tạp hơn về số lượng động tác.
+
+Nó phức tạp hơn ở **cách tổ chức**.
+
+Nếu bộ thương pháp trước giúp anh nhìn thấy mối quan hệ giữa từng chiêu, Tru Long Thương Pháp lại khiến anh bắt đầu nhìn thấy mối quan hệ giữa **những nhóm chiêu thức**.
+
+Một nhóm chiêu để thăm dò.
+
+Một nhóm để khống chế khoảng cách.
+
+Một nhóm ép đối phương thay đổi vị trí.
+
+Một nhóm kết thúc.
+
+Khi đã nhìn ra điều đó, việc luyện tập trở nên thuận lợi hơn rất nhiều.
+
+Phong Vũ không cần cố nhớ từng động tác một cách máy móc. Anh bắt đầu nhớ cả cấu trúc của chúng.
+
+---
+
+## 8. Đạt viên mãn rồi vượt qua viên mãn lần thứ hai
+
+Quá trình luyện Tru Long Thương Pháp vẫn diễn ra nhanh hơn dự kiến. Những phần khó nhất ban đầu dần được tháo gỡ. Phong Vũ có thể chuyển đổi giữa các nhóm chiêu thức một cách tự nhiên hơn, đồng thời kiểm soát khoảng cách và trọng tâm tốt hơn trước.
+
+Cuối cùng, anh đạt đến viên mãn.
+
+Lần này, cảm giác ấy không còn xa lạ.
+
+Phong Vũ chỉ đứng giữa sân, cầm thương nhìn về phía trước. Anh biết mình đã hoàn toàn nắm được những gì thương phổ ghi lại.
+
+Nhưng cũng giống như lần trước, anh không dừng lại.
+
+Anh bắt đầu kiểm tra những điểm chuyển tiếp, những nơi mà công pháp chỉ ghi rất ngắn, những đoạn giữa hai nhóm chiêu thức, cũng như những tình huống mà thương phổ không nói rõ phải xử lý thế nào nếu đối phương không làm theo cách mà người sáng tạo công pháp dự liệu.
+
+Phong Vũ thử từng trường hợp.
+
+Lần này, việc tìm ra những điểm chưa được giải thích nhanh hơn rất nhiều.
+
+Không phải vì anh đã biết đáp án, mà bởi anh đã biết mình phải tìm ở đâu.
+
+Một đường thương được ghi lại trên giấy chỉ là phần nhìn thấy.
+
+Phần còn lại nằm trong cách nó kết nối với những đường thương khác.
+
+Phong Vũ thử thay đổi một đoạn chuyển thế, sau đó thử lại với khoảng cách khác, rồi thay đổi vị trí trọng tâm.
+
+Có những cách hoàn toàn không phù hợp. Có những cách khiến lực phát ra mạnh hơn nhưng làm mất khả năng chuyển sang chiêu kế tiếp. Chỉ có một vài cách vừa giữ được lực, vừa không phá vỡ cấu trúc chung.
+
+Phong Vũ tiếp tục kiểm chứng.
+
+Cuối cùng, anh một lần nữa bước qua trạng thái viên mãn.
+
+Cây thương trong tay anh dừng lại.
+
+Không có cảm giác bùng nổ.
+
+Không có thay đổi rõ ràng bên ngoài.
+
+Chỉ có đường thương trở nên tự nhiên hơn.
+
+Một số chuyển thế vốn cần suy nghĩ giờ đã trở thành phản xạ. Một số khoảng trống giữa các chiêu thức không còn là khoảng trống. Chúng trở thành một phần của chính hệ thống.
+
+Phong Vũ không gọi đó là cảnh giới mới.
+
+Anh cũng không dám khẳng định mình đã khôi phục được nguyên bản của Tru Long Thương Pháp.
+
+Tàng Long Môn không có bản gốc để đối chiếu. Không ai biết người sáng tạo bộ thương pháp này năm xưa đã luyện đến đâu.
+
+Thứ anh vừa làm có thể là phần nguyên lý từng tồn tại trong công pháp nhưng đã thất truyền qua nhiều đời.
+
+Cũng có thể chính anh đã dựa trên nền tảng cũ để mở rộng nó sang một hướng mà người sáng tạo ban đầu chưa từng đi tới.
+
+Không có cách nào xác nhận.
+
+Nhưng lần này, Phong Vũ đã có thêm một dữ kiện.
+
+Hai bộ thương pháp khác nhau.
+
+Hai cấu trúc khác nhau.
+
+Hai lần đạt viên mãn.
+
+Và sau viên mãn, cả hai đều vẫn còn những thứ có thể tiếp tục đào sâu.
+
+Anh đặt thương xuống.
+
+Trong đầu hiện lên một nhận thức ngày càng rõ ràng.
+
+**Một công pháp có phần “hình”.**
+
+Đó là những chiêu thức, đường đi, bộ pháp và phương thức vận lực mà người học có thể nhìn thấy và truyền lại.
+
+Nhưng phía sau phần “hình” còn có một phần khác.
+
+**Phần “lý”.**
+
+Đó là quan hệ giữa các động tác, mục đích của từng chuyển thế, cách công pháp tổ chức khoảng cách, trọng tâm, lực và thời điểm trong giao thủ.
+
+Người học có thể học được phần hình.
+
+Nhưng nếu không hiểu phần lý, họ chỉ có thể đi đến giới hạn của những gì đã được truyền lại.
+
+Còn nếu nhìn thấy phần lý phía sau, những giới hạn ấy có thể chưa phải điểm cuối.
+
+Phong Vũ đứng trong sân rất lâu.
+
+Anh không biết nhận thức này có hoàn toàn đúng hay không. Nhưng ít nhất, hai lần kiểm chứng đã cho anh lý do để tiếp tục đi theo con đường đó.
+
+
+
+--------------------------------------------------------------
+
+
+
+# PHẦN V — THỰC CHIẾN ĐỂ BƯỚC VÀO NHÓM TINH ANH
+
+## 9. Phong Vũ muốn đối luyện
+
+Sau khi đạt đến trạng thái trên viên mãn với Tru Long Thương Pháp, Phong Vũ không tiếp tục đóng cửa luyện công.
+
+Hai bộ thương pháp đã giúp anh kiểm chứng một phần cách nhìn của mình đối với công pháp. Nhưng dù đã thay đổi nhiều tình huống trong lúc luyện, tất cả vẫn chỉ là những giả định do chính anh đặt ra.
+
+Muốn biết cách nhìn ấy có thực sự hữu dụng hay không, anh cần một đối thủ biết phản ứng, biết thay đổi và không làm theo những gì anh đã dự đoán trước.
+
+Buổi chiều hôm đó, Phong Vũ tìm đến Chu gia chủ.
+
+— Chu gia chủ, tôi muốn tìm vài người trong Tàng Long Môn để đối luyện.
+
+Chu Thần Phong đặt quyển sách đang đọc xuống.
+
+— Anh muốn tìm những người như thế nào?
+
+— Nếu có thể, tôi muốn thử với những người có cách đánh khác nhau. Tôi muốn xem những điều mình quan sát được trong lúc luyện võ có còn giữ nguyên khi đối phương thực sự ra tay hay không.
+
+Chu Thần Phong nhìn anh một lúc rồi hỏi:
+
+— Anh muốn kiểm tra thực lực của mình?
+
+— Đó cũng là một phần.
+
+Phong Vũ ngừng một chút.
+
+— Nhưng điều tôi muốn biết hơn là khi giao thủ thật sự, tôi còn có thể nhìn thấy những thứ nằm giữa các chiêu thức hay không.
+
+Chu Thần Phong khẽ gật đầu.
+
+— Nếu vậy thì không cần tìm từng người một.
+
+— Ý của Chu gia chủ là?
+
+— Nhóm tinh anh.
+
+Phong Vũ hơi nhướng mày.
+
+Chu Thần Phong giải thích:
+
+— Tàng Long Môn có quy định riêng đối với nhóm tinh anh. Ngoài cống hiến và những yêu cầu về tư cách, người muốn được công nhận còn phải chứng minh thực lực bằng đối luyện.
+
+— Quy định cụ thể thế nào?
+
+— Thắng hoặc hòa ít nhất hai thành viên tinh anh.
+
+Phong Vũ suy nghĩ vài giây.
+
+— Nếu vậy, tôi xin thử.
+
+— Được.
+
+Chu Thần Phong cầm chén trà lên.
+
+— Tôi sẽ sắp xếp.
+
+Phong Vũ không hỏi thêm. Đối với anh, việc có được danh hiệu thành viên tinh anh không quan trọng bằng cơ hội được giao thủ với những người đã có nhiều năm kinh nghiệm.
+
+Chỉ cần đối phương đủ mạnh, trận đấu đã có giá trị.
+
+
+
+-----------------------------------------------------------------
+
+
+
+
+# PHẦN VI — HAI TRẬN ĐỐI LUYỆN
+
+## 10. Đối thủ thứ nhất — Hắc Long
+
+Trận đối luyện đầu tiên diễn ra vào buổi sáng hôm sau.
+
+Người Chu gia chủ lựa chọn là một thành viên tinh anh hơn bốn mươi tuổi, xếp khoảng thứ mười một trong tổng số mười ba người của nhóm tinh anh.
+
+Ông ta có thân hình rắn chắc, gương mặt không biểu lộ quá nhiều cảm xúc. Trong Tàng Long Môn, rất ít người gọi tên thật của ông. Phần lớn chỉ biết ông với biệt hiệu **Hắc Long**.
+
+Khi hai người gặp nhau ngoài sân, Hắc Long chắp tay.
+
+— Phong Vũ, hôm nay chúng ta chỉ đối luyện. Anh cứ dùng thứ mình quen thuộc nhất.
+
+Phong Vũ chắp tay đáp lễ.
+
+— Tôi hiểu rồi. Mong Hắc Long tiền bối chỉ giáo.
+
+Chu gia chủ đứng bên ngoài sân, nói rõ quy tắc một lần cuối:
+
+— Không hạn chế binh khí hay công pháp. Hai người có thể dùng sở trường của mình. Một khi đã đánh trúng điểm quyết định thì lập tức dừng lại, không cần phân thắng thua bằng đòn tiếp theo.
+
+Hắc Long gật đầu.
+
+Phong Vũ cũng không có ý kiến.
+
+Hắc Long chọn một thanh đao.
+
+Phong Vũ cầm Tru Long Thương.
+
+Khoảng cách giữa hai người chỉ vài bước.
+
+Chu gia chủ đưa tay ra hiệu.
+
+Hắc Long lập tức tiến lên.
+
+Thanh đao bổ xuống theo một đường rất gọn.
+
+Phong Vũ nghiêng người tránh khỏi lưỡi đao, đồng thời đưa mũi thương về phía trước. Hắc Long vừa thu đao thì mũi thương đã dừng trước ngực ông ta.
+
+Hai người cùng lùi lại.
+
+Phong Vũ không vội tiến lên.
+
+Khoảng cách hiện tại rất thích hợp cho thương. Chỉ cần đối phương muốn áp sát, anh có thể dùng chiều dài của thương để khống chế bước tiến. Nếu chính anh chủ động rút ngắn khoảng cách, lợi thế ấy sẽ giảm đi đáng kể.
+
+Hắc Long lại tiến.
+
+Phong Vũ lùi.
+
+Thanh đao liên tục thay đổi hướng, lúc chém ngang, lúc bổ xuống, có lúc chỉ đưa lên nửa chừng rồi lập tức thu về.
+
+Phong Vũ không tìm cách ép đối phương ngay.
+
+Anh quan sát.
+
+Mỗi khi Hắc Long chuẩn bị đổi thế, vai phải thường hơi hạ xuống. Khi muốn tiến thêm một bước, chân phải luôn đi trước nửa nhịp. Mỗi lần thu đao sau một thế chém mạnh, trọng tâm của ông ta cũng có một khoảng chuyển rất ngắn trước khi trở lại vị trí ban đầu.
+
+Những thay đổi ấy cực nhỏ.
+
+Nếu chỉ nhìn vào đường đao thì rất khó nhận ra, nhưng chúng lặp lại.
+
+Phong Vũ bắt đầu thử.
+
+Lần đầu tiên, anh giữ nguyên vị trí thay vì lùi khi Hắc Long tiến vào. Mũi thương vẫn đặt giữa hai người, buộc đối phương phải đổi hướng trước khi tiếp tục xuất đao.
+
+Lần thứ hai, anh cố ý mở một khoảng trống ở bên trái.
+
+Hắc Long lập tức tiến vào.
+
+Nhưng khi trọng tâm của ông ta vừa chuyển sang chân trước, Phong Vũ đã lùi nửa bước. Khoảng cách đột nhiên dài ra, đường đao mất đi vị trí thích hợp, còn mũi thương của anh đã ép tới trước.
+
+Hắc Long phải thu đao.
+
+Hai người tiếp tục giao thủ.
+
+Thời gian trôi qua, Phong Vũ càng lúc càng ít động tác thừa. Anh không còn chỉ nhìn đường đao, mà bắt đầu nhìn thời điểm giữa hai lần chuyển thế.
+
+**Khi đối phương sắp tấn công, mình đang để lộ sơ hở nào?**
+
+**Khi mình chuẩn bị tấn công, đối phương đang để lộ sơ hở nào?**
+
+Hai câu hỏi ấy liên tục xuất hiện trong đầu anh.
+
+Đến phút thứ mười, Hắc Long đột nhiên thay đổi nhịp.
+
+Ông ta tiến thêm một bước rồi chém xuống.
+
+Phong Vũ vừa nhìn thấy động tác của vai đã nhận ra trọng tâm lần này chuyển sâu hơn bình thường.
+
+Anh không lùi.
+
+Phong Vũ bước chéo sang bên, để đường đao lướt qua trước người. Ngay trong khoảnh khắc Hắc Long còn chưa kịp thu thế, anh xoay người, chân phải tung ra.
+
+Cú đá đánh trúng ngực.
+
+Nội lực lập tức truyền theo chân.
+
+Hắc Long bị đánh bật về phía sau khoảng năm mét. Khi thân người vừa mất thăng bằng, Phong Vũ đã lao tới, mũi thương dừng ngay trước cổ ông ta.
+
+Hắc Long nằm dưới đất, nhìn đầu thương trước mặt rồi bật cười.
+
+— Tôi thua.
+
+Phong Vũ lập tức thu thương, đưa tay đỡ ông ta đứng dậy.
+
+— Đa tạ Hắc Long tiền bối đã chỉ giáo.
+
+Hắc Long phủi bụi trên áo, nhìn Phong Vũ một lúc.
+
+— Anh không chỉ dùng thương.
+
+Phong Vũ hơi ngạc nhiên.
+
+— Tiền bối nói vậy là có ý gì?
+
+— Trong mười phút vừa rồi, anh gần như không ngừng quan sát.
+
+Hắc Long chỉ về phía sân.
+
+— Ban đầu anh chỉ giữ khoảng cách. Sau đó bắt đầu thử phản ứng của tôi. Đến cuối cùng, anh không còn đợi tôi ra chiêu nữa mà chờ thời điểm tôi chuyển thế.
+
+Phong Vũ suy nghĩ một chút rồi đáp:
+
+— Tôi muốn xem những thứ mình lĩnh hội khi luyện công có thể áp dụng trong thực chiến đến đâu. Nếu chỉ luyện một mình thì có nhiều thứ rất khó xác nhận.
+
+Hắc Long gật đầu.
+
+— Tôi hiểu rồi.
+
+Phong Vũ nhìn thanh đao trong tay ông ta.
+
+Trong trận đấu vừa rồi, anh đã nhận ra đường đao của Hắc Long có nhiều điểm rất quen thuộc với **Tật Phong Đao Pháp** mà anh từng luyện ở Chu gia.
+
+Nhưng cũng có không ít chỗ khác biệt.
+
+Một vài chuyển thế nhanh hơn, một vài đoạn nối giữa các chiêu gần như liền thành một thể.
+
+Phong Vũ ghi nhớ những điểm ấy.
+
+Anh không hỏi.
+
+---
+
+## 11. Đối thủ thứ hai
+
+Buổi chiều, Chu gia chủ sắp xếp trận đối luyện thứ hai.
+
+Người xuất hiện trước mặt Phong Vũ là một người đàn ông hơn năm mươi tuổi, cao khoảng một mét bảy, thấp hơn anh gần mười lăm centimet. Thân hình hơi mập, gương mặt luôn giữ vẻ vui vẻ, nhưng thanh kiếm trong tay lại rộng và dày hơn kiếm thông thường.
+
+Ông ta đứng thứ tám trong nhóm tinh anh.
+
+Vừa nhìn thanh kiếm, Phong Vũ đã biết trận này sẽ khác hẳn trận trước.
+
+Người đàn ông cười ha hả.
+
+— Phong Vũ, nghe nói cậu dùng thương rất tốt. Hôm nay lão phu cũng muốn xem thử.
+
+Phong Vũ chắp tay.
+
+— Tôi cũng rất mong được tiền bối chỉ giáo.
+
+Chu gia chủ lui sang một bên.
+
+— Hai người có thể bắt đầu.
+
+Người đàn ông lập tức bước lên.
+
+Không thăm dò.
+
+Không vòng tránh.
+
+Thanh kiếm nặng nề bổ thẳng xuống.
+
+Phong Vũ dùng thương đón.
+
+Hai binh khí va vào nhau, một tiếng trầm đục vang lên. Lực từ thanh kiếm truyền qua cán thương khiến cánh tay Phong Vũ rung nhẹ.
+
+Anh lập tức lùi lại.
+
+Đối phương không cho anh khoảng trống.
+
+Một kiếm nối tiếp một kiếm, thế sau mạnh hơn thế trước. Mỗi lần hai binh khí chạm nhau, Phong Vũ đều có thể cảm nhận được công lực theo lưỡi kiếm truyền sang.
+
+Anh không đối cứng liên tục.
+
+Thương trong tay vừa đỡ vừa chuyển hướng, thân người cũng liên tục di chuyển.
+
+Khoảng ba phút sau, Phong Vũ đã có được nhận định ban đầu.
+
+Đối phương rất thành thục trong việc sử dụng kiếm, nhưng cách phát lực thiên về cương mãnh. Ông ta thường dùng sức ép thẳng vào đối thủ, buộc đối phương phải đón hoặc tránh, sau đó lập tức nối tiếp thế công.
+
+Phong Vũ nhìn cách ông ta xoay cổ tay rồi nhìn thanh kiếm dày trong tay.
+
+Cách đánh này nếu đặt trên một thanh đao hoặc một loại binh khí thiên về sức mạnh có lẽ sẽ tự nhiên hơn. Với kiếm, trọng lượng lớn khiến mỗi lần thu kiếm sau một đòn mạnh đều chậm hơn một chút.
+
+Chỉ một chút thôi.
+
+Nhưng đã đủ để tạo ra khoảng trống.
+
+Phong Vũ không vội tận dụng.
+
+Anh tiếp tục thăm dò.
+
+Mỗi lần hai binh khí va chạm, anh đều âm thầm cảm nhận công lực của đối phương.
+
+Sau vài lần, trong lòng anh đã có một ước lượng.
+
+Công lực của người trước mặt rất mạnh, nhưng dường như vẫn chưa vượt qua mức công lực mà anh từng phát ra sau hai tháng nghiên cứu Triệu Bá Công.
+
+Tất nhiên, anh không biết đối phương đã dùng toàn lực hay chưa.
+
+Vì vậy, Phong Vũ vẫn giữ lại một phần.
+
+Hai người tiếp tục giao thủ.
+
+Năm phút.
+
+Tám phút.
+
+Hơn mười phút.
+
+Trong khoảng thời gian ấy, Phong Vũ đã nhìn thấy hai lần đối phương để lộ sơ hở.
+
+Một lần xuất hiện sau khi thanh kiếm chém xuống quá sâu.
+
+Một lần khác nằm ở khoảnh khắc ông ta chuyển từ thế công sang thế thủ.
+
+Lần thứ ba xuất hiện rõ hơn.
+
+Phong Vũ đã chuẩn bị sẵn.
+
+Chỉ cần đối phương lặp lại cách chuyển thế ấy, anh sẽ lập tức đổi chiêu, đánh thẳng vào khoảng trống vừa xuất hiện.
+
+Nhưng đúng lúc đó, người đàn ông trước mặt đột nhiên dồn lực.
+
+Thanh kiếm nặng nề bổ xuống.
+
+Lần này, công lực theo lưỡi kiếm truyền ra rõ ràng hơn hẳn những lần trước.
+
+Phong Vũ không né.
+
+Anh dùng thương đón trực diện.
+
+Hai binh khí va mạnh vào nhau.
+
+Lực phản chấn lập tức đẩy cả hai người lùi về phía sau.
+
+Phong Vũ lùi bốn, năm mét mới dừng lại. Đối phương cũng lùi một đoạn tương tự, thanh kiếm trong tay hạ xuống bên cạnh.
+
+Hai người nhìn nhau.
+
+Người đàn ông đột nhiên cười lớn.
+
+— Ha ha ha! Phong Vũ tiểu huynh đệ, quả nhiên tuổi trẻ tài cao. Lão phu bái phục, bái phục!
+
+Phong Vũ hơi bất ngờ.
+
+Ông ta đã chủ động thu kiếm.
+
+— Trận này đánh rất sảng khoái. Nếu tiếp tục giao thủ, e rằng lão phu cũng khó chiếm được lợi thế.
+
+Phong Vũ nhìn người trước mặt rồi quay sang Chu gia chủ.
+
+Chu Thần Phong cũng đã đứng dậy.
+
+Ông nhìn hai người một lát rồi nói:
+
+— Trận này hòa.
+
+Phong Vũ không phản đối.
+
+Anh thu thương, chắp tay với đối phương.
+
+— Đa tạ tiền bối chỉ giáo. Hôm nay tôi học được không ít điều từ cách sử dụng kiếm của tiền bối.
+
+Người đàn ông cười.
+
+— Cậu còn trẻ mà đã có khả năng quan sát như vậy, lão phu mới là người được mở mang tầm mắt.
+
+Phong Vũ cũng chắp tay đáp lễ.
+
+Hai người không tiếp tục giao thủ.
+
+Chu gia chủ nhìn Phong Vũ.
+
+— Hai trận, một thắng một hòa. Anh đã đạt yêu cầu để được công nhận là thành viên nhóm tinh anh.
+
+Phong Vũ gật đầu.
+
+— Tôi hiểu rồi. Cảm ơn Chu gia chủ.
+
+Chu Thần Phong nhìn anh.
+
+— Anh không có vẻ quá để tâm đến chuyện này.
+
+Phong Vũ im lặng một lát.
+
+— Có thêm quyền hạn đối với tôi đương nhiên là chuyện tốt. Nhưng điều tôi quan tâm hơn là những người trong nhóm tinh anh.
+
+— Vì muốn tiếp tục đối luyện?
+
+— Vâng.
+
+Phong Vũ nhìn về phía sân tập.
+
+— Những người có thể luyện võ đến trình độ đó chắc chắn có rất nhiều thứ đáng để tôi học hỏi.
+
+Chu Thần Phong bật cười.
+
+— Vậy thì từ hôm nay, anh có thể tự mình tiếp xúc với họ.
+
+Phong Vũ gật đầu.
+
+Anh cúi xuống nhìn cây thương trong tay.
+
+Trận đấu vừa rồi đã để lại trong đầu anh không ít vấn đề mới.
+
+Thanh kiếm nặng kia vì sao lại được người sử dụng lựa chọn?
+
+Cách phát lực của đối phương đã hình thành từ công pháp, hay từ chính thói quen chiến đấu qua nhiều năm?
+
+Nếu đổi binh khí, sức mạnh của ông ta có thay đổi hay không?
+
+Những câu hỏi ấy nối tiếp nhau xuất hiện.
+
+Phong Vũ ngẩng đầu nhìn Chu gia chủ.
+
+— Chu gia chủ, sau khi trở thành thành viên tinh anh, tôi có thể xem danh mục những công pháp được mở rộng quyền hạn không?
+
+Chu Thần Phong nhìn anh rồi cười.
+
+— Tôi biết ngay anh sẽ hỏi chuyện này.
+
+Ông quay người đi về phía trong.
+
+— Đi thôi. Có một số thứ, trước đây anh chưa có quyền xem.
+
+
+-----------------------------------------------------------------
+
+
+# PHẦN VII — PHONG VŨ TRỞ THÀNH THÀNH VIÊN TINH ANH
+
+## 13. Chính thức bước vào nhóm tinh anh
+
+Sau hai trận đối luyện, thân phận của Phong Vũ trong Tàng Long Môn chính thức thay đổi. Anh trở thành thành viên của nhóm tinh anh.
+
+Nhóm tinh anh có hơn mười người. Những người có mặt ở đây đều đã luyện võ nhiều năm, phần lớn đã đạt đại thành với các công pháp cấp cao, một số ít đã bước vào viên mãn. Chu gia chủ là một trong những người có thực lực mạnh nhất trong số họ.
+
+Phong Vũ là người mới nhất gia nhập nhóm, tuổi cũng thấp hơn phần lớn những người còn lại.
+
+Ngày đầu tiên bước vào nơi dành cho nhóm tinh anh, anh không nhận được quá nhiều lời chúc mừng. Những người đã biết anh từ trước chỉ gật đầu chào hỏi, còn những người chưa từng gặp thì nhìn anh thêm vài lần. Hai trận đối luyện trước đó đã đủ để họ hiểu rằng Phong Vũ không bước vào đây chỉ nhờ quan hệ với Chu gia chủ.
+
+Một người trong nhóm nhìn cây thương trên tay anh rồi cười:
+
+— Nghe nói anh vừa dùng thương đánh thắng Hắc Long?
+
+Phong Vũ chắp tay.
+
+— Chỉ là một trận đối luyện. Tôi may mắn tìm được sơ hở đúng lúc.
+
+Người kia bật cười.
+
+— Nếu chỉ là may mắn thì Hắc Long đã không chịu thua.
+
+Phong Vũ không giải thích thêm. Anh chỉ nhìn quanh căn phòng.
+
+Những người đang có mặt ở đây không ai tỏ ra đặc biệt phô trương. Có người đang đọc công pháp, có người trao đổi về một trận đấu gần đây, cũng có người chỉ ngồi uống trà. Nhưng qua cách họ cầm binh khí, những vết chai trên bàn tay và khí tức ổn định khi ngồi yên, Phong Vũ có thể nhận ra những năm tháng luyện võ của họ chắc chắn không ngắn.
+
+Chu gia chủ bước vào sau đó. Nhìn thấy Phong Vũ đã có mặt, ông chỉ gật đầu.
+
+— Từ hôm nay, anh có thể tự mình xem những thứ thuộc quyền hạn của thành viên tinh anh. Có chỗ nào chưa rõ thì cứ hỏi tôi.
+
+— Tôi hiểu rồi, Chu gia chủ.
+
+Phong Vũ nhìn về phía căn phòng lưu trữ công pháp.
+
+Đó mới là thứ khiến anh thực sự quan tâm.
+
+---
+
+## 13b. Quyền lợi của nhóm tinh anh
+
+Kho công pháp của Tàng Long Môn nằm trong một khu vực riêng. So với danh mục mà Phong Vũ từng được xem trước đây, số lượng công pháp ở đây nhiều hơn hẳn.
+
+Hơn một trăm năm mươi bộ.
+
+Có quyền pháp, kiếm pháp, đao pháp, thương pháp, thân pháp, nội công và nhiều loại công pháp khác. Mỗi quyển đều có ghi rõ tên, cấp độ được Tàng Long Môn đánh giá cùng một số ghi chú về người từng luyện.
+
+Phong Vũ đứng trước giá sách rất lâu.
+
+Chu gia chủ đứng bên cạnh nói:
+
+— Những đánh giá này được Tàng Long Môn tổng hợp qua nhiều thế hệ, nhưng anh cũng không nên xem chúng là tuyệt đối.
+
+Phong Vũ quay lại.
+
+— Chu gia chủ từng gặp trường hợp đánh giá sai sao?
+
+— Không ít.
+
+Chu Thần Phong chỉ vào một số quyển sách.
+
+— Có những công pháp nhìn qua rất mạnh nhưng người luyện lại khó phát huy. Cũng có những công pháp bị xếp thấp vì nhiều người luyện không thành công.
+
+Phong Vũ nhìn những hàng chữ trên danh mục.
+
+— Nghĩa là thứ hạng chủ yếu phản ánh kết quả mà những người trước đây đạt được?
+
+— Có thể hiểu như vậy.
+
+Chu gia chủ dừng một chút rồi nói:
+
+— Còn nguyên bản của công pháp thì không phải bộ nào cũng còn.
+
+Phong Vũ tiếp tục xem.
+
+Trong số hơn một trăm năm mươi bộ công pháp, có bốn bộ được Tàng Long Môn tin rằng vẫn giữ được bản gốc tương đối hoàn chỉnh. Không phải những bản sao đã qua nhiều lần chỉnh sửa, cũng không phải những bản được người đời sau bổ sung hoặc thay đổi, mà là bốn bộ mà Tàng Long Môn hiện tại cho rằng phần lớn cấu trúc ban đầu vẫn còn nguyên vẹn.
+
+Bốn bộ này được bảo quản riêng và chỉ thành viên tinh anh mới có quyền tiếp cận.
+
+Chu gia chủ nói:
+
+— Mỗi thành viên tinh anh có thể lựa chọn tối đa hai trong bốn bộ này. Ngoài ra còn có thể chọn thêm ba công pháp khác trong toàn bộ kho.
+
+Phong Vũ gật đầu.
+
+— Tôi hiểu.
+
+Anh nhìn bốn quyển công pháp được đặt riêng trên giá nhưng không lập tức đưa tay lấy.
+
+Trước đây, anh từng nghĩ một công pháp mạnh hay yếu chủ yếu phụ thuộc vào cấp độ được đánh giá. Nhưng sau hai lần nghiên cứu thương pháp, suy nghĩ ấy đã thay đổi.
+
+Thứ hạng chỉ có thể dùng làm tham khảo.
+
+Muốn biết một công pháp thực sự có giá trị đến đâu, anh vẫn phải tự mình xem.
+
+---
+
+## 13c. Phong Vũ chọn Bá Thiên Đao Pháp
+
+Phong Vũ lần lượt xem qua bốn bộ công pháp hoàn chỉnh.
+
+Một trong số đó nhanh chóng thu hút sự chú ý của anh.
+
+**Bá Thiên Đao Pháp.**
+
+Anh mở quyển công pháp.
+
+Chỉ mới xem vài trang, ánh mắt Phong Vũ đã thay đổi. Một số đường đao rất quen, không phải kiểu quen thuộc do từng nhìn thấy, mà là cảm giác của một người đã từng luyện chính những chuyển thế ấy vô số lần.
+
+Phong Vũ tiếp tục đọc.
+
+Càng đọc, cảm giác ấy càng rõ. Bá Thiên Đao Pháp có những đoạn mà Tật Phong Đao Pháp anh từng luyện ở Chu gia không có; một số bước chuyển trọng tâm cũng khác biệt, còn những đường đao vốn tách rời trong Tật Phong Đao Pháp lại được nối với nhau tự nhiên hơn.
+
+Đặc biệt, ở những chỗ mà Phong Vũ từng cảm thấy Tật Phong Đao Pháp đã đi đến giới hạn đại thành, Bá Thiên Đao Pháp lại có thể tiếp tục phát triển.
+
+Anh thử lại một đoạn, sau đó thực hiện theo cách từng luyện ở Chu gia. Hai đường đao lần lượt xuất hiện trước mắt. Phong Vũ dừng lại, trong đầu lập tức ghép hai bộ công pháp với nhau.
+
+Không cần hỏi Chu gia chủ, anh đã có một suy đoán rất rõ.
+
+Tật Phong Đao Pháp không phải một công pháp độc lập hoàn chỉnh. Nó có cùng một nền tảng với Bá Thiên Đao Pháp, chỉ là một phần cấu trúc đã bị thay đổi.
+
+Phong Vũ tiếp tục đọc. Càng đọc, anh càng xác nhận suy đoán ấy. Bản công pháp anh từng luyện ở Chu gia đã được chỉnh sửa từ một bản hoàn chỉnh hơn. Đến một số đoạn quan trọng, phần bị thay đổi khiến đường đao vẫn có thể vận hành, nhưng những chuyển thế phía sau không còn liên kết tự nhiên như bản hiện tại.
+
+Đó cũng chính là lý do anh từng bị mắc lại ở đại thành.
+
+Không phải vì Tật Phong Đao Pháp chỉ có thể đạt đến đại thành, mà bởi bản công pháp anh từng học vốn đã không còn nguyên vẹn.
+
+Phong Vũ khép sách.
+
+Một lúc sau, anh mới nói:
+
+— Chu gia chủ, tôi nghĩ mình đã hiểu vì sao trước đây tôi không thể tiếp tục tiến bộ với Tật Phong Đao Pháp.
+
+Chu Thần Phong nhìn anh.
+
+— Anh phát hiện điều gì?
+
+— Bộ công pháp tôi từng luyện ở Chu gia và Bá Thiên Đao Pháp có cùng một nền tảng. Nhưng Tật Phong Đao Pháp đã bị thay đổi ở một số chỗ.
+
+Chu Thần Phong im lặng. Ông không lập tức xác nhận.
+
+Phong Vũ cũng không ép hỏi.
+
+Một lát sau, Chu gia chủ mới nói:
+
+— Tôi cũng từng có suy đoán tương tự.
+
+Phong Vũ nhìn ông.
+
+— Nhưng chưa thể xác định?
+
+— Không có bản gốc để đối chiếu, rất khó nói chắc.
+
+Phong Vũ gật đầu.
+
+Đây cũng chính là điều anh nghĩ. Nhưng ít nhất, lần này anh đã có một bản công pháp hoàn chỉnh để so sánh.
+
+---
+
+## 13d. Môn thương pháp thứ ba
+
+Sau Bá Thiên Đao Pháp, Phong Vũ tiếp tục xem những công pháp còn lại.
+
+Ánh mắt anh cuối cùng dừng ở một bộ thương pháp nằm trong nhóm cao nhất của danh mục.
+
+**Thanh Long Thương Pháp.**
+
+Bộ thương pháp này được xếp vào nhóm top 10 của Tàng Long Môn.
+
+Phong Vũ mở sách.
+
+Chỉ sau vài trang, anh đã nhận ra đây không phải loại thương pháp có thể dễ dàng lĩnh hội như hai bộ trước. Đường thương phức tạp hơn, nhịp chuyển thế cũng thay đổi liên tục. Có những thức tưởng như rất đơn giản, nhưng khi đọc đến phần vận lực phía sau, anh mới nhận ra toàn bộ thân pháp đều phải phối hợp.
+
+Phong Vũ đọc hết một lượt rồi đóng sách.
+
+— Tôi chọn Thanh Long Thương Pháp.
+
+Chu gia chủ nhìn anh.
+
+— Không thử thêm vài bộ khác sao?
+
+— Hai bộ này đã đủ để tôi nghiên cứu trong một thời gian dài.
+
+Chu gia chủ gật đầu.
+
+Phong Vũ đặt Bá Thiên Đao Pháp và Thanh Long Thương Pháp sang một bên.
+
+Anh không lập tức luyện hai bộ công pháp này.
+
+Bá Thiên Đao Pháp vừa giúp anh xác nhận một vấn đề mà trước đây chỉ mới nghi ngờ. Còn Thanh Long Thương Pháp lại mở ra một hệ thống hoàn toàn khác với hai bộ thương pháp anh từng luyện. Chỉ riêng việc đọc và phân tích hai bộ công pháp này đã đủ khiến anh có rất nhiều thứ cần suy nghĩ.
+
+Nhưng trong đầu Phong Vũ lúc này còn có một vấn đề khác.
+
+Hai tháng nghiên cứu Triệu Bá Công trước đây đã khiến anh nhận ra một điều mà trước kia chưa từng chú ý đầy đủ.
+
+**Công pháp không hoàn toàn đồng nghĩa với công lực.**
+
+Một người có thể hiểu rất sâu một công pháp nhưng nền tảng công lực chưa chắc đã mạnh. Ngược lại, công lực mạnh cũng không có nghĩa người đó đã hiểu hết công pháp mình đang luyện.
+
+Phong Vũ muốn tìm hiểu phần còn lại.
+
+Anh quay sang Chu gia chủ.
+
+— Chu gia chủ, Tàng Long Môn có công pháp chuyên tu nội lực không?
+
+Chu Thần Phong nhìn anh.
+
+Ánh mắt ông thoáng thay đổi.
+
+— Anh muốn tìm công pháp tu luyện nội lực?
+
+— Vâng. Tôi muốn biết nền tảng công lực của mình còn có thể tiếp tục nâng cao bằng cách nào.
+
+Chu Thần Phong suy nghĩ một lát rồi gật đầu.
+
+— Có.
+
+---
+
+## 14. Câu hỏi về công lực
+
+Phong Vũ đi theo Chu gia chủ đến một khu vực khác của kho công pháp.
+
+Những công pháp ở đây không được đặt chung với các loại quyền, kiếm, đao hay thương pháp. Phần lớn đều không có vẻ gì đặc biệt.
+
+Phong Vũ nhìn từng tên một.
+
+Có những bộ được đánh giá rất cao, có những bộ được truyền lại trong những gia tộc lâu đời, cũng có những bộ chỉ ghi vài dòng đơn giản rồi để ở cuối danh mục.
+
+Anh không vội lựa chọn.
+
+— Chu gia chủ, công lực và công pháp nội công ở đây được đánh giá như thế nào?
+
+Chu Thần Phong đáp:
+
+— Khó đánh giá hơn võ kỹ.
+
+— Vì mỗi người có nền tảng khác nhau?
+
+— Đúng.
+
+Chu gia chủ nhìn những quyển sách trước mặt.
+
+— Cùng một công pháp, hai người luyện có thể cho ra kết quả rất khác. Một người có thể tiến bộ nhanh trong giai đoạn đầu, người khác lại chậm nhưng càng về sau càng ổn định.
+
+Phong Vũ gật đầu.
+
+Điều này phù hợp với những gì anh từng quan sát trong quá trình nghiên cứu Triệu Bá Công.
+
+Công pháp là phương pháp.
+
+Công lực là thứ cuối cùng được tạo ra sau khi phương pháp ấy đi qua cơ thể của người luyện.
+
+Hai thứ liên quan chặt chẽ, nhưng không thể hoàn toàn đánh đồng.
+
+Anh tiếp tục xem danh mục.
+
+Một cái tên khiến anh dừng lại.
+
+**Nội Kinh Tâm Pháp.**
+
+Phía sau tên công pháp không có lai lịch rõ ràng. Tác giả không xác định, nguồn gốc cũng không xác định.
+
+Điểm đánh giá nằm ở nhóm thấp nhất.
+
+Phong Vũ nhìn phần ghi chú.
+
+Khó nhập môn.
+
+Tiến bộ ban đầu cực kỳ chậm.
+
+Người luyện trong thời gian dài cũng khó cảm nhận được hiệu quả rõ ràng.
+
+Đã có nhiều thành viên thử qua, nhưng phần lớn đều bỏ dở giữa chừng hoặc chuyển sang công pháp khác.
+
+Chu gia chủ nhận thấy ánh mắt anh dừng ở đó.
+
+— Bộ này rất ít người chọn.
+
+— Vì quá khó luyện?
+
+— Không chỉ khó. Người luyện rất khó cảm nhận được mình có tiến bộ hay không. Với phần lớn người, bỏ ra vài năm mà vẫn không thấy kết quả rõ ràng thì họ sẽ chọn công pháp khác.
+
+Phong Vũ cầm quyển Nội Kinh Tâm Pháp lên.
+
+Anh không mở ngay.
+
+— Chu gia chủ đã từng xem kỹ bộ này chưa?
+
+— Tôi từng xem.
+
+— Chu gia chủ có luyện qua không?
+
+— Không.
+
+Phong Vũ gật đầu rồi mở trang đầu tiên.
+
+Không có gì đặc biệt. Không có những câu chữ khiến người đọc lập tức cảm thấy đây là một bí kíp hiếm có. Cách ghi chép thậm chí còn đơn giản hơn nhiều công pháp khác.
+
+Phong Vũ đọc từng dòng.
+
+Càng đọc, anh càng chậm lại.
+
+Đến cuối trang, anh quay lại đọc từ đầu một lần nữa.
+
+Chu gia chủ không thúc giục.
+
+Một lúc sau, Phong Vũ khép sách.
+
+— Tôi muốn chọn bộ này.
+
+Chu Thần Phong hơi nhíu mày.
+
+— Anh chắc chứ?
+
+— Tôi muốn tự mình thử.
+
+Chu gia chủ nhìn quyển Nội Kinh Tâm Pháp trong tay anh.
+
+— Bộ này không giống những công pháp anh vừa chọn.
+
+— Tôi biết. Chính vì vậy tôi càng muốn xem.
+
+Chu Thần Phong không ngăn cản. Ông chỉ gật đầu.
+
+— Được. Nếu anh đã quyết định thì cứ thử.
+
+Phong Vũ cầm quyển Nội Kinh Tâm Pháp rời khỏi giá sách.
+
+Bá Thiên Đao Pháp và Thanh Long Thương Pháp đã nằm trong tay anh, nhưng lần này, thứ khiến anh quan tâm nhất lại là một quyển sách gần như không có ai muốn chọn.
+
+
+-------------------------------------------------------------
+
+
+## 14. Câu hỏi về công lực
+
+Sau khi chọn Bá Thiên Đao Pháp và Thanh Long Thương Pháp, Phong Vũ không lập tức luyện hai bộ công pháp này.
+
+Anh còn một vấn đề muốn tìm hiểu.
+
+Hai tháng nghiên cứu Triệu Bá Công trước đây đã khiến anh nhận ra rằng công pháp và công lực tuy có liên quan chặt chẽ nhưng không hoàn toàn là một.
+
+Một người có thể hiểu rất sâu một công pháp nhưng nền tảng công lực chưa chắc đã mạnh. Ngược lại, công lực mạnh cũng không có nghĩa người đó đã hiểu hết công pháp mình đang luyện.
+
+Phong Vũ muốn biết Tàng Long Môn có phương pháp nào chuyên tu nội lực hay không.
+
+Anh tìm đến Chu gia chủ.
+
+— Chu gia chủ, Tàng Long Môn có công pháp chuyên tu nội lực không?
+
+Chu Thần Phong nhìn anh.
+
+— Có. Anh muốn tìm một bộ để luyện?
+
+— Vâng. Tôi muốn thử xem nền tảng công lực của mình còn có thể tiếp tục nâng cao đến đâu.
+
+Chu gia chủ gật đầu.
+
+— Có thể xem danh mục.
+
+Phong Vũ đi theo ông đến nơi dành cho thành viên tinh anh xem danh sách công pháp.
+
+Ở đây không có những giá sách chứa hơn một trăm năm mươi bộ công pháp như anh từng tưởng tượng.
+
+Chỉ có danh mục được phân loại rõ ràng.
+
+Chu Thần Phong nói:
+
+— Vị trí lưu trữ công pháp của Tàng Long Môn không công khai. Thành viên chỉ được xem danh mục và lựa chọn công pháp từ đó. Sau khi xác nhận lựa chọn, sẽ có người phụ trách mang bản công pháp tương ứng đến.
+
+Phong Vũ nhìn danh mục trong tay.
+
+— Là để tránh người ngoài biết nơi cất giữ?
+
+— Không chỉ vậy.
+
+Chu Thần Phong đáp:
+
+— Hơn một trăm năm mươi bộ công pháp là tài sản được Tàng Long Môn tích lũy qua nhiều thế hệ. Nếu để quá nhiều người biết nơi lưu trữ, một khi tin tức lọt ra ngoài, kẻ có ý đồ xấu sẽ có cơ hội tìm đến.
+
+Phong Vũ hiểu ý.
+
+Anh không hỏi thêm về vị trí hay cách bảo vệ nơi đó, mà cúi xuống tiếp tục xem danh mục.
+
+Các công pháp chuyên tu nội lực được xếp thành một nhóm riêng.
+
+Có những bộ được đánh giá khá cao, có những bộ được truyền lại trong các gia tộc lâu đời, cũng có những bộ chỉ ghi vài dòng đơn giản ở cuối danh sách.
+
+Phong Vũ không vội lựa chọn.
+
+— Chu gia chủ, những công pháp này được đánh giá dựa trên tiêu chí nào?
+
+— Chủ yếu là kết quả của những người từng luyện.
+
+— Nghĩa là thứ hạng cũng không hoàn toàn phản ánh bản thân công pháp?
+
+Chu Thần Phong nhìn anh.
+
+— Có thể nói như vậy.
+
+Ông chỉ vào danh mục.
+
+— Một công pháp có thể rất tốt, nhưng nếu quá khó luyện thì số người thành công sẽ ít. Khi đó, đánh giá của Tàng Long Môn cũng dễ bị ảnh hưởng bởi kết quả thực tế.
+
+Phong Vũ gật đầu.
+
+Điều này càng khiến anh chú ý đến những công pháp bị xếp thấp.
+
+Anh tiếp tục đọc từng tên.
+
+Đến một trang gần cuối, ánh mắt dừng lại.
+
+**Nội Kinh Tâm Pháp.**
+
+Phía sau cái tên chỉ có vài dòng ghi chú.
+
+Không rõ tác giả.
+
+Không rõ lai lịch.
+
+Cấp độ được đánh giá thuộc nhóm thấp nhất.
+
+Khó nhập môn.
+
+Tiến bộ ban đầu cực kỳ chậm.
+
+Người luyện trong thời gian dài cũng khó cảm nhận được hiệu quả rõ ràng.
+
+Đã có nhiều thành viên thử qua, nhưng phần lớn đều bỏ dở hoặc chuyển sang công pháp khác.
+
+Phong Vũ đọc lại phần ghi chú một lần nữa.
+
+— Bộ này rất ít người chọn?
+
+— Gần như không có người luyện lâu dài.
+
+— Vì quá khó?
+
+— Không chỉ khó.
+
+Chu gia chủ đáp:
+
+— Người luyện rất khó cảm nhận được mình có tiến bộ hay không. Nếu bỏ ra vài năm mà vẫn không thấy kết quả rõ ràng, phần lớn sẽ chọn một công pháp khác có phản hồi nhanh hơn.
+
+Phong Vũ nhìn cái tên Nội Kinh Tâm Pháp thêm một lúc.
+
+Những thông tin trong danh mục không khiến nó có vẻ đặc biệt.
+
+Thậm chí nếu chỉ nhìn vào đánh giá của Tàng Long Môn, đây còn là một trong những lựa chọn kém hấp dẫn nhất.
+
+Nhưng chính điều đó lại khiến Phong Vũ muốn xem thử.
+
+Anh chỉ vào tên công pháp.
+
+— Tôi muốn chọn bộ này.
+
+Chu gia chủ hơi nhíu mày.
+
+— Anh chắc chứ?
+
+— Tôi muốn tự mình thử.
+
+— Anh vừa chọn Bá Thiên Đao Pháp và Thanh Long Thương Pháp. Nếu tiếp tục chọn thêm một công pháp nội lực, thời gian nghiên cứu của anh sẽ bị chia ra.
+
+Phong Vũ suy nghĩ một lát rồi đáp:
+
+— Hai bộ kia tôi chưa cần luyện ngay. Hơn nữa, tôi muốn hiểu rõ công lực trước khi tiếp tục đi sâu vào những công pháp khác.
+
+Chu gia chủ nhìn anh vài giây rồi gật đầu.
+
+— Được. Tôi sẽ cho người mang Nội Kinh Tâm Pháp đến.
+
+Phong Vũ khép danh mục lại.
+
+Anh không biết Nội Kinh Tâm Pháp thực sự có giá trị đến đâu.
+
+Càng không thể chỉ dựa vào vài dòng ghi chú để kết luận nó có vấn đề hay không.
+
+Muốn biết, chỉ có một cách.
+
+**Tự mình luyện.**
+
+
+-----------------------------------------------------------------
+
+
+# PHẦN VIII — CÔNG PHÁP NỘI LỰC “CẤP THẤP”
+
+## 16. Những ngày đầu
+
+Quyển **Nội Kinh Tâm Pháp** được đưa đến vào ngày hôm sau.
+
+Phong Vũ không vội bắt đầu luyện ngay. Anh đọc toàn bộ một lượt từ đầu đến cuối, sau đó quay lại phần đầu và bắt đầu làm theo từng bước được ghi trong công pháp.
+
+Đúng như những gì Chu gia chủ đã nói, bộ công pháp này rất khó. Những ngày đầu trôi qua, Phong Vũ gần như không cảm nhận được bất kỳ thay đổi rõ ràng nào trong công lực. Nếu chỉ xét tốc độ tiến bộ, Nội Kinh Tâm Pháp thậm chí còn kém xa những công pháp mà anh từng tiếp xúc.
+
+Nhưng càng luyện, anh càng nhận ra vấn đề không chỉ nằm ở tốc độ.
+
+Nội Kinh Tâm Pháp không dành quá nhiều nội dung để mô tả cách vận hành nội lực. Nó cũng không liên tục chỉ dẫn người luyện phải dẫn khí qua kinh mạch nào, tích tụ ở đâu rồi vận chuyển theo đường nào. Phần lớn nội dung lại yêu cầu người luyện ngồi kiết già, giữ thân thể ổn định trong thời gian dài, điều chỉnh hơi thở rồi dần đưa tâm trí vào trạng thái tĩnh lặng.
+
+Những lời giảng trong công pháp càng khiến Phong Vũ cảm thấy kỳ lạ. Nó không nói thẳng phải làm thế nào để nội lực tăng nhanh hơn, mà dành rất nhiều nội dung cho việc giữ tâm, loại bỏ tạp niệm, để tâm cảnh trở nên thanh tịnh và không bị những ham muốn bên ngoài chi phối.
+
+Phong Vũ đọc đi đọc lại những đoạn ấy.
+
+Cách diễn đạt khiến anh liên tưởng đến những phương pháp tu tâm trong Phật giáo và Đạo giáo hơn là một môn võ luyện công thông thường. Những lời giảng về tâm cảnh chiếm một vị trí quá lớn, trong khi phương pháp trực tiếp gia tăng công lực lại gần như không được nhắc đến.
+
+Anh không vội kết luận.
+
+Thay vì cố tìm cách làm cho nội lực tăng nhanh hơn, Phong Vũ bắt đầu quan sát chính trạng thái của mình trong lúc luyện. Tâm có thật sự tĩnh hay không? Hơi thở có còn bị ý thức điều khiển quá mức hay không? Khi cố gắng cảm nhận nội lực, bản thân anh có đang vô tình làm gián đoạn quá trình vận hành hay không?
+
+Càng quan sát, Phong Vũ càng cảm thấy cách luyện của mình có lẽ đang đi sai hướng.
+
+---
+
+## 17. Phong Vũ phát hiện điều bất thường
+
+Sau một thời gian, Phong Vũ bắt đầu nhận ra điểm khiến anh nghi ngờ nhất.
+
+Nội Kinh Tâm Pháp rất khó luyện, nhưng những lời giảng bên trong lại không hề tầm thường. Có những đoạn thoạt nhìn chỉ nói về tâm cảnh, nhưng nếu suy nghĩ kỹ, phía sau dường như còn có một tầng ý nghĩa khác.
+
+Người viết ra những lời này chắc chắn đã có hiểu biết rất sâu về trạng thái của người luyện. Ít nhất, với tâm cảnh thể hiện qua các câu tâm pháp thì đó không thể là thứ mà một người bình thường có thể tùy tiện viết ra.
+
+Nhưng về mặt công lực, Phong Vũ vẫn chưa thu được kết quả gì đáng kể.
+
+Nếu chỉ nhìn vào tốc độ tăng công, anh hoàn toàn có thể cho rằng mình đã chọn nhầm công pháp. Nhưng Phong Vũ không làm vậy. Anh nhớ đến quá trình nghiên cứu những công pháp trước đây. Một công pháp càng phức tạp thì càng không thể chỉ nhìn vào kết quả ban đầu.
+
+Có lẽ muốn hiểu được Nội Kinh Tâm Pháp, trước hết phải hiểu trạng thái mà người viết công pháp muốn người luyện đạt tới.
+
+Phong Vũ bắt đầu ngồi thiền theo đúng những gì công pháp yêu cầu.
+
+Anh để cơ thể ngồi yên trong thế kiết già, điều chỉnh hơi thở rồi từng bước buông bỏ những suy nghĩ xuất hiện trong đầu. Ban đầu rất khó. Chỉ cần ngồi yên một lúc, trong đầu đã xuất hiện đủ loại ý niệm: những chuyện xảy ra trong ngày, những vấn đề trong công pháp, những chiêu thức từng luyện, thậm chí cả những suy nghĩ về những việc chưa xảy ra.
+
+Phong Vũ không cố xua chúng đi.
+
+Anh chỉ quan sát rồi để chúng tự lắng xuống.
+
+Một ngày, hai ngày, rồi một tuần trôi qua. Thời gian dành cho việc luyện công dần thay đổi. Phong Vũ dành phần lớn thời gian để ngồi thiền, đọc lại tâm pháp, quan sát tâm cảnh rồi tiếp tục suy nghĩ về những gì mình vừa trải qua.
+
+Càng về sau, thời gian nhập định càng dài. Tâm trí cũng dần trở nên yên tĩnh hơn.
+
+Trong hơn hai tháng tiếp theo, Phong Vũ gần như không còn quan tâm đến tốc độ tăng công lực. Anh chỉ lặp lại quá trình đọc tâm pháp, ngồi thiền, quan sát tâm cảnh rồi tiếp tục nhập định.
+
+Đến một lúc, anh bắt đầu có cảm giác mình không còn cố gắng hiểu Nội Kinh Tâm Pháp bằng những kiến thức võ học trước đây.
+
+Anh đang thử nhìn nó theo góc nhìn của chính người viết ra công pháp.
+
+---
+
+## 18. Đạt viên mãn
+
+Hơn hai tháng sau ngày bắt đầu luyện Nội Kinh Tâm Pháp, một buổi sáng, Phong Vũ tỉnh lại sau hơn năm giờ ngồi thiền.
+
+Ngay khi vừa tỉnh, anh lập tức nhận ra một sự thay đổi.
+
+Trong cơ thể, một nguồn năng lượng đang không ngừng sinh ra rồi nhanh chóng lan rộng. Nó không giống cảm giác phát lực khi luyện quyền hay thương pháp, cũng không giống quá trình vận chuyển nội lực mà anh từng trải qua trước đây. Nguồn năng lượng ấy dường như tự nhiên xuất hiện trong cơ thể, sau đó liên tục tăng lên.
+
+Phong Vũ lập tức tập trung cảm nhận.
+
+Nhưng ngay khi tâm trí vừa hướng vào sự biến hóa ấy, dòng năng lượng đột nhiên dừng lại.
+
+Anh ngồi yên rất lâu.
+
+Không có thêm bất kỳ thay đổi nào.
+
+Phong Vũ thử tiếp tục nhập định, nhưng trạng thái vừa rồi không xuất hiện nữa. Cả ngày hôm đó, anh nhiều lần thử lại nhưng kết quả vẫn như cũ. Ba ngày tiếp theo cũng không có gì thay đổi.
+
+Phong Vũ không cố ép bản thân tìm nguyên nhân.
+
+Anh quay trở lại với cách luyện ban đầu, tiếp tục ngồi thiền và để tâm trí lắng xuống mà không đặt mục tiêu phải đạt được điều gì.
+
+Sau một thời gian, anh lại bước vào trạng thái nhập định sâu.
+
+Lần này, thời gian kéo dài hơn sáu tiếng.
+
+Khi tỉnh lại, Phong Vũ lập tức cảm nhận được sự biến hóa quen thuộc. Nguồn năng lượng trong cơ thể một lần nữa bắt đầu tăng lên.
+
+Nhưng lần này, anh không tập trung vào nó. Anh không cố quan sát, cũng không để cảm giác vui mừng làm dao động tâm trạng. Chỉ giữ nguyên trạng thái bình tĩnh, để quá trình tự diễn ra.
+
+Nguồn năng lượng tiếp tục tăng.
+
+Thời gian trôi qua, nó vẫn chưa dừng lại. Khoảng một giờ sau, sự biến hóa ấy mới dần chậm xuống rồi kết thúc.
+
+Phong Vũ ngồi yên thêm một lúc trước khi lấy quyển **Nội Kinh Tâm Pháp** ra.
+
+Anh đọc lại từ đầu một lần nữa.
+
+Lần này, rất nhiều câu chữ trước đây vốn chỉ được hiểu theo nghĩa bề mặt lại trở nên rõ ràng hơn.
+
+Phong Vũ đọc chậm từng đoạn, đối chiếu với trạng thái mà mình vừa trải qua.
+
+Cuối cùng, anh hiểu được một phần nguyên lý.
+
+Nội Kinh Tâm Pháp không đặt trọng tâm vào việc dùng ý niệm chủ động dẫn dắt nội lực. Điều kiện quan trọng nhất là trạng thái **vô vi và thanh tịnh**.
+
+Khi tâm đủ tĩnh, quá trình biến hóa của nội công sẽ tự diễn ra. Công lực sinh ra từ đan điền, sau đó lan tỏa theo kinh mạch, dần dần thấm vào toàn thân, từ da thịt cho đến xương cốt.
+
+Phong Vũ ngồi im trước quyển tâm pháp.
+
+Đó cũng là lý do những người từng luyện Nội Kinh Tâm Pháp rất khó đạt được kết quả. Họ muốn cảm nhận công lực tăng lên, muốn biết mỗi ngày mình tiến bộ đến đâu, nhưng chính sự quan sát ấy lại khiến tâm không thể hoàn toàn tĩnh.
+
+Càng muốn có kết quả, càng khó đạt được trạng thái mà công pháp yêu cầu.
+
+Phong Vũ tiếp tục đọc phần cuối của tâm pháp.
+
+Đến đây, một tầng ý nghĩa khác xuất hiện.
+
+Khi tu luyện đến viên mãn, người luyện không còn chỉ dựa vào quá trình diễn hóa nội công trong cơ thể. Có thể trực tiếp thu nạp năng lượng từ linh khí của trời đất xung quanh, rồi diễn hóa thành nội công của chính mình.
+
+Phong Vũ khép sách.
+
+Nếu lượng công lực tiếp tục tăng, nền tảng nội lực sẽ ngày càng mạnh. Khi phát lực, uy lực đương nhiên cũng sẽ thay đổi theo.
+
+Anh vẫn chưa vội kết luận rằng mình đã hoàn toàn hiểu hết bộ công pháp.
+
+Hai tuần tiếp theo, Phong Vũ tiếp tục luyện.
+
+Lần này, anh không còn truy tìm cảm giác tăng công. Anh chỉ duy trì trạng thái tĩnh lặng, để công pháp tự vận hành.
+
+Quá trình tu luyện dần trở nên ổn định.
+
+Đến cuối tuần thứ hai, nội lực trong cơ thể đã đạt đến một trạng thái mà trước đây anh chưa từng cảm nhận được.
+
+Phong Vũ biết mình đã đạt **viên mãn**.
+
+Nhưng anh vẫn tiếp tục kiểm tra Nội Kinh Tâm Pháp từ đầu đến cuối, đối chiếu những gì mình vừa lĩnh ngộ với từng đoạn trong công pháp.
+
+Cuối cùng, anh nhận ra một điều.
+
+**Bản thân công pháp không hề bị sửa đổi.**
+
+Không có đoạn nào bị cắt bỏ, cũng không có phần nào bị thay thế.
+
+Nó chính là một bản gốc hoàn chỉnh.
+
+Phong Vũ ngồi trước quyển tâm pháp, nhìn lại những dòng ghi chú trong danh mục mà anh từng đọc.
+
+Khó nhập môn.
+
+Tiến bộ ban đầu cực kỳ chậm.
+
+Người luyện trong thời gian dài cũng khó cảm nhận được hiệu quả.
+
+Anh đã hiểu vì sao những người trước đây lại đưa ra đánh giá như vậy.
+
+Họ nhìn thấy kết quả ban đầu, nhưng không hiểu nguyên lý nằm phía sau.
+
+Với cách luyện thông thường, một công pháp như vậy quả thực rất dễ bị xem là kém.
+
+Nhưng nếu người luyện không hiểu được tâm pháp, càng cố thúc ép công lực tăng lên thì càng khó đạt được trạng thái mà Nội Kinh Tâm Pháp yêu cầu.
+
+Phong Vũ nhìn quyển sách trong tay.
+
+Một công pháp càng khó hiểu, có lẽ càng không thể chỉ dựa vào tốc độ nhập môn để đánh giá.
+
+Ít nhất, những gì anh vừa trải qua đã cho anh thêm một cơ sở để suy nghĩ về điều đó.
+
+---
+
+## 19. Bí mật của Phong Vũ
+
+Sau khi luyện Nội Kinh Tâm Pháp đến viên mãn, Phong Vũ không tìm Chu gia chủ để nói về phát hiện của mình.
+
+Anh cũng không nói với những thành viên khác trong nhóm tinh anh.
+
+Càng không có ý định công bố chuyện này với Tàng Long Môn.
+
+Phong Vũ chưa thể xác định mình đã hiểu hết những bí mật của Nội Kinh Tâm Pháp. Nhưng anh biết chắc một điều: những đánh giá trong danh mục không thể giải thích được những gì bản thân anh vừa trải qua.
+
+Vì vậy, anh không nhắc đến chuyện này với bất kỳ ai.
+
+Trong những ngày tiếp theo, Phong Vũ vẫn luyện võ như trước. Bá Thiên Đao Pháp và Thanh Long Thương Pháp được đặt bên cạnh, còn Nội Kinh Tâm Pháp vẫn được anh giữ lại để tiếp tục nghiên cứu.
+
+Mỗi khi có thời gian, anh lại ngồi xuống, nhập định theo phương pháp đã lĩnh ngộ được.
+
+Không cần cố thúc ép.
+
+Không cần truy tìm cảm giác.
+
+Chỉ giữ cho tâm mình yên tĩnh.
+
+
+-------------------------------------------------------------------
+
+
+# PHẦN IX — BẢN GỐC TẬT PHONG ĐAO PHÁP
+
+## 20. Quyền tiếp cận bốn công pháp cao cấp
+
+Sau khi trở thành thành viên tinh anh, Phong Vũ có quyền tiếp cận bốn bộ công pháp mà Tàng Long Môn tin rằng vẫn giữ được bản gốc tương đối hoàn chỉnh.
+
+Đây là tầng công pháp trước đó anh chưa từng được xem.
+
+Trong số đó có **Bá Thiên Đao Pháp**.
+
+Phong Vũ đã chọn bộ công pháp này ngay sau khi được mở rộng quyền hạn, nhưng trước khi bắt đầu luyện, anh dành khá nhiều thời gian để đọc và đối chiếu với những gì mình từng học ở Chu gia.
+
+Càng xem, anh càng xác nhận một điều mà trước đây chỉ mới có thể suy đoán.
+
+Bá Thiên Đao Pháp và Tật Phong Đao Pháp có cùng một nền tảng.
+
+Nhưng sự khác biệt giữa hai bộ không chỉ nằm ở vài chiêu thức.
+
+Một số đoạn trong Bá Thiên Đao Pháp hoàn chỉnh hơn, các chuyển thế liên kết chặt chẽ hơn, còn những phần từng khiến Phong Vũ cảm thấy khó tiếp tục khi luyện Tật Phong Đao Pháp thì ở đây đều có cách xử lý rõ ràng.
+
+Anh lấy lại những ghi chép về quá trình mình từng luyện đao ở Chu gia.
+
+Đối chiếu từng đoạn.
+
+Một bên là công pháp hiện tại.
+
+Một bên là kinh nghiệm của chính anh.
+
+Hai thứ ghép lại, những điểm bất thường trước đây dần trở nên rõ ràng.
+
+---
+
+## 21. Đối chiếu bản nguyên
+
+Phong Vũ không chỉ đọc Bá Thiên Đao Pháp một lần.
+
+Anh bắt đầu đối chiếu từng nhóm chiêu thức với Tật Phong Đao Pháp mà mình từng luyện.
+
+Có những phần gần như giống nhau.
+
+Có những phần chỉ còn lại một nửa.
+
+Có những chuyển thế trong Tật Phong Đao Pháp đã được đơn giản hóa đến mức chỉ cần nhìn qua cũng khó nhận ra chúng vốn thuộc cùng một hệ thống.
+
+Đặc biệt là những đoạn chuyển từ thế này sang thế khác.
+
+Ở Tật Phong Đao Pháp, người luyện có thể hoàn thành từng chiêu riêng biệt, nhưng khi nối liên tục thì sẽ xuất hiện một khoảng ngắt rất nhỏ.
+
+Trước đây Phong Vũ từng cho rằng đó là do mình lĩnh hội chưa đủ.
+
+Bây giờ nhìn sang Bá Thiên Đao Pháp, anh mới phát hiện khoảng ngắt ấy vốn không nên tồn tại.
+
+Phần bị thay đổi đã khiến một đoạn vận lực bị cắt khỏi toàn bộ cấu trúc.
+
+Chiêu thức vẫn còn.
+
+Đường đao vẫn còn.
+
+Nhưng thứ nối chúng lại với nhau đã mất.
+
+Phong Vũ thử mô phỏng lại đoạn chuyển thế theo Bá Thiên Đao Pháp.
+
+Đường đao lập tức trở nên liền mạch.
+
+Anh dừng lại, nhìn thanh đao trong tay.
+
+Một cảm giác rất quen thuộc xuất hiện.
+
+Đây chính là thứ anh từng tìm kiếm khi luyện Tật Phong Đao Pháp ở Chu gia.
+
+Không phải thêm một chiêu.
+
+Cũng không phải tăng thêm sức mạnh.
+
+Mà là tìm lại mối liên hệ vốn nằm giữa những chiêu thức.
+
+---
+
+## 22. Thứ từng khiến Phong Vũ mắc ở đại thành
+
+Sau khi đối chiếu nhiều lần, Phong Vũ càng xác định rõ hơn nguyên nhân khiến mình từng dừng lại ở đại thành.
+
+Khi ấy, anh đã thử rất nhiều cách để tìm đường tiến lên.
+
+Có những đoạn anh cảm thấy rõ ràng còn có thể phát triển, nhưng bản thân công pháp lại không cho anh đủ thông tin để tiếp tục.
+
+Nếu cố thay đổi, rất dễ phá vỡ cấu trúc ban đầu.
+
+Nếu giữ nguyên, lại không thể tiến thêm.
+
+Lúc đó Phong Vũ chỉ có thể cho rằng mình chưa hiểu đủ sâu.
+
+Bây giờ, sau khi có Bá Thiên Đao Pháp để đối chiếu, anh mới biết vấn đề không hoàn toàn nằm ở bản thân.
+
+**Công pháp anh từng luyện vốn đã không còn nguyên vẹn.**
+
+Một số phần bị bỏ đi.
+
+Một số phần bị thay đổi.
+
+Một số đoạn bị đơn giản hóa.
+
+Thậm chí có chỗ trình tự vận lực cũng đã khác với bản hoàn chỉnh.
+
+Phong Vũ ngồi trước hai bộ công pháp, im lặng hồi lâu.
+
+Nếu trước đây anh chỉ có thể nghi ngờ rằng Tật Phong Đao Pháp đã bị sửa đổi, thì bây giờ anh đã có một đối chứng trực tiếp.
+
+Bá Thiên Đao Pháp là một bản hoàn chỉnh.
+
+Tật Phong Đao Pháp mà anh từng luyện là một phiên bản đã thay đổi.
+
+Còn khoảng cách giữa hai bộ chính là thứ anh từng không thể vượt qua khi đạt đến đại thành.
+
+Phong Vũ khép sách.
+
+Anh không còn cảm thấy tiếc nuối vì quãng thời gian ấy.
+
+Ít nhất, việc từng mắc lại ở đại thành đã buộc anh phải tự mình suy nghĩ về cấu trúc của công pháp.
+
+Nếu ngay từ đầu đã có bản hoàn chỉnh, có lẽ anh cũng không đặt ra nhiều câu hỏi như hiện tại.
+
+---
+
+## 23. Ba trường hợp khác nhau
+
+Những gì Phong Vũ đã gặp trong thời gian qua bắt đầu nối lại thành một chuỗi.
+
+**Triệu Bá Công** là một trường hợp.
+
+Bản công pháp anh tiếp xúc đã bị sửa đổi, đến mức nhiều chỗ không còn giữ được nguyên lý ban đầu.
+
+**Tật Phong Đao Pháp** cũng là một trường hợp.
+
+Bản anh từng luyện ở Chu gia có cùng nền tảng với Bá Thiên Đao Pháp nhưng đã bị thay đổi ở nhiều vị trí.
+
+Còn **Nội Kinh Tâm Pháp** lại hoàn toàn khác.
+
+Bản công pháp anh nhận được không hề bị sửa đổi.
+
+Nó là một bản gốc hoàn chỉnh.
+
+Vấn đề nằm ở người luyện.
+
+Không hiểu tâm pháp, không đạt được trạng thái mà công pháp yêu cầu, không cảm nhận được công lực tăng lên, cuối cùng người ta kết luận rằng công pháp kém.
+
+Phong Vũ ngồi trước bàn, nhìn ba cái tên được viết trên giấy.
+
+Triệu Bá Công.
+
+Tật Phong Đao Pháp.
+
+Nội Kinh Tâm Pháp.
+
+Ba bộ công pháp.
+
+Ba tình huống hoàn toàn khác nhau.
+
+Anh lấy bút gạch một đường dưới ba cái tên.
+
+**Không thể chỉ dựa vào thứ hạng để đánh giá một công pháp.**
+
+Thứ hạng của Tàng Long Môn chỉ phản ánh những gì những người từng luyện nó đạt được.
+
+Nhưng nếu bản thân công pháp đã bị sửa đổi thì thứ hạng ấy phản ánh phiên bản đã bị thay đổi, chứ chưa chắc phản ánh nguyên bản.
+
+Ngược lại, nếu một công pháp hoàn chỉnh nhưng người luyện không hiểu được nguyên lý, kết quả thu được cũng có thể khiến nó bị đánh giá thấp.
+
+Phong Vũ nhìn dòng chữ trên giấy thêm một lúc rồi cất nó đi.
+
+Anh không còn muốn nhìn danh mục công pháp theo cách trước đây nữa.
+
+---
+
+## 24. Phong Vũ bắt đầu luyện Bá Thiên Đao Pháp
+
+Sau khi hoàn thành việc đối chiếu, Phong Vũ chính thức bắt đầu luyện Bá Thiên Đao Pháp.
+
+Chu gia chủ trực tiếp chỉ điểm cho anh.
+
+Đối với Chu Thần Phong, đây là một trong những công pháp quan trọng nhất mà ông từng luyện. Ông đã đạt đến viên mãn, nên có thể chỉ ra cho Phong Vũ những chỗ mà người mới luyện rất dễ đi sai hướng.
+
+Nhưng điều khiến Chu Thần Phong không ngờ tới là Phong Vũ tiếp thu rất nhanh.
+
+Những gì anh từng học ở Tật Phong Đao Pháp không hề trở thành trở ngại.
+
+Ngược lại, nó giúp anh hiểu rõ hơn sự khác biệt giữa một công pháp hoàn chỉnh và một phiên bản đã bị thay đổi.
+
+Có những chỗ Chu Thần Phong chỉ cần nói một lần, Phong Vũ đã có thể tự mình liên hệ với những gì từng luyện trước đây.
+
+Có những chỗ ông chưa cần giải thích, Phong Vũ đã dừng lại tự suy nghĩ rồi tìm ra cách chuyển thế phù hợp.
+
+Quá trình luyện diễn ra nhanh hơn dự kiến.
+
+Sau khoảng một tháng, Phong Vũ đạt **viên mãn** Bá Thiên Đao Pháp.
+
+Ngày đó, hai người đứng đối diện nhau trong sân.
+
+Chu Thần Phong cầm đao.
+
+Phong Vũ cũng cầm đao.
+
+Hai người không nói nhiều.
+
+Chỉ sau vài lượt giao thủ, Chu Thần Phong đã nhận ra đường đao của Phong Vũ đã hoàn toàn ổn định.
+
+Những chuyển thế từng được ông luyện qua nhiều năm giờ xuất hiện trong tay Phong Vũ một cách tự nhiên.
+
+Hai người tiếp tục giao thủ thêm một lúc.
+
+Nếu chỉ sử dụng Bá Thiên Đao Pháp, khoảng cách giữa hai người đã không còn rõ ràng như trước.
+
+Nhưng Chu Thần Phong vẫn chưa sử dụng toàn bộ những gì mình có.
+
+Ông còn một môn công pháp cao cấp khác đã đạt viên mãn.
+
+Phong Vũ hiểu điều đó.
+
+Sau khi thu đao, anh chắp tay.
+
+— Đa tạ Chu gia chủ đã chỉ điểm.
+
+Chu Thần Phong cũng thu đao.
+
+— Anh lĩnh hội nhanh hơn tôi dự đoán.
+
+Phong Vũ không đáp ngay.
+
+Anh nhìn thanh đao trong tay.
+
+— Có lẽ vì trước đây tôi đã từng luyện một phiên bản khác của nó.
+
+Chu Thần Phong gật đầu.
+
+Ông hiểu ý.
+
+Cùng một hệ thống võ học, một người từng luyện bản đã bị thay đổi, sau đó mới tiếp xúc với bản hoàn chỉnh, đôi khi sẽ nhìn thấy những chỗ mà người chỉ học bản gốc không dễ nhận ra.
+
+---
+
+## 25. Không tiếp tục học hàng loạt công pháp
+
+Sau khi luyện Bá Thiên Đao Pháp đến viên mãn, Phong Vũ không tiếp tục mở danh mục để lựa chọn thêm công pháp.
+
+Quyền hạn của thành viên tinh anh cho phép anh tiếp cận nhiều công pháp hơn trước, nhưng anh không có ý định biến việc gia nhập Tàng Long Môn thành quá trình thu thập càng nhiều võ công càng tốt.
+
+Hai bộ thương pháp trước đây đã cho anh thấy một công pháp có thể đào sâu đến mức nào.
+
+Bá Thiên Đao Pháp lại cho anh một cách nhìn khác về bản nguyên và sự biến đổi của công pháp.
+
+Còn Nội Kinh Tâm Pháp khiến anh hiểu rằng ngay cả một công pháp bị xếp ở nhóm thấp nhất cũng có thể tồn tại những thứ mà người đánh giá chưa từng nhìn thấy.
+
+Những trải nghiệm ấy khiến Phong Vũ càng không muốn học quá nhiều thứ cùng lúc.
+
+Trong hệ thống võ học của mình, anh vẫn giữ ba hướng chính.
+
+**Đao.**
+
+**Thương.**
+
+**Nội lực.**
+
+Còn Triệu Bá Công và Thạch Phá Công là những công pháp quyền cước dùng để phát chưởng lực mà anh đã có kinh nghiệm nghiên cứu. Chúng không phải những nhánh võ học mới mà anh cần tiếp tục sưu tập.
+
+Thanh Long Thương Pháp cũng đã được anh lựa chọn từ trước.
+
+Nhưng hiện tại, quyển công pháp ấy vẫn được đặt sang một bên.
+
+Phong Vũ chưa vội luyện.
+
+Anh vừa hoàn thành Bá Thiên Đao Pháp, Nội Kinh Tâm Pháp vẫn còn rất nhiều thứ cần tiếp tục kiểm chứng, còn hai bộ thương pháp trước đó vẫn cho anh không ít vấn đề để suy nghĩ.
+
+Đối với anh, có thêm một công pháp không đồng nghĩa với việc phải lập tức luyện nó.
+
+Một bộ công pháp nếu chưa hiểu được cấu trúc bên trong thì dù học thêm mười bộ cũng chỉ là biết thêm mười loại chiêu thức.
+
+Phong Vũ muốn biết mình có thể nhìn sâu đến đâu trước khi tiếp tục đi xa hơn.
+
+Vì vậy, **Thanh Long Thương Pháp vẫn nằm yên trên bàn**, chưa được mở ra luyện.
+
+
+-------------------------------------------------------
+
+
+# PHẦN X — TÀNG LONG MÔN TRONG XÃ HỘI
+
+## 26. Một lớp bí mật mà Phong Vũ không biết
+
+Tàng Long Môn có hơn hai trăm thành viên, nhưng phần lớn thời gian họ không tập trung cùng một chỗ.
+
+Có người kinh doanh, có người làm việc trong các công ty lớn, có người sống như những người bình thường trong xã hội. Những mối quan hệ giữa họ với Tàng Long Môn cũng không giống nhau. Có người nhiều năm không trở về môn phái, chỉ khi có việc quan trọng mới liên lạc với những người quen trong môn.
+
+Trong số đó có một vài người đang làm việc tại **Cục An ninh Nội địa**.
+
+Họ không sử dụng thân phận thành viên Tàng Long Môn khi làm việc.
+
+Ngay cả những người thường xuyên tiếp xúc với họ cũng chỉ biết đến thân phận trong xã hội của họ.
+
+Những người này cũng rất ít khi nhắc đến chuyện luyện võ với người bên ngoài. Sau khi rời khỏi Tàng Long Môn, họ trở lại với công việc thường ngày, thực hiện nhiệm vụ của mình như những người khác.
+
+Phong Vũ hoàn toàn không biết những người này tồn tại.
+
+Chu gia chủ cũng chỉ biết Tàng Long Môn có thành viên làm việc trong nhiều lĩnh vực khác nhau. Còn ai đang giữ thân phận gì trong một cơ quan cụ thể, ông không phải lúc nào cũng biết.
+
+Điều đó cũng không phải chuyện đặc biệt trong Tàng Long Môn.
+
+Chu Thần Phong chưa bao giờ yêu cầu tất cả thành viên phải báo cáo toàn bộ cuộc sống của mình cho môn phái. Tàng Long Môn tồn tại đã nhiều năm, thành viên được phép sống cuộc sống riêng, chỉ cần không làm tổn hại đến lợi ích chung của môn phái.
+
+Bởi vậy, có những mối liên hệ mà ngay cả người đứng đầu Tàng Long Môn cũng chỉ biết được một phần.
+
+---
+
+## 27. Một thành viên đặc biệt
+
+Ở một nơi khác của Trung Châu quốc, một người đàn ông mặc trang phục bảo vệ đứng cách Chủ tịch nước vài bước.
+
+Bề ngoài, ông ta chỉ là một trong những người chịu trách nhiệm bảo vệ an toàn cho nguyên thủ quốc gia.
+
+Nhưng khi không có nhiệm vụ, người đàn ông này vẫn dành thời gian luyện võ.
+
+Trong căn phòng riêng, ông đặt thanh kiếm sang một bên rồi ngồi xuống.
+
+Trên bàn không có bất kỳ dấu hiệu nào cho thấy ông có liên quan đến một môn phái Cổ võ.
+
+Không ai trong đội bảo vệ biết thân phận thực sự của ông.
+
+Ông cũng chưa từng chủ động nhắc đến chuyện mình là thành viên của Tàng Long Môn.
+
+Ở Tàng Long Môn, tên của ông cũng không được nhắc đến trong những cuộc trò chuyện thông thường.
+
+Đối với những người từng gặp ông trong môn phái, ông chỉ là một thành viên đã gia nhập từ nhiều năm trước, sau đó phần lớn thời gian sống trong xã hội và rất ít khi xuất hiện.
+
+Ngay cả Chu Thần Phong cũng không biết người đàn ông đang đứng trong đội bảo vệ của Chủ tịch nước chính là thành viên Tàng Long Môn.
+
+Còn Phong Vũ lúc này vẫn đang ở Chu gia.
+
+Anh hoàn toàn không biết rằng những người mình từng gặp trong Tàng Long Môn có thể đang xuất hiện ở những nơi mà anh chưa từng nghĩ tới.
+
+---
+
+# PHẦN XI — NGƯỜI TRẺ TUỔI SỐ 1 CỦA TÀNG LONG MÔN
+
+## 28. Danh tiếng của Phong Vũ trong thế hệ trẻ
+
+Khoảng thời gian từ đầu mùa hè đến giữa mùa thu trôi qua rất nhanh.
+
+Trong thời gian đó, Phong Vũ đã luyện xong hai bộ thương pháp và đều vượt qua viên mãn. Anh trải qua hai trận đối luyện với thành viên tinh anh, một trận thắng và một trận hòa, sau đó chính thức bước vào nhóm tinh anh.
+
+Tiếp đó, anh tiếp xúc với những công pháp trước đây chưa từng có quyền xem, phát hiện một môn nội công bị đánh giá rất thấp lại có nguyên lý hoàn chỉnh, đồng thời nhìn thấy sự khác biệt giữa Bá Thiên Đao Pháp và Tật Phong Đao Pháp.
+
+Bá Thiên Đao Pháp cũng được anh luyện đến viên mãn.
+
+Những chuyện ấy không thể giấu hoàn toàn trong Tàng Long Môn.
+
+Ban đầu chỉ có một vài người biết.
+
+Sau đó, những người từng chứng kiến hai trận đối luyện bắt đầu nhắc đến Phong Vũ. Những người trong nhóm tinh anh lại biết thêm chuyện anh luyện Bá Thiên Đao Pháp rất nhanh.
+
+Một thành viên trẻ tuổi ngồi trong sân, nghe người bên cạnh kể lại thì không nhịn được hỏi:
+
+— Anh ta mới gia nhập Tàng Long Môn bao lâu?
+
+— Không lâu.
+
+— Bao nhiêu tuổi?
+
+— Hai mươi chín.
+
+Người hỏi im lặng một lúc.
+
+— Hai mươi chín tuổi mà đã vào nhóm tinh anh?
+
+— Không chỉ vào nhóm tinh anh.
+
+Người đối diện đặt chén trà xuống.
+
+— Hai bộ thương pháp đều đã vượt qua viên mãn. Sau đó còn luyện Bá Thiên Đao Pháp đến viên mãn.
+
+Người trẻ tuổi kia không nói thêm.
+
+Những câu chuyện tương tự xuất hiện ở nhiều nơi trong Tàng Long Môn.
+
+Có người tò mò muốn biết Phong Vũ thực sự mạnh đến đâu.
+
+Có người muốn thử giao thủ với anh.
+
+Cũng có người không tin một người mới hai mươi chín tuổi lại có thể tiến bộ nhanh như vậy.
+
+Nhưng dù thái độ khác nhau, cái tên Phong Vũ đã bắt đầu được nhắc đến thường xuyên hơn.
+
+Một lần khác, vài thành viên trẻ đang trao đổi về những người có khả năng tiến vào nhóm tinh anh trong tương lai. Khi một người vừa nhắc đến một cái tên, người bên cạnh đã lắc đầu.
+
+— Người đó còn phải luyện thêm vài năm.
+
+— Vậy còn Phong Vũ?
+
+Cả bàn im lặng trong giây lát.
+
+Một người lớn tuổi hơn cười:
+
+— Anh ta đã ở trong nhóm tinh anh rồi, còn bàn gì nữa?
+
+Không ai phản bác.
+
+Phong Vũ không phải người mạnh nhất Tàng Long Môn.
+
+Những thành viên đã luyện võ hàng chục năm vẫn có nền tảng mà anh chưa thể so sánh.
+
+Ngay cả trong nhóm tinh anh, anh cũng chưa phải người đứng đầu.
+
+Nhưng ở độ tuổi của mình, Phong Vũ đã đi xa hơn hầu hết những người cùng thế hệ mà các thành viên Tàng Long Môn từng biết.
+
+Cái tên ấy vì vậy ngày càng xuất hiện trong những cuộc trò chuyện của lớp trẻ.
+
+Phong Vũ không để ý quá nhiều đến những chuyện đó.
+
+Phần lớn thời gian, anh vẫn ở Chu gia, luyện võ, nghiên cứu công pháp và tiếp tục suy nghĩ về những vấn đề mình gặp phải trong quá trình tu luyện.
+
+Danh tiếng bên ngoài đối với anh không có nhiều ý nghĩa.
+
+Nhưng ở một nơi khác, có người đã bắt đầu chú ý đến cái tên ấy.
+
+Một người trẻ tuổi có thể trong thời gian ngắn bước vào nhóm tinh anh, liên tiếp đạt được những thành tựu mà nhiều người phải mất hàng chục năm mới chạm tới.
+
+Thông tin ấy, sớm muộn cũng sẽ vượt ra khỏi phạm vi của Tàng Long Môn.
+
+
+-----------------------------------------------------------------
+
+
+# # PHẦN XII — ĐỊA BẢNG VÀ MẠC VÔ CỰC
+
+## 29. Tin tức về lời khiêu chiến
+
+Một ngày giữa mùa thu, Phong Vũ đang luyện võ cùng các đệ tử Chu gia ở sân sau.
+
+Buổi luyện kéo dài gần hai giờ. Đến lúc mọi người tạm nghỉ, một đệ tử Chu gia vừa uống nước vừa lấy điện thoại ra xem tin nhắn. Chỉ vài giây sau, sắc mặt người này hơi thay đổi.
+
+Người bên cạnh nhận ra trước tiên.
+
+— Có chuyện gì vậy?
+
+Đệ tử Chu gia không trả lời ngay. Anh ta nhìn về phía Phong Vũ, sau đó mới bước lại gần.
+
+— Phong Vũ huynh, Mạc Vô Cực vừa công khai gửi lời khiêu chiến.
+
+Phong Vũ đang lau mồ hôi trên tay thì dừng lại.
+
+— Khiêu chiến ai?
+
+— Anh.
+
+Phong Vũ ngẩng đầu.
+
+Anh chưa từng nghe cái tên này.
+
+— Mạc Vô Cực là ai?
+
+Người đệ tử Chu gia nhìn anh với vẻ ngạc nhiên.
+
+— Anh thật sự chưa biết?
+
+Phong Vũ lắc đầu.
+
+Đúng lúc đó, Lệ Thanh từ phía bên kia sân đi tới. Cô vừa nghe được mấy câu cuối nên dừng lại.
+
+— Có chuyện gì?
+
+Đệ tử Chu gia đưa điện thoại lên.
+
+— Mạc Vô Cực công khai khiêu chiến Phong Vũ huynh.
+
+Lệ Thanh nhìn Phong Vũ.
+
+— Anh chưa từng nghe cái tên này?
+
+— Chưa.
+
+Lệ Thanh quay sang người đệ tử Chu gia.
+
+— Anh nói trước đi.
+
+---
+
+## 30. Mạc Vô Cực — số một Địa Bảng
+
+Người đệ tử Chu gia ngồi xuống bậc đá bên cạnh sân.
+
+— Mạc Vô Cực là một trong những cao thủ trẻ tuổi nổi tiếng nhất giới Cổ võ hiện nay.
+
+Phong Vũ ngồi xuống đối diện.
+
+— Anh ta thuộc gia tộc nào?
+
+— Không thuộc Tàng Long Môn.
+
+Người kia nói tiếp:
+
+— Nhưng trong giới Cổ võ, cái tên này được nhắc đến khá nhiều. Hiện tại anh ta đang đứng số một trên Địa Bảng.
+
+Phong Vũ vốn chỉ nghe để biết người khiêu chiến mình là ai. Đến câu cuối, ánh mắt anh mới thực sự thay đổi.
+
+Lệ Thanh ngồi xuống bên cạnh.
+
+Cô vốn xuất thân Triệu gia, từ nhỏ đã được tiếp xúc với không ít thông tin về các gia tộc và cao thủ Cổ võ. So với Phong Vũ, cô biết nhiều hơn về những người nổi tiếng trong thế hệ trẻ.
+
+— Mạc Vô Cực còn rất trẻ, năm nay khoảng 25-26 tuổi, nhưng đã có nhiều lần giao thủ với những cao thủ cùng thế hệ. Những trận đấu đó khiến tên tuổi anh ta dần được nhiều người biết đến.
+
+Phong Vũ hỏi:
+
+— Những trận đó đều được công khai?
+
+— Không phải tất cả.
+
+Lệ Thanh lắc đầu.
+
+— Có những trận chỉ có người trong giới biết. Hơn nữa, những gì người ngoài biết được cũng chỉ là kết quả hoặc một phần diễn biến. Không ai có thể khẳng định anh ta đã dùng toàn bộ thực lực trong tất cả các trận đấu.
+
+Phong Vũ gật đầu.
+
+— Địa Bảng là gì?
+
+---
+
+## 31. Địa Bảng
+
+Đệ tử Chu gia giải thích:
+
+— Trong giới Cổ võ không có đại hội võ thuật công khai, cũng không có một tổ chức chính thức nào đứng ra xếp hạng tất cả cao thủ trẻ tuổi. Nhưng các gia tộc, môn phái và những cao thủ trong giới vẫn thường xuyên giao thủ với nhau. Thông tin về những trận đấu ấy được truyền từ nơi này sang nơi khác, lâu dần hình thành một bảng đánh giá tương đối về thực lực của thế hệ trẻ.
+
+Anh ta chỉ vào màn hình điện thoại.
+
+— Đó là Địa Bảng.
+
+Phong Vũ nhìn danh sách trên màn hình.
+
+— Không có tổ chức nào chính thức công bố?
+
+— Không.
+
+— Vậy ai quyết định thứ hạng?
+
+— Không có một người quyết định.
+
+Người đệ tử Chu gia giải thích tiếp:
+
+— Thứ hạng được hình thành từ những gì các gia tộc, môn phái và cao thủ trong giới biết được. Một người đánh bại đối thủ mạnh, tin tức truyền ra ngoài thì vị trí của người đó có thể thay đổi. Nếu lâu ngày không giao thủ, thứ hạng cũng có thể giữ nguyên dù thực lực thực tế đã khác.
+
+Phong Vũ nhìn lại cái tên đứng đầu.
+
+**Mạc Vô Cực.**
+
+— Vậy số một chỉ có nghĩa là hiện tại mọi người cho rằng anh ta mạnh nhất trong số những người được biết đến?
+
+— Có thể hiểu như vậy.
+
+Lệ Thanh nói:
+
+— Địa Bảng phản ánh những gì giới Cổ võ biết được, chứ không phải toàn bộ thực lực thật sự của từng người.
+
+Phong Vũ gật đầu. Anh đã hiểu.
+
+Địa Bảng không phải cảnh giới võ đạo. Nó chỉ là một cách để những người trong giới dùng những thông tin mình có được để đánh giá thực lực của thế hệ trẻ.
+
+---
+
+## 32. Thiên Bảng
+
+Đệ tử Chu gia tiếp tục:
+
+— Ngoài Địa Bảng còn có Thiên Bảng.
+
+— Khác nhau thế nào?
+
+— Địa Bảng chỉ xét thế hệ trẻ. Thiên Bảng thì không giới hạn tuổi.
+
+Anh ta dừng lại một chút rồi nói:
+
+— Thiên Bảng là danh sách những cao thủ được giới Cổ võ đánh giá ở tầng cao nhất. Thứ hạng cũng dựa trên những trận giao thủ đã biết, thực lực từng thể hiện, danh tiếng và đánh giá của những người trong giới.
+
+Phong Vũ hỏi:
+
+— Chu gia chủ có trên đó?
+
+Người đệ tử Chu gia gật đầu.
+
+— Có. Chu gia chủ nằm trong top 10 Thiên Bảng.
+
+Phong Vũ hơi ngẩn ra.
+
+Anh biết Chu Thần Phong là gia chủ Chu gia, cũng biết ông là Chưởng môn Tàng Long Môn và có thực lực rất mạnh.
+
+Nhưng đây là lần đầu anh biết giới Cổ võ bên ngoài cũng có một cách đánh giá riêng đối với ông.
+
+Phong Vũ nhìn lại màn hình.
+
+— Thứ hạng của Chu gia chủ là bao nhiêu?
+
+— Cụ thể thì khó nói, người ta ước lượng ông ở vị trí thứ 8...
+
+Phong Vũ không hỏi thêm.
+
+Trong thời gian ở Chu gia, anh đã nhiều lần chứng kiến thực lực của Chu Thần Phong. Bây giờ biết ông còn nằm trong nhóm cao thủ hàng đầu Thiên Bảng, anh cũng không quá bất ngờ.
+
+Chỉ là phạm vi ảnh hưởng của Chu gia chủ trong giới Cổ võ rộng hơn những gì anh từng biết.
+
+---
+
+## 33. Thiên Bảng và Địa Bảng đều chỉ mang tính tương đối
+
+Lệ Thanh thấy Phong Vũ vẫn nhìn màn hình thì nói:
+
+— Vị trí trên hai bảng đó có thể không chính xác...
+
+Phong Vũ quay sang.
+
+— Vì sao?
+
+— Thiên Bảng đặc biệt khó nói.
+
+Lệ Thanh suy nghĩ một chút rồi tiếp tục:
+
+— Những người đứng trên Thiên Bảng thường rất ít khi thật sự giao thủ với nhau. Người đạt đến trình độ đó càng không muốn tùy tiện để người khác biết hết thực lực của mình. Một khi đã có danh tiếng, họ càng có lý do để giữ lại một phần.
+
+Phong Vũ gật đầu.
+
+— Nếu chưa từng giao thủ thì rất khó biết ai mạnh hơn?
+
+— Đúng.
+
+Lệ Thanh nói:
+
+— Có những cao thủ nhiều năm chưa từng gặp nhau. Nhưng người trong giới vẫn phải xếp họ vào những vị trí khác nhau dựa trên những gì từng biết về mỗi người.
+
+— Như vậy thứ hạng chỉ là tương đối.
+
+— Đúng.
+
+Cô nhìn Phong Vũ.
+
+— Không thể chỉ nhìn một người đứng trên bảng mà kết luận chắc chắn người đó mạnh hơn tất cả những người đứng phía dưới.
+
+Phong Vũ không nói gì.
+
+Anh nhớ đến những lần mình đối luyện ở Tàng Long Môn.
+
+Một trận đấu có thể cho thấy rất nhiều thứ, nhưng cũng chỉ cho thấy những gì đối phương đã sử dụng trong trận đấu đó.
+
+Nếu một người không dùng toàn lực, người đứng ngoài càng khó biết giới hạn thật sự của họ ở đâu.
+
+---
+
+## 34. Địa Bảng thay đổi nhanh hơn
+
+Đệ tử Chu gia tiếp lời:
+
+— Địa Bảng thì khác một chút.
+
+— Vì những người trẻ tuổi giao thủ nhiều hơn?
+
+— Đúng.
+
+Anh ta nói:
+
+— Thực lực của thế hệ trẻ thay đổi nhanh hơn. Một người hôm nay còn đứng ngoài top 10, sau một hoặc hai năm hoàn toàn có thể tiến vào top 3 hay top 5. Nhưng nếu trong khoảng thời gian đó anh ta chưa từng giao thủ với những người đang đứng phía trên, Địa Bảng chưa chắc đã kịp phản ánh sự thay đổi.
+
+Lệ Thanh gật đầu.
+
+— Ngược lại cũng vậy. Có người từng đứng rất cao, nhưng sau đó bị người khác vượt qua. Nếu hai bên chưa từng giao thủ, những người bên ngoài cũng khó biết thứ hạng cũ còn chính xác đến đâu.
+
+Đệ tử Chu gia cười.
+
+— Nói đơn giản thì Địa Bảng chỉ phản ánh những gì mọi người đã biết.
+
+— Có những người mạnh hơn thứ hạng của họ.
+
+Lệ Thanh nói.
+
+— Cũng có người đứng cao vì những trận đấu mà người khác từng biết đến.
+
+Phong Vũ nghe xong không nói gì.
+
+Anh hiểu rằng Địa Bảng không phải một hệ thống cảnh giới, càng không phải tiêu chuẩn tuyệt đối để đo thực lực.
+
+Nó chỉ là kết quả của những thông tin mà giới Cổ võ đang có.
+
+---
+
+## 35. Hai người trong Tàng Long Môn
+
+Đệ tử Chu gia chợt nhớ ra một chuyện.
+
+— Trong Tàng Long Môn cũng có hai người nằm trong top 10 Địa Bảng.
+
+Phong Vũ nhìn anh ta.
+
+— Hai người đó là ai?
+
+- Một người có biệt danh là "Gấu Đen", một người khác là "Bạch Công tử"
+
+Phong Vũ đã từng gặp một người trong số họ.
+
+Cả hai đều là những cao thủ trẻ tuổi có danh tiếng trong giới Cổ võ, tuổi tác cũng không lớn hơn anh quá nhiều.
+
+Phong Vũ hơi bất ngờ.
+
+— Vậy họ đã vào nhóm tinh anh chưa?
+
+Người đệ tử Chu gia lắc đầu.
+
+— Chưa.
+
+Phong Vũ nhìn anh ta.
+
+— Vì thực lực chưa đủ?
+
+— Đúng vậy.
+
+Người kia giải thích:
+
+— Địa Bảng và Tàng Long Môn đánh giá theo hai cách khác nhau. Một người dù có thứ hạng cao trên Địa Bảng vẫn phải đáp ứng những yêu cầu riêng nếu muốn vào nhóm tinh anh.
+
+— Đặc biệt là đối luyện với thành viên tinh anh?
+
+— Đúng.
+
+Phong Vũ không nói nữa.
+
+Anh nhớ lại hai trận đấu trước đó.
+
+Trận đầu anh thắng.
+
+Trận thứ hai hòa.
+
+Nếu chỉ nhìn kết quả, hai trận đấu ấy có vẻ đơn giản. Nhưng bản thân anh biết mỗi trận đều cho anh rất nhiều thứ để quan sát và học hỏi.
+
+Ít nhất, anh hiểu thêm một điều về quy định của Tàng Long Môn.
+
+Muốn bước vào nhóm tinh anh, anh phải thực sự chứng minh được thực lực trước những người đang ở trong nhóm đó.
+
+Không phải chỉ cần được Chu gia chủ coi trọng.
+
+---
+
+## 36. Vì sao Mạc Vô Cực chú ý đến Phong Vũ?
+
+Phong Vũ vẫn chưa hiểu một chuyện.
+
+— Nhưng tôi và Mạc Vô Cực chưa từng gặp nhau. Tại sao anh ta lại khiêu chiến tôi?
+
+Không ai trong số những người có mặt biết chính xác nguyên nhân.
+
+Một đệ tử Chu gia suy nghĩ rồi nói:
+
+— Có lẽ vì chuyện anh thắng một thành viên tinh anh và hòa với một người khác.
+
+Phong Vũ im lặng.
+
+Hai người đó đều đã luyện võ nhiều năm và có vị trí nhất định trong Tàng Long Môn.
+
+Còn anh mới gia nhập trong thời gian tương đối ngắn.
+
+Thành tích ấy quả thực dễ khiến người khác chú ý.
+
+Đệ tử Chu gia tiếp tục:
+
+— Hơn nữa, hai cao thủ trẻ tuổi của Tàng Long Môn đang nằm trong top 10 Địa Bảng cũng chưa bước vào nhóm tinh anh.
+
+Phong Vũ nhìn anh ta.
+
+— Còn tôi thì đã vào?
+
+— Đúng.
+
+Phong Vũ không nói gì.
+
+Anh không biết tin tức về hai trận đối luyện đã được truyền ra ngoài đến mức nào.
+
+Nhưng nếu những người trong giới Cổ võ biết chuyện này, việc có người chú ý đến anh cũng không quá khó hiểu.
+
+Lệ Thanh nhìn màn hình điện thoại.
+
+— Quan trọng là Mạc Vô Cực đã công khai khiêu chiến.
+
+Phong Vũ gật đầu.
+
+Đây mới là điều anh cần quan tâm.
+
+---
+
+## 37. Một cuộc khiêu chiến công khai
+
+Đệ tử Chu gia đưa điện thoại cho Phong Vũ.
+
+Tin tức về lời khiêu chiến của Mạc Vô Cực đã được truyền trong một số nhóm liên lạc của giới Cổ võ.
+
+Không phải một lời thách đấu riêng tư.
+
+Mà là một lời khiêu chiến công khai.
+
+Phong Vũ đọc từ đầu đến cuối.
+
+Nội dung không dài.
+
+Mạc Vô Cực nhắc đến tên anh, đưa ra lời khiêu chiến và công bố thời gian, địa điểm giao thủ.
+
+Phong Vũ đưa điện thoại lại cho người đệ tử Chu gia.
+
+Lệ Thanh nhìn anh.
+
+— Anh định nhận?
+
+Phong Vũ suy nghĩ vài giây.
+
+Anh chưa từng gặp Mạc Vô Cực.
+
+Cũng chưa biết người đứng số một Địa Bảng thực sự mạnh đến mức nào.
+
+Nhưng một đối thủ như vậy vừa đủ để anh muốn thử sức.
+
+— Nhận.
+
+Lệ Thanh không nói gì thêm.
+
+Đệ tử Chu gia lập tức xác nhận lại thời gian và địa điểm.
+
+Phong Vũ ghi nhớ rồi đứng dậy.
+
+Anh quay lại sân luyện võ.
+
+---
+
+Ở một nơi khác, Mạc Vô Cực đang ngồi trong một gian phòng yên tĩnh.
+
+Người vừa bước vào là một người đàn ông hơn năm mươi tuổi, thân hình cao gầy. Ông ấy chính là **Đoàn Bát Thiên**, gia chủ Đoàn gia, một trong những cao thủ nằm trong top 10 Thiên Bảng.
+
+Ông ta ngồi xuống đối diện Mạc Vô Cực, không vòng vo mà trực tiếp nhắc lại cái tên Phong Vũ mà lần gặp trước ông ta đã nói cho Mạc Vô Cực.
+
+Ông là cũng là một trong những cao thủ rất có uy tín trong giới cổ võ, vì vậy Mạc Vô Cực cũng rất kính nể và xem trọng lời ông ta. Nên khi ông ta khen Phong Vũ thì Mạc Vô Cực không dám bỏ ngoài tai mà hết sức chăm chú lắng nghe.
+
+Mạc Vô Cực hỏi:
+
+— Anh ta ngoài dùng thương thì còn dùng binh khí gì khác nữa không?
+
+— Có. Anh ta dùng cả đao nữa, đao pháp cũng rất giỏi.
+
+Mạc Vô Cực im lặng một lúc.
+
+Người đàn ông không thúc giục.
+
+Một lúc sau, Mạc Vô Cực mới nói:
+
+— Tôi đã gửi lời khiêu chiến công khai trong giới cổ võ, hy vọng anh ta không làm tôi thất vọng!
+
+— Tôi cho rằng đây sẽ là trận chiến rất đáng chờ đợi!
+
+Người đàn ông nhấp một ngụm trà rồi đặt chén xuống.
+
+Ông ta không cần nói thêm.
+
+
+
+
+-----------------------------------------
 
