@@ -41,7 +41,9 @@ Không chỉ vì hắn thắng.
 
 ## PHẦN 2 – BA LẦN MỜI
 
-Một tổ trưởng Ám Vệ tìm cách tiếp xúc với Phong Vũ.
+Một tổ trưởng Ám Vệ tìm cách tiếp xúc với Phong Vũ. Người này có tên thường gọi là "Tử Long" (không rõ tên họ thật). Hơn 30 tuổi, hay cười, nói năng đưa đẩy giống như một nhà ngoại hơn là một võ giả. 
+
+Phong Vũ chưa giao thủ với người này, nhưng đoán chừng thực lực có lẽ không kém Mạc Vô Cực.
 
 Trong khoảng thời gian sau trận đấu, người này **2–3 lần** đề nghị hắn gia nhập Ám Vệ.
 
@@ -63,15 +65,15 @@ Danh xưng của tổ chức
 
 Tên cũ trong lịch sử:
 
-Ám Vệ — tên gọi tồn tại từ thời phong kiến, gắn với tổ chức bí mật bảo vệ hoàng quyền và quốc gia.
+	- Ám Vệ — tên gọi tồn tại từ thời phong kiến, gắn với tổ chức bí mật bảo vệ hoàng quyền và quốc gia.
 
 Tên chính thức hiện tại bên trong tổ chức:
 
-ÁM VỆ CẢNH — tên thật được sử dụng trong nội bộ.
+	- ÁM VỆ CẢNH — tên thật được sử dụng trong nội bộ.
 
 Tên sử dụng khi giao tiếp với bên ngoài:
 
-Cục An ninh Nội địa.
+	- Cục An ninh Nội địa.
 
 ---
 
@@ -405,6 +407,7 @@ Summer Light bước vào giai đoạn triển khai thực tế sau quyết đ�
 
 Công ty bắt đầu:
 
+* Đàm phán mua lại thành công một công ty sản xuất PIN cho laptop đang trên đà phá sản với giá "rẻ", mục đích là thừa hưởng công nghệ làm PIN.
 * xây dựng đội nghiên cứu;
 * tuyển kỹ sư;
 * nghiên cứu vật liệu;
@@ -412,6 +415,16 @@ Công ty bắt đầu:
 * tìm kiếm thiết bị và dây chuyền sản xuất.
 
 Phong Vũ chủ yếu định hướng chiến lược, không trực tiếp can thiệp vào từng vấn đề kỹ thuật.
+
+--> Tính từ thời điểm quyết định Làm PIN và nghiên cứu xe điện, đến này đã hơn 1 năm rưỡi, Summer Light đã nghiên cứu thành công và sản xuất được 50.000 viên PIN đầu tiên với dung lượng lưu trữ và độ bền không kém so với PIN của chiếc smarphone đầu tiên của Tomato của Đại Mỹ quốc (lấy cảm hứng từ Apple).
+
+Phong Vũ quyết định gửi tặng miễn phí 1.000 chiếc cho Tomato để họ thử nghiệm, đồng thời gửi 3.000 viên PIN cho các hãng công nghệ hàng đầu. Bên cạnh đó cũng gửi bán 45.000 viên PIN tại các cừa hàng điện thoại di động trên khắp Trung Châu quốc, với giá bán lẻ chỉ bằng 70% so với giá PIN chính hãng của Tomato (vì vậy người dùng có thể mua PIN thay thế khi cần).
+
+Một tháng sau đó, Tomato đã quyết định đàm phán ký ký hợp đồng đầu tiên với 10 triệu viên PIN cho chiếc smarphone hiện tại của họ, và nếu OK thì ngay sau đó sẽ ký luôn 50 triệu PIN cho dòng smarphone thế hệ thứ hai của Tomato.
+
+Và lần lượt các hãng công nghệ lớn khác đang trong quá trình phát triển smarphone riêng của họ cũng liên hệ đàm phán với Summer Light.
+
+Ngoài ra, các chuỗi cửa hàng bán lẻ và cũng bắt đầu đặt hàng.
 
 ---
 
@@ -431,6 +444,10 @@ Mà trước tiên nghiên cứu:
 * khả năng tích hợp các bộ phận.
 
 Summer Light bắt đầu có một hướng nghiên cứu dài hạn mới.
+
+--> Sau hơn 1 năm rưỡi thì đội ngũ kỹ thuật cũng tạo ra được 1 chiếc xe dùng cho demo nội bộ, có thể lái chạy thử trong khuân viên nhà máy. Mặc dù còn nhiều điểm cần cải tiến, nhưng Phong Vũ đã rất hài lòng về kết quả ban đầu. 
+
+Anh không ưu tiên chiếc xe nhiều công nghệ, là cần một chiếc xe cao cấp thuần khiết, với ít option mặc định, nhưng nếu có cái nào thì cái đó là đồ xịn. Ví dụ, KH mua xe về sẽ không phải dán phim cách nhiệt bọc da mới cho nghế, làm thêm cách âm, khử mùi hôi của nhựa, thay lốp hay vành xe, đèn pha, v.v.... Những cái đó đều có sẵn với loại tốt nhất.
 
 ---
 
