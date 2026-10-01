@@ -131,7 +131,7 @@ DANH SÁCH CÁC HỒI (DỰ KIẾN):
 041_Sơn cùng thủy tận:
 	Tuy nhiên, thân đơn thế cô, anh bị Đoàn Bát Thiên ngầm tung khói độc, dù không chết ngay nhưng cũng bị giảm khá nhiều sức chiến đấu. Anh đành rút lui, nhưng lúc này lại xuất hiện những kẻ áo đen bám theo không thôi, đều là cao thủ. Anh bị người ngày càng nặng, mà đối thủ thì càng ngày đuổi theo càng nhiều. Hết đường chạy, anh liều nhảy xuống một vực thẳm phía dưới phủ kín mây mù.
 	
-042_Tiên đơn, Thần dược:
+042_Thanh Vân đạo trưởng:
 	Trong lúc sống chết chưa rõ, bị ngất đi sau cú nhảy, anh may mắn được Thanh Vân Đạo Trưởng cứu giúp. Anh được đạo trưởng cho uống 1 viên đan dược chữa thương, chỉ sau 3 ngày anh đã hồi phục thương tích. Anh vô cùng kích động, muốn bái sư học đạo. Thanh Vân Đạo Trưởng không đồng ý nhận anh làm để tử nhưng vẫn đồng ý để anh lại theo ông tu luyện (như một dạng đệ tử ký danh).
 
 
