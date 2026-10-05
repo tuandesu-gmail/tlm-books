@@ -6,11 +6,17 @@ Nếu dựng theo hướng này, tôi sẽ chia tỷ trọng Hồi 48 khoảng:
 
 ----
 
-Tôi đề xuất tuyến tu luyện của Hồi 48 kéo dài xuyên suốt **4–5 tháng thu–đông**, nhưng không chiếm liên tục cả hồi. Nó xuất hiện thành từng cụm, xen giữa hai tuyến Thanh Thảo và Summer Wind S6. Quan trọng nhất là tuyến này phải có một đường phát triển rõ: **tiếp tục tăng tiến → chạm dấu hiệu bình cảnh → ngộ ra pháp lý sâu hơn → công năng đồng loạt biến đổi → gần 2.000 km → Tử Hà xác nhận Cửu Chân Quyết đã tận → đặt nền Hồi 49.**
+Hồi 48 kéo dài xuyên suốt **4–5 tháng thu–đông**, nhưng không chiếm liên tục cả hồi. Nó xuất hiện thành từng cụm, xen giữa hai tuyến Thanh Thảo và Summer Wind S6. Quan trọng nhất là tuyến này phải có một đường phát triển rõ: **tiếp tục tăng tiến → chạm dấu hiệu bình cảnh → ngộ ra pháp lý sâu hơn → công năng đồng loạt biến đổi → gần 2.000 km → Tử Hà xác nhận Cửu Chân Quyết đã tận → đặt nền Hồi 49.**
 
 ---
 
 # OUTLINE TUYẾN PHONG VŨ TU LUYỆN – HỒI 48
+
+Hồi 48 kéo dài xuyên suốt **4–5 tháng thu–đông**, lúc Phong Vũ 31 tuổi, lúc này đã qua 7-8 tháng tính từ khi Thanh Thảo biết Phong Vũ đã kết hôn với Nhược Vũ.
+
+
+---------
+
 
 ## PHẦN 1 – TRỞ LẠI AM THẤT
 
@@ -555,505 +561,451 @@ Tuyến này nên có một đường phát triển rõ:
 
 # TUYẾN SUMMER WIND S6
 
-## PHẦN 1 – BA CHIẾC XE
+## CỤM I – BA CHIẾC S6 ĐẦU TIÊN
 
-Sau một thời gian dài từ thiết kế trên máy tính, chế tạo thân vỏ, hoàn thiện hệ thống điện và lắp ráp thủ công, Summer Auto cuối cùng cũng hoàn thành **ba chiếc Summer Wind S6 prototype có thể vận hành thực tế**.
+### PHẦN 1 – BA CHIẾC XE
 
-Ba chiếc có màu và cấu hình khác nhau:
+Summer Auto hoàn thành **ba chiếc Summer Wind S6 prototype có đầy đủ chức năng cơ bản và thực sự có thể chạy được**.
 
-- **đen — Base**;
-- **trắng — cấu hình trung gian**;
-- **xám đậm — Full-option**.
+Ba chiếc gồm:
 
-Đây không còn là những chiếc concept chỉ để trưng bày.
+- **S6 đen – Base**
+- **S6 trắng – bản trang bị trung bình**
+- **S6 xám đậm – Full-option**
 
-Cả ba đều có:
+Đây không còn là những mô hình trưng bày.
 
-động cơ điện, pin, hệ thống điều khiển, phanh, lái, treo, điều hòa, đèn, màn hình, kính điện và các chức năng cơ bản cần thiết để một chiếc ô tô thực sự vận hành.
+Chúng có hệ thống pin, động cơ, phanh, lái, điều hòa, đèn, màn hình, hệ thống điện, cửa kính và những chức năng cần thiết để vận hành như một chiếc ô tô thực sự.
 
-Tuy nhiên, đội kỹ thuật nhấn mạnh với Phong Vũ:
+Tuy nhiên chúng vẫn chỉ là prototype chế tạo thủ công.
 
-**chúng có thể chạy, nhưng chưa phải xe có thể bán.**
+Summer Auto chưa hoàn thành:
 
-Hàng loạt thử nghiệm về độ bền, va chạm, pin, thời tiết, chống nước, tương thích điện từ, phần mềm, NVH và chứng nhận vẫn còn ở phía trước.
+- kiểm nghiệm độ bền;
+- thử nghiệm va chạm;
+- thử nghiệm môi trường;
+- chống nước, bụi;
+- EMC;
+- an toàn pin;
+- NVH;
+- phần mềm;
+- chứng nhận và homologation.
+
+Có thể hiểu đơn giản:
+
+**S6 đã là một chiếc ô tô có thể chạy, nhưng chưa phải một chiếc ô tô có thể bán.**
 
 ---
 
-# PHẦN 2 – CHIẾC S6 ĐẦU TIÊN PHONG VŨ LÁI
+### PHẦN 2 – CHIẾC S6 ĐẦU TIÊN PHONG VŨ LÁI
 
-Phong Vũ đến khu thử nghiệm nội bộ của Summer Auto.
+Phong Vũ trở về Bắc Đô.
 
-Anh không chọn chiếc Full-option trước mà lên **chiếc S6 Base màu đen**.
+Anh trực tiếp lái cả ba chiếc S6 trong khuôn viên và khu thử nghiệm nội bộ của Summer Auto.
 
-Điều anh muốn xem là:
+Chiếc anh dành nhiều thời gian quan sát nhất ban đầu lại là **S6 Base màu đen**.
 
-> Nếu bỏ phần lớn những trang bị đắt tiền đi, bản thân chiếc xe còn đủ tốt hay không?
+Bởi đây là phiên bản ít dựa vào những vật liệu và trang bị đắt tiền nhất.
 
-Anh tự lái.
+Nếu bỏ đi những thứ hào nhoáng mà chiếc xe vẫn đẹp, vẫn có khí chất riêng, thiết kế cơ bản của S6 mới thực sự đứng vững.
 
-Ban đầu chỉ chạy chậm quanh khuôn viên, sau đó thử tăng tốc, phanh, đánh lái, quay đầu, chạy qua những đoạn mặt đường khác nhau.
+Phong Vũ không đóng vai kỹ sư toàn năng.
 
-Phong Vũ không cố đóng vai kỹ sư.
+Anh chủ yếu nhìn chiếc xe từ góc độ một người sử dụng:
 
-Anh tập trung vào góc nhìn của một người sử dụng xe:
-
-- vị trí vô-lăng;
+- vị trí màn hình;
 - tầm nhìn;
-- độ cao màn hình;
-- tư thế ngồi;
-- cảm giác chân ga và chân phanh;
-- vị trí tựa tay;
-- thao tác điều hòa;
-- số bước cần thực hiện trên giao diện;
-- tiếng đóng cửa;
-- cảm giác khi xe tăng tốc và giảm tốc.
+- vô-lăng;
+- ghế;
+- bệ tỳ tay;
+- độ thuận tiện khi lên xuống;
+- phản ứng bàn đạp;
+- cảm giác đóng cửa;
+- số bước để sử dụng những chức năng thường ngày.
 
-Có những thứ nhìn trên bản thiết kế rất đẹp nhưng khi thực sự ngồi vào lại không thuận tay.
-
-Anh ghi lại từng điểm.
-
-Đội kỹ thuật nhận danh sách rồi tự phân tích nguyên nhân và phương án chỉnh sửa.
+Những vấn đề kỹ thuật cụ thể được chuyển lại cho đội ngũ kỹ sư xử lý.
 
 ---
 
-# PHẦN 3 – BASE KHÔNG ĐƯỢC LÀ “BẢN RẺ”
+### PHẦN 3 – BA PHIÊN BẢN VẪN PHẢI LÀ MỘT CHIẾC S6
 
-Sau khi lái cả ba chiếc, Phong Vũ đặc biệt quay lại chiếc Base.
+Phong Vũ lần lượt lái bản Base, bản trang bị trung bình và Full-option.
 
-Anh không muốn khách hàng bước vào S6 Base rồi lập tức cảm thấy:
+Trang bị khác nhau.
 
-**đây là chiếc xe dành cho người không đủ tiền mua bản cao hơn.**
+Vật liệu khác nhau.
 
-Base có thể ít option hơn, vật liệu không đắt bằng Full-option, nhưng những thứ thuộc về bản chất S6 phải được giữ:
+Trải nghiệm tiện nghi khác nhau.
 
-- tỷ lệ ngoại thất;
-- ngôn ngữ thiết kế;
-- cảm giác lái;
-- ghế ngồi cơ bản;
-- độ hoàn thiện;
-- những chức năng thiết yếu;
-- nhận diện Summer Wind.
+Nhưng anh yêu cầu cả ba phải khiến người lái cảm thấy mình đang ngồi trong **cùng một Summer Wind S6**.
 
-Ba phiên bản phải khiến người lái cảm thấy mình đang lái **cùng một chiếc S6**, chỉ khác mức trang bị.
+Bản Base không được tạo cảm giác như một chiếc xe rẻ tiền cố tình bị cắt xén.
 
-Đây cũng là lúc Phong Vũ cùng đội thiết kế tiếp tục chỉnh một số chi tiết vật lý trên prototype.
+Full-option cũng không được dùng những chi tiết phô trương để che lấp thiết kế căn bản.
 
 ---
 
-# PHẦN 4 – NHỮNG LẦN QUAY LẠI BẮC ĐÔ
+### PHẦN 4 – NHỮNG LẦN TRỞ LẠI BẮC ĐÔ
 
-Phần này có thể được chia nhỏ và xen với tuyến tu luyện.
+Trong những tháng tiếp theo, Phong Vũ vẫn qua lại giữa quá trình tu luyện và công việc tại Bắc Đô.
 
-Phong Vũ trở lại chỗ Thanh Vân tu luyện Cửu Chân Quyết.
+Mỗi lần trở về, ba chiếc prototype lại có một số thay đổi.
 
-Sau một thời gian, anh lại về Bắc Đô.
+Có những vấn đề nhìn trên CAD không thấy.
 
-Prototype đã thay đổi.
+Có những thứ chỉ khi ngồi vào xe thật mới nhận ra.
 
-Một số vấn đề anh từng chỉ ra đã được chỉnh:
+Có những thay đổi tưởng nhỏ nhưng ảnh hưởng trực tiếp đến cảm giác sử dụng.
 
-màn hình thấp hơn một chút, ghế thay đổi đệm, phản ứng chân ga được hiệu chỉnh, một số thao tác trên giao diện được rút ngắn...
-
-Anh lại lái.
-
-Lại phát hiện vài điểm mới.
-
-Sau đó lại rời đi.
-
-Cách viết này giúp độc giả cảm nhận S6 **được hoàn thiện trong nhiều tháng**, chứ không phải Phong Vũ lái một vòng rồi chiếc xe lập tức hoàn hảo.
+Ba chiếc S6 vì thế tiếp tục được sửa đổi trong quá trình thử nghiệm.
 
 ---
 
-# PHẦN 5 – BỘ SẠC MINI
+# CỤM II – KHÔNG CHỈ BÁN MỘT CHIẾC XE
 
-Trong quá trình chuẩn bị phương án thương mại, một vấn đề luôn được nhắc tới:
+## PHẦN 5 – NĂM GIỜ
 
-**khách mua xe điện sẽ sạc ở đâu?**
+Một trong những vấn đề lớn nhất của xe điện là:
 
-Summer Auto quyết định mỗi chiếc S6 bán ra đều được cung cấp **một bộ sạc mini tiêu chuẩn**.
+**Khách hàng sẽ sạc ở đâu?**
 
-Với nguồn điện đáp ứng yêu cầu, bộ sạc có thể đưa pin lên **trên 90% trong khoảng năm giờ**.
+Summer Auto quyết định mỗi chiếc S6 bán ra đều đi kèm **bộ sạc mini tiêu chuẩn**, không phải trang bị tùy chọn.
 
-Phong Vũ nhìn vấn đề rất đơn giản:
+Với nguồn điện đáp ứng yêu cầu, bộ sạc này có thể đưa pin lên trên 90% trong khoảng **5 giờ**.
 
-người dùng bình thường không thể mua một chiếc ô tô rồi ngày nào cũng phải đi tìm trạm sạc.
+Mục đích chủ yếu:
 
-Nếu tối về có thể cắm sạc, sáng hôm sau sử dụng tiếp, phần lớn nhu cầu hằng ngày đã được giải quyết.
-
----
-
-# PHẦN 6 – BA MƯƠI PHÚT
-
-Nhưng sạc tại nhà không giải quyết được đường dài.
-
-Summer Auto trình bày kế hoạch xây dựng **mạng lưới trạm sạc công cộng công suất cao**.
-
-Mục tiêu của hệ thống:
-
-> khoảng **30 phút để pin đạt khoảng 90%** trong điều kiện tiêu chuẩn.
-
-Giai đoạn đầu không cố phủ kín mọi thành phố.
-
-Summer Auto ưu tiên **các trạm dừng nghỉ trên những tuyến cao tốc quan trọng**, thông qua hợp tác với đơn vị đang vận hành trạm nghỉ và lắp đặt các cụm sạc tại đó.
-
-Phong Vũ có thể nhìn bản đồ các tuyến đường.
-
-Logic rất rõ:
-
-Trong thành phố có thể sạc chậm.
-
-Trên cao tốc mới là nơi người lái không thể chờ năm giờ.
+- sạc tại nhà;
+- sạc tại nơi làm việc;
+- sạc qua đêm.
 
 ---
 
-# PHẦN 7 – NĂM PHÚT
+## PHẦN 6 – BA MƯƠI PHÚT
 
-Summer Auto còn đang nghiên cứu một phương án tham vọng hơn:
+Summer Auto đồng thời chuẩn bị hệ thống sạc nhanh công cộng.
 
-**đổi toàn bộ cụm pin.**
+Giai đoạn đầu ưu tiên:
 
-S6 ngay từ kiến trúc ban đầu đã tính tới khả năng tháo lắp cụm pin dưới gầm.
+**các trạm nghỉ trên những tuyến cao tốc và quốc lộ lớn.**
 
-Xe được nâng lên.
+Không nhất thiết Summer Auto phải tự xây cả trạm nghỉ.
 
-Kỹ thuật viên mở khóa cụm pin, tháo pin đang sử dụng, đưa một bộ pin đã được sạc trên 90% vào rồi khóa lại.
+Công ty có thể hợp tác với đơn vị đang vận hành trạm nghỉ và đầu tư khu vực sạc.
 
-Các thử nghiệm nội bộ đã đưa thời gian xuống khoảng:
+Mục tiêu của trạm sạc công suất lớn:
+
+**khoảng 30 phút để đưa pin lên xấp xỉ 90% trong điều kiện tiêu chuẩn.**
+
+---
+
+## PHẦN 7 – NĂM PHÚT
+
+Summer Auto còn thử nghiệm một giải pháp khác:
+
+**đổi pin.**
+
+Ngay từ đầu, cấu trúc S6 đã tính đến khả năng tháo nhanh cụm pin dưới sàn.
+
+Hệ thống prototype đã đủ hoàn thiện để kỹ thuật viên thực hiện:
+
+xe vào vị trí → nâng xe → tháo cụm pin → đưa pin đã sạc trên 90% vào → khóa và kiểm tra → hạ xe.
+
+Toàn bộ quá trình hướng tới khoảng:
 
 **5 phút.**
 
-Phong Vũ trực tiếp quan sát một lần thử.
+Summer Auto chưa tuyên bố hệ thống đã sẵn sàng thương mại hóa.
 
-Điều anh quan tâm không chỉ là làm được một lần, mà là:
+Công ty vẫn phải thử nghiệm độ bền cơ cấu khóa, đầu nối, an toàn, số lần tháo lắp và rất nhiều vấn đề khác.
 
-**có thể làm hàng nghìn lần mà vẫn an toàn hay không?**
+Nhưng hệ thống đã đủ để **trình diễn công khai**.
 
-Đội kỹ thuật chưa thể trả lời chắc chắn.
-
-Vì vậy Summer Auto quyết định có thể **trình diễn công nghệ**, nhưng chưa tuyên bố hệ thống đổi pin đã sẵn sàng thương mại hóa.
-
-Mục tiêu chi phí sau này cũng được đặt ra:
-
-**chi phí năng lượng cho khách hàng chỉ khoảng một nửa so với tiền xăng cho quãng đường tương đương.**
+Chi phí đổi pin trong tương lai được định hướng ở mức tương đương khoảng **một nửa chi phí xăng cho cùng quãng đường**, tính theo lượng năng lượng bổ sung cùng phí dịch vụ.
 
 ---
 
-# PHẦN 8 – TRIỂN LÃM Ô TÔ BẮC ĐÔ
+# CỤM III – CHUẨN BỊ CHO TRIỂN LÃM BẮC ĐÔ
 
-Giữa mùa đông, triển lãm ô tô thường niên Bắc Đô chuẩn bị khai mạc.
+## PHẦN 8 – BA CÂU HỎI CỦA KHÁCH HÀNG
 
-Đây là một triển lãm lớn.
+Khi kế hoạch tham dự triển lãm ô tô thường niên Bắc Đô được xác định, Thanh Thảo tham gia sâu vào quá trình chuẩn bị.
 
-Hầu hết những thương hiệu ô tô nổi tiếng quốc tế đều xuất hiện. Trung Châu Quốc cũng có gần hai mươi hãng xe trong nước tham dự.
+Với vai trò **Phó tổng giám đốc Summer Light phụ trách Quan hệ khách hàng/Marketing**, cô không can thiệp vào kỹ thuật.
 
-Nhưng trong kỳ triển lãm này:
+Điều cô quan tâm là khách hàng sẽ hỏi gì.
 
-> **Summer Auto là hãng duy nhất mang tới ô tô thuần điện.**
+Ba câu hỏi liên tục xuất hiện:
 
-Summer Auto quyết định mang **cả ba chiếc S6** tới.
+— Tôi mua xe điện rồi sạc ở đâu?
 
-Chiếc xám đậm Full-option được đặt ở vị trí trung tâm.
+— Phải chờ bao lâu?
 
-Chiếc trắng đại diện cho cấu hình vừa phải.
+— Nếu đi đường dài thì sao?
 
-Chiếc đen Base được đặt ở vị trí mà khách có thể quan sát kỹ, bởi chính nó gắn với một thông tin Summer Auto chuẩn bị công bố.
+Từ đó đội Marketing hình thành một cách truyền đạt rất đơn giản:
 
----
+**5 giờ — sạc tại nhà.**
 
-# PHẦN 9 – TÁM MƯƠI PHẦN TRĂM
+**30 phút — sạc nhanh công cộng.**
 
-Summer Auto công bố định vị giá lần đầu.
-
-Không phải:
-
-“S6 rẻ hơn xe sang 20%.”
-
-Mà rất cụ thể:
-
-> **Giá dự kiến của Summer Wind S6 Base bằng khoảng 80% giá bản Standard của các sedan hạng E thuộc những thương hiệu xe sang hiện nay.**
-
-Giá của cấu hình trung gian và Full-option **chưa được công bố**.
-
-Điều này lập tức trở thành một trong những thông tin được phóng viên chú ý.
-
-Summer Auto đồng thời nói rõ đây vẫn là **giá mục tiêu/dự kiến**. Giá thương mại cuối cùng chỉ được xác nhận khi xe hoàn tất quá trình phát triển và chuẩn bị sản xuất.
+**5 phút — đổi pin trong tương lai.**
 
 ---
 
-# PHẦN 10 – GIAN HÀNG SUMMER AUTO
+## PHẦN 9 – MẪU XE TỪNG XUẤT HIỆN TRƯỚC CÔNG CHÚNG
 
-Ngày đầu tiên, phần lớn người đến vì tò mò.
+S6 không hoàn toàn xa lạ.
 
-Một hãng xe mới.
+Thiết kế nền tảng của nó từng lọt vào **Top 10 vòng chung kết cuộc thi “Design Your Dream Car” dành cho sedan hạng E**.
 
-Ba chiếc xe điện.
+Từ bản thiết kế khi ấy đến prototype hiện tại đã có nhiều thay đổi.
 
-Một thương hiệu vốn được biết đến nhiều hơn bởi công nghệ và pin.
+Nhưng ngôn ngữ thiết kế và những đường nét đặc trưng vẫn còn đủ rõ để những người từng theo dõi cuộc thi có thể nhận ra.
 
-Khách bắt đầu ngồi thử xe, quan sát khoang nội thất, hỏi nhân viên về giá, phạm vi sử dụng, cách sạc và thời gian sạc.
+Summer Auto quyết định không che giấu nguồn gốc này.
 
-Hai con số được nhắc đi nhắc lại:
+Đó trở thành một phần câu chuyện của S6:
 
-**5 giờ ở nhà.**
-
-**30 phút tại trạm sạc nhanh.**
-
-Summer Auto cũng trưng bày bản đồ lộ trình mạng lưới sạc, trước mắt tập trung vào các trạm dừng nghỉ cao tốc.
-
-Sang buổi chiều, những bài báo và hình ảnh đầu tiên bắt đầu xuất hiện.
-
-Lượng người tìm tới gian hàng tăng lên.
+**một thiết kế từng được công chúng bình chọn giờ đã trở thành chiếc xe thực sự có thể lăn bánh.**
 
 ---
 
-# PHẦN 11 – NĂM PHÚT TRƯỚC MẮT MỌI NGƯỜI
+## PHẦN 10 – GIÁ
 
-Summer Auto bố trí khu vực riêng để trình diễn **đổi pin trực tiếp**.
+Summer Auto xác định định vị giá ban đầu.
 
-Mỗi ngày có **ba lượt**.
+Mức giá mục tiêu của **S6 Base** vào khoảng:
 
-Tổng cộng ba ngày triển lãm là **chín lần trình diễn**.
+**80% giá bản Standard của những sedan hạng E thuộc các thương hiệu xe sang tương đương trên thị trường.**
 
-Một chiếc S6 chạy vào.
+Đây chỉ là mức giá dự kiến.
 
-Kỹ thuật viên đưa xe lên hệ thống nâng.
+Giá bản trang bị trung bình và Full-option chưa được chốt vì còn phụ thuộc cấu hình cuối cùng và chi phí sản xuất.
 
-Cụm pin được tháo xuống.
+Thanh Thảo yêu cầu thông điệp này phải được truyền đạt chính xác, tránh để truyền thông biến thành:
 
-Một bộ pin khác đã được sạc trên 90% được đưa vào.
-
-Xe hạ xuống.
-
-Hệ thống được kiểm tra.
-
-Màn hình trên xe hiển thị mức pin mới.
-
-Đồng hồ bấm giờ hiện khoảng **năm phút**.
-
-Không phải chín lần đều cho ra một con số giống hệt nhau. Có lượt nhanh hơn, có lượt chậm hơn một chút.
-
-Nhưng quan trọng nhất là:
-
-**phóng viên nhìn thấy tận mắt.**
-
-Sau những màn trình diễn đầu tiên, video bắt đầu lan rộng.
-
-Đến các suất sau, khu vực trình diễn ngày càng đông.
+> “S6 chỉ có giá bằng 80% xe sang.”
 
 ---
 
-# PHẦN 12 – GIỮ CHỖ
+## PHẦN 11 – GIỮ CHỖ VÀ MỘT CUỘC KHẢO SÁT
 
-Summer Auto mở hệ thống reservation trên website.
+Summer Auto chuẩn bị website cho phép khách hàng giữ chỗ S6.
 
-Khách trả:
+Mức giữ chỗ:
 
 **3.000 Kim Tệ.**
 
-Khoản tiền này **được hoàn lại nếu sau này khách không mua xe**.
+Khách hàng có thể rút lại toàn bộ nếu sau này không mua.
 
-Nếu mua, khách đã giữ chỗ được:
+Nếu mua xe, người giữ chỗ được hưởng:
 
-> **giảm 10% so với giá niêm yết của cấu hình mình lựa chọn.**
+**10% giảm giá trên giá niêm yết thực tế của phiên bản họ lựa chọn.**
 
-Khách chưa cần quyết định Base, cấu hình trung gian hay Full-option ngay lúc giữ chỗ.
+Mỗi cá nhân chỉ được hưởng một suất ưu đãi giữ chỗ cho một chiếc S6.
 
-Mỗi người chỉ được hưởng **một suất ưu đãi đặt trước**, tránh một cá nhân gom hàng loạt suất.
+Thanh Thảo đề nghị thêm một bảng khảo sát ngắn.
 
-Trong ba ngày triển lãm còn có chương trình rút thăm mỗi ngày dành cho người đã giữ chỗ:
+Cô không muốn Summer Auto chỉ nhìn thấy một con số reservation rất đẹp mà không biết những người phía sau con số ấy thực sự nghĩ gì.
 
-- giải nhất: **một chiếc S6 miễn phí** từ lô sản xuất thương mại đầu tiên;
-- giải nhì: **giảm 50%**;
-- giải ba: **giảm 20%**.
+Khảo sát tập trung vào:
 
-Các giải áp dụng cho xe thương mại sau này, **không phải ba prototype đang trưng bày**.
+- mức độ sẵn sàng mua;
+- thời gian dự kiến mua;
+- phiên bản quan tâm;
+- khoảng giá chấp nhận;
+- mục đích sử dụng;
+- điều kiện sạc.
 
----
-
-# PHẦN 13 – SURVEY
-
-Ngay trong quá trình giữ chỗ, khách phải hoàn thành một survey ngắn.
-
-Summer Auto không chỉ muốn biết:
-
-**Có bao nhiêu người nhấn nút đặt xe?**
-
-Họ muốn biết:
-
-**Có bao nhiêu người thực sự có khả năng mua?**
-
-Survey hỏi những nội dung như:
-
-- nếu chất lượng và giá thương mại đúng như dự kiến, mức độ sẵn sàng mua;
-- thời điểm dự kiến mua;
-- cấu hình quan tâm;
-- khoảng ngân sách chấp nhận được;
-- nhu cầu sử dụng;
-- điều kiện sạc;
-- khu vực sinh sống.
-
-Dữ liệu này sau đó còn được dùng để dự báo cơ cấu Base/Mid/Full-option và quy hoạch mạng sạc.
+Dữ liệu này sẽ giúp Summer Auto đánh giá nhu cầu thực, cơ cấu phiên bản và nhu cầu hạ tầng.
 
 ---
 
-# PHẦN 14 – MỘT TRĂM NGHÌN
+## PHẦN 12 – NGƯỜI MẪU XE
 
-Ngày đầu, số reservation đã vượt xa dự báo nội bộ.
+Phòng Marketing ban đầu vẫn tìm kiếm người mẫu chuyên nghiệp cho triển lãm.
 
-Ngày thứ hai, báo chí bắt đầu đăng dày hơn.
+Người đẹp không khó tìm.
 
-Đặc biệt, hình ảnh **S6 đổi pin trong khoảng năm phút** xuất hiện trên truyền hình và các trang tin ô tô.
+Nhưng sau khi xem thử, một nhân viên Marketing nhận thấy một vấn đề.
 
-Lượng truy cập website tăng mạnh.
+Những cô gái ấy đẹp, biết tạo dáng, biết mỉm cười trước máy ảnh.
 
-Ngày thứ ba còn cao hơn ngày thứ hai.
+Nhưng đặt cạnh S6 lại có cảm giác giống những **ma-nơ-canh sống**.
 
-Khi triển lãm kết thúc:
+Khách hàng hỏi về xe, họ không thể trả lời.
 
-> **Summer Wind S6 đã vượt 100.000 lượt giữ chỗ.**
+Phóng viên hỏi về chiến lược, họ phải gọi nhân viên Summer Auto.
 
-Summer Auto không gọi đó là 100.000 xe đã bán.
+Người nhân viên này bất ngờ đề xuất:
 
-Tiền giữ chỗ vẫn có thể hoàn lại.
+**không thuê người mẫu bên ngoài.**
 
-S6 thậm chí còn chưa hoàn tất chứng nhận để được bán ra thị trường.
+Anh cho rằng Summer Light đã có những người thích hợp hơn:
 
----
+**Hứa Mẫn Nghi.**
 
-# PHẦN 15 – TRIỂN LÃM ĐÃ KẾT THÚC, LƯỢT TRUY CẬP VẪN TĂNG
+**Tô Thanh Thảo.**
 
-Đây là chỗ tôi nghĩ rất quan trọng để tránh cảm giác thành công chỉ tồn tại trong ba ngày triển lãm.
+**Trịnh Thanh Trúc.**
 
-Sau khi triển lãm đóng cửa, các bài báo và video vẫn tiếp tục lan truyền.
+Ba nữ lãnh đạo đều có ngoại hình cực kỳ nổi bật.
 
-Người ở những tỉnh thành khác bắt đầu biết tới S6.
+Quan trọng hơn, họ không chỉ có thể đứng cạnh S6 mà còn có thể trực tiếp nói chuyện với khách hàng và báo giới.
 
-Ngày sau, lượng truy cập website lại cao hơn ngày trước.
+Ý tưởng ban đầu khiến cả phòng họp hơi bất ngờ.
 
-Các chủ đề được bàn luận nhiều nhất xoay quanh:
-
-**giá Base**,  
-**xe điện**,  
-**sạc 30 phút**,  
-**đổi pin 5 phút**,  
-và **ưu đãi 10% cho người giữ chỗ**.
-
-Con số reservation tiếp tục tăng.
+Cuối cùng nó được chấp thuận.
 
 ---
 
-# PHẦN 16 – NĂM TRĂM NGHÌN
+# CỤM IV – TRIỂN LÃM Ô TÔ BẮC ĐÔ
 
-Đến **ngày thứ mười kể từ khi mở hệ thống giữ chỗ**:
+## PHẦN 13 – HÃNG XE ĐIỆN DUY NHẤT
 
-> **Summer Wind S6 vượt 500.000 lượt reservation.**
+Triển lãm khai mạc giữa mùa đông.
 
-Số tiền Summer Auto đang nắm từ khoản giữ chỗ đã vượt:
+Hầu hết những thương hiệu ô tô lớn trên thế giới đều có mặt.
 
-> **1,5 tỷ Kim Tệ.**
+Trung Châu cũng có gần hai mươi hãng xe nội địa tham dự.
 
-Nhưng nội bộ không tính nó thành doanh thu.
+Nhưng trong kỳ triển lãm này:
 
-Đây là tiền có thể phải hoàn lại.
+**Summer Auto là hãng duy nhất mang tới một dòng xe thuần điện.**
 
-Phong Vũ không quá chú ý tới con số 1,5 tỷ.
-
-Anh quan tâm survey.
-
-Kết quả cho thấy:
-
-> **hơn 30% người giữ chỗ trả lời rằng họ chắc chắn sẽ mua nếu chất lượng xe thương mại và mức giá thực tế đúng như Summer Auto dự kiến.**
-
-Tức ít nhất khoảng:
-
-> **150.000 khách hàng có ý định mua rất mạnh.**
-
-Ngoài ra còn một lượng lớn chọn “khả năng cao”, nhưng Summer Auto không cộng tất cả những người đó thành doanh số tương lai.
+Chỉ riêng điều đó đã khiến gian hàng Summer Auto trở thành một địa điểm mà truyền thông chuyên ngành khó bỏ qua.
 
 ---
 
-# PHẦN 17 – KHÔNG PHẢI TẤT CẢ ĐỀU MUỐN LÁI S6
+## PHẦN 14 – BA NỮ NGƯỜI MẪU XE
 
-Đội phân tích cũng chỉ ra một vấn đề.
+Sau lễ khai mạc, Mẫn Nghi phát biểu với tư cách Tổng giám đốc Summer Light.
 
-Trong hơn nửa triệu reservation chắc chắn tồn tại một nhóm nhỏ **đầu cơ**.
+Sau đó cô không rời sân khấu ngay.
 
-Họ muốn sử dụng quyền mua giảm 10%, nhận xe trong những lô đầu rồi bán lại khi:
+Ba chiếc S6 được đặt cạnh nhau.
 
-- Summer Auto không giao kịp;
-- thời gian chờ mua mới kéo dài;
-- hoặc ưu đãi đặt trước đã hết.
+**Mẫn Nghi.**
 
-Survey không thể phát hiện chính xác nhóm này, bởi họ cũng có thể chọn “chắc chắn mua”.
+**Thanh Thảo.**
 
-Summer Auto vì vậy càng không coi **30%** là một tỷ lệ chuyển đổi chắc chắn.
+**Thanh Trúc.**
 
-Phong Vũ không chủ trương cấm khách bán lại chiếc xe sau khi đã mua.
+Ba nữ lãnh đạo đứng cạnh ba chiếc xe trong khoảng **30 phút đầu buổi sáng khai mạc**.
 
-Nhưng Summer Auto giữ nguyên nguyên tắc:
+Ban đầu nhiều người tưởng đây chỉ là phần chụp ảnh lưu niệm của ban lãnh đạo.
 
-> **một cá nhân chỉ được hưởng một suất ưu đãi reservation.**
+Sau đó họ mới nhận ra:
 
----
+ba người thực sự đang thay thế những người mẫu xe thông thường.
 
-# PHẦN 18 – VẤN ĐỀ ĐÃ ĐỔI
+Ống kính bắt đầu dồn về phía Summer Auto.
 
-Phần cuối của tuyến S6 không nên kết bằng báo chí ca ngợi hay Phong Vũ đứng nhìn thành tựu.
+Điều đặc biệt là khi phóng viên hoặc khách hàng hỏi, những “người mẫu” này có thể lập tức trả lời về:
 
-Nên trở lại một phòng họp Summer Auto.
+- Summer Light;
+- S6;
+- giá;
+- chính sách giữ chỗ;
+- chiến lược khách hàng;
+- quá trình thương mại hóa.
 
-Trên màn hình:
+Sau 30 phút, Mẫn Nghi trở lại công việc của Tổng giám đốc Summer Light.
 
-**500.000+ reservation.**
-
-Bên cạnh là:
-
-**30%+ chắc chắn mua nếu sản phẩm đạt dự kiến.**
-
-Phong Vũ hỏi về **công suất sản xuất năm đầu**.
-
-Sau đó lần lượt là pin, motor, linh kiện, dây chuyền, kiểm nghiệm, nhà cung cấp và tiến độ xây dựng trạm sạc.
-
-Con số 500.000 lúc này không còn khiến căn phòng phấn khích như vài ngày trước.
-
-Nếu chỉ riêng nhóm trả lời “chắc chắn mua” đã vượt 150.000 người, kế hoạch ban đầu của Summer Auto phải được xem xét lại.
-
-Có thể để Thanh Trúc hoặc người phụ trách Summer Auto nói:
-
-— Nếu tỷ lệ chuyển đổi thực tế gần với survey, công suất chúng ta dự kiến ban đầu không đủ.
-
-Phong Vũ nhìn bảng tiến độ một lúc rồi hỏi:
-
-— Nếu tăng công suất, khâu nào sẽ trở thành nút thắt đầu tiên?
-
-Người phụ trách sản xuất kéo một tập tài liệu về phía mình.
-
-— Pin.
-
-Phong Vũ đưa mắt sang phía ông ta.
-
-— Nói tiếp đi.
-
-**Dừng cảnh ở đây.**
-
-Cách kết này vừa tự nhiên, vừa không dùng câu tổng kết của tác giả, đồng thời mở được tuyến công nghiệp hóa S6 cho Hồi 49–50.
+Thanh Thảo và Thanh Trúc tiếp tục lịch triển lãm.
 
 ---
 
-## Cách xen tuyến này vào toàn bộ Hồi 48
+## PHẦN 15 – BA MƯƠI PHÚT MỖI BUỔI
 
-Tôi **không khuyến nghị đặt 18 phần trên liên tục**. Khi ghép với hai tuyến còn lại, có thể chia S6 thành bốn cụm:
+Trong ba ngày triển lãm, Thanh Thảo và Thanh Trúc dành:
 
-**Cụm I — Prototype:** Phần 1–4  
-→ xen với giai đoạn Phong Vũ từ >1.300 km tiến lên khoảng 1.500–1.600 km và Thanh Thảo bắt đầu trở lại trạng thái tự nhiên.
+**30 phút đầu buổi sáng**  
+và  
+**30 phút đầu buổi chiều**
 
-**Cụm II — Hệ sinh thái năng lượng:** Phần 5–7  
-→ xen với lúc Phong Vũ ngộ ra tầng pháp lý sâu hơn của Cửu Chân Quyết và quan hệ với Thanh Thảo chuyển biến thêm.
+để xuất hiện cạnh những chiếc S6.
 
-**Cụm III — Triển lãm:** Phần 8–14  
-→ đây là **cao trào chính của tuyến S6**, có thể dành nhiều dung lượng nhất. Thanh Thảo với tư cách Phó tổng giám đốc cũng hoàn toàn có thể xuất hiện tự nhiên trong giai đoạn này, nhờ vậy tuyến S6 và tuyến “tri kỷ Tô Thanh Thảo” không bị tách thành hai câu chuyện độc lập.
+Hai người không đứng cạnh xe cả ngày như người mẫu chuyên nghiệp.
 
-**Cụm IV — Hậu triển lãm:** Phần 15–18  
-→ 500.000 reservation, survey >30%, đầu cơ, áp lực sản xuất. Sau đó có thể trở lại tuyến tu luyện để đi đến cuộc luận pháp với Thanh Vân và Tử Hà.
+Ngoài những khoảng thời gian ấy, họ trở lại công việc:
 
-Như vậy **30–35% dung lượng S6** không chỉ là “ra mắt một mẫu xe”, mà có đủ ba nhịp: **làm ra sản phẩm → chứng minh sản phẩm → thị trường phản ứng và tạo ra một bài toán lớn hơn cho Summer Auto**.
+- tiếp báo chí;
+- họp với nhân viên;
+- quan sát phản ứng khách hàng;
+- xử lý truyền thông;
+- kiểm tra website;
+- theo dõi reservation;
+- tiếp các đối tác kinh doanh.
+
+Sang ngày thứ hai, nhiều khách và phóng viên đã biết trước giờ hai người xuất hiện.
+
+Khu vực S6 bắt đầu đông lên ngay trước mỗi khung 30 phút.
+
+---
+
+## PHẦN 16 – NĂM PHÚT TRƯỚC MẮT MỌI NGƯỜI
+
+Trong cả ba ngày, Summer Auto thực hiện:
+
+**3 lần đổi pin công khai mỗi ngày.**
+
+Tổng cộng:
+
+**9 lần.**
+
+Một chiếc S6 chạy vào.
+
+Đồng hồ bắt đầu.
+
+Xe được nâng lên.
+
+Pin được tháo xuống.
+
+Cụm pin đã sạc trên 90% được đưa vào.
+
+Kỹ thuật viên kiểm tra.
+
+Xe hạ xuống và tự chạy ra.
+
+Thời gian dao động quanh **5 phút**.
+
+Không phải lần nào cũng giống hệt nhau.
+
+Chính điều đó càng khiến buổi trình diễn có cảm giác đây là một hệ thống prototype thực sự chứ không phải màn biểu diễn được dựng sẵn.
+
+Video đổi pin nhanh chóng xuất hiện trên các kênh truyền thông và vlog.
+
+---
+
+## PHẦN 17 – GIAN HÀNG KHÔNG THỂ BỎ QUA
+
+Summer Auto có cùng lúc ba yếu tố đặc biệt.
+
+Thứ nhất:
+
+**hãng xe điện đầu tiên và duy nhất tại triển lãm.**
+
+Thứ hai:
+
+**Summer Wind S6 có thiết kế cực kỳ nổi bật, đồng thời một số người nhận ra nó từng nằm trong Top 10 “Design Your Dream Car” của dòng sedan hạng E.**
+
+Thứ ba:
+
+**ba nữ lãnh đạo cấp cao của Summer Light trực tiếp xuất hiện như người mẫu xe.**
+
+Hàng trăm phóng viên, tạp chí, đài truyền hình và vlogger có mặt tại triển lãm gần như đều tìm được ít nhất một câu chuyện để làm về Summer Auto.
+
+Có đơn vị làm nhiều nội dung:
+
+- review S6;
+- đổi pin 5 phút;
+- xe điện;
+- mức giá dự kiến;
+- câu chuyện từ cuộc thi thiết kế đến prototype;
+- ba nữ lãnh đạo Summer Light.
+
+Trong khi đó, không ít hãng xe khác tại triển lãm thậm chí không được một đơn vị truyền thông nào dành riêng một bài.
+
+---
