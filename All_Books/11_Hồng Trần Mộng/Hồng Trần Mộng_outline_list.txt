@@ -181,28 +181,30 @@ DANH SÁCH CÁC HỒI (DỰ KIẾN):
 	
 050_Hồ lô tiên nhân:
 	Khi theo học Tử Hà Chân Nhân, Phong Vũ được chứng kiến nhiều phép thuật phi thường (giống hệt trong phim Tây Du Ký). Điều này khiến anh khảng định thần thoại không phải là bịa đặt. Ví dụ đơn giản như một cái hồ lô nhỏ của Tử Hà Chân Nhân, nhìn có vẻ chỉ được được 1 lít nước, nhưng lại có thể hút nước cạn cả một con suối trên Trung Sơn Lĩnh mà vẫn chưa đầy.
+
+051_Chiếc xe điện đầu tiên:
+	Anh quay về Bắc Đô khi không còn vị Đạo sư hay Cao tăng nào tỏ ý muốn truyền dày điều gì cho anh nữa. Anh dành thời gian cho Cty. Anh đề xuất sản xuất xe điện, vì anh thấy giờ công ty đã đủ tiềm lực để tạo ra một sản phầm mới. Anh không muốn mình trở thành kẻ chạy theo như khi làm SmartPhone.
 	
-051_Tiểu thiên thế giới:
+052_Tiểu thiên thế giới:
 	Tử Hà Chân Nhân còn dẫn Phong Vũ đến một thế giới khác mà theo lời Tử Hà Chân Nhân thì thực ra thế giới đó chính là ở trong chiếc hồ lô của ông.
 	
-052_Cẩn đẩu vân:
+053_Cẩn đẩu vân:
 	Quan khoảng 1 năm tu luyện theo Tử Hà Chân Nhân, Phong Vũ đã tu thành nhiều phép thuật, trong đó có độn thổ, biến hóa, và "cân đẩu vân" (như của Tôn Ngộ Không), có thể chịu được lạnh/nóng, có thê xuống dưới biển.
 
-053_Vấn Thiên Đỉnh:
+054_Vấn Thiên Đỉnh:
 	Sau khi tu thành "cân đẩu vân", anh lần đầu bay lên được Vấn Thiên Đỉnh (đỉnh núi cao nhất của  Trung Sơn Lĩnh, cao hơn 1 vạn mét, quanh năm băng tuyết và mây phủ, máy bay trực thăng cũng không lên được vì thời thiết khắc nhiệt và thiếu ô xi)
 	
 	Lên đến Vấn Thiên Đỉnh anh mới thấy nó hùng vĩ và bí hiểm thế nào. Nơi đó hoàn toàn không chỉ đơn thuần là một đỉnh núi tuyết như người ta vẫn nghĩ, mà trên đó thực sự hình thành một tiểu thế giới riêng, nơi chỉ có những bậc tu hành đạt được thành tựu như Phong Vũ trở lên mới có tư cách sống ở đó.
 	
 	
-054_Tầm sư học đạo:	
+055_Tầm sư học đạo:	
 	Anh gặp được nhiều vị Đạo sư và Cao tăng có đạo hạnh không kém gì Tử Hà Chân Nhân (thậm chí có một số vị còn cao hơn vì Tử Hà Chân Nhân còn tỏ ra rất cung kính với những người đó). Nhưng họ đều nói rằng họ không có đạo pháp cao hơn để dạy anh, bảo anh đi nơi khác tìm.
 	
 	Phép thuật "Cân đẩu vân" của anh ngày một được nâng cao, anh có thể du ngoại lên Mặt Trăng và được đến nhiều tiểu thế giới của giới tu luyện.
 	
 	Nhưng trong một lần gặp một vị Đạo sư, ông ấy nói với anh là một Đại Pháp cao thâm sắp xuất hiện ở nhân gian hồng trần, chứ không phải ở trên Vấn Thiên Đỉnh hay những nơi hẻo lánh. Bảo anh hãy về thế gian mà tìm.
 	
-055_Chiếc xe điện đầu tiên:
-	Anh quay về Bắc Đô khi không còn vị Đạo sư hay Cao tăng nào tỏ ý muốn truyền dày điều gì cho anh nữa. Anh dành thời gian cho Cty. Anh đề xuất sản xuất xe điện, vì anh thấy giờ công ty đã đủ tiềm lực để tạo ra một sản phầm mới. Anh không muốn mình trở thành kẻ chạy theo như khi làm SmartPhone.
+
 	
 056_Trở lại ĐH Thanh Châu:
 	Năm 33 tuổi anh trở lại thăm ĐH Thanh Châu theo lời mời của vị hiệu trưởng. Anh được mời diễn thuyết trước toàn thể hơn 2 vạn sinh (và nghiên cứu sinh) đang ngồi kín dưới sân vận động của trường. Bài diễn thuyết nhận được sự tán thưởng nhiệt liệt.
