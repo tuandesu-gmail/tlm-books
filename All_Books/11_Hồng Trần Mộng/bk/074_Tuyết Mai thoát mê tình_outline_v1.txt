@@ -1,0 +1,959 @@
+# HỒNG TRẦN MỘNG
+
+# HỒI 74 – TUYẾT MAI THOÁT MÊ TÌNH
+
+Outline chi tiết – Bản tái cấu trúc V2.0
+
+Hồi 74 tiếp nối hôn lễ của Phong Vũ và Nhược Vũ, đồng thời giải quyết một câu chuyện gia đình đã kéo dài qua nhiều hồi: cuộc hôn nhân tan vỡ giữa Tuyết Mai và Bối Minh.
+
+Hai tuyến truyện có dung lượng tương đương, nhưng không đan xen liên tục. Toàn hồi được chia thành 4 chặng lớn, 40 phần, chỉ chuyển tuyến 3 lần.
+
+Chặng I – Tuyết Mai
+
+Phần 1–10
+
+Những cuộc gặp sau ly hôn, tình cảm chưa dứt, suy ngẫm về nhân duyên và nghiệp quả.
+
+Chặng II – Phong Vũ & Nhược Vũ
+
+Phần 11–20
+
+Cuộc sống sau hôn lễ, đến Summer Light, quy mô tập đoàn, Summer Auto và quyết định làm đại diện thương hiệu.
+
+Chặng III – Tuyết Mai
+
+Phần 21–30
+
+Đối thoại thẳng thắn, quyết định trở về, Tiểu Hoa đoàn tụ với cha mẹ, thử thách trong những ngày đầu chung sống.
+
+Chặng IV – Phong Vũ & Nhược Vũ
+
+Phần 31–40
+
+Quay phim quảng cáo Wind S9, phân cảnh cổ trang, công bố video, hiệu ứng truyền thông và cuộc sống sau chiến dịch.
+
+## I. Thông tin nền và nguyên tắc triển khai
+
+| Hạng mục                  | Thiết lập                                    |
+| ------------------------- | -------------------------------------------- |
+| Thời gian                 | Mùa hè năm 2016, vài tháng sau hôn lễ Hồi 73 |
+| Phong Vũ                  | 35 tuổi                                      |
+| Nhược Vũ                  | 30 tuổi                                      |
+| Tiểu Hoa                  | 6 tuổi                                       |
+| Tuyến Tuyết Mai           | 20 phần, khoảng 50% dung lượng               |
+| Tuyến Phong Vũ – Nhược Vũ | 20 phần, khoảng 50% dung lượng               |
+| Tổng cộng                 | 40 phần, 10 cụm, 4 chặng                     |
+| Số lần chuyển tuyến       | 3 lần                                        |
+
+Nguyên tắc quan trọng:
+
+- Không dùng năm dương lịch trong chính văn nếu không thực sự cần thiết. Các mốc năm chỉ để kiểm soát niên biểu trong outline.
+- Tuyết Mai thoát mê tình không có nghĩa cô không còn yêu Bối Minh, mà là không còn bị oán trách, chiếm hữu và tâm lý được mất chi phối.
+- Bối Minh phải thừa nhận trách nhiệm trong cuộc hôn nhân tan vỡ; việc Tú Anh lừa dối không xóa bỏ sai lầm của anh.
+- Phong Vũ không can thiệp vào điều hành thường nhật của Summer Light và Summer Auto.
+- Văn hóa doanh nghiệp chỉ được nhắc như một công việc cần tổng kết sau hơn ba năm nghiên cứu. Toàn bộ thảo luận chuyên sâu để sang Hồi 75.
+- Không sử dụng thần thông trong những cảnh quay quảng cáo hay hoạt động kinh doanh.
+
+# CHẶNG I – TUYẾT MAI: NHỮNG RÀNG BUỘC CỦA TÌNH
+
+Phần 1–10 · Hai cụm · Khoảng 25% toàn hồi
+
+## CỤM I – NHỮNG NGƯỜI TỪNG LÀ GIA ĐÌNH
+
+### PHẦN 1 – NHỮNG NGÀY CUỐI TUẦN
+
+Mở đầu tại nhà Tuyết Mai, trong một buổi sáng cuối tuần.
+
+Tuyết Mai đang chuẩn bị quần áo và những món đồ cần thiết cho Tiểu Hoa. Bối Minh sẽ đến đón con gái về thăm ông bà nội, như hai người đã thỏa thuận từ trước.
+
+Tiểu Hoa rất vui, liên tục hỏi mẹ bao giờ cha đến. Tuyết Mai vừa giúp con chuẩn bị vừa nhắc cô bé mang theo những đồ dùng cần thiết.
+
+Khi Bối Minh xuất hiện, không khí giữa hai người khá bình thường. Anh hỏi thăm tình hình học tập và sinh hoạt của Tiểu Hoa, đồng thời hỏi vài câu về công việc của Tuyết Mai tại trung tâm dạy toán.
+
+Tuyết Mai trả lời tự nhiên, không cố tỏ ra lạnh nhạt.
+
+Bối Minh đã chấm dứt hoàn toàn quan hệ với Tú Anh. Chuyện kết quả xét nghiệm ADN mà anh kể trước hôn lễ Phong Vũ vẫn còn trong trí nhớ Tuyết Mai, nhưng cô không chủ động nhắc lại.
+
+Hai cha con rời đi.
+
+Tuyết Mai trở vào nhà, tiếp tục những việc còn dang dở. Cuộc sống của cô vẫn diễn ra như thường lệ, nhưng sự xuất hiện của Bối Minh không còn khiến tâm trạng cô xáo trộn như trước.
+
+### PHẦN 2 – MỘT NGƯỜI CHA VẪN CÒN Ở ĐÓ
+
+Chuyển góc nhìn sang Bối Minh trong cùng tuyến gia đình.
+
+Anh đưa Tiểu Hoa về thăm ông bà nội, dành phần lớn thời gian chơi cùng con.
+
+Tiểu Hoa kể chuyện ở trường, chuyện học toán, những điều thú vị trong sinh hoạt hằng ngày. Bối Minh lắng nghe và hỏi han.
+
+Có thể đưa vào một tình huống nhỏ cho thấy anh đang cố gắng trở thành người cha có trách nhiệm hơn: tự chuẩn bị bữa ăn, giúp con làm một bài tập hoặc dành cả buổi chiều đưa con đi chơi thay vì giao cho ông bà.
+
+Cha mẹ Bối Minh thấy con trai quan tâm Tiểu Hoa hơn trước. Họ có thể nhắc đến Tuyết Mai, nhưng không nên biến cuộc trò chuyện thành cảnh cả nhà bàn cách thuyết phục cô quay lại.
+
+Bối Minh thừa nhận rằng anh vẫn mong được đoàn tụ, song hiểu rằng quyết định ấy thuộc về Tuyết Mai.
+
+### PHẦN 3 – NHỮNG LỜI NÓI ĐÃ KHÁC XƯA
+
+Bối Minh đưa Tiểu Hoa trở về đúng giờ.
+
+Trong lúc cô bé vào nhà cất đồ, anh trao đổi với Tuyết Mai về một số việc liên quan đến con gái.
+
+Tuyết Mai nhận thấy cách nói chuyện của Bối Minh đã thay đổi. Anh không còn cố gắng giải thích hoặc biện hộ cho những chuyện đã xảy ra mỗi khi gặp cô.
+
+Trước khi ra về, Bối Minh hỏi liệu cuối tuần sau cả hai có thể cùng đưa Tiểu Hoa đi chơi hay không.
+
+Anh nói cô bé từng nhắc đến điều ấy vài lần.
+
+Tuyết Mai hơi do dự. Cô chưa muốn tạo ra kỳ vọng quá lớn cho con, nhưng cũng không thấy cần phải từ chối.
+
+Cô đồng ý với điều kiện chỉ đơn giản là cùng đưa Tiểu Hoa đi chơi, không biến buổi gặp thành một cuộc nói chuyện về chuyện tái hợp.
+
+### PHẦN 4 – MỘT CUỐN SÁCH VÀ NHỮNG KÝ ỨC
+
+Buổi tối, sau khi Tiểu Hoa ngủ, Tuyết Mai dành thời gian đọc 《Đại Đạo Luận》.
+
+Từ khi bắt đầu tu luyện Đại Đạo Quy Chân Pháp, cô đã dần thay đổi cách nhìn nhận nhiều vấn đề trong cuộc sống.
+
+Cô nhớ lại cuộc hôn nhân với Bối Minh.
+
+Những năm đầu chung sống từng có rất nhiều kỷ niệm tốt đẹp. Hai người cùng chăm sóc Tiểu Hoa, cùng xây dựng gia đình, từng có những dự định cho tương lai.
+
+Sau đó là sự xuất hiện của Tú Anh, những hiểu lầm, sự phản bội và cuối cùng là ly hôn.
+
+Trước kia, mỗi khi nghĩ đến chuyện ấy, Tuyết Mai thường chỉ nhớ những điều khiến mình đau lòng.
+
+Bây giờ, cô bắt đầu nhìn lại toàn bộ quá trình một cách bình tĩnh hơn.
+
+Cô nhận ra Bối Minh đã mắc sai lầm, nhưng cũng không thể phủ nhận anh từng thật lòng yêu thương mình và con gái.
+
+Điều khiến cô băn khoăn là liệu bản thân còn đang giữ những chấp trước nào đối với cuộc hôn nhân đã qua.
+
+### PHẦN 5 – MỘT BUỔI ĐI CHƠI CỦA BA NGƯỜI
+
+Đúng hẹn, Bối Minh đến đón Tuyết Mai và Tiểu Hoa.
+
+Ba người đưa cô bé đến một công viên hoặc khu vui chơi ở Bắc Đô.
+
+Tiểu Hoa rất hào hứng vì lần này có cả cha lẫn mẹ.
+
+Trong suốt buổi đi chơi, Bối Minh tập trung chăm sóc con. Anh không cố tạo ra những tình huống riêng tư với Tuyết Mai, cũng không liên tục nhắc đến chuyện quay lại.
+
+Hai người phối hợp khá tự nhiên trong việc trông Tiểu Hoa.
+
+Khi cô bé chạy chơi, Tuyết Mai và Bối Minh có dịp ngồi nghỉ bên nhau. Họ trao đổi về việc học của con, công việc của mỗi người và những chuyện bình thường trong cuộc sống.
+
+Tuyết Mai nhận ra họ vẫn có thể nói chuyện như những người từng rất hiểu nhau.
+
+Buổi đi chơi kết thúc tốt đẹp. Tiểu Hoa vui đến mức trên đường về vẫn liên tục kể lại những điều mình thích nhất.
+
+## CỤM II – NHÂN DUYÊN VÀ NGHIỆP QUẢ
+
+### PHẦN 6 – CHUYỆN CŨ TRONG LỜI NGƯỜI KHÁC
+
+Tuyết Mai gặp một người quen từng biết chuyện ly hôn.
+
+Người ấy hỏi thăm tình hình Bối Minh, rồi nhắc lại chuyện Tú Anh với thái độ bất bình.
+
+Trước đây, Tuyết Mai có thể sẽ cùng người ấy kể lại những chuyện khiến mình tổn thương.
+
+Lần này, cô chỉ nói rằng mọi việc đã qua, bản thân không muốn tiếp tục bàn luận.
+
+Người quen khá ngạc nhiên trước sự thay đổi của cô.
+
+Sau cuộc gặp, Tuyết Mai tự hỏi vì sao trước kia mình luôn cảm thấy cần có người đứng về phía mình, xác nhận rằng mình đúng còn Bối Minh và Tú Anh sai.
+
+Cô hiểu rằng việc phân biệt đúng sai vẫn cần thiết, nhưng liên tục tìm kiếm sự đồng tình để nuôi dưỡng oán trách lại là một chuyện khác.
+
+### PHẦN 7 – NHỮNG MÓN NỢ KHÔNG NHÌN THẤY
+
+Tuyết Mai tiếp tục suy ngẫm về nhân duyên và nghiệp quả.
+
+Cô nhớ đến những điều đã đọc trong sách tu luyện: quan hệ giữa người với người có thể không đơn giản như những gì nhìn thấy trong một đời.
+
+Có lúc cô tự hỏi phải chăng trong một đời nào đó, chính mình từng làm điều có lỗi với Bối Minh hoặc Tú Anh, nên đời này mới gặp những chuyện như vậy.
+
+Tuy nhiên, cô không biết sự thật.
+
+Cần thể hiện rõ đây chỉ là suy đoán của nhân vật, không phải lời xác nhận rằng quá khứ ấy thực sự tồn tại.
+
+Tuyết Mai cũng hiểu rằng không thể lấy nghiệp quả làm lý do để phủ nhận trách nhiệm của con người trong hiện tại.
+
+Điều cô có thể làm là xem xét tâm mình: còn oán hận hay không, còn muốn trả đũa hay không, còn mong người khác phải chịu khổ để bản thân cảm thấy công bằng hay không.
+
+### PHẦN 8 – TÌNH CẢM CHƯA TỪNG MẤT HẾT
+
+Trong một lần gặp Bối Minh để trao đổi về Tiểu Hoa, hai người có dịp trò chuyện lâu hơn.
+
+Bối Minh hỏi thăm công việc của Tuyết Mai tại trung tâm dạy toán. Anh biết cô vẫn duy trì hoạt động của trung tâm và khá bận rộn.
+
+Tuyết Mai cũng hỏi về công việc hiện tại của anh.
+
+Cuộc trò chuyện không có gì đặc biệt, nhưng sau khi Bối Minh rời đi, cô nhận ra mình vẫn quan tâm đến cuộc sống của anh.
+
+Cô tự hỏi nếu Bối Minh không còn là chồng mình, tại sao bản thân vẫn muốn biết anh có sống tốt hay không.
+
+Cuối cùng, Tuyết Mai không còn cố phủ nhận một điều: cô vẫn còn tình cảm với Bối Minh.
+
+Nhưng cô cũng hiểu rằng tình cảm ấy không nhất thiết phải quyết định tất cả. Nếu muốn quay lại, cô cần suy nghĩ về trách nhiệm, sự tin tưởng và tương lai của Tiểu Hoa.
+
+### PHẦN 9 – MỘT BỨC TRANH CỦA TIỂU HOA
+
+Một buổi tối, Tiểu Hoa khoe với mẹ bức tranh mới vẽ.
+
+Trong tranh có một ngôi nhà, ba người đứng bên nhau và vài chi tiết trẻ con rất ngộ nghĩnh.
+
+Tuyết Mai hỏi cô bé đang vẽ ai.
+
+Tiểu Hoa chỉ vào từng người: cha, mẹ và mình.
+
+Cô bé nói muốn sau này cả ba cùng đi chơi, cùng ăn cơm và cùng ở trong một ngôi nhà.
+
+Tuyết Mai không lập tức hứa hẹn. Cô chỉ nhẹ nhàng trò chuyện với con, hỏi về những điều cô bé thích.
+
+Sau khi Tiểu Hoa ngủ, Tuyết Mai nhìn lại bức tranh.
+
+Cô nhận ra những mong muốn của con rất giản dị, nhưng để thực hiện được, hai người lớn phải thực sự giải quyết những vấn đề giữa mình.
+
+### PHẦN 10 – MỘT CƠ HỘI CÓ THỂ CÂN NHẮC
+
+Tuyết Mai gặp Bối Minh thêm một lần nữa.
+
+Trong cuộc trò chuyện, Bối Minh thừa nhận anh vẫn mong được xây dựng lại gia đình.
+
+Anh không ép Tuyết Mai trả lời, cũng không lấy mong muốn của Tiểu Hoa làm lý do gây áp lực.
+
+Tuyết Mai hỏi anh có thực sự hiểu vì sao cuộc hôn nhân trước đây tan vỡ hay không.
+
+Bối Minh không đổ hết lỗi cho Tú Anh. Anh thừa nhận mình đã thiếu tỉnh táo, đưa ra những quyết định sai lầm và làm tổn thương người thân.
+
+Tuyết Mai lắng nghe.
+
+Cô chưa nhận lời quay lại, nhưng cũng không còn xem đó là chuyện hoàn toàn không thể.
+
+Kết thúc chặng I bằng việc Tuyết Mai bắt đầu nghiêm túc cân nhắc một cơ hội mới cho gia đình.
+
+# CHẶNG II – PHONG VŨ VÀ NHƯỢC VŨ: MỘT VAI TRÒ MỚI
+
+Phần 11–20 · Ba cụm · Khoảng 25% toàn hồi
+
+## CỤM III – NGÔI NHÀ SƯỜN ĐỒI VÀ SUMMER LIGHT
+
+### PHẦN 11 – CUỘC SỐNG SAU HÔN LỄ
+
+Chuyển tuyến lần thứ nhất.
+
+Mở đầu bằng một buổi sáng tại ngôi nhà sườn đồi phía tây Bắc Đô.
+
+Phong Vũ và Nhược Vũ đã sống cùng nhau được vài tháng.
+
+Ngôi nhà hai tầng rộng khoảng 500 m² nằm trên khu đất gần 10 ha, xung quanh có cây xanh và ao cá Koi. Sau khi Nhược Vũ chuyển đến, một số không gian sinh hoạt được sắp xếp lại, nhưng phong cách đơn giản của ngôi nhà vẫn được giữ nguyên.
+
+Hai người duy trì việc tu luyện Đại Đạo Quy Chân Pháp, đọc sách, trò chuyện và sinh hoạt thường ngày.
+
+Phong Vũ không còn phải dành nhiều thời gian cho Summer Light như trước. Phần lớn công việc điều hành đã do Thanh Trúc và ban lãnh đạo phụ trách.
+
+Nhược Vũ cảm thấy cuộc sống hiện tại rất tốt, nhưng sau một thời gian, cô muốn tìm thêm một công việc có ích ngoài việc ở nhà.
+
+Cô chia sẻ suy nghĩ ấy với chồng.
+
+### PHẦN 12 – NHƯỢC VŨ MUỐN LÀM VIỆC
+
+Phong Vũ hỏi Nhược Vũ muốn làm công việc gì.
+
+Cô từng học cổ cầm nhiều năm, có hiểu biết về văn hóa truyền thống, nhưng không có nhiều kinh nghiệm làm việc trong doanh nghiệp hiện đại.
+
+Phong Vũ không muốn cô nhận một chức vụ chỉ vì là phu nhân Chủ tịch.
+
+Anh nhớ đến Ban Văn hóa doanh nghiệp do Thanh Thảo phụ trách.
+
+Nhiều năm trước, anh từng giao cho Thanh Thảo nhiệm vụ nghiên cứu văn hóa doanh nghiệp trong thời gian ba năm. Đến nay đã hơn ba năm, có lẽ cũng đến lúc tổng kết để xác định hướng đi phù hợp.
+
+Phong Vũ cho rằng Nhược Vũ có thể đến tìm hiểu, học hỏi và hỗ trợ một số công việc liên quan đến văn hóa truyền thống.
+
+Nhược Vũ thấy hứng thú.
+
+Hai người quyết định cùng đến trụ sở Summer Light.
+
+### PHẦN 13 – TRỤ SỞ SUMMER LIGHT
+
+Phong Vũ đưa Nhược Vũ đến khu trụ sở tập đoàn.
+
+Đây là dịp giới thiệu ngắn gọn quy mô Summer Light ở thời điểm hiện tại.
+
+Thiết lập trụ sở:
+
+- Nằm trong một khu công nghệ cao do chính phủ quy hoạch tại Bắc Đô.
+- Summer Light mua khu đất rộng 360.000 m², tương đương 36 ha.
+- Các tòa nhà chính cao 36 tầng.
+- Một số tòa nhà khác cao từ 10 đến 20 tầng.
+- Toàn bộ khu trụ sở có ba tầng hầm đỗ xe, đủ phục vụ toàn bộ nhân viên làm việc thường xuyên tại đây.
+- Trên mặt đất chỉ bố trí vài trăm chỗ đỗ xe dành cho khách.
+- Phần lớn không gian mặt đất được dành cho các tòa nhà, quảng trường, cây xanh, đường nội bộ và lối đi bộ.
+
+Tổng số nhân viên của Summer Light hiện đã vượt 120.000 người, phân bố tại nhiều chi nhánh, nhà máy và cơ sở kinh doanh khác nhau. Nhân sự làm việc tại trụ sở chỉ là một phần trong tổng số ấy.
+
+Khi xe tiến vào khuôn viên, Nhược Vũ quan sát những tòa nhà hiện đại và không gian rộng lớn xung quanh.
+
+Cô đã biết Summer Light là một tập đoàn khổng lồ, nhưng đây là lần đầu tiên trực tiếp đến nơi làm việc của chồng.
+
+Phong Vũ không cần giải thích dài dòng về thành tựu của mình. Anh chỉ giới thiệu vài khu vực chính trước khi đưa cô đến gặp Thanh Trúc và Thanh Thảo.
+
+### PHẦN 14 – GẶP THANH TRÚC VÀ THANH THẢO
+
+Phong Vũ và Nhược Vũ gặp Trịnh Thanh Trúc, Phó Chủ tịch điều hành, cùng Thanh Thảo, Phó tổng giám đốc kiêm Trưởng ban Văn hóa doanh nghiệp.
+
+Hai người hỏi thăm cuộc sống sau hôn lễ.
+
+Phong Vũ giới thiệu mong muốn của Nhược Vũ: cô muốn tìm một công việc phù hợp tại Summer Light, trước hết là học hỏi và tham gia những hoạt động liên quan đến văn hóa.
+
+Thanh Thảo vui vẻ đón nhận.
+
+Cô giải thích rằng Ban Văn hóa doanh nghiệp không chỉ tổ chức những hoạt động mang tính hình thức mà còn nghiên cứu cách văn hóa ảnh hưởng đến hoạt động của một tập đoàn lớn.
+
+Nhược Vũ nói rõ mình chưa có kinh nghiệm quản trị doanh nghiệp, nhưng sẵn lòng bắt đầu từ những công việc cơ bản.
+
+Thanh Thảo đề nghị cô tham gia với vai trò nghiên cứu, quan sát và hỗ trợ các hoạt động liên quan đến văn hóa truyền thống.
+
+Không cần đặt cho Nhược Vũ một chức vụ quản lý cao.
+
+### PHẦN 15 – MỘT CUỘC TỔNG KẾT SAU HƠN BA NĂM
+
+Thanh Thảo nhắc đến chương trình nghiên cứu văn hóa doanh nghiệp do Phong Vũ giao từ Hồi 47.
+
+Sau hơn ba năm, Ban Văn hóa doanh nghiệp đã tích lũy được nhiều tài liệu, kết quả khảo sát và những nhận thức mới.
+
+Thanh Thảo cho rằng đã đến lúc tổ chức một cuộc tổng kết chính thức, đánh giá toàn bộ quá trình nghiên cứu để lựa chọn hướng đi phù hợp cho Summer Light.
+
+Phong Vũ đồng ý.
+
+Anh nói không cần vội đưa ra khẩu hiệu hoặc kết luận chỉ để hoàn thành nhiệm vụ. Điều quan trọng là phải hiểu rõ thực trạng và xác định được điều gì thực sự có ích cho doanh nghiệp.
+
+Thanh Thảo sẽ chuẩn bị cuộc tổng kết trong thời gian tới.
+
+Nhược Vũ có thể tham gia tìm hiểu tài liệu và dự các buổi trao đổi.
+
+Dừng nội dung văn hóa doanh nghiệp tại đây. Không trình bày kết quả nghiên cứu hay các phương án cụ thể. Phần thảo luận chính chuyển sang Hồi 75.
+
+## CỤM IV – SUMMER AUTO BƯỚC VÀO GIAI ĐOẠN MỚI
+
+### PHẦN 16 – GẦN BỐN NĂM PHÁT TRIỂN
+
+Sau khi trao đổi về công việc của Nhược Vũ, cuộc trò chuyện chuyển sang tình hình kinh doanh của Summer Light.
+
+Thanh Trúc nhắc đến Summer Auto, một trong những mảng đang phát triển rất nhanh.
+
+Summer Auto thành lập gần bốn năm, nhưng đã xây dựng được danh mục sản phẩm tương đối hoàn chỉnh.
+
+Các dòng sedan gồm Wind S3, S4, S6, S8; các dòng SUV gồm Wind Y3, Y4, Y6, Y8.
+
+Trong đó, S8 và Y8 thuộc phân khúc xe sang, tương đương vị thế Mercedes-Benz S500.
+
+Bốn nhà máy hiện tại có tổng công suất thiết kế khoảng 3,5 triệu xe mỗi năm.
+
+Năm trước, doanh số riêng tại thị trường Trung Châu đã vượt hai triệu xe.
+
+Thanh Trúc nói Summer Auto đang chuẩn bị bước vào giai đoạn mở rộng mới, không chỉ ở thị trường nội địa mà còn hướng đến xuất khẩu.
+
+### PHẦN 17 – MỤC TIÊU MƯỜI TRIỆU XE
+
+Thanh Trúc giới thiệu ngắn gọn kế hoạch phát triển đã được ban lãnh đạo Summer Auto xây dựng.
+
+Trong ba năm tới, công ty dự kiến xây thêm ba nhà máy tại Trung Châu, mỗi nhà máy có công suất thiết kế một triệu xe mỗi năm.
+
+Khi hoàn thành, Summer Auto sẽ có bảy nhà máy trong nước, tổng công suất thiết kế 6,5 triệu xe/năm.
+
+Công ty cũng chuẩn bị đưa xe ra thị trường quốc tế.
+
+Nếu hoạt động xuất khẩu phát triển thuận lợi, Summer Auto sẽ cân nhắc xây dựng các nhà máy ở nước ngoài để phục vụ thị trường quốc tế. Chưa có quyết định cụ thể về địa điểm và số lượng.
+
+Mục tiêu chiến lược là khi Summer Auto tròn mười năm thành lập, doanh số toàn cầu vượt mười triệu xe mỗi năm, đưa hãng vào nhóm ba nhà sản xuất ô tô lớn nhất Lam Tinh.
+
+Phong Vũ lắng nghe, trao đổi vài câu về tính khả thi của kế hoạch.
+
+Anh hiểu rằng công suất thiết kế không đồng nghĩa với sản lượng thực tế, càng không đồng nghĩa với doanh số.
+
+Đây là mục tiêu dài hạn do Thanh Trúc và đội ngũ quản lý xây dựng, không phải một mệnh lệnh do Phong Vũ đột ngột đưa ra.
+
+### PHẦN 18 – WIND S9 VÀ BA ỨNG VIÊN ĐẠI DIỆN
+
+Thanh Trúc nói Summer Auto đang chuẩn bị ra mắt mẫu sedan siêu sang Wind S9.
+
+S9 được định vị cao hơn S8, tương đương phân khúc Mercedes-Maybach, nhưng chưa bước vào tầng thương hiệu như Bentley.
+
+Ban lãnh đạo muốn xây dựng hình ảnh thương hiệu phù hợp với sản phẩm mới và kế hoạch xuất khẩu.
+
+Vì vậy, bộ phận marketing đã tiến hành tuyển chọn người đại diện.
+
+Sau khi cân nhắc nhiều ca sĩ, diễn viên, người mẫu, vận động viên và những nhân vật nổi tiếng khác, danh sách được rút xuống còn ba người:
+
+David: Cầu thủ bóng đá nổi tiếng thế giới, có sức ảnh hưởng quốc tế rất lớn, đặc biệt trong cộng đồng yêu bóng đá.
+
+Vương Hạo: Nam diễn viên nổi tiếng với những bộ phim cổ trang, có hình ảnh và khí chất phù hợp với văn hóa Trung Châu, nhưng độ nhận diện ở nước ngoài còn hạn chế.
+
+Tô Tuyết Linh: Nữ ca sĩ rất được yêu thích trong những năm gần đây, nổi bật với các bản cover nhạc phim cổ trang, song cũng chưa có danh tiếng quốc tế tương xứng.
+
+Summer Auto đã tiếp xúc và thương lượng với cả ba.
+
+Quá trình đàm phán nhìn chung thuận lợi, nhưng mức phí thấp nhất cũng trên 20 triệu Đô la Đại Mỹ. Một số ứng viên chỉ chấp nhận thời hạn sử dụng hình ảnh ba hoặc năm năm, sau đó phải thương lượng gia hạn.
+
+Thanh Trúc và Thanh Thảo muốn nghe nhận xét của Phong Vũ vì anh tình cờ có mặt tại công ty.
+
+## CỤM V – GƯƠNG MẶT ĐẠI DIỆN KHÔNG NGỜ TỚI
+
+### PHẦN 19 – MỘT PHƯƠNG ÁN THỨ TƯ
+
+Phong Vũ xem qua hồ sơ ba ứng viên.
+
+Anh cho rằng chi phí hàng chục triệu Đô la Đại Mỹ tuy không nhỏ nhưng Summer Auto hoàn toàn có thể chấp nhận nếu hiệu quả quảng bá tương xứng.
+
+Tuy nhiên, cả ba đều có hạn chế.
+
+David nổi tiếng toàn cầu, nhưng hình ảnh của anh có thể khiến người tiêu dùng nước ngoài liên tưởng Summer Auto với một thương hiệu phương Tây, trong khi công ty muốn thể hiện rõ bản sắc Trung Châu.
+
+Vương Hạo và Tô Tuyết Linh có hình ảnh phù hợp với văn hóa truyền thống, nhưng độ nổi tiếng quốc tế còn hạn chế.
+
+Ngoài ra, xét về khí chất và hình ảnh tổng thể, Phong Vũ cảm thấy chưa ai thực sự phù hợp với điều anh hình dung cho Wind S9.
+
+Anh không đánh giá thấp tài năng hay phẩm chất của họ, chỉ nhận xét về mức độ phù hợp với thương hiệu.
+
+Thanh Trúc thừa nhận đây là bài toán khó.
+
+Đúng lúc ấy, Thanh Thảo bất ngờ đề xuất:
+
+Tại sao không mời chính Chủ tịch và phu nhân làm gương mặt đại diện Summer Auto?
+
+Phong Vũ và Nhược Vũ đều ngạc nhiên.
+
+Thanh Thảo trình bày lý do:
+
+- Phong Vũ là người sáng lập Summer Light, hiện giàu thứ ba Lam Tinh.
+- Anh nổi tiếng rộng rãi trong giới trung lưu, doanh nhân, tài chính và công nghệ trên phạm vi quốc tế.
+- Xét trong những nhóm khách hàng có khả năng mua Wind S8 hoặc S9, sức ảnh hưởng của anh có thể còn lớn hơn David.
+- Nếu Summer Light tiếp tục tăng trưởng và hai người đứng đầu bảng xếp hạng tỷ phú không có biến động lớn, Phong Vũ có khả năng trở thành người giàu nhất Lam Tinh trong một hai năm tới.
+- Nhược Vũ có phong thái thanh lịch, hiểu biết văn hóa truyền thống và cổ cầm.
+- Hai người là vợ chồng thực sự, đã được công chúng biết đến sau hôn lễ.
+- Hình ảnh của họ gắn với Summer Auto một cách tự nhiên, không bị giới hạn bởi những hợp đồng đại diện ba hoặc năm năm.
+
+Thanh Trúc từ ngạc nhiên chuyển sang suy nghĩ nghiêm túc.
+
+Bà nhận ra phương án này có nhiều lợi thế mà những ứng viên bên ngoài khó có được.
+
+### PHẦN 20 – VỢ CHỒNG PHONG VŨ ĐỒNG Ý
+
+Phong Vũ suy nghĩ một lát rồi mỉm cười.
+
+Từ trước đến nay, anh không chủ động tìm kiếm danh tiếng, nhưng cũng không cố tránh né việc xuất hiện trước công chúng.
+
+Nếu làm đại diện thương hiệu là lựa chọn phù hợp, có ích cho Summer Auto, anh vui vẻ đồng ý.
+
+Trong lòng, anh còn nghĩ rằng khi danh tiếng của mình được biết đến rộng rãi hơn, nhiều người có thể tò mò tìm hiểu những điều anh quan tâm.
+
+Website TheGreatDao.org, nơi anh xây dựng tủ sách Đại Đạo trực tuyến, cũng có thể nhờ vậy mà thu hút thêm độc giả.
+
+Tuy nhiên, anh không có ý định biến quảng cáo ô tô thành hoạt động quảng bá trực tiếp cho website.
+
+Phong Vũ quay sang hỏi ý kiến Nhược Vũ.
+
+Nhược Vũ vừa đến Summer Light, chưa thực sự đóng góp được gì. Cô cảm thấy nếu việc xuất hiện cùng chồng trong quảng cáo có thể giúp ích cho công ty thì mình rất sẵn lòng.
+
+Cô vui vẻ đồng ý.
+
+Thanh Trúc và Thanh Thảo phấn khởi trước quyết định này.
+
+Phong Vũ nhắc rằng đội ngũ marketing vẫn cần đánh giá phương án một cách chuyên nghiệp, xây dựng kế hoạch quay phim, lịch trình và ngân sách phù hợp.
+
+Không nên vì hai vợ chồng anh nhận lời mà bỏ qua các quy trình cần thiết.
+
+Chặng II kết thúc khi Thanh Thảo bắt đầu giao cho đội ngũ marketing xây dựng chiến dịch quảng cáo Wind S9 với hai gương mặt đại diện đặc biệt.
+
+# CHẶNG III – TUYẾT MAI: TRỞ VỀ
+
+Phần 21–30 · Hai cụm · Khoảng 25% toàn hồi
+
+## CỤM VI – BUÔNG BỎ OÁN TRÁCH
+
+### PHẦN 21 – SAU NHỮNG CUỘC GẶP
+
+Chuyển tuyến lần thứ hai.
+
+Một khoảng thời gian đã trôi qua kể từ những cuộc gặp được kể trong chặng I.
+
+Tuyết Mai và Bối Minh vẫn thường xuyên trao đổi về việc chăm sóc Tiểu Hoa.
+
+Hai người đã có thêm vài lần cùng đưa con đi chơi hoặc giải quyết những công việc liên quan đến gia đình.
+
+Mối quan hệ giữa họ dần trở nên tự nhiên hơn.
+
+Tuyết Mai nhận ra Bối Minh không chỉ muốn quay lại bằng lời nói. Anh đang cố gắng thay đổi cách sống, dành nhiều thời gian cho con và tôn trọng cô hơn trước.
+
+Tuy vậy, cô cũng hiểu rằng một vài hành động tốt chưa đủ để chứng minh mọi vấn đề đã được giải quyết.
+
+### PHẦN 22 – CÓ THẬT SỰ MUỐN TRỪNG PHẠT ANH ẤY?
+
+Tuyết Mai tiếp tục suy ngẫm về tâm trạng của mình.
+
+Cô nhận ra trước đây có lúc bản thân không muốn Bối Minh được sống thanh thản.
+
+Dù không chủ động trả đũa, cô vẫn từng mong anh phải hối hận, phải chịu khổ, phải cảm thấy mình đã đánh mất điều quý giá.
+
+Khi bình tĩnh nhìn lại, Tuyết Mai hiểu rằng tâm lý ấy khiến chính mình bị trói buộc vào chuyện cũ.
+
+Cô tự hỏi: nếu Bối Minh thực sự thay đổi, tại sao mình vẫn muốn anh mãi sống trong cảm giác có lỗi?
+
+Đây là bước chuyển quan trọng trong quá trình thoát khỏi mê tình.
+
+Cô không phủ nhận sai lầm của Bối Minh, nhưng bắt đầu buông bỏ mong muốn trừng phạt anh bằng sự lạnh nhạt của mình.
+
+### PHẦN 23 – CHUYỆN CỦA TÚ ANH ĐÃ KHÉP LẠI
+
+Trong một cuộc trò chuyện, Tuyết Mai chủ động hỏi Bối Minh về những vấn đề còn lại liên quan đến Tú Anh.
+
+Bối Minh xác nhận quan hệ giữa anh và Tú Anh đã hoàn toàn chấm dứt.
+
+Anh nhắc lại kết quả xét nghiệm ADN cho thấy đứa trẻ Tú Anh sinh ra không phải con mình.
+
+Tuy nhiên, anh không xem đó là bằng chứng rằng bản thân hoàn toàn vô tội.
+
+Anh thừa nhận đã từng bị lừa dối, nhưng đồng thời cũng có lỗi khi để mối quan hệ ấy phát triển, khiến gia đình tan vỡ.
+
+Tuyết Mai nói cô không muốn tiếp tục truy cứu chuyện cũ, nhưng nếu hai người trở lại thì cần có sự trung thực và tôn trọng lẫn nhau.
+
+Bối Minh đồng ý.
+
+### PHẦN 24 – ĐIỀU TIỂU HOA MONG MUỐN
+
+Một ngày, Tiểu Hoa lại nhắc đến mong muốn được sống cùng cả cha lẫn mẹ.
+
+Lần này, Tuyết Mai hỏi con nhiều hơn về những điều cô bé thích khi ở cùng cha.
+
+Tiểu Hoa kể những chuyện rất nhỏ: được cha đưa đi chơi, được mẹ giúp học bài, cả nhà cùng ăn tối.
+
+Tuyết Mai nhận ra con gái không quan tâm đến những ân oán phức tạp giữa người lớn.
+
+Nhưng cô cũng không muốn chỉ vì con mà đưa ra quyết định thiếu suy nghĩ.
+
+Cô hiểu rằng nếu bản thân và Bối Minh không thể thực sự hòa giải, việc miễn cưỡng sống cùng nhau có thể khiến Tiểu Hoa chịu tổn thương lần nữa.
+
+Vì vậy, cô quyết định cần có một cuộc nói chuyện thẳng thắn với Bối Minh trước khi lựa chọn.
+
+### PHẦN 25 – TÌNH VÀ CHẤP TRƯỚC
+
+Tuyết Mai dành một buổi tối yên tĩnh đọc sách và suy ngẫm.
+
+Cô nhận ra mình vẫn yêu Bối Minh, nhưng tình cảm ấy trước đây đã bị trộn lẫn với nhiều thứ khác: mong muốn được đáp lại, sự ghen tuông, oán trách và tâm lý phải phân định ai được ai mất.
+
+Khi hôn nhân tan vỡ, những tâm lý ấy khiến cô rất khó buông bỏ.
+
+Bây giờ, cô dần hiểu rằng buông bỏ chấp trước không có nghĩa là phải đoạn tuyệt mọi tình cảm gia đình.
+
+Một người vẫn có thể yêu thương chồng con, chăm sóc gia đình và làm tròn trách nhiệm, nhưng không để những tình cảm ấy trở thành sự ràng buộc khiến bản thân mất đi lý trí.
+
+Tuyết Mai quyết định sẽ cho gia đình một cơ hội mới, nếu Bối Minh thực sự sẵn sàng cùng cô xây dựng lại cuộc sống.
+
+## CỤM VII – MỘT GIA ĐÌNH ĐƯỢC HÀN GẮN
+
+### PHẦN 26 – CUỘC TRÒ CHUYỆN QUYẾT ĐỊNH
+
+Tuyết Mai chủ động hẹn Bối Minh.
+
+Hai người gặp nhau ở một nơi yên tĩnh, có đủ thời gian trò chuyện.
+
+Tuyết Mai nói rằng cô đã suy nghĩ rất lâu về những chuyện giữa hai người.
+
+Cô không muốn tiếp tục sống trong oán trách, cũng không muốn vì sĩ diện mà từ chối một cơ hội có thể đem lại hạnh phúc cho cả gia đình.
+
+Cô hỏi Bối Minh liệu anh có thực sự sẵn sàng bắt đầu lại, không chỉ bằng tình cảm mà bằng trách nhiệm lâu dài.
+
+Bối Minh khẳng định mình muốn như vậy.
+
+Anh thừa nhận những sai lầm trước đây, không tìm cách đổ hết trách nhiệm cho Tú Anh.
+
+Tuyết Mai nói cô đồng ý cùng Tiểu Hoa trở về sống với anh.
+
+Bối Minh rất xúc động, nhưng không cần miêu tả quá kịch tính.
+
+Anh hiểu rằng đây không phải phần thưởng cho vài lời xin lỗi, mà là cơ hội để cả hai xây dựng lại gia đình.
+
+### PHẦN 27 – BÁO TIN CHO NGƯỜI THÂN
+
+Tuyết Mai báo quyết định cho cha mẹ và Phong Vũ.
+
+Người thân vui mừng, nhưng cũng có những lo lắng tự nhiên vì biết cuộc hôn nhân trước đây từng đổ vỡ.
+
+Phong Vũ không cố phân tích nghiệp quả hay đưa ra lời khuyên dài dòng.
+
+Anh hỏi em gái đã suy nghĩ kỹ chưa.
+
+Tuyết Mai nói cô đã cân nhắc cả tình cảm của mình, trách nhiệm của Bối Minh và tương lai của Tiểu Hoa.
+
+Phong Vũ tôn trọng quyết định ấy.
+
+Nhược Vũ cũng gửi lời chúc gia đình ba người có thể sống hòa thuận.
+
+Bối Minh thông báo cho cha mẹ mình. Ông bà vui vì sắp được thấy con trai, con dâu và cháu gái đoàn tụ, nhưng không cần tổ chức một sự kiện lớn.
+
+### PHẦN 28 – NGÀY TRỞ VỀ
+
+Tuyết Mai bắt đầu thu xếp đồ đạc.
+
+Cô vẫn tiếp tục điều hành trung tâm dạy toán, không vì trở về nhà chồng mà từ bỏ công việc.
+
+Bối Minh đến giúp hai mẹ con chuyển đồ.
+
+Tiểu Hoa vui mừng khi biết từ nay có thể sống cùng cha mẹ.
+
+Cô bé tự chọn những món đồ chơi, sách vở và đồ dùng muốn mang theo.
+
+Bối Minh chuẩn bị lại không gian sinh hoạt để Tuyết Mai và Tiểu Hoa cảm thấy thoải mái.
+
+Anh hỏi ý kiến Tuyết Mai về cách sắp xếp đồ đạc, không mặc định rằng cô phải thích nghi hoàn toàn với những thói quen cũ của mình.
+
+Kết thúc phần bằng cảnh cả ba cùng bước vào ngôi nhà.
+
+### PHẦN 29 – BỮA CƠM ĐẦU TIÊN
+
+Buổi tối đầu tiên sau khi đoàn tụ.
+
+Bối Minh và Tuyết Mai cùng chuẩn bị bữa cơm.
+
+Tiểu Hoa hào hứng kể chuyện ở trường, hỏi cha mẹ những điều rất bình thường.
+
+Không khí có phần ngượng ngập lúc đầu, bởi hai người lớn đã sống xa nhau một thời gian.
+
+Nhưng những việc nhỏ dần khiến họ cảm thấy gần gũi trở lại.
+
+Trong bữa ăn, Bối Minh chủ động hỏi về lịch làm việc của Tuyết Mai để hai người có thể phân chia việc chăm sóc Tiểu Hoa hợp lý.
+
+Tuyết Mai cũng hỏi về thời gian làm việc của anh.
+
+Cả hai bắt đầu suy nghĩ như những người cùng chung trách nhiệm trong một gia đình, thay vì hai người riêng rẽ đang thay phiên chăm sóc con.
+
+### PHẦN 30 – MỘT CUỘC SỐNG KHÔNG CẦN HOÀN HẢO
+
+Sau khi đoàn tụ, Tuyết Mai và Bối Minh trải qua những ngày đầu chung sống.
+
+Không phải mọi chuyện đều lập tức thuận lợi.
+
+Có thể đưa vào một bất đồng nhỏ liên quan đến lịch đưa đón Tiểu Hoa, việc nhà hoặc một thói quen sinh hoạt.
+
+Tuyết Mai thoáng cảm thấy khó chịu, nhưng cô không để cảm xúc ấy kéo theo những chuyện cũ.
+
+Bối Minh cũng học cách lắng nghe thay vì vội giải thích.
+
+Hai người trao đổi và giải quyết vấn đề.
+
+Qua những chuyện nhỏ, Tuyết Mai nhận ra việc thoát khỏi mê tình không phải một quyết định duy nhất có thể giải quyết tất cả.
+
+Đó là quá trình liên tục xem xét tâm mình trong cuộc sống hằng ngày.
+
+Cô vẫn yêu thương chồng con, nhưng không còn muốn giữ mãi những ân oán đã qua.
+
+Chặng III kết thúc bằng một buổi tối bình thường: Tiểu Hoa ngồi học bài, Bối Minh làm một việc trong nhà, Tuyết Mai chuẩn bị tài liệu cho lớp học hôm sau.
+
+Không cần tuyên bố rằng gia đình đã hoàn toàn hạnh phúc mãi mãi. Chỉ cần cho thấy họ đã thực sự bắt đầu lại.
+
+# CHẶNG IV – PHONG VŨ VÀ NHƯỢC VŨ: GƯƠNG MẶT CỦA SUMMER AUTO
+
+Phần 31–40 · Ba cụm · Khoảng 25% toàn hồi
+
+## CỤM VIII – MỘT ĐOẠN PHIM QUẢNG CÁO KHÁC THƯỜNG
+
+### PHẦN 31 – Ý TƯỞNG CỦA ĐOÀN SẢN XUẤT
+
+Chuyển tuyến lần thứ ba.
+
+Sau khi vợ chồng Phong Vũ đồng ý làm đại diện thương hiệu, bộ phận marketing Summer Auto bắt đầu xây dựng chiến dịch quảng cáo Wind S9.
+
+Đội ngũ sáng tạo đưa ra nhiều phương án.
+
+Một số phương án nhấn mạnh công nghệ và sự sang trọng của chiếc xe. Một số khác muốn khai thác câu chuyện thành công của Phong Vũ hoặc hình ảnh hai vợ chồng trong cuộc sống hiện đại.
+
+Sau nhiều cuộc thảo luận, đoàn sản xuất đề xuất kết hợp hai yếu tố: văn hóa truyền thống Trung Châu và công nghệ hiện đại.
+
+Nhược Vũ có nền tảng cổ cầm, nên có thể thực sự biểu diễn một đoạn nhạc trong quảng cáo.
+
+Từ đó, nhóm sáng tạo phát triển thêm phân cảnh Phong Vũ mặc cổ trang, ôm kiếm đứng trên mái nhà lắng nghe tiếng đàn.
+
+Sau khoảng 20 giây cổ trang, hình ảnh sẽ chuyển sang hiện đại, nơi hai vợ chồng bước đến chiếc Wind S9.
+
+Đoạn phim được định hướng như một tác phẩm điện ảnh ngắn, chứ không chỉ là chuỗi hình ảnh giới thiệu xe.
+
+### PHẦN 32 – KỊCH BẢN VÀ TRANG PHỤC
+
+Đạo diễn và đại diện Summer Auto đến gặp Phong Vũ, Nhược Vũ để trình bày phương án.
+
+Nhược Vũ rất hứng thú với phân cảnh cổ cầm.
+
+Cô góp ý về nhạc cụ, tư thế ngồi đàn, cách đặt tay và trang phục để cảnh quay phù hợp với nghệ thuật cổ cầm truyền thống.
+
+Phong Vũ xem cảnh ôm kiếm trên mái nhà.
+
+Anh cho rằng không cần những động tác võ thuật phức tạp. Một người đứng yên lắng nghe tiếng đàn, nếu tư thế và thần thái phù hợp, đã có thể tạo ra cảm giác rất mạnh.
+
+Đạo diễn giải thích cách thực hiện cảnh quay bằng kỹ thuật điện ảnh thông thường, bảo đảm an toàn.
+
+Hai người thử trang phục cổ trang và hiện đại.
+
+Đội ngũ phục trang nhận thấy Phong Vũ và Nhược Vũ đều rất phù hợp với những thiết kế thanh lịch, không cần trang trí quá cầu kỳ.
+
+### PHẦN 33 – NGÀY QUAY PHIM ĐẦU TIÊN
+
+Đoàn sản xuất bắt đầu với các phân cảnh hiện đại.
+
+Phong Vũ mặc vest, Nhược Vũ lựa chọn trang phục thanh lịch.
+
+Hai người xuất hiện trong những bối cảnh kiến trúc hiện đại, bên cạnh chiếc Wind S9.
+
+Đạo diễn ban đầu khá thận trọng vì cả hai không phải diễn viên chuyên nghiệp.
+
+Ông hướng dẫn những yêu cầu cơ bản: vị trí đứng, hướng nhìn, nhịp bước, cách phối hợp với máy quay và ánh sáng.
+
+Sau vài lần thử, đoàn phim nhận ra hai người thích nghi rất nhanh.
+
+Phong Vũ có phong thái lịch lãm, điềm tĩnh và khí phách tự nhiên.
+
+Nhược Vũ có nét quý phái, thanh nhã, không gượng ép.
+
+Đặc biệt, khi hai người xuất hiện cùng nhau, sự ăn ý của một cặp vợ chồng thực sự giúp cảnh quay rất thuyết phục.
+
+Đạo diễn bắt đầu điều chỉnh góc máy để khai thác tốt hơn thần thái của họ.
+
+### PHẦN 34 – TIẾNG ĐÀN GIỮA LẦU CỔ
+
+Đoàn phim chuyển sang phân cảnh cổ trang.
+
+Bối cảnh được dựng theo phong cách kiến trúc cổ Trung Châu, với mái ngói, hành lang và một không gian thích hợp để đặt cổ cầm.
+
+Nhược Vũ mặc cổ trang, ngồi trước cây đàn.
+
+Cô thực sự chơi một đoạn nhạc ngắn.
+
+Máy quay ghi lại những ngón tay lướt trên dây đàn, nét mặt tập trung và phong thái thanh nhã.
+
+Đạo diễn nhận ra cảnh quay có sức hấp dẫn đặc biệt vì Nhược Vũ không chỉ thực hiện động tác mô phỏng. Cô là người thực sự hiểu nhạc cụ và biết cách biểu diễn.
+
+Đoàn phim quay thêm những góc cận cảnh, trung cảnh và toàn cảnh để phục vụ việc dựng phim.
+
+Âm thanh cổ cầm được thu và xử lý chuyên nghiệp, nhưng vẫn giữ nét tự nhiên của phần biểu diễn.
+
+### PHẦN 35 – NGƯỜI ÔM KIẾM TRÊN MÁI NHÀ
+
+Tiếp tục cảnh cổ trang.
+
+Phong Vũ mặc trang phục cổ trang, ôm thanh kiếm còn nguyên vỏ, đứng trên mái ngói lắng nghe tiếng đàn của Nhược Vũ.
+
+Không cần cảnh giao đấu hay biểu diễn võ thuật.
+
+Đạo diễn yêu cầu anh đứng ở vị trí đã được bố trí an toàn, hơi nghiêng người, hướng ánh mắt về phía tiếng đàn.
+
+Phong Vũ thực hiện rất tự nhiên.
+
+Tư thế của anh vững vàng, ánh mắt bình tĩnh, toàn thân toát ra khí phách của một nhân vật võ hiệp.
+
+Đoàn phim bất ngờ vì một người chưa từng đóng phim lại có thể thể hiện hình tượng này tốt đến vậy.
+
+Đạo diễn nhận xét rằng nếu chỉ nhìn cảnh quay, rất khó tin Phong Vũ không phải diễn viên chuyên nghiệp.
+
+Cảnh quay được hoàn thành mà không cần sử dụng thần thông hay những kỹ thuật biểu diễn nguy hiểm.
+
+## CỤM IX – TỪ CỔ TRANG ĐẾN WIND S9
+
+### PHẦN 36 – HAI THẾ GIỚI TRONG MỘT ĐOẠN PHIM
+
+Đoàn sản xuất tiến hành dựng phim.
+
+Đoạn quảng cáo dự kiến dài khoảng 90–120 giây, trong đó phân cảnh cổ trang chiếm khoảng 20 giây.
+
+Cấu trúc chính:
+
+Mở đầu: Hình ảnh hiện đại, phong thái lịch lãm của hai vợ chồng.
+
+Phân cảnh cổ trang: Nhược Vũ chơi cổ cầm, Phong Vũ ôm kiếm đứng trên mái nhà lắng nghe.
+
+Chuyển cảnh: Tiếng đàn tiếp tục vang lên khi hình ảnh trở về hiện đại.
+
+Phân cảnh Wind S9: Hai người cùng bước đến chiếc xe. Phong Vũ ngồi vào ghế lái, Nhược Vũ ngồi bên cạnh. Chiếc S9 lăn bánh.
+
+Kết thúc: Các góc quay giới thiệu chiếc xe, logo Summer Auto và thông điệp thương hiệu.
+
+Phần nhạc nền kết hợp cổ cầm với hòa âm hiện đại.
+
+Đạo diễn chú trọng tạo cảm giác liền mạch giữa hai không gian, không để đoạn cổ trang trở thành một cảnh rời rạc.
+
+Khi bản dựng đầu tiên hoàn thành, nhiều thành viên đoàn phim nhận xét rằng nếu không biết trước, họ có thể tưởng mình đang xem trailer của một bộ phim mới.
+
+### PHẦN 37 – BUỔI DUYỆT PHIM
+
+Thanh Trúc, Thanh Thảo và đại diện Summer Auto xem bản dựng quảng cáo.
+
+Mọi người hài lòng với chất lượng hình ảnh.
+
+Đặc biệt, Thanh Thảo nhận ra một lợi thế vượt ngoài những gì cô hình dung ban đầu: hai vợ chồng Phong Vũ không chỉ có danh tiếng, mà còn có khả năng xuất hiện trước ống kính rất tốt.
+
+Đạo diễn giải thích rằng hiệu quả đến từ sự kết hợp giữa bối cảnh, trang phục, kỹ thuật quay và phong thái tự nhiên của hai người.
+
+Phong Vũ và Nhược Vũ cũng được mời xem bản dựng.
+
+Nhược Vũ mỉm cười khi nhìn thấy mình trong phân cảnh cổ trang.
+
+Phong Vũ thấy thú vị khi cảnh ôm kiếm trên mái nhà được dựng thành một đoạn phim có khí thế.
+
+Hai người góp vài ý kiến nhỏ, sau đó đồng ý với phương án cuối cùng.
+
+Summer Auto hoàn tất công tác chuẩn bị để công bố chiến dịch quảng cáo Wind S9.
+
+## CỤM X – MỘT QUẢNG CÁO GÂY SỐT TRÊN LAM TINH
+
+### PHẦN 38 – NGÀY CÔNG BỐ WIND S9
+
+Summer Auto chính thức công bố đoạn quảng cáo Wind S9 trên các nền tảng video và những kênh truyền thông lớn.
+
+Ngay từ đầu, sự xuất hiện của vợ chồng Phong Vũ đã thu hút sự chú ý.
+
+Một số người xem vì quan tâm đến mẫu xe mới. Những người khác tò mò muốn biết ông chủ Summer Light và phu nhân sẽ thể hiện thế nào trong quảng cáo.
+
+Nhưng khi xem, khán giả bất ngờ trước chất lượng hình ảnh.
+
+Phong Vũ và Nhược Vũ xuất hiện lịch lãm, quý phái, tự nhiên, có khí chất khác thường.
+
+Đặc biệt, đoạn cổ trang khoảng 20 giây khiến nhiều người tưởng mình đang xem trailer phim.
+
+Nhược Vũ chơi cổ cầm trong khung cảnh cổ kính.
+
+Phong Vũ ôm kiếm đứng trên mái nhà lắng nghe tiếng đàn.
+
+Sau đó, tiếng đàn nối sang khung cảnh hiện đại, hai người bước đến chiếc Wind S9 và Phong Vũ ngồi vào ghế lái.
+
+Sự chuyển đổi bất ngờ khiến nhiều khán giả thích thú.
+
+Các bình luận đầu tiên bắt đầu xuất hiện, rồi số lượt xem và chia sẻ tăng nhanh.
+
+### PHẦN 39 – HỌ KHÔNG PHẢI DIỄN VIÊN
+
+Đoạn quảng cáo nhanh chóng trở thành chủ đề được bàn luận trên nhiều nền tảng.
+
+Những đoạn cắt từ phân cảnh cổ trang được chia sẻ rộng rãi.
+
+Có người hỏi tên bộ phim, có người muốn tìm bản nhạc cổ cầm, có người đề nghị hai nhân vật chính tham gia một bộ phim cổ trang thực sự.
+
+Nhưng điều khiến video gây sốt không chỉ là chất lượng nghệ thuật.
+
+Hai nhân vật chính không phải diễn viên đang đóng vai một đôi vợ chồng giàu có, mà chính là ông chủ và phu nhân của Summer Light ngoài đời thực.
+
+Phong Vũ là người sáng lập một trong những tập đoàn công nghệ lớn nhất Lam Tinh, tỷ phú giàu thứ ba thế giới.
+
+Nhược Vũ là phu nhân của anh, đồng thời thực sự có nền tảng cổ cầm và văn hóa truyền thống.
+
+Công chúng vốn quen nhìn thấy Phong Vũ qua các bài báo kinh tế, phỏng vấn doanh nghiệp và những sự kiện lớn.
+
+Giờ đây, họ nhìn thấy anh trong trang phục cổ trang, ôm kiếm trên mái nhà với khí phách như một nhân vật võ hiệp.
+
+Một số bình luận tiêu biểu:
+
+— Tôi cứ tưởng Summer Auto mời hai diễn viên nổi tiếng. Hóa ra là vợ chồng Trần Phong Vũ thật sao?
+
+— Một tỷ phú giàu thứ ba Lam Tinh mà mặc cổ trang lại hợp đến thế?
+
+— Đoạn phu nhân chơi cổ cầm đẹp quá. Cô ấy thực sự biết chơi đàn à?
+
+— Đây là quảng cáo xe hay trailer phim mới vậy?
+
+— Điều đặc biệt nhất là hai người này không phải diễn viên. Họ thực sự là ông chủ và phu nhân Summer Light!
+
+Các trang tin giải trí, kinh tế và công nghệ đồng loạt đưa tin.
+
+Một số bài báo nhấn mạnh rằng Summer Auto đã không lựa chọn ngôi sao bên ngoài, mà đưa chính người sáng lập tập đoàn và phu nhân lên màn ảnh.
+
+Thanh Thảo và đội ngũ marketing nhận được những báo cáo đầu tiên về hiệu quả truyền thông.
+
+Chiến dịch vượt xa kỳ vọng về mức độ chú ý, nhưng chưa cần đưa ra những con số doanh số xe thiếu cơ sở.
+
+### PHẦN 40 – TIẾNG ĐÀN TRONG NGÔI NHÀ SƯỜN ĐỒI
+
+Trở lại cuộc sống thường ngày của Phong Vũ và Nhược Vũ.
+
+Hai người cùng xem một số bài báo và bình luận về quảng cáo.
+
+Nhược Vũ cảm thấy thú vị khi nhiều người khen cảnh chơi cổ cầm, thậm chí đề nghị hai vợ chồng đóng phim.
+
+Phong Vũ cũng bật cười trước những lời bình luận về cảnh anh ôm kiếm trên mái nhà.
+
+Anh đánh giá cao công việc của đạo diễn và đoàn sản xuất, cho rằng họ đã biết cách khai thác những ưu điểm của hai người.
+
+Thanh Trúc và Thanh Thảo báo tin chiến dịch đạt hiệu quả truyền thông rất tốt.
+
+Nhược Vũ vui vì mình đã có thể đóng góp một phần cho Summer Auto.
+
+Cô cũng bắt đầu chuẩn bị tham gia những công việc tại Ban Văn hóa doanh nghiệp, đặc biệt là cuộc tổng kết nghiên cứu kéo dài hơn ba năm sắp được tổ chức.
+
+Phong Vũ vẫn duy trì cuộc sống tu luyện và nghiên cứu Đại Đạo.
+
+Anh nhận thấy danh tiếng tăng lên sau quảng cáo cũng kéo theo sự quan tâm đến những thông tin khác về mình. Website TheGreatDao.org bắt đầu có thêm những lượt truy cập mới.
+
+Phong Vũ không cần cố ý thúc đẩy điều đó. Anh chỉ cảm thấy nếu có thêm người biết đến tủ sách và tự nguyện tìm đọc thì cũng là một việc tốt.
+
+Buổi chiều, Nhược Vũ ngồi chơi cổ cầm trong nhà.
+
+Phong Vũ đang đọc sách, nghe tiếng đàn thì ngẩng đầu nhìn sang.
+
+Hai người trò chuyện về vài việc thường ngày, về công việc sắp tới của Nhược Vũ và những cuốn sách còn thiếu trong thư phòng.
+
+Hồi truyện kết thúc bằng khung cảnh bình yên trong ngôi nhà sườn đồi, không cần lời tổng kết triết lý.
+
+## II. Kiểm soát các mốc quan trọng
+
+| Nội dung                                             | Phần  |
+| ---------------------------------------------------- | ----- |
+| Tuyết Mai bắt đầu suy ngẫm về cuộc hôn nhân          | 4     |
+| Ba người cùng đưa Tiểu Hoa đi chơi                   | 5     |
+| Tuyết Mai suy nghĩ về nhân duyên, nghiệp quả         | 7     |
+| Tuyết Mai nhận ra vẫn còn tình cảm với Bối Minh      | 8     |
+| Phong Vũ – Nhược Vũ bắt đầu tuyến truyện             | 11    |
+| Giới thiệu trụ sở Summer Light và 120.000+ nhân viên | 13    |
+| Nhược Vũ gặp Thanh Trúc, Thanh Thảo                  | 14    |
+| Đặt vấn đề tổng kết văn hóa doanh nghiệp cho Hồi 75  | 15    |
+| Summer Auto giới thiệu kế hoạch mở rộng              | 16–17 |
+| Wind S9 và ba ứng viên đại diện                      | 18    |
+| Thanh Thảo đề xuất vợ chồng Phong Vũ                 | 19    |
+| Hai vợ chồng đồng ý                                  | 20    |
+| Tuyết Mai quyết định buông bỏ oán trách              | 22–25 |
+| Tuyết Mai đồng ý trở về                              | 26    |
+| Gia đình ba người đoàn tụ                            | 28–30 |
+| Chuẩn bị quảng cáo Wind S9                           | 31–32 |
+| Quay phân cảnh hiện đại                              | 33    |
+| Nhược Vũ chơi cổ cầm                                 | 34    |
+| Phong Vũ ôm kiếm trên mái nhà                        | 35    |
+| Hoàn thiện phim quảng cáo                            | 36–37 |
+| Công bố quảng cáo                                    | 38    |
+| Video gây sốt trên các nền tảng                      | 39    |
+| Kết thúc hồi, mở hướng sang Hồi 75                   | 40    |
+
+## III. Các nguyên tắc cần giữ khi triển khai thành chính văn
+
+Về Tuyết Mai: Không nên biến quá trình thoát mê tình thành một bài giảng đạo lý. Những nhận thức của cô cần xuất phát từ tình huống cụ thể, ký ức, những cuộc trò chuyện với Bối Minh và sinh hoạt cùng Tiểu Hoa. Cô vẫn còn tình cảm với Bối Minh, nhưng không còn muốn dùng oán trách để ràng buộc anh.
+
+Về Bối Minh: Anh không được miễn trách nhiệm chỉ vì Tú Anh từng lừa dối mình. Anh cần thừa nhận sai lầm và thể hiện sự thay đổi qua hành động lâu dài.
+
+Về Nhược Vũ: Cô không đến Summer Light để trở thành lãnh đạo, cũng không lập tức có thành tựu trong nghiên cứu văn hóa doanh nghiệp. Cô muốn học hỏi, làm việc và đóng góp. Việc trở thành đại diện thương hiệu là cơ hội bất ngờ, không phải mục đích ban đầu.
+
+Về Thanh Thảo: Cô là người phụ trách Ban Văn hóa doanh nghiệp và là người chủ động đề xuất vợ chồng Phong Vũ làm đại diện Summer Auto. Không chuyển sáng kiến ấy sang Phong Vũ hoặc Thanh Trúc.
+
+Về Phong Vũ: Anh không né tránh danh tiếng, cũng không theo đuổi danh tiếng. Anh đồng ý làm đại diện vì thấy phù hợp và có ích. Việc TheGreatDao.org có thể được nhiều người biết đến hơn là một lợi ích bổ sung mà anh tự nhận ra.
+
+Về Summer Light: Trụ sở rộng 36 ha, có ba tầng hầm đỗ xe cho nhân sự làm việc tại đây; trên mặt đất chỉ có vài trăm chỗ dành cho khách. Tổng nhân sự tập đoàn trên 120.000 người, không đồng nghĩa tất cả làm việc tại trụ sở.
+
+Về Summer Auto: Công suất thiết kế 3,5 triệu xe/năm hiện tại và mục tiêu 6,5 triệu xe/năm sau khi xây thêm nhà máy không được viết thành doanh số. Mục tiêu hơn 10 triệu xe/năm vào năm thứ mười vẫn là mục tiêu chiến lược.
+
+Về quảng cáo Wind S9: Sức hút có hai lớp không thể tách rời: chất lượng hình ảnh, diễn xuất và khí chất; đồng thời thân phận thực sự của hai người. Chính sự kết hợp ấy mới khiến quảng cáo trở thành hiện tượng.
+
+Về văn hóa doanh nghiệp: Hồi 74 chỉ đặt vấn đề tổng kết sau hơn ba năm. Hồi 75 mới triển khai các kết quả, tranh luận và quyết định cụ thể.
+
+## IV. Hướng nối tiếp sang Hồi 75
+
+Hồi 74 kết thúc khi hai tuyến gia đình đều đã bước sang giai đoạn mới: Tuyết Mai trở về sống với Bối Minh và Tiểu Hoa; Phong Vũ – Nhược Vũ ổn định cuộc sống sau hôn lễ, đồng thời có thêm trải nghiệm mới khi cùng tham gia chiến dịch quảng cáo Summer Auto.
+
+Từ đây, Hồi 75 có thể tiếp nối tự nhiên bằng cuộc tổng kết hơn ba năm nghiên cứu văn hóa doanh nghiệp tại Summer Light.
+
+Nhược Vũ lúc ấy đã có thời gian bước đầu tìm hiểu công ty, nên có thể tham gia cuộc tổng kết với tư cách một thành viên mới, mang góc nhìn về văn hóa truyền thống và tu dưỡng đạo đức, nhưng không thay thế vai trò của Thanh Thảo.
+
+Bản V2.0 này giữ nguyên 40 phần, 10 cụm, hai tuyến 50/50 và chỉ có ba lần chuyển tuyến, đồng thời dành trọng tâm của Hồi 74 cho sự thay đổi của Tuyết Mai và hiện tượng quảng cáo Wind S9, thay vì đi sâu quá sớm vào văn hóa doanh nghiệp.
