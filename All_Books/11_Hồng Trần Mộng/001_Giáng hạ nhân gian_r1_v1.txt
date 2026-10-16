@@ -1,0 +1,423 @@
+# HỒNG TRẦN MỘNG
+
+## HỒI 001 – GIÁNG HẠ NHÂN GIAN
+
+Outline tái cấu trúc v2.0 · Dựa trên bản thảo hiện tại và những điều chỉnh đã thống nhất
+
+Tôi đề xuất giữ nguyên toàn bộ trục truyện chính của Hồi 001, nhưng tổ chức lại thành 4 cụm, 16 phần, trong đó hai cảnh ở Vô Cực Thiên được đào sâu nhất; tuyến nhân gian bổ sung một số tình tiết gia đình, hài hước và có tính điện ảnh.
+
+Bản thảo hiện tại khoảng 13.700 từ. Mục tiêu sau biên tập là 16.000–18.000 từ, tương đương khoảng 105–120 KB nếu giữ cách mã hóa TXT hiện tại. Không cần cố kéo dài hơn nếu nội dung đã trọn vẹn.
+
+Một nguyên tắc xuyên suốt: Hồi 001 cần có sự tương phản rõ rệt giữa thiên quốc thanh cao, trang nghiêm và cuộc sống nhân gian giản dị, sinh động. Cả hai đều phải hấp dẫn theo cách riêng.
+
+## Tổng quan cấu trúc
+
+| Cụm                      | Phần  | Nội dung                                          | Dung lượng dự kiến |
+| ------------------------ | ----- | ------------------------------------------------- | ------------------ |
+| I. Vô Cực Thiên          | 1–4   | Thanh Long, Nhược Vũ, tiên yến, Thiên luật        | 3.000–3.700 từ     |
+| II. Giáng hạ nhân gian   | 5–8   | Phong Vũ phàm nhân, rượu giả, bệnh viện, tỉnh lại | 3.500–4.000 từ     |
+| III. Một cuộc đời mới    | 9–12  | Gia đình, ngộ tính, văn học, nghi vấn về rượu     | 4.500–5.000 từ     |
+| IV. Mười tháng nhân gian | 13–16 | Trung Sơn Lĩnh, ôn thi, đời sống, kỳ thi mới      | 5.000–5.500 từ     |
+
+Các mức từ chỉ để cân đối nhịp truyện, không phải hạn mức bắt buộc.
+
+# CỤM I – VÔ CỰC THIÊN
+
+Phần 1–4 · Thiên quốc, động tình và giáng hạ
+
+Đây là cụm cần biên tập kỹ nhất. Không nên chỉ thêm lời thoại cho đủ độ dài, mà phải làm nổi bật tâm cảnh và địa vị của ba nhân vật chính.
+
+### PHẦN 1 – VÔ CỰC THIÊN
+
+Giữ phần lớn nội dung hiện tại, chỉnh văn phong và tiết chế miêu tả.
+
+- Mở đầu bằng toàn cảnh Vô Cực Thiên: núi non, tiên cung, mây lành, linh thú, các sinh mệnh có linh tính và đời sống thanh tịnh.
+- Giới thiệu các tiên nhân với cảnh giới, hình dáng và chức trách khác nhau. Thời gian đối với họ không giống người phàm.
+- Giới thiệu Vô Cực Đạo Chủ là vị đứng đầu thiên quốc. Ông có uy nghiêm, ít xuất hiện, nhưng không cần những lời khẳng định rằng ông toàn tri hoặc biết mọi cảnh giới trong vũ trụ.
+- Giới thiệu Thanh Long Đại Soái: một vị Võ thần có địa vị cao, dung mạo trẻ tuổi, thực lực mạnh mẽ, từng trải qua vô số năm tháng và nhiều trận chiến.
+- Thể hiện Thanh Long kính trên nhường dưới, không thích tranh hơn thua, có uy nghiêm nhưng không kiêu ngạo.
+- Giới thiệu Nhược Vũ Tiên Tử: thanh nhã, trầm tĩnh, yêu thích cổ cầm, có tâm cảnh riêng và không thường tham gia những việc tranh đấu.
+- Dẫn đến mối quan hệ lâu đời giữa Thanh Long và Nhược Vũ. Hai người đã quen biết rất lâu, thường đàm đạo và có sự đồng điệu đặc biệt.
+
+Điểm biên tập: Phần mở đầu không nên liệt kê quá nhiều cảnh vật hoặc thần thông. Sau một vài đoạn tạo không khí, cần sớm đưa Thanh Long và Nhược Vũ vào câu chuyện.
+
+### PHẦN 2 – TIÊN ÂM VÀ MỘT NIỆM TÌNH
+
+Phần bổ sung trọng tâm · Khoảng 800–1.200 từ
+
+Bối cảnh: Một ngày bình thường tại tiểu viện của Nhược Vũ Tiên Tử, trước khi xảy ra tiên yến.
+
+- Thanh Long Đại Soái đến thăm Nhược Vũ sau một thời gian thực hiện chức trách tại những thiên vực dưới quyền Vô Cực Thiên.
+- Nhược Vũ đang tấu cổ cầm. Nàng nhận ra Thanh Long đến, kết thúc khúc đàn rồi đứng dậy đón tiếp theo đúng lễ nghĩa.
+- Hai người thưởng trà và đàm đạo. Lời thoại trang trọng, thanh cao, không dùng những lời tán tỉnh phàm tục.
+- Nội dung đàm đạo có thể bắt đầu từ cầm đạo, sau đó chuyển sang một vài điều Thanh Long chứng kiến khi tuần du các thế giới phía dưới.
+- Thanh Long kể về một chuyện nhỏ của chúng sinh nhân gian khiến anh có chút suy ngẫm. Nhược Vũ đưa ra một cách nhìn khác, tinh tế nhưng không nhất thiết giống hoàn toàn với Thanh Long.
+- Qua đối thoại, thể hiện hai người có kiến giải sâu sắc, đồng thời biết tôn trọng ý kiến của nhau.
+
+Tầng tình cảm cần đào sâu:
+
+- Khi Thanh Long đến, Nhược Vũ cảm thấy vui hơn thường lệ. Nàng nhận ra mình mong chờ những cuộc gặp gỡ này.
+- Thanh Long cũng cảm thấy ở bên nàng rất dễ chịu, có một loại hạnh phúc mà anh hiếm khi cảm nhận trong những cuộc đàm đạo khác.
+- Trong một khoảnh khắc, ánh mắt hai người gặp nhau. Nhược Vũ hơi ngượng ngùng, hai má thoáng ửng hồng.
+- Thanh Long cũng cảm thấy tâm mình dao động, thậm chí nhịp tim có chút khác thường.
+- Hai người đều nhận ra cảm xúc ấy nhưng không nói ra. Cuộc trò chuyện vẫn giữ đúng lễ nghĩa.
+- Khi Thanh Long cáo từ, cả hai đều có chút lưu luyến. Nhược Vũ có thể mời anh khi nào rảnh lại đến thưởng trà, nghe đàn.
+
+Kết phần: Thanh Long rời tiểu viện. Nhược Vũ trở lại bên cây cổ cầm, nhưng một lúc sau mới tiếp tục gảy đàn.
+
+Không cần kết luận rằng hai người đã yêu nhau. Độc giả phải tự nhận ra qua những rung động kín đáo.
+
+Giới hạn thế giới quan: Hai người chỉ biết trực tiếp cảnh giới Vô Cực Thiên và những tầng thấp hơn. Không được để họ nói về sự vật thuộc cảnh giới cao hơn như thể đã từng chứng kiến.
+
+### PHẦN 3 – TIÊN YẾN VÀ BIẾN CỐ
+
+Giữ diễn biến chính của bản thảo, tăng chiều sâu tâm lý nhưng không mô tả trực diện sự việc phạm Thiên luật.
+
+- Vô Cực Thiên tổ chức tiên yến. Các vị tiên nhân tụ hội, thưởng thức tiên quả, tiên tửu và đàm đạo.
+- Thanh Long Đại Soái tham dự. Anh vốn không ham mê rượu, nhưng hôm ấy uống nhiều hơn thường lệ.
+- Trong cuộc trò chuyện, có thể một vị tiên hữu nhắc đến cầm đạo hoặc Nhược Vũ Tiên Tử, khiến Thanh Long bất giác nhớ lại cuộc gặp tại tiểu viện.
+- Tiên tửu khiến trạng thái thanh tỉnh vốn có của anh giảm đi phần nào, nhưng không phải nguyên nhân tạo ra tình cảm.
+- Khi tiên yến kết thúc, Thanh Long vốn định trở về nơi cư ngụ, cuối cùng lại đổi hướng đến tiểu viện của Nhược Vũ.
+- Nhược Vũ có chút bất ngờ khi anh đến vào giờ muộn, nhưng vẫn đón tiếp.
+- Cuộc trò chuyện bắt đầu với những lời hỏi thăm bình thường. Dần dần, sự gần gũi và tình cảm vốn được giữ kín trong lòng hai người bộc lộ rõ hơn.
+- Hai người cuối cùng vượt qua giới hạn mà các vị tiên nhân ở cảnh giới của họ phải giữ gìn.
+
+Cách viết: Không cần kể cụ thể hành vi xảy ra. Có thể dừng ở khoảnh khắc hai người không còn giữ được sự thanh tịnh vốn có, sau đó chuyển cảnh.
+
+- Sự việc tạo ra một biến hóa mà các vị tiên nhân có đủ cảnh giới tại Vô Cực Thiên cảm ứng được.
+- Sự việc được điều tra.
+- Thanh Long và Nhược Vũ được triệu đến tiên cung.
+
+Điểm cần giữ: Hai người đều có tình cảm và đều có trách nhiệm đối với hành vi của mình. Không để tiên tửu trở thành lý do miễn trừ trách nhiệm.
+
+### PHẦN 4 – THIÊN LUẬT VÀ PHÁN QUYẾT
+
+Phần bổ sung trọng tâm · Khoảng 700–1.000 từ
+
+Bối cảnh: Đại điện của Vô Cực Đạo Chủ.
+
+- Thanh Long và Nhược Vũ quỳ trước Đạo Chủ. Không khí trang nghiêm nhưng không cần tạo cảm giác một phiên xử hình sự của người phàm.
+- Vô Cực Đạo Chủ bình thản nhìn hai người. Ông không nổi giận, cũng không thể hiện sự thương xót theo cảm xúc phàm tục.
+- Đạo Chủ hỏi Thanh Long về việc giữ gìn bản tâm qua những năm tháng tu luyện và thực hiện chức trách.
+- Thanh Long thừa nhận đã để một niệm tình vượt khỏi giới hạn mà mình vốn phải giữ.
+- Nhược Vũ cũng tự mình nhận trách nhiệm, không để Thanh Long nhận hết lỗi thay nàng.
+- Có thể để Đạo Chủ hỏi thêm một hoặc hai câu nhằm làm rõ hai người có thực sự nhận thức được việc mình đã làm hay không.
+- Hai người không biện giải, không đổ lỗi cho hoàn cảnh hoặc tiên tửu.
+- Đạo Chủ tuyên phán quyết: giáng hạ hai người xuống nhân gian, làm phàm nhân một kiếp.
+- Thanh Long và Nhược Vũ tiếp nhận phán quyết, giữ đúng lễ nghĩa.
+
+Nguyên tắc đối thoại:
+
+Vô Cực Đạo Chủ nói ít nhưng mỗi câu có mục đích. Thanh Long trả lời ngay thẳng, trang trọng. Nhược Vũ thanh tĩnh, có chính kiến riêng.
+
+Không biến phiên xét xử thành cuộc tranh luận tình yêu đúng hay sai. Không để Đạo Chủ giảng giải dài dòng về Thiên luật hoặc tiết lộ những an bài thuộc Hồi 80.
+
+Kết cụm:
+
+- Vô Cực Đạo Chủ thực hiện việc giáng hạ.
+- Thần thông, pháp lực và ký ức tiên giới của hai người bị phong ấn.
+- Hai nguyên thần rời khỏi Vô Cực Thiên, tiến vào những an bài ở nhân gian.
+- Chuyển cảnh sang Lam Tinh.
+
+Không tiết lộ hai người sẽ trở thành ai hoặc khi nào gặp lại.
+
+# CỤM II – GIÁNG HẠ NHÂN GIAN
+
+Phần 5–8 · Trần Phong Vũ trước và sau biến cố
+
+### PHẦN 5 – GIẤC MỘNG CỦA CHÀNG TRAI MƯỜI TÁM TUỔI
+
+Giữ nền tảng nhân vật và gia cảnh hiện tại.
+
+- Giới thiệu Trần Phong Vũ, mười tám tuổi, sống tại một vùng quê miền núi phía tây Trung Châu quốc.
+- Gia đình làm nông, kinh tế không dư dả. Cha mẹ chăm chỉ, sống giản dị.
+- Em gái Tuyết Mai nhỏ hơn Phong Vũ năm tuổi, khoảng mười ba tuổi, đang học trung học cơ sở.
+- Phong Vũ hiền lành, học lực bình thường, không có tài năng đặc biệt nổi bật.
+- Cậu có tham vọng trở thành doanh nhân lớn, sau đó tham gia chính trị, mong muốn có đủ ảnh hưởng để thay đổi đất nước.
+- Giữ cuộc trò chuyện giữa Phong Vũ và cha về chuyện làm ăn, làm chính trị.
+- Đào sâu một chút sự khác biệt giữa giấc mơ lớn và khả năng thực tế: cậu có nhiều ý tưởng nhưng chưa biết bắt đầu từ đâu.
+- Cha không chế giễu con, chỉ nhắc cậu trước mắt phải học hành cho tốt.
+
+Bổ sung nhẹ: Một chi tiết sinh hoạt như Phong Vũ giúp cha sửa dụng cụ làm nông hoặc ngồi tính toán chuyện kinh doanh trên giấy nhưng không biết cần bao nhiêu vốn.
+
+Tình tiết có chút hóm hỉnh, không cần biến Phong Vũ thành một người ngốc nghếch.
+
+### PHẦN 6 – KỲ THI THẤT VỌNG VÀ BUỔI TỤ HỌP
+
+- Phong Vũ hoàn thành kỳ thi đại học đầu tiên, tự biết kết quả khó đạt yêu cầu.
+- Cha mẹ không trách mắng. Người cha nói nếu năm nay không đỗ thì năm sau có thể thi lại.
+- Bạn bè cùng lớp bàn chuyện tương lai, trường đại học, thành phố và công việc.
+- Phong Vũ tham gia buổi tụ họp chia tay cùng nhóm bạn.
+- Giữ không khí vui vẻ, trêu đùa của những thanh niên vừa thi xong.
+- Một người hỏi Phong Vũ định làm gì; cậu nói muốn làm giàu rồi tham gia chính trị.
+- Bạn bè trêu cậu mơ mộng, Phong Vũ cũng vui vẻ đáp lại.
+- Những chai rượu được mua từ cửa hàng trong thị trấn thực chất là rượu giả, nhưng nhóm bạn không biết.
+- Sau khi uống, mọi người lần lượt có biểu hiện bất thường. Phong Vũ chịu ảnh hưởng nặng nhất.
+- Cả nhóm được đưa đến bệnh viện thị trấn.
+
+Cách viết: Phần đầu sinh động, có tiếng cười; phần cuối chuyển nhanh sang sự hỗn loạn khi mọi người phát hiện có chuyện không ổn.
+
+Không cần miêu tả quá chi tiết những biểu hiện ngộ độc.
+
+### PHẦN 7 – BA NGÀY HÔN MÊ
+
+Giữ đúng cơ chế đã thống nhất.
+
+- Các thanh niên cùng uống rượu đều được đưa đến bệnh viện.
+- Những người khác lần lượt tỉnh lại, sức khỏe ổn định và được xuất viện.
+- Riêng Phong Vũ vẫn nằm hôn mê, trông như đang ngủ say.
+- Bệnh viện thị trấn có điều kiện kiểm tra và trình độ chuyên môn hạn chế, chưa xác định được vì sao cậu lâu tỉnh hơn những người khác.
+- Cha mẹ và Tuyết Mai túc trực, lo lắng.
+- Có thể bổ sung cảnh một người bạn đã tỉnh lại đến thăm Phong Vũ trước khi xuất viện, cảm thấy áy náy vì cả nhóm cùng uống rượu mà chỉ mình cậu vẫn chưa tỉnh.
+- Người cha ít nói, cố giữ bình tĩnh. Người mẹ thường xuyên hỏi bác sĩ về tình trạng con trai.
+- Tuyết Mai lúc đầu khóc nhiều, về sau chỉ lặng lẽ ngồi chờ.
+
+Khoảnh khắc chuyển sinh:
+
+- Cuối ngày thứ ba, sinh mệnh Phong Vũ phàm nhân thực sự chấm dứt.
+- Chỉ vài giây sau, nguyên thần Thanh Long Đại Soái nhập vào thân thể ấy.
+- Khoảng gián đoạn cực ngắn, không ai trong bệnh viện nhận ra.
+- Không có bác sĩ tuyên bố Phong Vũ đã chết, không có cảnh cấp cứu hồi sinh gây chấn động.
+- Người kể chuyện cho độc giả biết sự thật, nhưng không diễn giải bằng những thuật ngữ y học không cần thiết.
+
+Kết phần: Nguyên thần Thanh Long đã giáng hạ, ký ức và pháp lực tiên giới vẫn bị phong ấn.
+
+### PHẦN 8 – MỘT SINH MỆNH MỚI
+
+- Thanh Long tiếp nhận thân thể và ký ức mười tám năm của Trần Phong Vũ.
+- Đối với người vừa tỉnh lại, những ký ức phàm nhân hoàn toàn tự nhiên, giống như chính cuộc đời mình.
+- Trong trạng thái mơ hồ, cậu thấy một vài hình ảnh tiên giới: mây trắng, đại điện, bóng người áo trắng, bóng dáng một tiên tử.
+- Những hình ảnh không rõ ràng và nhanh chóng tan biến.
+- Phong Vũ mở mắt trong phòng bệnh.
+- Mẹ cậu là người đầu tiên nhận ra con trai đã tỉnh, vui mừng gọi người nhà.
+- Cha và Tuyết Mai đến bên giường. Tuyết Mai vừa mừng vừa trách anh đã khiến cả nhà lo lắng.
+- Phong Vũ vẫn nhớ rõ cha mẹ, em gái, bạn bè, trường học và cuộc sống trước đây.
+- Bác sĩ đến kiểm tra, hỏi những câu cơ bản. Cậu trả lời bình thường.
+- Bác sĩ tiếp tục theo dõi, nhận thấy tình trạng sức khỏe ổn định.
+- Không ai nghi ngờ thân phận của cậu đã thay đổi.
+
+Tình tiết đời thường: Khi mẹ hỏi Phong Vũ muốn ăn gì, cậu nói mình đói. Cả nhà cuối cùng có thể thở phào, Tuyết Mai lại bắt đầu trêu anh.
+
+Kết phần: Đêm khuya, Phong Vũ nhớ lại giấc mơ kỳ lạ nhưng không thể hiểu được. Cậu tự cho rằng đó là những hình ảnh xuất hiện trong thời gian hôn mê.
+
+# CỤM III – MỘT CUỘC ĐỜI MỚI
+
+Phần 9–12 · Gia đình, ngộ tính và những nghi vấn
+
+### PHẦN 9 – TRỞ VỀ NHÀ
+
+Giữ nội dung hiện tại, tăng một chút tính đời thường.
+
+- Phong Vũ được xuất viện sau thời gian theo dõi.
+- Cha mẹ đưa cậu trở về quê.
+- Trên đường về, cậu nhìn cảnh vật quen thuộc bằng một cảm giác mới mẻ.
+- Gia đình trở lại căn nhà ba gian mái ngói, cuộc sống sinh hoạt dần bình thường.
+- Người mẹ vẫn lo con chưa khỏe, không muốn cậu làm việc nặng.
+- Tuyết Mai tranh thủ trêu anh chuyện uống rượu phải nằm viện.
+- Phong Vũ đùa lại, hai anh em cãi nhau vài câu khiến mẹ phải nhắc nhở.
+
+Cảnh bữa cơm gia đình:
+
+- Mẹ nấu những món quen thuộc, liên tục gắp thức ăn cho Phong Vũ.
+- Tuyết Mai giả vờ bất bình vì mẹ thiên vị anh trai.
+- Phong Vũ đáp lại bằng một câu hóm hỉnh, cả nhà bật cười.
+- Người cha ít nói nhưng tâm trạng nhẹ nhõm hơn những ngày ở bệnh viện.
+- Sau bữa cơm, Phong Vũ ra hiên ngồi, Tuyết Mai đến hỏi thăm rồi dặn anh đừng uống rượu nữa.
+
+Lưu ý: Bản thảo đã có bữa cơm và màn trêu đùa tương tự. Chỉ cần mở rộng, chỉnh nhịp và làm lời thoại tự nhiên hơn, không tạo thêm một bữa cơm trùng chức năng.
+
+- Phong Vũ nghĩ về kỳ thi không thành công và quyết định ôn tập để thi lại.
+- Cậu không còn quá buồn bã hay tự ti như trước, nhưng cũng chưa biết năng lực của mình đã thay đổi đến mức nào.
+
+### PHẦN 10 – NGỘ TÍNH KHÁC THƯỜNG
+
+Giữ tuyến khám phá trí tuệ, tránh kéo dài bằng nhiều bài tập tương tự.
+
+- Phong Vũ bắt đầu ôn lại những môn từng khiến mình gặp khó khăn.
+- Khi đọc sách Toán, cậu bất ngờ phát hiện mình hiểu được những nguyên lý trước đây phải suy nghĩ rất lâu.
+- Cậu thử giải những bài toán khó hơn và nhận thấy khả năng suy luận đã thay đổi.
+- Tiếp tục kiểm tra với Vật lý, Hóa học và Sinh học.
+- Khả năng ghi nhớ cũng tốt hơn, nhưng quan trọng hơn là cậu có thể kết nối những kiến thức từng rời rạc thành một hệ thống.
+- Phong Vũ vừa ngạc nhiên vừa vui mừng, nhưng không vội cho rằng mình đã trở thành thiên tài.
+
+Bổ sung cảnh Tuyết Mai thử tài anh trai:
+
+- Tuyết Mai thấy anh trai liên tục ngồi học, cảm thấy tò mò.
+- Cô bé mang đến một bài toán đang học, ban đầu chỉ định nhờ anh giải.
+- Phong Vũ giải thích rất dễ hiểu, khiến Tuyết Mai ngạc nhiên.
+- Cô bé nghi ngờ anh đã xem trước đáp án hoặc học thuộc lời giải.
+- Phong Vũ đùa rằng nếu trước đây mình có bản lĩnh như vậy thì đã không phải ở nhà ôn thi lại.
+- Tuyết Mai không chịu thua, tiếp tục hỏi một câu khác.
+- Phong Vũ kiên nhẫn giải thích, hai anh em vừa học vừa trêu đùa.
+
+Cảnh này có thể thay thế một phần những đoạn Phong Vũ tự kiểm tra năng lực quá dài.
+
+### PHẦN 11 – NHỮNG TRANG SÁCH KHÁC TRƯỚC
+
+- Phong Vũ tiếp tục đọc Văn học và những tác phẩm cổ điển.
+- Cậu nhận ra khả năng cảm thụ văn chương cũng thay đổi, không chỉ trí nhớ hay tư duy logic.
+- Những bài thơ, câu chuyện từng thấy bình thường giờ khiến cậu hiểu thêm về tình cảm, nhân sinh và hoàn cảnh của nhân vật.
+- Giữ cảnh đọc thơ dưới ánh trăng, nhưng biên tập gọn và tự nhiên hơn.
+- Phong Vũ suy ngẫm về những điều mình từng coi trọng: thành tích, danh lợi, lời khen chê, giấc mơ làm giàu và tham gia chính trị.
+- Cậu không lập tức phủ nhận những khát vọng ấy. Chỉ là bắt đầu nhìn chúng bằng một thái độ bình tĩnh hơn.
+- Qua việc đọc sách, cậu thấy thế giới có nhiều điều đáng tìm hiểu hơn những kiến thức phục vụ kỳ thi.
+
+Điểm cần tránh: Không để Phong Vũ đột nhiên nói những đạo lý giống một vị thần tiên đã nhớ lại tiền kiếp. Cậu vẫn là một thanh niên mười tám tuổi, chỉ có ngộ tính và khả năng cảm thụ khác thường.
+
+### PHẦN 12 – BÍ ẨN CỦA CHAI RƯỢU
+
+Giữ nguyên dụng ý hiểu lầm hài hước giữa Phong Vũ và ông chủ cửa hàng.
+
+- Sau khi kiểm chứng năng lực học tập, Phong Vũ bắt đầu thắc mắc vì sao mình thay đổi.
+- Cậu nghĩ đến những khả năng như ảnh hưởng của rượu, thời gian hôn mê hoặc một sự biến đổi nào đó trong não bộ.
+- Cậu không có bằng chứng cho bất kỳ giả thuyết nào.
+- Nhớ đến loại rượu đã uống, Phong Vũ quyết định đến cửa hàng hỏi thăm.
+- Cậu muốn tìm hiểu xem trong rượu có thành phần gì đặc biệt, thậm chí muốn mua thêm một chai cùng loại để nghiên cứu.
+- Ông chủ cửa hàng biết lô rượu đó là rượu giả. Khi thấy Phong Vũ đến, ông ta tưởng cậu định truy cứu trách nhiệm.
+- Phong Vũ càng hỏi về nguồn gốc và thành phần rượu, ông chủ càng lo lắng.
+- Ông chủ nói loại rượu ấy đã hết, không rõ bao giờ mới nhập thêm.
+- Phong Vũ thấy thái độ ông ta hơi kỳ lạ nhưng không có căn cứ để nghi ngờ điều gì cụ thể.
+- Cậu đành ra về.
+
+Góc nhìn ông chủ:
+
+- Sau khi Phong Vũ rời đi, ông chủ thở phào.
+- Độc giả biết ông ta đã vội vàng hủy bỏ lô rượu giả vì sợ bị liên lụy.
+- Ông ta tưởng mình vừa thoát khỏi một rắc rối lớn.
+- Trong khi đó, Phong Vũ vẫn nghĩ rằng có lẽ chai rượu chứa một thành phần bí ẩn nào đó.
+
+Kết phần: Phong Vũ tạm gác chuyện này, tập trung vào kỳ thi và những điều muốn tìm hiểu về thế giới.
+
+Không phát triển thành vụ điều tra rượu giả, không để Phong Vũ phát hiện sự thật.
+
+# CỤM IV – MƯỜI THÁNG NHÂN GIAN
+
+Phần 13–16 · Tri thức, đời sống và kỳ thi đại học lần thứ hai
+
+### PHẦN 13 – TRUNG SƠN LĨNH VÀ VẤN THIÊN ĐỈNH
+
+- Trong một buổi tối đọc sách Địa lý, Phong Vũ mở bản đồ Lam Tinh.
+- Cậu quan sát hai đại lục Đông Châu và Tây Châu, những đại dương và các vùng lãnh thổ rộng lớn.
+- Cậu nhận ra mình trước đây chủ yếu học địa lý để làm bài thi, chưa thực sự quan tâm đến thế giới.
+- Ánh mắt cậu dừng lại ở Trung Sơn Lĩnh, dãy núi khổng lồ gần đường xích đạo trên Đông Châu.
+- Giới thiệu địa hình hiểm trở, nhiều vùng chưa được con người khảo sát đầy đủ, các quốc gia xung quanh.
+- Phong Vũ đọc về Vấn Thiên Đỉnh, ngọn núi cao hơn 13.000 mét.
+- Cậu kinh ngạc trước độ cao và sự hùng vĩ của nó.
+- Nhớ lại những truyền thuyết từng nghe khi còn nhỏ về Trung Sơn Lĩnh, đạo sĩ và những người tu hành.
+- Cậu nảy sinh mong muốn một ngày nào đó có thể tận mắt đến thăm.
+
+Lưu ý: Chỉ giới thiệu thông tin mà Phong Vũ có thể biết qua sách báo và lời kể. Không tiết lộ những bí mật tu luyện của Trung Sơn Lĩnh ở giai đoạn này.
+
+### PHẦN 14 – NHỮNG NGÀY BÌNH DỊ
+
+Tăng nhịp đời sống và sự hóm hỉnh, không chỉ kể tóm tắt mười tháng.
+
+- Phong Vũ xây dựng thời gian biểu: học tập, giúp cha mẹ làm nông, tập thể dục và đọc sách.
+- Cậu dậy sớm hơn trước, đôi khi cùng cha ra đồng.
+- Trong một buổi làm việc, hai cha con trò chuyện về chuyện học hành và tương lai.
+- Người cha không đòi hỏi con phải trở thành người nổi tiếng hay giàu có; chỉ mong cậu có nghề nghiệp ổn định và sống đàng hoàng.
+- Phong Vũ lắng nghe, không tranh luận bằng những tham vọng lớn lao như trước.
+- Cậu tiếp tục đọc các tác phẩm cổ điển như Tây Du Ký, Phong Thần Diễn Nghĩa và truyện kiếm hiệp.
+- Những câu chuyện thần tiên, đạo sĩ và võ công khiến cậu tò mò về khả năng của con người.
+- Phong Vũ bắt đầu chạy bộ, tập thể dục và thử một số động tác võ thuật học được từ phim ảnh.
+- Tuyết Mai bắt gặp anh trai tập những động tác vụng về, liền trêu rằng anh chưa thi đỗ đại học đã muốn làm đại hiệp.
+- Phong Vũ đáp lại một cách hài hước, hai anh em cười đùa.
+
+Có thể bổ sung một cảnh bạn cũ đến thăm:
+
+- Một người bạn đã đi học đại học trở về quê nghỉ ngắn ngày.
+- Hai người trò chuyện về cuộc sống sinh viên.
+- Người bạn hỏi Phong Vũ ôn thi đến đâu, có định tiếp tục theo đuổi Đại học Thanh Châu hay không.
+- Phong Vũ trả lời bình tĩnh, không khoe khoang năng lực mới.
+- Bạn cũ ra về, Phong Vũ trở lại bàn học.
+
+Cảnh này chỉ nên sử dụng nếu cần tạo thêm một cột mốc thời gian. Không bắt buộc bổ sung.
+
+### PHẦN 15 – BÀI HỌC TỪ CHIẾC MÁY CASSETTE
+
+Giữ tuyến luyện tiếng Anh vì nó thể hiện một giới hạn thực tế của năng lực mới.
+
+- Phong Vũ tiến bộ nhanh ở hầu hết các môn học.
+- Tuy nhiên, cậu nhận ra khả năng đọc hiểu tiếng Anh tốt không đồng nghĩa với khả năng nghe và nói tốt.
+- Khi nghe băng cassette, cậu vẫn khó phân biệt những âm nối, âm lược và cách phát âm tự nhiên.
+- Ban đầu, Phong Vũ ngạc nhiên vì đây là lĩnh vực không thể chỉ dựa vào trí nhớ hoặc suy luận.
+- Cậu đến trường cũ, hỏi mượn giáo viên tiếng Anh những cuộn băng luyện nghe và chiếc máy cassette.
+- Thầy giáo vui vẻ cho mượn, nhắc cậu giữ gìn cẩn thận.
+- Phong Vũ bắt đầu luyện nghe thường xuyên.
+- Qua thời gian, cậu dần nghe được những đoạn hội thoại dài hơn, hiểu rõ hơn cách phát âm.
+- Có thể thêm một tình tiết hóm hỉnh: Tuyết Mai nghe anh trai liên tục phát đi phát lại một đoạn tiếng Anh, đến mức cô bé cũng thuộc lòng vài câu dù chẳng hiểu nghĩa.
+- Một hôm, Phong Vũ nghe được gần như trọn vẹn đoạn hội thoại mà không cần nhìn sách.
+- Cậu vui mừng vì nhận ra sự tiến bộ đến từ quá trình luyện tập thực tế.
+
+Ý nghĩa: Phong Vũ có ngộ tính vượt trội nhưng không phải mọi kỹ năng đều tự nhiên thành thạo. Cậu vẫn phải học, phải luyện và tích lũy kinh nghiệm.
+
+Biên tập: Rút bớt những đoạn lặp lại quá trình bật băng, dừng, tua lại, nghe thêm lần nữa. Chỉ giữ một vài khoảnh khắc đại diện cho sự tiến bộ.
+
+### PHẦN 16 – ĐẠI HỌC THANH CHÂU
+
+Giữ kết thúc hiện tại, bổ sung một chút không khí trước kỳ thi.
+
+- Mười tháng trôi qua, kỳ thi đại học lần thứ hai đến gần.
+- Phong Vũ đã nắm vững phần lớn kiến thức phổ thông.
+- Cậu không còn cảm giác bất an như năm trước.
+- Khi đăng ký nguyện vọng, cậu lựa chọn Đại học Thanh Châu, một trong những trường đại học danh tiếng nhất Trung Châu quốc, tọa lạc tại Bắc Đô.
+- Cha mẹ biết đây là trường có điểm chuẩn cao, nhưng thấy con trai chuẩn bị nghiêm túc nên tôn trọng quyết định.
+- Tuyết Mai trêu rằng nếu anh đỗ, sau này cô bé sẽ có một người anh sinh viên trường danh tiếng để khoe với bạn bè.
+- Phong Vũ đùa rằng trước mắt cô bé nên lo bài kiểm tra của mình đã.
+- Gia đình chuẩn bị hành lý và những thứ cần thiết để Phong Vũ đi thi.
+- Đêm trước kỳ thi, cậu ngủ sớm.
+
+Giấc mơ kết hồi:
+
+- Phong Vũ lại mơ thấy những tầng mây trắng và một không gian rộng lớn.
+- Lần này xuất hiện một bóng người áo trắng, dáng vẻ thanh tú.
+- Cậu không nhìn rõ khuôn mặt, cũng không biết người ấy là ai.
+- Tuy nhiên, trong lòng cậu có một cảm giác quen thuộc và gần gũi khó giải thích.
+- Cậu muốn tiến lại gần nhưng không thể.
+- Giấc mơ tan biến, Phong Vũ tỉnh dậy trong đêm.
+- Cậu nhớ lại hình bóng ấy một lúc, rồi tự nhủ ngày mai còn phải tham dự kỳ thi.
+- Cậu nhắm mắt ngủ tiếp.
+
+Kết hồi: Giữ sự kết hợp giữa mục tiêu rất thực tế — thi vào Đại học Thanh Châu — và bí ẩn chưa được giải đáp về Nhược Vũ Tiên Tử.
+
+Không để Phong Vũ nhận ra nàng hoặc nhớ lại thân phận Thanh Long Đại Soái.
+
+## Các điều chỉnh biên tập áp dụng cho toàn hồi
+
+| Nội dung              | Yêu cầu                                                                                          |
+| --------------------- | ------------------------------------------------------------------------------------------------ |
+| Văn phong             | Viết thành các đoạn văn liền mạch, hạn chế câu ngắn đứng riêng liên tiếp                         |
+| Đối thoại             | Dùng dấu gạch ngang dài `—`; lời thoại tự nhiên, phù hợp tuổi tác, thân phận và hoàn cảnh        |
+| Thiên giới            | Trang nghiêm, thanh cao, không dùng ngôn ngữ tình cảm phàm tục quá mức                           |
+| Tâm cảnh thần tiên    | Có thể động tình, hạnh phúc, đỏ mặt, tim đập nhanh nhưng vẫn giữ lễ nghĩa trong giao tiếp        |
+| Giới hạn nhận thức    | Sinh mệnh chỉ trực tiếp biết cảnh giới của mình và thấp hơn                                      |
+| Vô Cực Đạo Chủ        | Không nổi giận, không thuyết giáo dài, không tiết lộ an bài sâu xa                               |
+| Phong Vũ phàm nhân    | Trước biến cố học lực bình thường, có tham vọng nhưng chưa có năng lực tương xứng                |
+| Phong Vũ sau giáng hạ | Ngộ tính vượt trội, vẫn giữ ký ức và quan hệ gia đình, không tự biết thân phận tiên giới         |
+| Bệnh viện             | Chỉ ghi nhận hôn mê kéo dài; không ai phát hiện sinh mệnh cũ đã chết trong vài giây              |
+| Rượu giả              | Giữ hiểu lầm giữa Phong Vũ và ông chủ, không phát triển tuyến điều tra                           |
+| Gia đình              | Ấm áp, sinh động, có những câu đùa tự nhiên giữa Phong Vũ và Tuyết Mai                           |
+| Tính điện ảnh         | Thể hiện qua hành động, ánh mắt, cử chỉ và những chi tiết sinh hoạt thay vì lời bình của tác giả |
+| Kết hồi               | Dừng trước kỳ thi đại học lần thứ hai, giữ bí ẩn về người con gái áo trắng                       |
+
+## Những nội dung cần đặc biệt tránh khi viết lại
+
+Tôi muốn nhấn mạnh bốn giới hạn quan trọng.
+
+Thứ nhất, không biến cảnh Thanh Long – Nhược Vũ thành cuộc trò chuyện tình yêu của hai người phàm mặc trang phục thần tiên. Tình cảm của họ phải được thể hiện bằng sự tương kính, những rung động kín đáo và sự lưu luyến không nói thành lời.
+
+Thứ hai, không giải thích toàn bộ nguyên nhân sâu xa của việc giáng hạ. Hồi 001 chỉ trình bày những gì xảy ra ở Vô Cực Thiên và phán quyết của Đạo Chủ. Những an bài ở tầng sâu hơn vẫn là bí ẩn.
+
+Thứ ba, không biến Phong Vũ sau khi tỉnh lại thành một người hoàn toàn khác trong mắt gia đình. Cậu vẫn có ký ức, cách xưng hô, sự gần gũi với cha mẹ và nét hóm hỉnh khi trò chuyện cùng Tuyết Mai. Sự thay đổi chủ yếu bộc lộ qua ngộ tính, tư duy và tâm cảnh.
+
+Thứ tư, không kéo dài quá trình ôn thi bằng những đoạn liệt kê kiến thức. Những cảnh được bổ sung phải mang lại điều mới: một tương tác nhân vật, một thay đổi trong quan hệ, một thử thách thực tế hoặc một hình ảnh đáng nhớ.
+
+## Kết luận về phương án v2.0
+
+Theo tôi, cấu trúc 4 cụm – 16 phần là phù hợp cho Hồi 001. Nó giữ được tất cả những nội dung quan trọng của bản thảo, đồng thời tập trung đầu tư vào đúng những điểm chúng ta đã thảo luận.
+
+Phần đáng dành nhiều công sức nhất vẫn là Phần 2 – Tiên âm và một niệm tình và Phần 4 – Thiên luật và phán quyết. Hai phần này không nhất thiết dài nhất, nhưng phải có lời thoại và tâm cảnh thuyết phục nhất.
+
+Tuyến nhân gian chỉ cần thêm một vài cảnh đời thường đúng chỗ, nhất là những cuộc trò chuyện giữa Phong Vũ với Tuyết Mai, cha mẹ và bạn bè, để tạo sự cân bằng với không khí trang nghiêm của Vô Cực Thiên.
+
+Tôi đề xuất sử dụng outline này làm bản nền cho lần viết lại Hồi 001, đồng thời giữ quyền điều chỉnh độ dài từng phần theo chất lượng thực tế, thay vì buộc phải đạt đúng số từ dự kiến.
