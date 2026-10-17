@@ -787,3 +787,9 @@ NOTES:
 NOTES 2:
 
 - Về độ dài mỗi hồi, dự kiến bản cuối mỗi hồi dài trong khoảng 15~30.000 từ, chia thành khoảng 15~25 phần khác nhau. Tuy nhiên ở bản nháp đầu khi viết có thể dài quá 30.000 chút cũng được, để giai đoạn sau review kỹ sẽ cắt bớt.
+
+---
+
+NOTES 3:
+
+- Vì Phong Vũ lớn hơn các bạn học cùng khóa 1 tuổi (do anh thi trượt ĐH 1 năm trước đó), nên trong xưng hô với các bạn học nữ, anh sẽ cưng là "anh - em"
